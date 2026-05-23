@@ -20,55 +20,55 @@
 
 ## Entries
 
-### Be on one's way *[Expression]* *(collocation)*
+### Be on one's way *[Expression]* *(collocation)* — /ˈbi/ /ˈɑn/ /ˈwənz/ /wei/
 
 **Definition**: be going, moving, travelling.
 
 - When I met him in the street, I was on my way to my sister's house.
 - He is on her way to work/school.
 
-### Body language *[Noun]* *(collocation)*
+### Body language *[Noun]* *(collocation)* — /bɔdi/ /ˈlæŋgwɪdʒ/
 
 **Definition**: the way that someone communicates nonverbally by moving his/her body.
 
 - I could tell from her body language that she was very embarrassed.
 - He conveys information through his tone and body language.
 
-### Be there for *[Expression]* *(collocation)*
+### Be there for *[Expression]* *(collocation)* — /ˈbi/ /ðeз/ /fɔ:/
 
 **Definition**: to be available to provide support for someone or to make him/her feel better.
 
 - They haven't always been close, but he was there for her when she needed him.
 - Nobody was there for her when her boyfriend made her cry.
 
-### Bear in mind *[Expression]* *(collocation)*
+### Bear in mind *[Expression]* *(collocation)* — /beə/ /ˈɪn/ /maid/
 
 **Definition**: remember/ keep in mind.
 
 - Bear in mind that many poor people will need help.
 - Bear in mind what he said.
 
-### Be linked to *[Expression]* *(collocation)*
+### Be linked to *[Expression]* *(collocation)* — /ˈbi/ /ˈɫɪŋkt/ /ˈtu/
 
 **Definition**: has a connection with.
 
 - Agriculture is linked to economics and biology.
 
-### Blend into *[Expression]* *(collocation)*
+### Blend into *[Expression]* *(collocation)* — /ˈbɫɛnd/ /intu/
 
 **Definition**: to look very similar to the surrounding people or things, so that it is not easily noticeable.
 
 - His black coat blended into the darkness.
 - The turtle's shell blended into the mud, making it almost invisible.
 
-### Barrier *[Noun]*
+### Barrier *[Noun]* — /bæriə/
 
 **Definition**: a circumstance, problem or obstacle that prevents someone from doing something.
 
 - Not having transportation was a barrier to the girl enrolling in college courses.
 - Age should not be a barrier to gaining access to university.
 
-### Based on *[Expression]* *(collocation)*
+### Based on *[Expression]* *(collocation)* — /ˈbeɪst/ /ˈɑn/
 
 **Definition**: according to; to be the reason for something.
 
@@ -76,35 +76,35 @@
 - This story is based on a true story.
 - Her salary is based on commissions.
 
-### Breakthrough *[Noun]*
+### Breakthrough *[Noun]* — /ˈbɹeɪkˌθɹu/
 
 **Definition**: an important achievement or development that comes after a lot of hard work.
 
 - Scientists are claiming a major breakthrough in the fight against cancer.
 - A technical or scientific breakthrough is necessary.
 
-### To become obsolete *[Verb]* *(collocation)*
+### To become obsolete *[Verb]* *(collocation)* — /ˈtu/ /biˈkʌm/ /ˈɑbsəˌɫit/
 
 **Definition**: to be no longer used because something new has been invented.
 
 - The machinery has become obsolete.
 - The invention of email has made hand-written letters obsolete.
 
-### To be out of one's depth *[Expression]* *(collocation)*
+### To be out of one's depth *[Expression]* *(collocation)* — /ˈtu/ /ˈbi/ /ˈaʊt/ /ɔv/ /ˈwənz/ /depθ/
 
 **Definition**: something that exceeds one's knowledge or ability because it is too difficult.
 
 - The lesson was very hard, and he was completely out of his depth.
 - She felt totally out of her depth in her new job.
 
-### To become over-reliant on *[Expression]* *(collocation)*
+### To become over-reliant on *[Expression]* *(collocation)* — /ˈtu/ /biˈkʌm/ /ouvə/ /ɹiˈɫaɪənt/ /ˈɑn/
 
 **Definition**: to need something too much for your survival or success.
 
 - We have become over-reliant on technology so much so that we cannot even imagine living without it.
 - Nowadays, people become over-reliant on Facebook to fulfill their social needs.
 
-### To be for the better *[Expression]* *(collocation)*
+### To be for the better *[Expression]* *(collocation)* — /ˈtu/ /ˈbi/ /fɔ:/ /ˈðə/ /ˈbɛtɝ/
 
 **Definition**: in a way that improves the situation.
 

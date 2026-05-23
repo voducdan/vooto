@@ -20,20 +20,20 @@
 
 ## Entries
 
-### Computer age *[Noun]* *(collocation)*
+### Computer age *[Noun]* *(collocation)* — /kəmˈpju:tə/ /eidʤ/
 
 **Definition**: the period in modern history characterized by the development and widespread use of computers.
 
 - Living in a computer age has both many benefits and problems.
 - The rate of cybercrime is significantly increasing in the computer age.
 
-### Computer buff *[Noun]* *(collocation)*
+### Computer buff *[Noun]* *(collocation)* — /kəmˈpju:tə/ /ˈbəf/
 
 **Definition**: a user who is very enthusiastic about computers.
 
 - Tom is a computer buff, so when my laptop has problems I ask him for help.
 
-### Desktop PC *[Noun]* *(collocation)*
+### Desktop PC *[Noun]* *(collocation)* — /ˈdɛskˌtɑp/ /ˈpiˈsi/
 
 **Definition**: a personal computer that remains on a desk and it is designed to be used by one person at home or in an office.
 
@@ -41,110 +41,110 @@
 - This laptop computer is better than my desktop PC.
 - He loves his desktop PC and uses it more than his Laptop.
 
-### Gadget *[Noun]*
+### Gadget *[Noun]* — /ˈɡædʒət/
 
 **Definition**: a small device or machine that has a particular purpose, like a smartphone.
 
 - The most important gadget for me is a laptop.
 - This laptop is the most expensive gadget I have bought.
 
-### Geek *[Noun]*
+### Geek *[Noun]* — /ˈɡik/
 
 **Definition**: someone who is really interested in technology, especially computers.
 
 - My neighbor is a real geek so fixing the Internet connection was a breeze.
 - Jeannie is a real geek; she loves gaming.
 
-### Technology gadget *[Noun]* *(collocation)*
+### Technology gadget *[Noun]* *(collocation)* — /tekˈnɔlədʤi/ /ˈɡædʒət/
 
 **Definition**: a small device or machine that has a particular function.
 
 - My brother is interested in technology gadgets.
 
-### Subscriber *[Noun]*
+### Subscriber *[Noun]* — /səbsˈkɹaɪbɝ/
 
 **Definition**: someone who pays to regularly receive or access a service.
 
 - The number of subscribers who opted out increased last month.
 - All subscribers receive a FREE monthly e-book.
 
-### To utilize *[Verb]* *(collocation)*
+### To utilize *[Verb]* *(collocation)* — /ˈtu/ /ˈjutəˌɫaɪz/
 
 **Definition**: to use.
 
 - We had better utilize our natural resources.
 
-### Smiley *[Noun]*
+### Smiley *[Noun]* — /ˈsmaɪɫi/
 
 **Definition**: a symbol representing a smiling face that is used online by users.
 
 - I sent a smiley face in response to her message.
 - The boy captioned the picture with a smiley face.
 
-### Online *[Noun]*
+### Online *[Noun]* — /ˈɔnˌɫaɪn/
 
 **Definition**: on the Internet.
 
 - She loves chatting online in her free time.
 - All documentation can be found online for free.
 
-### Advances in technology *[Noun]* *(collocation)*
+### Advances in technology *[Noun]* *(collocation)* — /ədˈvænsəz/ /ˈɪn/ /tekˈnɔlədʤi/
 
 **Definition**: improvements, innovations or developments in technology.
 
 - There have been so many advances in technology over the last ten years, it's almost hard to keep up with all the changes.
 - Advances in technology can make running your company easier and less expensive.
 
-### Digital age *[Noun]* *(collocation)*
+### Digital age *[Noun]* *(collocation)* — /ˈdɪdʒətəɫ/ /eidʤ/
 
 **Definition**: a period when information is sent electronically.
 
 - We live in a digital age, where technology is intrinsic to our daily lives.
 - Do schools still need paper textbooks in a digital age?
 
-### Reliance [on] *[Noun]* *(collocation)*
+### Reliance [on] *[Noun]* *(collocation)* — /ɹiˈɫaɪəns/ /ˈɑn/
 
 **Definition**: a synonym for “dependence on”: the state of needing something or someone all the time in order to survive or be successful.
 
 - There is more reliance on computers in education nowadays.
 - Our reliance on smartphones and other devices will likely only continue to rise.
 
-### Innovation *[Noun]*
+### Innovation *[Noun]* — /ˌɪnəˈveɪʃən/
 
 **Definition**: a new method, idea, equipment etc.
 
 - The rapid pace of technological innovation.
 - They are responsible for many innovations in their field.
 
-### Digital camera *[Noun]* *(collocation)*
+### Digital camera *[Noun]* *(collocation)* — /ˈdɪdʒətəɫ/ /kæmərə/
 
 **Definition**: a camera that records and stores digital pictures and video in the form of electronic signals that can be looked at on a computer.
 
 - He is using a digital camera to take pictures.
 - This digital camera has a setting for white balance that you can adjust for the warmness of the light.
 
-### To back up files *[Verb]* *(collocation)*
+### To back up files *[Verb]* *(collocation)* — /ˈtu/ /bæk/ /Λp/ /ˈfaɪɫz/
 
 **Definition**: to make a copy of files on your computer in case of its problem.
 
 - He had to back up files on his computer because he was going to reinstall his operating system.
 - Weekly, I back up files on my computer to an external hard disk.
 
-### To be stuck behind a computer *[Expression]* *(collocation)*
+### To be stuck behind a computer *[Expression]* *(collocation)* — /ˈtu/ /ˈbi/ /ˈstək/ /biˈhaind/ /ˈeɪ/ /kəmˈpju:tə/
 
 **Definition**: to use computer for a long period of time.
 
 - I don't want my son stuck behind a computer; he should be outside playing.
 - A lot of students are stuck behind their computers all day.
 
-### To boot up *[Verb]* *(collocation)*
+### To boot up *[Verb]* *(collocation)* — /ˈtu/ /bu:t/ /Λp/
 
 **Definition**: to start a computer.
 
 - I booted up my computer and checked my email.
 - He woke up this morning and booted up his computer to begin working on his college homework.
 
-### To go online *[Verb]* *(collocation)*
+### To go online *[Verb]* *(collocation)* — /ˈtu/ /gou/ /ˈɔnˌɫaɪn/
 
 **Definition**: to use the Internet.
 

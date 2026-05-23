@@ -21,14 +21,14 @@
 
 ## Entries
 
-### Deteriorate *[Verb]*
+### Deteriorate *[Verb]* — /dɪˈtɪɹiɝˌeɪt/
 
 **Definition**: to become worse in character, quality, value, etc.
 
 - His health deteriorated rapidly, and he had to stop working in 2005.
 - Her health deteriorated quickly, and she soon died.
 
-### Draw attention *[Expression]* *(collocation)*
+### Draw attention *[Expression]* *(collocation)* — /dro:/ /əˈtenʃn/
 
 **Definition**: to make people notice something or someone.
 
@@ -36,7 +36,7 @@
 - He dropped his wallet on purpose to draw her attention.
 - Do not take someone or something lightly = take someone or something
 
-### seriously *[Expression]*
+### seriously *[Expression]* — /siəriəsli/
 
 **Definition**: regard something or someone as vital and worthy of attention.
 
@@ -44,76 +44,76 @@
 - Career choices can be incredibly difficult to make, and I do not take them lightly as a recruiter.
 - Getting married and choosing to have kids are two major decisions in your life, do not take them lightly.
 
-### Deplete *[Verb]*
+### Deplete *[Verb]* — /dɪˈpɫit/
 
 **Definition**: to reduce something in size or amount (by a large amount).
 
 - This expense has depleted our funds.
 - Our stock of food is greatly depleted.
 
-### Drawbacks *[Noun]*
+### Drawbacks *[Noun]* — /ˈdɹɔˌbæks/
 
 **Definition**: a disadvantage or problem.
 
 - The drawbacks of the new hospital are the location and the building costs.
 - There are certain drawbacks to life outside the city.
 
-### Date *[Noun]*
+### Date *[Noun]* — /deit/
 
 **Definition**: a romantic meeting with a male or female.
 
 - They decided to remain just good friends although they had several dates.
 
-### Do (or try) one's best *[Expression]* *(collocation)*
+### Do (or try) one's best *[Expression]* *(collocation)* — /ˈdu/ /ˈɔɹ/ /trai/ /ˈwənz/ /ˈbɛst/
 
 **Definition**: to try very hard/ do as much as possible to achieve something.
 
 - He has tried his best to repair the TV but still is not working.
 - I tried my best to get here on time.
 
-### Disregard *[Verb]*
+### Disregard *[Verb]* — /ˌdɪsɹɪˈɡɑɹd/
 
 **Definition**: to pay no attention to someone or something.
 
 - She disregarded him, and her words insulted him.
 - He completely disregarded me and threatened me.
 
-### Despite the fact that *[Expression]* *(collocation)*
+### Despite the fact that *[Expression]* *(collocation)* — /disˈpait/ /ˈðə/ /fækt/ /ðæt/
 
 **Definition**: even though.
 
 - Despite the fact that Tom studied very hard, he didn't pass the exam.
 - She is very slim despite the fact that she eats a lot.
 
-### Dusk *[Noun]*
+### Dusk *[Noun]* — /ˈdəsk/
 
 **Definition**: partial darkness; the time when the sun has gone down.
 
 - The sky at dusk is red.
 - The street lights come on at dusk and go off at dawn.
 
-### Depend on *[Verb]* *(collocation)*
+### Depend on *[Verb]* *(collocation)* — /dɪˈpɛnd/ /ˈɑn/
 
 **Definition**: to rely on someone for help.
 
 - She depends on her parents for her university fees.
 - He depends on his father for everything.
 
-### Distract *[Verb]*
+### Distract *[Verb]* — /dɪˈstɹækt/
 
 **Definition**: to prevent someone from concentrating on something.
 
 - I do not want to distract her mind from her lessons.
 - The music distracted him from his work.
 
-### Draw lots *[Verb]* *(collocation)*
+### Draw lots *[Verb]* *(collocation)* — /dro:/ /ˈɫɑts/
 
 **Definition**: to decide who will do something by picking cards, tickets or numbers from a container by chance.
 
 - We had to draw lots to decide who would go.
 - They drew lots to decide who should go first.
 
-### Desirable *[Adjective]*
+### Desirable *[Adjective]* — /dɪˈzaɪɝəbəɫ/
 
 **Definition**: that you would like to have or do; worth having or doing because it is useful, necessary.
 
@@ -121,7 +121,7 @@
 - Because he had a pleasant demeanor, he was a desirable friend.
 - The house has many desirable features, and lots of people would love to buy it.
 
-### Degradation *[Noun]*
+### Degradation *[Noun]* — /ˌdɛɡɹəˈdeɪʃən/
 
 **Definition**: the process of something becoming worse or damaged.
 
@@ -129,60 +129,60 @@
 - He was forced to suffer the degradations of poverty and abuse.
 - Some feel that violence on television has caused a degradation of society.
 
-### Disorder *[Noun]*
+### Disorder *[Noun]* — /dɪˈsɔɹdɝ/
 
 **Definition**: a problem or illness that causes someone's mind or body to stop functioning properly.
 
 - She suffers from a rare disorder of the liver, so many doctors had not seen a case like this before.
 - Respiratory disorders are affected by air pollution in cities.
 
-### Dependent *[Adjective]*
+### Dependent *[Adjective]* — /dɪˈpɛndənt/
 
 **Definition**: be relying on someone or something in order to survive or to be successful.
 
 - People cannot solely be dependent on luck to become successful.
 - Developing countries nowadays are heavily dependent on natural resources to drive their economy, especially in transportation and energy fields.
 
-### Disincentive *[Noun]*
+### Disincentive *[Noun]* — /ˌdɪsɪnˈsɛntɪv/
 
 **Definition**: something that makes someone less willing to do something (discourage people from doing something).
 
 - A sudden fall in profits provided a further disincentive to new investors.
 - High taxes are a disincentive to business.
 
-### Distinctive *[Adjective]*
+### Distinctive *[Adjective]* — /dɪˈstɪŋktɪv/
 
 **Definition**: having a quality that makes something different and easily noticed from others.
 
 - My teacher has a distinctive approach to teaching English. Unlike the other teachers, he does not teach any grammar.
 - Each of the performers is distinctive because of his or her unique appearance or affectation.
 
-### Deterrent: *[Noun]*
+### Deterrent: *[Noun]* — /dɪˈtɝɹənt/
 
 **Definition**: a thing that discourages someone from doing something (makes somebody less likely to do something). Long prison sentences can be a very effective deterrent for offenders. Cameras are a major deterrent to crime.
 
-### Dependence on *[Noun]* *(collocation)*
+### Dependence on *[Noun]* *(collocation)* — /dɪˈpɛndəns/ /ˈɑn/
 
 **Definition**: the state of needing something or someone all the time in order to survive or be successful.
 
 - A young baby has a great dependence on her parents.
 - Gradually his dependence on alcohol became obvious to everyone.
 
-### Due to *[Expression]* *(collocation)*
+### Due to *[Expression]* *(collocation)* — /ˈdju/ /ˈtu/
 
 **Definition**: because of; owing to; as a result of.
 
 - The war had an adverse impact on the environment, due to all the chemicals that were sprayed.
 - The cancelation was due to rain.
 
-### Durable *[Adjective]*
+### Durable *[Adjective]* — /ˈdʊɹəbəɫ/
 
 **Definition**: likely to last for a long time without becoming damaged.
 
 - The couple was searching for a durable car that would last years.
 - These are the only tools that are durable enough for the job.
 
-### Discourage *[Verb]*
+### Discourage *[Verb]* — /dɪˈskɝɪdʒ/
 
 **Definition**: make somebody feel less confident, enthusiastic or less willing to do something.
 
@@ -190,21 +190,21 @@
 - She discouraged me from undertaking the work.
 - The bad weather discouraged people from attending the event.
 
-### Dispose of *[Verb]* *(collocation)*
+### Dispose of *[Verb]* *(collocation)* — /dɪˈspoʊz/ /ɔv/
 
 **Definition**: to throw away or get rid of something that you no longer want or need.
 
 - Dispose of these old newspapers.
 - I dispose of my trash in the garbage can.
 
-### Discerning *[Adjective]*
+### Discerning *[Adjective]* — /dɪˈsɝnɪŋ/
 
 **Definition**: able to show good or outstanding judgment and understanding about the quality of something.
 
 - She had a discerning eye for color.
 - In order to be at the top of your field as a mechanic, you must be very discerning and not miss any details.
 
-### Decent *[Adjective]*
+### Decent *[Adjective]* — /ˈdisənt/
 
 **Definition**: of a good or acceptable standard or quality.
 
@@ -212,7 +212,7 @@
 - Tom hasn't eaten a decent meal in a long time.
 - It's hard to find a decent restaurant in this town;
 
-### Deterioration *[Noun]*
+### Deterioration *[Noun]* — /dɪˈtɪɹiɝˌeɪʃən/
 
 **Definition**: the process of becoming progressively worse.
 
@@ -220,14 +220,14 @@
 - There has been a serious deterioration of his mental condition.
 - There is a deterioration in the relations between the two countries.
 
-### Decorative *[Adjective]*
+### Decorative *[Adjective]* — /ˈdekərətiv/
 
 **Definition**: intended to make something or someone look more attractive or pretty.
 
 - Many people in the art gallery have been attracted by decorative paintings.
 - Decorative sculptures are often a part of Japanese-style landscapes.
 
-### Disappointment *[Noun]*
+### Disappointment *[Noun]* — /ˌdisəˈpɔintmənt/
 
 **Definition**: the feeling of frustration, sadness or displeasure.
 

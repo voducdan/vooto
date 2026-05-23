@@ -21,21 +21,21 @@
 
 ## Entries
 
-### Timely *[Adjective]*
+### Timely *[Adjective]* — /ˈtaɪmɫi/
 
 **Definition**: refers to something done or happening at the right time.
 
 - You must make timely payments.
 - Their work is timely, accurate and cost-efficient.
 
-### Once in a lifetime *[Adverb]* *(collocation)*
+### Once in a lifetime *[Adverb]* *(collocation)* — /wʌns/ /ˈɪn/ /ˈeɪ/ /ˈɫaɪfˌtaɪm/
 
 **Definition**: a chance that is very rarely to happen to someone again in his/her life.
 
 - This is a once-in-a-lifetime chance to earn thousands of dollars from home.
 - This is the once-in-a-lifetime chance to build my industry network and grow my career.
 
-### Annually *[Adverb]*
+### Annually *[Adverb]* — /ænjuəli/
 
 **Definition**: once a year; yearly; every year.
 
@@ -43,28 +43,28 @@
 - My brother loves to travel, he visits London annually.
 - How many cars do they produce annually?
 
-### The coming year *[Adverb]* *(collocation)*
+### The coming year *[Adverb]* *(collocation)* — /ˈðə/ /ˈkəmɪŋ/ /jə:/
 
 **Definition**: the next year.
 
 - I will celebrate my 30th birthday in February of the coming year.
 - In the coming years, it is anticipated that tourism will continue to develop in Asia.
 
-### Up to the minute *[Adverb]* *(collocation)*
+### Up to the minute *[Adverb]* *(collocation)* — /Λp/ /ˈtu/ /ˈðə/ /minit/
 
 **Definition**: very latest; the most recent.
 
 - Her clothes are always right up to the minute.
 - The traffic reports are up to the minute.
 
-### A digital watch *[Noun]* *(collocation)*
+### A digital watch *[Noun]* *(collocation)* — /ˈeɪ/ /ˈdɪdʒətəɫ/ /wɔtʃ/
 
 **Definition**: a watch shows the hours, minutes, and sometimes seconds as a row of numbers.
 
 - Your digital watch is quite nice.
 - My father bought me a digital watch as a birthday present.
 
-### Punctual *[Adverb]*
+### Punctual *[Adverb]* — /ˈpəŋktʃuəɫ/
 
 **Definition**: on time; arriving or happening at the expected, correct time.
 
@@ -72,14 +72,14 @@
 - He is a very punctual boy.
 - He likes his guests to be punctual.
 
-### Upcoming *[Adjective]*
+### Upcoming *[Adjective]* — /ˈəpˌkəmɪŋ/
 
 **Definition**: be about to happen; happening soon.
 
 - Tom could use a little extra time to review for the upcoming test.
 - I used to study a lot when I had an upcoming exam.
 
-### Take your time *[Expression]* *(collocation)*
+### Take your time *[Expression]* *(collocation)* — /teik/ /jo:/ /taim/
 
 **Definition**: not hurry (to do something slowly or carefully).
 
@@ -87,14 +87,14 @@
 - Take your time and read each sentence carefully.
 - He didn't like us to rush him, he wished to take his time over the work.
 
-### On time *[Adverb]* *(collocation)*
+### On time *[Adverb]* *(collocation)* — /ˈɑn/ /taim/
 
 **Definition**: punctual; punctually (arriving at the correct time and not late).
 
 - She started on time, but she arrived late.
 - Students must attend class regularly and submit all of their homework on time.
 
-### Right after *[Adverb]* *(collocation)*
+### Right after *[Adverb]* *(collocation)* — /rait/ /ɑ:ftə/
 
 **Definition**: immediately after.
 
@@ -102,14 +102,14 @@
 - He quit his job right after he won the lottery ticket.
 - Lucy was hired by the company right after she graduated.
 
-### Nowadays *[Adverb]*
+### Nowadays *[Adverb]* — /ˈnaʊəˌdeɪz/
 
 **Definition**: these days; now; at the present time.
 
 - Nowadays, it's easy to buy foreign products.
 - There is an increasing number of people who don't watch TV very much nowadays.
 
-### Age-old *[Adjective]*
+### Age-old *[Adjective]* — /eidʤ/ /ould/
 
 **Definition**: having existed for ages.
 
@@ -117,63 +117,63 @@
 - Celebrating New Year with age-old traditions.
 - Going to pagodas during Lunar New Year is one of Asia's age-old traditions.
 
-### Down the road *[Adverb]* *(collocation)*
+### Down the road *[Adverb]* *(collocation)* — /daun/ /ˈðə/ /roʊd/
 
 **Definition**: in the future.
 
 - It can be achieved down the road.
 - This deal will be beneficial down the road.
 
-### Right away *[Adverb]* *(collocation)*
+### Right away *[Adverb]* *(collocation)* — /rait/ /əˈwei/
 
 **Definition**: immediately.
 
 - I have to go back right away.
 - He did not reply to my question right away.
 
-### Currently *[Adverb]*
+### Currently *[Adverb]* — /kʌrəntli/
 
 **Definition**: now; at the present time.
 
 - I currently do not make as much money as I used to.
 - My uncle is currently working for the government in the Department of Finance.
 
-### Time-consuming *[Adjective]*
+### Time-consuming *[Adjective]* — /taim/ /kənˈsumɪŋ/
 
 **Definition**: taking a lot of/ too much time.
 
 - It was a time-consuming process, but it was the only way the job could be done.
 - This is a very time-consuming task.
 
-### In this day and age *[Adverb]* *(collocation)*
+### In this day and age *[Adverb]* *(collocation)* — /ˈɪn/ /ðis/ /dei/ /ˈænd/ /eidʤ/
 
 **Definition**: at the present time.
 
 - In this day and age recording videos is easier than ever.
 - In this day and age, life without water and electricity is unimaginable.
 
-### Ancient *[Adjective]*
+### Ancient *[Adjective]* — /einʃənt/
 
 **Definition**: very old.
 
 - A king in ancient times had many slaves to work for him.
 - My parents live in a lovely, gigantic, ancient, brick house.
 
-### Brand-new *[Adjective]*
+### Brand-new *[Adjective]* — /ˈbɹændˌnu/
 
 **Definition**: extremely new.
 
 - He bought himself a brand new car yesterday.
 - His waterproof trousers were brand new and stiff.
 
-### Antique *[Adjective]*
+### Antique *[Adjective]* — /ænˈtik/
 
 **Definition**: ancient; very old.
 
 - The fashion of carving animals as a device appears to have a very antique origin.
 - My grandfather has an antique watch that he wants to give me.
 
-### Middle-aged *[Adjective]*
+### Middle-aged *[Adjective]* — /ˈmɪdəˌɫeɪɡd/
 
 **Definition**: no longer young but not yet old; in middle age.
 
@@ -181,21 +181,21 @@
 - They're a middle-aged couple, with grown-up children.
 - Her novels are middle-aged and boring.
 
-### Contemporary *[Adjective]*
+### Contemporary *[Adjective]* — /kənˈtempərəri/
 
 **Definition**: current, modern, nowadays; belonging to the present time.
 
 - Young people tend to prefer contemporary music.
 - Traditional and contemporary fashion design.
 
-### Childhood *[Noun]*
+### Childhood *[Noun]* — /ˈtʃaɪɫdˌhʊd/
 
 **Definition**: the period of your life when you are a child.
 
 - He used to play with her in his childhood.
 - In the childhood, we used to play different types of games.
 
-### Quality time *[Noun]* *(collocation)*
+### Quality time *[Noun]* *(collocation)* — /kwɔliti/ /taim/
 
 **Definition**: time that you spend with only one person in order to strengthen a relationship.
 

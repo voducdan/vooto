@@ -18,7 +18,7 @@
 
 ## Entries
 
-### Known reasons *[Noun]* *(collocation)*
+### Known reasons *[Noun]* *(collocation)* — /ˈnoʊn/ /ˈɹizənz/
 
 **Definition**: reasons that people already know about.
 

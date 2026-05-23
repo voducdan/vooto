@@ -21,42 +21,42 @@
 
 ## Entries
 
-### Moviegoer *[Noun]*
+### Moviegoer *[Noun]* — /ˈmuˌviˌɡoʊɝ/
 
 **Definition**: someone who regularly goes to the cinema.
 
 - The film made America's moviegoers extremely excited.
 - Most moviegoers like to bring their own snacks to save money.
 
-### Sci-fi = science fiction *[Noun]* *(collocation)*
+### Sci-fi = science fiction *[Noun]* *(collocation)* — /ˌsaɪˈfaɪ/ /saiəns/ /ˈfɪkʃən/
 
 **Definition**: a form of fiction based on imagined future science.
 
 - What is your favorite Sci-fi movie?
 - The Sci-fi films are more and more popular among young people.
 
-### Trailer *[Noun]*
+### Trailer *[Noun]* — /ˈtɹeɪɫɝ/
 
 **Definition**: a series of short scenes from a film or television programme that shows in advance as its advertisement.
 
 - The exciting trailer of the movie motivated him to watch the movie instead of studying for an exam.
 - Peter decided to go to see the movie after watching its exciting trailer.
 
-### Plot *[Noun]*
+### Plot *[Noun]* — /plɔt/
 
 **Definition**: the events which form the story of a book, film, play, etc.
 
 - The film's plot is predictable and the acting is mediocre.
 - The book's plot revolves around a man who is searching for his missing daughter.
 
-### Spectacular *[Adjective]*
+### Spectacular *[Adjective]* — /spɛkˈtækjəɫɝ/
 
 **Definition**: amazing, fantastic, impressive or very exciting to look at.
 
 - The view is spectacular and the atmosphere is absolutely unique.
 - The student who just left my class wrote a letter that is spectacular.
 
-### Suitable for *[Adjective]* *(collocation)*
+### Suitable for *[Adjective]* *(collocation)* — /ˈsu:təbl/ /fɔ:/
 
 **Definition**: right or appropriate for a particular purpose, someone or situation.
 
@@ -64,55 +64,55 @@
 - A factory is not suitable for a residential district.
 - This material is not suitable for a dress.
 
-### Venue *[Noun]*
+### Venue *[Noun]* — /ˈvɛnju/
 
 **Definition**: the place where a concert, conference, or sports event is going to take place.
 
 - The coffee house is a great venue for dining and team building activities.
 
-### Gig *[Noun]*
+### Gig *[Noun]* — /ˈɡɪɡ/
 
 **Definition**: a single performance by a musician, band or singer.
 
 - Do you want to come with me to his gig?
 - It was a great gig.
 
-### Sitcom *[Noun]*
+### Sitcom *[Noun]* — /ˈsɪtˌkɑm/
 
 **Definition**: a situation comedy with plots based on particular humorous situations.
 
 - We couldn't stop laughing while watching a sitcom.
 - In my free time, I love watching a sitcom with my children.
 
-### Cinemagoer = moviegoer *[Noun]* *(collocation)*
+### Cinemagoer = moviegoer *[Noun]* *(collocation)* — /?/ /ˈmuˌviˌɡoʊɝ/
 
 **Definition**: a person who regularly goes to the cinema to watch films.
 
 - The film put America's moviegoers into a feeding frenzy.
 - As a frequent cinemagoer, he is keeping abreast of the latest development of Hollywood movies.
 
-### Fascinating *[Adjective]*
+### Fascinating *[Adjective]* — /ˈfæsəˌneɪtɪŋ/
 
 **Definition**: very interesting.
 
 - Last night, I was reading a fascinating book called The History of Superstitions while I was waiting for him.
 - It really was a fascinating film.
 
-### (To) come highly recommended *[Expression]* *(collocation)*
+### (To) come highly recommended *[Expression]* *(collocation)* — /ˈtu/ /kʌm/ /ˈhaili/ /ˌɹɛkəˈmɛndɪd/
 
 **Definition**: to be praised by a lot of people.
 
 - Breastfeeding has always come highly recommended due to great benefits it offers your baby.
 - Books by classic authors always come highly recommended.
 
-### (To) stick in one's mind *[Expression]* *(collocation)*
+### (To) stick in one's mind *[Expression]* *(collocation)* — /ˈtu/ /ˈstɪk/ /ˈɪn/ /ˈwənz/ /maid/
 
 **Definition**: a memory or image which is remembered clearly and for a long time.
 
 - He says numbers just stick in his mind!
 - Those judgments stick in his mind and influence his attitudes.
 
-### Keep one's eyes glued to screens *[Expression]* *(collocation)*
+### Keep one's eyes glued to screens *[Expression]* *(collocation)* — /ki:p/ /ˈwənz/ /ˈaɪz/ /ˈɡɫud/ /ˈtu/ /ˈskɹinz/
 
 **Definition**: to watch (something) in a very concentrated way for a long time.
 
@@ -120,118 +120,118 @@
 - He kept his eyes glued to the screen.
 - Security guards have to keep their eyes glued to screens of security cameras to look for criminals entering the building.
 
-### Frustrated *[Adjective]*
+### Frustrated *[Adjective]* — /ˈfɹəsˌtɹeɪtəd/
 
 **Definition**: feeling annoyed, disappointed or dissatisfied because you cannot achieve what you want.
 
 - They felt frustrated at the lack of progress.
 - He had a disagreement with his partner and felt frustrated.
 
-### (To) grasp *[Verb]* *(collocation)*
+### (To) grasp *[Verb]* *(collocation)* — /ˈtu/ /ˈɡɹæsp/
 
 **Definition**: to comprehend/understand something completely.
 
 - He was able to grasp everything I taught in this lesson.
 - The talk was interesting, but as the topic was new to me, I did not grasp everything that the speaker told us.
 
-### By leaps and bounds *[Expression]* *(collocation)*
+### By leaps and bounds *[Expression]* *(collocation)* — /bai/ /ˈɫips/ /ˈænd/ /ˈbaʊndz/
 
 **Definition**: very quickly.
 
 - His Japanese is improving by leaps and bounds.
 
-### Curious *[Adjective]*
+### Curious *[Adjective]* — /kjuəriəs/
 
 **Definition**: having a strong desire to know or learn something.
 
 - The neighbors very curious about our business.
 - We are very curious about where the animals came from.
 
-### Enthralling *[Adjective]*
+### Enthralling *[Adjective]* — /?/
 
 **Definition**: capturing someone's full interest and attention.
 
 - I found his book absolutely enthralling!
 - Your idea is absolutely enthralling!
 
-### Broaden one's knowledge *[Verb]* *(collocation)*
+### Broaden one's knowledge *[Verb]* *(collocation)* — /ˈbɹɔdən/ /ˈwənz/ /nɒliʤ/
 
 **Definition**: to widen one's knowledge of something.
 
 - He is taking some courses to broaden his knowledge.
 - She took advantage of her father's extensive library to broaden her knowledge.
 
-### Reference book *[Noun]* *(collocation)*
+### Reference book *[Noun]* *(collocation)* — /refərəns/ /buk/
 
 **Definition**: a book that is intended to be used for information on specific matters, for example, a dictionary, encyclopedia, atlas etc.
 
 - A dictionary is an excellent reference book.
 - It is a very thorough grammar reference book with clear explanations.
 
-### Bedtime story *[Noun]* *(collocation)*
+### Bedtime story *[Noun]* *(collocation)* — /ˈbɛdˌtaɪm/ /stɔ:ri/
 
 **Definition**: a story read or told to children at bedtime.
 
 - My mother used to read me bedtime stories.
 - My dad read me a bedtime story every night.
 
-### Blockbuster *[Noun]*
+### Blockbuster *[Noun]* — /ˈbɫɑkˌbəstɝ/
 
 **Definition**: a book, show or film that is very successful.
 
 - That new movie is a blockbuster.
 - That blockbuster made about 40 million dollars.
 
-### Action movie = Kung Fu film *[Noun]* *(collocation)*
+### Action movie = Kung Fu film *[Noun]* *(collocation)* — /ækʃn/ /ˈmu:vi/ /ˈkəŋ/ /ˈfu/ /ˈfɪɫm/
 
 **Definition**: a film/movie that contains lots of action and violence.
 
 - Jack has loved action movies since he was a teenager.
 - Action movies and horror films are my favourite genres.
 
-### Animated film *[Noun]* *(collocation)*
+### Animated film *[Noun]* *(collocation)* — /ˈænəˌmeɪtɪd/ /ˈfɪɫm/
 
 **Definition**: cartoon.
 
 - A new live-action version of the classic animated film will be released later this year.
 - After dinner, he likes watching animated film.
 
-### Horror films *[Noun]* *(collocation)*
+### Horror films *[Noun]* *(collocation)* — /ˈhɔrə/ /ˈfɪɫmz/
 
 **Definition**: a film with a frightening storyline and atmosphere, especially the one about murders, frightening creatures, or evil people.
 
 - Do you enjoy watching horror films?
 - I don't like horror movies.
 
-### Release *[Verb]*
+### Release *[Verb]* — /riˈli:s/
 
 **Definition**: to set free.
 
 - When will the film be released?
 - The movie will be released next month.
 
-### Subtitle *[Noun]*
+### Subtitle *[Noun]* — /ˈsəbˌtaɪtəɫ/
 
 **Definition**: a translation displayed at the bottom of a movie screen.
 
 - A secondary or explanatory title.
 - The film is in Chinese with English subtitles.
 
-### A feast for the eyes and ears *[Noun]* *(collocation)*
+### A feast for the eyes and ears *[Noun]* *(collocation)* — /ˈeɪ/ /ˈfist/ /fɔ:/ /ˈðə/ /ˈaɪz/ /ˈænd/ /ˈiɹz/
 
 **Definition**: to describe something that is pleasant to watch and listen to.
 
 - The movie truly was a feast for the eyes and ears.
 - Seeing The Focke Wolves perform for the first time was a feast for the eyes and ears.
 
-### Censorship *[Noun]*
+### Censorship *[Noun]* — /ˈsɛnsɝˌʃɪp/
 
 **Definition**: the act of supervising.
 
 - The library used censorship to keep some books off their shelves.
 - They applied censorship to all radio stations in the country.
 
-### Poetic *[Adjective]*
+### Poetic *[Adjective]* — /poʊˈɛtɪk/
 
 **Definition**: connected with poetry.
 
@@ -239,21 +239,21 @@
 - The lyrics to some of the Beatles' songs were often quite poetic.
 - The description of the city is quite poetic and romantic.
 
-### Action-packed *[Adjective]*
+### Action-packed *[Adjective]* — /ækʃn/ /ˈpækt/
 
 **Definition**: full of exciting activities, events.
 
 - TAKEN is one of the most action-packed movies I have ever watched!
 - My brother loves big-budget, action-packed movies.
 
-### Addictive *[Adjective]*
+### Addictive *[Adjective]* — /əˈdɪktɪv/
 
 **Definition**: something is so enjoyable that you quickly become addicted to.
 
 - Video games can be quite addictive for young kids.
 - The TV show is very addictive.
 
-### Creepy *[Adjective]*
+### Creepy *[Adjective]* — /ˈkɹipi/
 
 **Definition**: producing a feeling of fear, scary or unease.
 
@@ -261,21 +261,21 @@
 - It feels a bit creepy in here.
 - There's something creepy about the building.
 
-### Dreary *[Adjective]*
+### Dreary *[Adjective]* — /ˈdɹɪɹi/
 
 **Definition**: sad, boring or depressing.
 
 - After the death of her grandmother, she was in a dreary mood for weeks.
 - The song was dreary and repetitive.
 
-### Heartbreaking *[Adjective]*
+### Heartbreaking *[Adjective]* — /ˈhɑɹtˌbɹeɪkɪŋ/
 
 **Definition**: making you feel extremely sad or upset.
 
 - It is heartbreaking that she cannot see her children.
 - It was a heartbreaking story.
 
-### Inspirational *[Adjective]*
+### Inspirational *[Adjective]* — /ˌɪnspɝˈeɪʃənəɫ/
 
 **Definition**: making you feel enthusiastic or encouraged to do something.
 
@@ -283,42 +283,42 @@
 - In my mind, he is a very inspirational author because he shows us many things that we can do.
 - The quotes are very inspirational.
 
-### Tear-jerking *[Adjective]*
+### Tear-jerking *[Adjective]* — /tiə/ /ˈdʒɝkɪŋ/
 
 **Definition**: sad, tragic, making you cry.
 
 - The film Annie is a tear-jerking story about an orphan.
 - The movie is very romantic and very tear-jerking.
 
-### Box office hit *[Noun]* *(collocation)*
+### Box office hit *[Noun]* *(collocation)* — /bɔks/ /ɔfis/ /ˈhɪt/
 
 **Definition**: a very successful movie that a lot of tickets are well sold.
 
 - Her last film was a surprise box-office hit.
 - The movie became a box-office record breaker.
 
-### E-reader *[Noun]*
+### E-reader *[Noun]* — /ˈi/ /ˈri:də/
 
 **Definition**: a portable electronic device on which you can read books, newspapers, magazines, etc.
 
 - I want to read my books on my e-reader, not on my computer.
 - She actually goes to the library more than she did before she had her e-reader.
 
-### From cover to cover *[Expression]* *(collocation)*
+### From cover to cover *[Expression]* *(collocation)* — /frɔm/ /kʌvə/ /ˈtu/ /kʌvə/
 
 **Definition**: from the beginning to the end (a book or magazine).
 
 - It's a book to be read from cover to cover.
 - I read the newspaper from cover to cover on the train.
 
-### Hardcover *[Noun]*
+### Hardcover *[Noun]* — /ˈhɑɹdˌkəvɝ/
 
 **Definition**: a book that has a hardcover (bound in cloth, leather).
 
 - Her friend gave her a hardcover book as a present for her birthday.
 - The novel was published in hardcover.
 
-### Page turner *[Noun]* *(collocation)*
+### Page turner *[Noun]* *(collocation)* — /peidʒ/ /ˈtɝnɝ/
 
 **Definition**: a book that is very interesting or exciting that you want to read it quickly.
 
@@ -326,28 +326,28 @@
 - Even though we know the outcome, the story is a page-turner.
 - The book so interesting that she can't stop reading. It is a page turner.
 
-### Don't judge a book by its cover *[Expression]* *(collocation)*
+### Don't judge a book by its cover *[Expression]* *(collocation)* — /ˈdoʊn/ /dʒʌdʒ/ /ˈeɪ/ /buk/ /bai/ /ˈɪts/ /kʌvə/
 
 **Definition**: you shouldn't judge someone or something only from their appearance.
 
 - That woman may look very slow and awkward, but don't judge a book by its cover. She is a very intelligent woman in her circle.
 - I know I look serious in my picture, hope you don't judge a book by its cover.
 
-### To catch the latest movie *[Verb]* *(collocation)*
+### To catch the latest movie *[Verb]* *(collocation)* — /ˈtu/ /kætʃ/ /ˈðə/ /leitist/ /ˈmu:vi/
 
 **Definition**: to see a film that has just come out.
 
 - I am going to grab a pizza and catch the latest movie with my friends at the theatre.
 - PVR Cinemas is the ideal place to catch the latest movie.
 
-### To flick through *[Verb]* *(collocation)*
+### To flick through *[Verb]* *(collocation)* — /ˈtu/ /ˈfɫɪk/ /θru:/
 
 **Definition**: to look through a book quickly.
 
 - She flicked through her diary, looking for the appointed date.
 - He flicked through the book and found the photo.
 
-### To know like a book *[Verb]* *(collocation)*
+### To know like a book *[Verb]* *(collocation)* — /ˈtu/ /nou/ /ˈɫaɪk/ /ˈeɪ/ /buk/
 
 **Definition**: to know someone or something extremely well.
 

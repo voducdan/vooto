@@ -21,49 +21,49 @@
 
 ## Entries
 
-### Close friends *[Noun]* *(collocation)*
+### Close friends *[Noun]* *(collocation)* — /klouz/ /ˈfɹɛndz/
 
 **Definition**: friends who know and understand each other very well.
 
 - He and I have been close friends for over 20 years.
 - She has two really close friends; one is a doctor and the other is a lawyer.
 
-### Mutual friend *[Noun]* *(collocation)*
+### Mutual friend *[Noun]* *(collocation)* — /ˈmjutʃuəɫ/ /frend/
 
 **Definition**: a friend who is shared by two people.
 
 - Peter and I became acquainted through our mutual friends.
 - We met through a mutual friend.
 
-### Get on with *[Expression]* *(collocation)*
+### Get on with *[Expression]* *(collocation)* — /ˈɡɛt/ /ˈɑn/ /wið/
 
 **Definition**: to have a friendly relationship with them.
 
 - Tom gets on well with his boss.
 - I get on well with my parents.
 
-### To create a strong bond *[Verb]* *(collocation)*
+### To create a strong bond *[Verb]* *(collocation)* — /ˈtu/ /kri:ˈeit/ /ˈeɪ/ /ˈstɹɔŋ/ /ˈbɑnd/
 
 **Definition**: to make a strong connection with someone or animal.
 
 - I have created a strong bond with my dog.
 - I usually make a phone call to my parents because I have a strong bond with them.
 
-### Compliment *[Noun]*
+### Compliment *[Noun]* — /ˈkɑmpɫəmɛnt/
 
 **Definition**: an expression of praise or admiration for someone.
 
 - He complimented me on my dress.
 - Jessica blushed when I complimented her hair.
 
-### Sound advice *[Noun]* *(collocation)*
+### Sound advice *[Noun]* *(collocation)* — /ˈsaʊnd/ /ədˈvais/
 
 **Definition**: good advice.
 
 - My uncle gave me sound advice about my choice of career.
 - The doctor gave the patient sound advice about healthy eating.
 
-### Care about *[Verb]* *(collocation)*
+### Care about *[Verb]* *(collocation)* — /kɛər/ /əˈbaut/
 
 **Definition**: to be concerned about someone or something.
 
@@ -71,21 +71,21 @@
 - No one seemed to care about his feelings.
 - The doctor advised her to take exercise and care about her health.
 
-### Console *[Verb]*
+### Console *[Verb]* — /ˈkɑnsoʊɫ/
 
 **Definition**: to give sympathy to comfort someone who is sad or disappointed.
 
 - We consoled her with a sympathy card and flowers.
 - They consoled him by telling him to have patience.
 
-### Circle of virtual friends *[Noun]* *(collocation)*
+### Circle of virtual friends *[Noun]* *(collocation)* — /sə:kl/ /ɔv/ /ˈvɝtʃuəɫ/ /ˈfɹɛndz/
 
 **Definition**: a group of friends whom you chat with online.
 
 - Her circle of virtual friends was immense.
 - Facebook is a social network which has a wide circle of virtual friends that youngsters can access and discover many friends.
 
-### Enjoy each other's company *[Expression]* *(collocation)*
+### Enjoy each other's company *[Expression]* *(collocation)* — /inˈdЗoi/ /i:tʃ/ /ˈəðɝz/ /ˈkʌmpəni/
 
 **Definition**: to enjoy spending time with each other.
 
@@ -93,14 +93,14 @@
 - It is true that they enjoy each other's company.
 - We will enjoy each other's company for the rest of our lives.
 
-### Fair-weather friend *[Noun]* *(collocation)*
+### Fair-weather friend *[Noun]* *(collocation)* — /feə/ /weθə/ /frend/
 
 **Definition**: someone who only wants to be your good friend when you are cheerful and successful.
 
 - He has realized that Bill is a fair-weather friend.
 - I am looking for a loyal friend, not a fair-weather friend.
 
-### Best friend *[Noun]* *(collocation)*
+### Best friend *[Noun]* *(collocation)* — /ˈbɛst/ /frend/
 
 **Definition**: a closest and dearest friend.
 
@@ -108,21 +108,21 @@
 - I consider him as my best friend.
 - Even though Tom used to be my best friend, I'm beginning to hate him.
 
-### Soul mate *[Noun]* *(collocation)*
+### Soul mate *[Noun]* *(collocation)* — /soʊl/ /meit/
 
 **Definition**: someone with whom you have a special relationship with because you share the same feelings, attitudes, and beliefs.
 
 - Tom has been my soul mate for a long time.
 - She is my wife, my best friend, and my soul mate.
 
-### Get in touch with somebody *[Expression]* *(collocation)*
+### Get in touch with somebody *[Expression]* *(collocation)* — /ˈɡɛt/ /ˈɪn/ /tʌtʃ/ /wið/ /ˈsəmˌbɑdi/
 
 **Definition**: to contact somebody by talking or writing.
 
 - He plans to get in touch with his friends when he returns home.
 - I'll get in touch with Tom by telephone tomorrow.
 
-### Near and dear to someone *[Expression]* *(collocation)*
+### Near and dear to someone *[Expression]* *(collocation)* — /niə/ /ˈænd/ /diə/ /ˈtu/ /ˈsəmˌwən/
 
 **Definition**: to have a very close relationship with someone.
 
@@ -130,63 +130,63 @@
 - His baseball card collection was near and dear to him.
 - Coffee is very near and dear to me.
 
-### Shoulder to cry on *[Expression]* *(collocation)*
+### Shoulder to cry on *[Expression]* *(collocation)* — /ʃouldə/ /ˈtu/ /krai/ /ˈɑn/
 
 **Definition**: someone who is always ready to listen to your problems and give you sympathy, emotional support, etc.
 
 - I just wanted a shoulder to cry on.
 - Lucy's father died yesterday. She needs a shoulder to cry on.
 
-### To be through thick and thin *[Expression]* *(collocation)*
+### To be through thick and thin *[Expression]* *(collocation)* — /ˈtu/ /ˈbi/ /θru:/ /θik/ /ˈænd/ /θin/
 
 **Definition**: if you stay with someone through thick and thin, you always support or stay with them under all circumstances, no matter how difficult.
 
 - In marriage, you have to stick together through thick and thin.
 - He stood beside his friend through thick and thin.
 
-### To be well-matched *[Adjective]* *(collocation)*
+### To be well-matched *[Adjective]* *(collocation)* — /ˈtu/ /ˈbi/ /wel/ /ˈmætʃt/
 
 **Definition**: (of two people) to be similar in interests.
 
 - Tom and Mary are well-matched as a couple.
 - I would probably say that my sister and her husband are well matched.
 
-### To fall for someone (to fall in love with someone) *[Expression]* *(collocation)*
+### To fall for someone (to fall in love with someone) *[Expression]* *(collocation)* — /ˈtu/ /fɔl/ /fɔ:/ /ˈsəmˌwən/ /ˈtu/ /fɔl/ /ˈɪn/ /lʌv/ /wið/ /ˈsəmˌwən/
 
 **Definition**: to start to love someone.
 
 - The moment he met his wife, I fell for her completely.
 - She fell for him the moment she saw him.
 
-### To get on like a house on fire *[Expression]* *(collocation)*
+### To get on like a house on fire *[Expression]* *(collocation)* — /ˈtu/ /ˈɡɛt/ /ˈɑn/ /ˈɫaɪk/ /ˈeɪ/ /haus/ /ˈɑn/ /faiə/
 
 **Definition**: (of two people) to like each other very much and have a very good and friendly relationship very ​ quickly.
 
 - Bill and Jack have a lot of same interests and get on like a house on fire.
 - He bought me a drink and we got on like a house on fire.
 
-### To get to know someone *[Expression]* *(collocation)*
+### To get to know someone *[Expression]* *(collocation)* — /ˈtu/ /ˈɡɛt/ /ˈtu/ /nou/ /ˈsəmˌwən/
 
 **Definition**: to become acquainted; start to be familiar with someone.
 
 - I did not have the opportunity to get to know him.
 - I got to know her in primary school.
 
-### To have a lot in common *[Expression]* *(collocation)*
+### To have a lot in common *[Expression]* *(collocation)* — /ˈtu/ /ˈhæv/ /ˈeɪ/ /ˈɫɑt/ /ˈɪn/ /kɔmən/
 
 **Definition**: (of two people) share similar interests, beliefs, attitudes, opinions, etc.
 
 - Tom and Mary have a lot in common.
 - My brother and I used to have a lot in common when we were younger.
 
-### To hit it off with somebody *[Expression]* *(collocation)*
+### To hit it off with somebody *[Expression]* *(collocation)* — /ˈtu/ /ˈhɪt/ /ˈɪt/ /ɔ:f/ /wið/ /ˈsəmˌbɑdi/
 
 **Definition**: to quickly like someone when you meet him/her for the first time.
 
 - I didn't really hit it off with her friends.
 - These children hit it off well in the kindergarten.
 
-### To lose touch with someone *[Expression]* *(collocation)*
+### To lose touch with someone *[Expression]* *(collocation)* — /ˈtu/ /lu:z/ /tʌtʃ/ /wið/ /ˈsəmˌwən/
 
 **Definition**: to stop communicating with someone, usually because you lose their contact.
 

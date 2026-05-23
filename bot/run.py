@@ -54,6 +54,8 @@ def format_card(entry: Entry) -> str:
     if entry.collocation:
         tag = f"{tag} <i>collocation</i>".strip()
     parts = [f"<b>{escape(entry.word)}</b> {escape(tag)}".strip()]
+    if entry.ipa:
+        parts.append(f"<code>{escape(entry.ipa)}</code>")
     parts.append("")
     parts.append(escape(entry.definition))
     if entry.examples:

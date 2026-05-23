@@ -19,7 +19,7 @@
 
 ## Entries
 
-### Be keen on *[Expression]* *(collocation)*
+### Be keen on *[Expression]* *(collocation)* — /ˈbi/ /ki:n/ /ˈɑn/
 
 **Definition**: to be interested in; like.
 
@@ -30,28 +30,28 @@
 - My father's quite into gardening.
 - I'm quite into swimming and diving.
 
-### Fond of *[Expression]* *(collocation)*
+### Fond of *[Expression]* *(collocation)* — /ˈfɑnd/ /ɔv/
 
 **Definition**: to love something or doing something very much.
 
 - I am fond of fishing. He is fond of swimming.
 - My son is fond of playing games, but he understands his responsibility for studies.
 
-### To detest *[Verb]* *(collocation)*
+### To detest *[Verb]* *(collocation)* — /ˈtu/ /diˈtɛst/
 
 **Definition**: to dislike someone or something very much.
 
 - She thoroughly detests writing letters to him.
 - Lucy absolutely detests Tom.
 
-### Can't stand (someone or something) *[Verb]* *(collocation)*
+### Can't stand (someone or something) *[Verb]* *(collocation)* — /ˈkænt/ /stænd/ /ˈsəmˌwən/ /ˈɔɹ/ /sʌmθiŋ/
 
 **Definition**: to hate or dislike someone or something very much.
 
 - She can't stand to hear her parents arguing.
 - I can't stand traffic jam in rush hour.
 
-### Be passionate about *[Expression]* *(collocation)*
+### Be passionate about *[Expression]* *(collocation)* — /ˈbi/ /ˈpæʃənət/ /əˈbaut/
 
 **Definition**: to have a strong desire to do something; really enjoy something.
 
@@ -59,7 +59,7 @@
 - He is passionate about teaching young children to read. Therefore, he has created his own tutoring business.
 - I am passionate about coffee. I drink it every day.
 
-### Have a passion for *[Expression]* *(collocation)*
+### Have a passion for *[Expression]* *(collocation)* — /ˈhæv/ /ˈeɪ/ /ˈpæʃən/ /fɔ:/
 
 **Definition**: a hobby or activity that someone loves to do very much.
 

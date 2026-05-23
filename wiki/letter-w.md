@@ -18,14 +18,14 @@
 
 ## Entries
 
-### Weigh up the pros and cons *[Expression]* *(collocation)*
+### Weigh up the pros and cons *[Expression]* *(collocation)* — /wei/ /Λp/ /ˈðə/ /ˈpɹoʊz/ /ˈænd/ /ˈkɑnz/
 
 **Definition**: to consider/compare carefully the advantages and disadvantages of something before making a decision.
 
 - You must weigh up the pros and cons of changing your job before making your final decision.
 - He has weighed up the pros and cons of telling me the truth.
 
-### Widely perceived *[Expression]* *(collocation)*
+### Widely perceived *[Expression]* *(collocation)* — /ˈwaidli/ /pɝˈsivd/
 
 **Definition**: something that is understood, realized, regarded or thought about in a particular way by a lot of people.
 

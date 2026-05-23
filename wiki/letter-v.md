@@ -20,28 +20,28 @@
 
 ## Entries
 
-### Vast *[Adjective]*
+### Vast *[Adjective]* — /vɑ:st/
 
 **Definition**: very big/ extremely large.
 
 - The Sahara is a vast sandy desert.
 - The Amazon is a vast rainforest.
 
-### Vitally important *[Adjective]* *(collocation)*
+### Vitally important *[Adjective]* *(collocation)* — /ˈvaɪtəɫi/ /imˈpɔ:tənt/
 
 **Definition**: very important.
 
 - It is vitally important for students to be taught the strategies for using IT.
 - It is vitally important to keep your teeth clean and healthy.
 
-### Viewpoint *[Noun]*
+### Viewpoint *[Noun]* — /ˈvjuˌpɔɪnt/
 
 **Definition**: point of view; opinion.
 
 - They adopted my viewpoint.
 - His viewpoint is limited.
 
-### Various *[Adjective]*
+### Various *[Adjective]* — /veri.əs/
 
 **Definition**: different, a variety of, many types of.
 
@@ -49,42 +49,42 @@
 - There are various ways of solving the problem.
 - There are various kinds of coffee.
 
-### Vivid *[Adjective]*
+### Vivid *[Adjective]* — /ˈvɪvəd/
 
 **Definition**: producing very strong and clear memories in your mind.
 
 - He could remember the dream in vivid detail.
 - My memories are still vivid.
 
-### Venerable *[Adjective]*
+### Venerable *[Adjective]* — /ˈvɛnɝəbəɫ/
 
 **Definition**: someone or something that deserves respect.
 
 - The cathedral is a venerable building.
 - Her venerable father died yesterday after a prolonged illness.
 
-### Virtually *[Adverb]*
+### Virtually *[Adverb]* — /və:tjuəli/
 
 **Definition**: almost entirely or very nearly.
 
 - It is virtually the same.
 - The entire town was virtually destroyed.
 
-### Versatile *[Adjective]*
+### Versatile *[Adjective]* — /ˈvɝsətəɫ/
 
 **Definition**: having many different functions and to be used for many different purposes.
 
 - Jeans and T-shirts are versatile and used in both the modern workplace and leisure activities.
 - It is a versatile industrial material.
 
-### Virtually *[Adverb]*
+### Virtually *[Adverb]* — /və:tjuəli/
 
 **Definition**: nearly; almost.
 
 - The entire town was virtually destroyed.
 - After the discounts, it's virtually free.
 
-### Vital *[Adjective]*
+### Vital *[Adjective]* — /vaitl/
 
 **Definition**: very important, or necessary.
 

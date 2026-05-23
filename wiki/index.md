@@ -1,14 +1,16 @@
 # Wiki Index
 
-**Summary**: Table of contents for the IELTS Academic Vocabulary wiki, built from Rachel Mitchell's 2018 reference book. 1770 entries across 45 pages.
+**Summary**: Table of contents for the IELTS Academic Vocabulary wiki, built from Rachel Mitchell's 2018 reference book. 1770 entries across 45 pages. Every entry heading carries an inline IPA transcription (US English).
 
 **Last updated**: 2026-05-23
 
 ---
 
-## Source
+## Sources
 
-- [[source-rachel-mitchell-2018]] — bibliographic details and book structure
+- [[source-rachel-mitchell-2018]] — bibliographic details and book structure for the vocabulary itself
+- [[source-oxford-3000]] — Oxford 3000 IPA list (British style); **priority** source for headword IPA
+- [[source-en-us-ipa]] — US English word→IPA dictionary; fallback for words outside the Oxford 3000
 
 ## Topic pages
 

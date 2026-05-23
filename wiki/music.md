@@ -21,103 +21,103 @@
 
 ## Entries
 
-### Concert venue *[Noun]* *(collocation)*
+### Concert venue *[Noun]* *(collocation)* — /kənˈsə:t/ /ˈvɛnju/
 
 **Definition**: a location used for a concert or musical performance.
 
 - I had an opportunity to attend that concert venue.
 - They are going to play in that new concert venue in town.
 
-### Classical music *[Noun]* *(collocation)*
+### Classical music *[Noun]* *(collocation)* — /ˈkɫæsɪkəɫ/ /mju:zik/
 
 **Definition**: music that is developed from a European tradition mainly in the 18th and 19th centuries.
 
 - My girlfriend likes pop music but I prefer classical music.
 - Classical music is my father's cup of tea.
 
-### Pop music *[Noun]* *(collocation)*
+### Pop music *[Noun]* *(collocation)* — /ˈpɑp/ /mju:zik/
 
 **Definition**: a type of music that is popular with many people at a particular time.
 
 - The best part about pop music is that you can find lyrics for songs almost anywhere on the Internet.
 - Pop music is deriving from rock and roll.
 
-### Folk music *[Noun]* *(collocation)*
+### Folk music *[Noun]* *(collocation)* — /ˈfoʊk/ /mju:zik/
 
 **Definition**: traditional music in a particular country, region, or community.
 
 - He plays folk music with guitar accompaniment.
 - I used to like folk music.
 
-### Hip-hop *[Noun]*
+### Hip-hop *[Noun]* — /ˈhɪpˌhɔp/
 
 **Definition**: a style of music usually based on rap in which the words are spoken rather than sung.
 
 - Hip-hop is my brother favorite type of music.
 
-### Soothing *[Adjective]*
+### Soothing *[Adjective]* — /ˈsuðɪŋ/
 
 **Definition**: making someone feel calm and more relaxed.
 
 - I often listen to soothing music in order to relax.
 - In order to relax, he usually listens to soothing music.
 
-### Melody = rhyme *[Noun]* *(collocation)*
+### Melody = rhyme *[Noun]* *(collocation)* — /ˈmɛɫədi/ /ˈɹaɪm/
 
 **Definition**: a tune.
 
 - It is a simple melody with complex harmonies.
 - I love that song. It has a pleasant melody.
 
-### Contemporary music *[Noun]* *(collocation)*
+### Contemporary music *[Noun]* *(collocation)* — /kənˈtempərəri/ /mju:zik/
 
 **Definition**: modern music.
 
 - The older generation prefers to listen to music from the 1970's and the 1980's while young people tend to prefer contemporary music.
 
-### Genres of music *[Noun]* *(collocation)*
+### Genres of music *[Noun]* *(collocation)* — /ˈʒɑnɹəz/ /ɔv/ /mju:zik/
 
 **Definition**: particular types or styles of music.
 
 - The album covers a range of different genres of music.
 - Nowadays there are more genres of music out there than what we really know about.
 
-### Catchy melody *[Noun]* *(collocation)*
+### Catchy melody *[Noun]* *(collocation)* — /ˈkæˌtʃi/ /ˈmɛɫədi/
 
 **Definition**: a melody that is pleasing and easily remembered.
 
 - Due to its simple and catchy melody, this song became very popular.
 - My kids really love the fast-moving catchy melody. It looks like
 
-### Meaningful lyrics *[Noun]* *(collocation)*
+### Meaningful lyrics *[Noun]* *(collocation)* — /ˈminɪŋfəɫ/ /ˈɫɪɹɪks/
 
 **Definition**: words in a song that are meaningful.
 
 - Not all pop music has interesting or meaningful lyrics.
 - This song has meaningful lyrics but difficult to understand.
 
-### Musical instrument *[Noun]* *(collocation)*
+### Musical instrument *[Noun]* *(collocation)* — /ˈmyuzɪkəl/ /instrumənt/
 
 **Definition**: an object such as a violin, piano, flute or drum that you use to make music.
 
 - My favorite musical instrument is the trumpet.
 - This musical instrument is a stringed instrument.
 
-### Enrich *[Verb]*
+### Enrich *[Verb]* — /ɛnˈɹɪtʃ/
 
 **Definition**: to make something better or to improve the quality of something.
 
 - Music can certainly enrich our whole life.
 - We can enrich our mind by reading.
 
-### Hi-fi devices *[Noun]* *(collocation)*
+### Hi-fi devices *[Noun]* *(collocation)* — /ˈhaɪˈfaɪ/ /dɪˈvaɪsəz/
 
 **Definition**: equipment which plays recorded music.
 
 - Waves from hi-fi devices also tend to cause headaches if used for too long.
 - It is one of the smallest portable hi-fi devices.
 
-### Enlighten *[Verb]*
+### Enlighten *[Verb]* — /ˌɛnˈɫaɪtən/
 
 **Definition**: to give someone information, knowledge and understanding about something.
 
@@ -125,28 +125,28 @@
 - Can you enlighten who is at fault?
 - The teacher tried to enlighten everyone with his teachings.
 
-### Rock music *[Noun]* *(collocation)*
+### Rock music *[Noun]* *(collocation)* — /rɔk/ /mju:zik/
 
 **Definition**: music that is developed from rock 'n' roll.
 
 - I really love rock music, especially alternative and hard rock.
 - People who love rock music shouldn't have outdoor parties.
 
-### Catchy tune *[Noun]* *(collocation)*
+### Catchy tune *[Noun]* *(collocation)* — /ˈkæˌtʃi/ /ˈtun/
 
 **Definition**: a song that is pleasing and easily remembered.
 
 - It was a song with a catchy tune.
 - I love the catchy tune in that short video.
 
-### Live music *[Noun]* *(collocation)*
+### Live music *[Noun]* *(collocation)* — /liv/ /mju:zik/
 
 **Definition**: music played on instruments in front of an audience.
 
 - It's hard to find a club which performs live music in this area.
 - Peter likes to go to a local jazz club where he can enjoy live music.
 
-### Music to one's ears *[Expression]* *(collocation)*
+### Music to one's ears *[Expression]* *(collocation)* — /mju:zik/ /ˈtu/ /ˈwənz/ /ˈiɹz/
 
 **Definition**: something that is very pleasant and enjoyable to hear.
 
@@ -154,28 +154,28 @@
 - Their offer of help was music to my ears.
 - His words were music to my ears.
 
-### Have a rehearsal *[Expression]* *(collocation)*
+### Have a rehearsal *[Expression]* *(collocation)* — /ˈhæv/ /ˈeɪ/ /ɹiˈhɝsəɫ/
 
 **Definition**: a practice or trial performance of something (a play, dance, etc.) in preparation for a public performance.
 
 - We had a rehearsal dinner for our son's wedding and it was perfect!
 - We never had a rehearsal, but fortunately, it all worked out.
 
-### Opera *[Noun]*
+### Opera *[Noun]* — /ˈɑpɹə/
 
 **Definition**: a kind of performance performed by singers and an orchestra.
 
 - I want to go to the opera so I can have a good evening out.
 - She likes to go to the opera; in fact, it's her favorite type of entertainment.
 
-### Ringtone *[Noun]*
+### Ringtone *[Noun]* — /?/
 
 **Definition**: a sound made by a mobile phone when someone is calling.
 
 - How can I change the ringtone to vibration?
 - He sets his favourite song as a ringtone on his cell phone.
 
-### Melodious *[Adjective]*
+### Melodious *[Adjective]* — /məˈɫoʊdiəs/
 
 **Definition**: music which has a pleasant tune (very pleasant to listen to).
 
@@ -183,48 +183,48 @@
 - She is a melodious singer.
 - This piece of music is melodious.
 
-### Live concert *[Noun]* *(collocation)*
+### Live concert *[Noun]* *(collocation)* — /liv/ /kənˈsə:t/
 
 **Definition**: a music performance given by one or more singers that is taking place.
 
 - There are over 15 million video streams during the live concert.
 
-### Rock band *[Noun]* *(collocation)*
+### Rock band *[Noun]* *(collocation)* — /rɔk/ /bænd/
 
 **Definition**: a band of musicians who play rock music together.
 
 - That rock band gives her a headache.
 - He plays in a rock band.
 
-### Tuneful *[Adjective]*
+### Tuneful *[Adjective]* — /ˈtunfəɫ/
 
 **Definition**: producing a pleasant sound/tune; melodious.
 
 - Being wonderfully melodic and tuneful, his songs have made me weep.
 - The music for the film is quite tuneful.
 
-### To face the music *[Verb]* *(collocation)*
+### To face the music *[Verb]* *(collocation)* — /ˈtu/ /feis/ /ˈðə/ /mju:zik/
 
 **Definition**: be confronted with the unpleasant consequences of something you have done wrong.
 
 - After drinking alcohol all night, the next morning he had to face the music.
 - He's been caught cheating. He must face the music.
 
-### To ring a bell *[Verb]* *(collocation)*
+### To ring a bell *[Verb]* *(collocation)* — /ˈtu/ /riŋ/ /ˈeɪ/ /bel/
 
 **Definition**: to sound familiar.
 
 - I think I heard this song somewhere. It definitely rings a bell.
 - The man's name rings a bell but I can't remember him.
 
-### To sound like a broken record *[Expression]* *(collocation)*
+### To sound like a broken record *[Expression]* *(collocation)* — /ˈtu/ /ˈsaʊnd/ /ˈɫaɪk/ /ˈeɪ/ /broukən/ /ˈrekɔ:d/
 
 **Definition**: someone who keeps annoying you by saying the same thing over and over again.
 
 - He sounds like a broken record and that annoys most people.
 - My little brother sounds like a broken record.
 
-### To strike (hit) a false note *[Expression]* *(collocation)*
+### To strike (hit) a false note *[Expression]* *(collocation)* — /ˈtu/ /straik/ /ˈhɪt/ /ˈeɪ/ /fo:ls/ /nout/
 
 **Definition**: to do something wrong; to behave inappropriately.
 

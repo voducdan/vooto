@@ -14,6 +14,7 @@ class Entry:
     word: str
     pos: str
     collocation: bool
+    ipa: str
     definition: str
     examples: list[str]
     source_file: str
@@ -22,6 +23,7 @@ class Entry:
 _HEADING_RE = re.compile(r"^###\s+(.+?)\s*$", re.MULTILINE)
 _POS_RE = re.compile(r"\*\[([^\]]+)\]\*")
 _COLLOCATION_RE = re.compile(r"\*\(collocation\)\*", re.IGNORECASE)
+_IPA_RE = re.compile(r"[—-]\s*((?:/[^/\s]+/\s*)+)\s*$")
 _DEF_RE = re.compile(r"^\*\*Definition\*\*:\s*(.+?)\s*$", re.MULTILINE)
 _BULLET_RE = re.compile(r"^-\s+(.+?)\s*$", re.MULTILINE)
 _SLUG_RE = re.compile(r"[^a-z0-9]+")
@@ -31,13 +33,18 @@ def _slug(s: str) -> str:
     return _SLUG_RE.sub("-", s.lower()).strip("-")
 
 
-def _parse_heading(raw: str) -> tuple[str, str, bool]:
+def _parse_heading(raw: str) -> tuple[str, str, bool, str]:
+    ipa = ""
+    ipa_match = _IPA_RE.search(raw)
+    if ipa_match:
+        ipa = " ".join(ipa_match.group(1).split())
+        raw = raw[: ipa_match.start()].rstrip()
     pos_match = _POS_RE.search(raw)
     pos = pos_match.group(1).strip() if pos_match else ""
     word = _POS_RE.sub("", raw)
+    is_collocation = bool(_COLLOCATION_RE.search(word))
     word = _COLLOCATION_RE.sub("", word).strip()
-    is_collocation = bool(_COLLOCATION_RE.search(raw))
-    return word, pos, is_collocation
+    return word, pos, is_collocation, ipa
 
 
 def parse_file(path: Path) -> list[Entry]:
@@ -52,7 +59,7 @@ def parse_file(path: Path) -> list[Entry]:
         if "**Definition**" not in body:
             continue
 
-        word, pos, is_collocation = _parse_heading(m.group(1))
+        word, pos, is_collocation, ipa = _parse_heading(m.group(1))
         if not word:
             continue
 
@@ -73,6 +80,7 @@ def parse_file(path: Path) -> list[Entry]:
                 word=word,
                 pos=pos,
                 collocation=is_collocation,
+                ipa=ipa,
                 definition=definition,
                 examples=examples,
                 source_file=path.name,
@@ -106,5 +114,6 @@ if __name__ == "__main__":
         print(f"  {sample.key}")
         print(f"    word: {sample.word}")
         print(f"    pos:  {sample.pos}{' (collocation)' if sample.collocation else ''}")
+        print(f"    ipa:  {sample.ipa}")
         print(f"    def:  {sample.definition[:80]}")
         print(f"    ex:   {sample.examples[0][:80]}")

@@ -21,62 +21,62 @@
 
 ## Entries
 
-### Rubbish *[Noun]*
+### Rubbish *[Noun]* — /ˈrʌbɪʃ/
 
 **Definition**: trash, garbage, waste material.
 
 - The streets were littered with rubbish.
 - There is too much rubbish in this yard. Let's clean it up!
 
-### Littering *[Noun]*
+### Littering *[Noun]* — /ˈɫɪtɝɪŋ/
 
 **Definition**: to drop trash on the ground rather than put it in the trash bin.
 
 - Littering is prohibited.
 - People destroy the beauty of the beach through littering.
 
-### Unsorted *[Verb]*
+### Unsorted *[Verb]* — /?/
 
 **Definition**: not categorized or sorted.
 
 - Most of the shirts were unsorted, so all the colors were mixed together.
 - The data were unsorted.
 
-### Diminish *[Verb]*
+### Diminish *[Verb]* — /dɪˈmɪnɪʃ/
 
 **Definition**: to go down; to lessen.
 
 - After he took the aspirin, the pain was diminished.
 - Our sugar supplies are diminished.
 
-### To throw something out *[Verb]* *(collocation)*
+### To throw something out *[Verb]* *(collocation)* — /ˈtu/ /θrou/ /sʌmθiŋ/ /ˈaʊt/
 
 **Definition**: to get rid of something.
 
 - He has thrown out his old boots.
 
-### Waste treatment *[Noun]* *(collocation)*
+### Waste treatment *[Noun]* *(collocation)* — /weɪst/ /tri:tmənt/
 
 **Definition**: the treatment of materials that are no longer used.
 
 - Alternative waste treatment technologies.
 - Cleaner technologies in waste treatment and recycling.
 
-### Impact *[Noun]*
+### Impact *[Noun]* — /ˈɪmpækt/
 
 **Definition**: an effect or influence of something on something else.
 
 - The impact of the storm has yet to be fully understood.
 - The bad weather had a significant impact on our profits.
 
-### Freshen *[Verb]*
+### Freshen *[Verb]* — /ˈfɹɛʃən/
 
 **Definition**: to make something newer, cleaner, cooler and more pleasant.
 
 - The rain freshened the air.
 - We freshened up the apartment by making new curtains.
 
-### Sparkle *[Verb]*
+### Sparkle *[Verb]* — /ˈspɑɹkəɫ/
 
 **Definition**: to shine brightly with flashes of light.
 
@@ -84,34 +84,34 @@
 - The moonlit air sparkled with frost.
 - The air sparkled with freshness.
 
-### Drizzle *[Noun]*
+### Drizzle *[Noun]* — /ˈdɹɪzəɫ/
 
 **Definition**: light rain and falling steadily in fine drops.
 
 - The drizzle was so light that she didn't need an umbrella.
 - Would you like to go for a walk in the drizzle?
 
-### Pollution *[Noun]*
+### Pollution *[Noun]* — /pəˈluʃən/
 
 **Definition**: the act of polluting air or water.
 
 - Air pollution is a serious health hazard.
 - The highest level of water pollution is caused by the high use of fertilizers, insecticides, and pesticides.
 
-### Clear sky *[Noun]* *(collocation)*
+### Clear sky *[Noun]* *(collocation)* — /ˈkɫɪɹ/ /skaɪ/
 
 **Definition**: a sky that is bright and clear.
 
 - The forecast was for a clear sky this morning.
 
-### Throw something out *[Verb]* *(collocation)*
+### Throw something out *[Verb]* *(collocation)* — /θrou/ /sʌmθiŋ/ /ˈaʊt/
 
 **Definition**: to discard or get rid of something.
 
 - She threw out all her old clothes to make some space in her wardrobe.
 - I threw out all my son's old comics.
 
-### Get rid of *[Verb]* *(collocation)*
+### Get rid of *[Verb]* *(collocation)* — /ˈɡɛt/ /ˈɹɪd/ /ɔv/
 
 **Definition**: to remove; to abolish.
 
@@ -119,42 +119,42 @@
 - It's time to get rid of this old sweater.
 - It is difficult to get rid of insects.
 
-### Eco-friendly *[Adjective]*
+### Eco-friendly *[Adjective]* — /ˈɛkoʊ/ /ˈfrendli/
 
 **Definition**: not or less harmful or damaging to the environment.
 
 - The government encourage people to use eco-friendly products or services.
 - For environmentally conscious people, it is very easy to use eco-friendly products and organic food.
 
-### Emit *[Verb]*
+### Emit *[Verb]* — /ɪˈmɪt/
 
 **Definition**: to produce and discharge something, like gases or radiation for example.
 
 - When the volcano exploded, it emitted clouds of gases and smoke into the air.
 - It is predicted that trucks will produce about 23 tons of CO2 and vans will emit 15 tons.
 
-### Global warming *[Noun]* *(collocation)*
+### Global warming *[Noun]* *(collocation)* — /ˈɡɫoʊbəɫ/ /ˈwɔɹmɪŋ/
 
 **Definition**: the gradual increase in temperature of the atmosphere of the Earth caused by high levels of carbon dioxide and other gases in the atmosphere.
 
 - Greater use of renewable energy resources is necessary in order to combat global warming.
 - Global warming has become a real problem for the earth.
 
-### In all weathers *[Expression]* *(collocation)*
+### In all weathers *[Expression]* *(collocation)* — /ˈɪn/ /ɔ:l/ /ˈwɛðɝz/
 
 **Definition**: if something is done in all weathers, it is done whether the weather is good or bad.
 
 - He goes out jogging in all weathers.
 - We go fishing in all weathers.
 
-### To be spoiled by *[Verb]* *(collocation)*
+### To be spoiled by *[Verb]* *(collocation)* — /ˈtu/ /ˈbi/ /ˈspɔɪɫd/ /bai/
 
 **Definition**: to be ruined by.
 
 - The football match was spoiled by the wind and the rain.
 - Our camping trip was spoiled by bad weather.
 
-### Minimize *[Verb]*
+### Minimize *[Verb]* — /ˈmɪnəˌmaɪz/
 
 **Definition**: to reduce something (especially something unpleasant) to the lowest possible level or amount.
 
@@ -162,28 +162,28 @@
 - We ought to install a good alarm system in order to minimize the risk of burglary.
 - The risk of infections could be minimized if conditions in hospitals are clean.
 
-### Contamination *[Noun]*
+### Contamination *[Noun]* — /kənˌtæməˈneɪʃən/
 
 **Definition**: the act of polluting or poisoning a place by adding a substance that is dangerous.
 
 - People are suffering from the contamination of the water supply.
 - New-born babies must be isolated from possible contamination.
 
-### Devastates *[Verb]*
+### Devastates *[Verb]* — /?/
 
 **Definition**: to completely destroy or ruin (a place or thing).
 
 - An entire town was devastated by an earthquake.
 - A hurricane devastated the state, flooding many coastal towns and left thousands homeless.
 
-### Eliminate *[Verb]*
+### Eliminate *[Verb]* — /ɪˈɫɪməˌneɪt/
 
 **Definition**: to remove or get rid of something, especially something you do not want or need.
 
 - She's trying to eliminate fatty foods from her diet.
 - The company plans to eliminate more than 500 jobs in the coming year.
 
-### Gloomy *[Adjective]*
+### Gloomy *[Adjective]* — /ˈɡɫumi/
 
 **Definition**: dark or dim; feeling sad and without hope.
 
@@ -191,7 +191,7 @@
 - He looks gloomy.
 - The sky was dark and gloomy.
 
-### Freezing = chilly *[Adjective]* *(collocation)*
+### Freezing = chilly *[Adjective]* *(collocation)* — /ˈfɹizɪŋ/ /ˈtʃɪɫi/
 
 **Definition**: very cold.
 
@@ -199,21 +199,21 @@
 - The air temperature was well below freezing.
 - It's freezing outside!
 
-### Boiling hot *[Adjective]* *(collocation)*
+### Boiling hot *[Adjective]* *(collocation)* — /ˈbɔɪɫɪŋ/ /hɒt/
 
 **Definition**: (of weather) very hot.
 
 - The sun was boiling hot, the average temperature reached 42 degrees!
 - The soup is boiling hot when poured into a bowl.
 
-### Mild *[Adjective]*
+### Mild *[Adjective]* — /maɪld/
 
 **Definition**: (of weather) warm and pleasant.
 
 - The weather in my country is mild but damp.
 - I think it's terrific because the climate is mild.
 
-### Chilly *[Adjective]*
+### Chilly *[Adjective]* — /ˈtʃɪɫi/
 
 **Definition**: unpleasantly cold.
 
@@ -221,34 +221,34 @@
 - The bathroom gets chilly in the winter.
 - It's chilly today, so I think you should wear a coat.
 
-### Degrees Celsius *[Noun]* *(collocation)*
+### Degrees Celsius *[Noun]* *(collocation)* — /dɪˈɡɹiz/ /ˈsɛɫsiəs/
 
 **Definition**: a temperature scale (used to measure the temperature).
 
 - Water boils at 100 degrees Celsius.
 - Temperatures vary between 8 and 20 degrees Celsius.
 
-### To go below zero *[Verb]* *(collocation)*
+### To go below zero *[Verb]* *(collocation)* — /ˈtu/ /gou/ /biˈlou/ /ˈziɹoʊ/
 
 **Definition**: to become negative (about temperatures).
 
 - The temperature often goes below zero degrees in January, February, and March.
 
-### Cloudy weather *[Noun]* *(collocation)*
+### Cloudy weather *[Noun]* *(collocation)* — /ˈkɫaʊdi/ /weθə/
 
 **Definition**: (of the sky or weather) covered with a lot of clouds.
 
 - The forecast is for dry, cloudy weather with no precipitation expected.
 - I dislike cloudy weather.
 
-### Rainy weather *[Noun]* *(collocation)*
+### Rainy weather *[Noun]* *(collocation)* — /ˈɹeɪni/ /weθə/
 
 **Definition**: (of the weather) to rain a lot.
 
 - I never go to the park in rainy weather.
 - We went to the beach in spite of the rainy weather.
 
-### To be drenched (to the skin) *[Adjective]* *(collocation)*
+### To be drenched (to the skin) *[Adjective]* *(collocation)* — /ˈtu/ /ˈbi/ /ˈdɹɛntʃt/ /ˈtu/ /ˈðə/ /ˈskɪn/
 
 **Definition**: to be completely wet.
 
@@ -256,7 +256,7 @@
 - He was drenched while it was going to rain.
 - John was drenched by the rain and frozen by the icy wind.
 
-### Downpour *[Noun]*
+### Downpour *[Noun]* — /ˈdaʊnpɔɹ/
 
 **Definition**: a heavy rain.
 
@@ -264,21 +264,21 @@
 - The air was still fresh following a downpour the day before.
 - The downpour and the resultant flood destroyed almost every house.
 
-### To pour down *[Verb]* *(collocation)*
+### To pour down *[Verb]* *(collocation)* — /ˈtu/ /pɔ:/ /daun/
 
 **Definition**: to rain heavily.
 
 - The air is warm, but rain pours down constantly.
 - It has been pouring down since two o'clock.
 
-### Humid *[Adjective]*
+### Humid *[Adjective]* — /ˈhjuməd/
 
 **Definition**: hot and wet in a way that makes us feel uncomfortable.
 
 - The recent hot, humid weather is affecting air quality.
 - If it is hot and humid, then it is raining.
 
-### Heavy snow *[Noun]* *(collocation)*
+### Heavy snow *[Noun]* *(collocation)* — /hevi/ /snou/
 
 **Definition**: when a lot of snow falls.
 
@@ -286,21 +286,21 @@
 - In spite of heavy snow and cold temperatures, the game continued.
 - Heavy snow continues to fall at the airport.
 
-### Snowstorm *[Noun]*
+### Snowstorm *[Noun]* — /ˈsnoʊˌstɔɹm/
 
 **Definition**: a large amount of snow.
 
 - It had been delayed by several days due to a snowstorm in the area.
 - All the schools were closed since there was a big snowstorm.
 
-### Windy weather *[Noun]* *(collocation)*
+### Windy weather *[Noun]* *(collocation)* — /ˈwaɪndi/ /weθə/
 
 **Definition**: (of the weather) with a lot of wind.
 
 - I can fly my kite in windy weather.
 - The flower does not bloom well in windy weather.
 
-### Sunny weather *[Noun]* *(collocation)*
+### Sunny weather *[Noun]* *(collocation)* — /ˈsəni/ /weθə/
 
 **Definition**: (of the weather) with a lot of bright light from the sun.
 
@@ -308,7 +308,7 @@
 - In spite of the sunny weather, the air was rather chilly.
 - They wanted sunny weather for an enjoyable picnic.
 
-### Sunshine *[Noun]*
+### Sunshine *[Noun]* — /ˈsənˌʃaɪn/
 
 **Definition**: the shining or direct light of the sun.
 
@@ -316,160 +316,160 @@
 - Despite the sunshine, the snow has not yet melted.
 - This is the only day we've had sunshine all week.
 
-### Changeable weather *[Noun]* *(collocation)*
+### Changeable weather *[Noun]* *(collocation)* — /ˈtʃeɪndʒəbəɫ/ /weθə/
 
 **Definition**: weather that tends to change suddenly and often.
 
 - The heavy rain might settle the changeable weather.
 - The accident was caused chiefly by the changeable weather.
 
-### Mild climate *[Noun]* *(collocation)*
+### Mild climate *[Noun]* *(collocation)* — /maɪld/ /klaimit/
 
 **Definition**: a climate with pleasant conditions.
 
 - Japan has a mild climate.
 - The mild climate lets us enjoy outdoor activities like running, and playing volleyball all year round.
 
-### Endangered species *[Noun]* *(collocation)*
+### Endangered species *[Noun]* *(collocation)* — /ɛnˈdeɪndʒɝd/ /ˈspiʃiz/
 
 **Definition**: a type of animal or plant that might become extinct.
 
 - The giant panda is an endangered species.
 - Endangered species are those considered to be at risk of extinction.
 
-### Environmentally friendly *[Noun]* *(collocation)*
+### Environmentally friendly *[Noun]* *(collocation)* — /ɪnˌvaɪɹənˈmɛnəɫi/ /ˈfrendli/
 
 **Definition**: not harmful to the environment.
 
 - Environmentally friendly materials are used to minimize pollution.
 - The most important quality of bamboo is its environmentally friendly quality.
 
-### Exhaust fumes *[Noun]* *(collocation)*
+### Exhaust fumes *[Noun]* *(collocation)* — /ɪɡˈzɔst/ /ˈfjumz/
 
 **Definition**: gases, ejected from an engine that is unpleasant, and sometimes dangerous.
 
 - Exhaust fumes from cars are poisoning the air of our cities.
 - The air was heavily polluted with exhaust fumes.
 
-### Fossil fuels *[Noun]* *(collocation)*
+### Fossil fuels *[Noun]* *(collocation)* — /ˈfɑsəɫ/ /ˈfjuəɫz/
 
 **Definition**: energy resources like gas, coal and oil.
 
 - There are three major types of fossil fuels: coal, natural gas, and oil.
 - Most of the fuels people burn are fossil fuels.
 
-### Global warming *[Noun]* *(collocation)*
+### Global warming *[Noun]* *(collocation)* — /ˈɡɫoʊbəɫ/ /ˈwɔɹmɪŋ/
 
 **Definition**: an increase in the amount of carbon dioxide in the atmosphere all-over the world, as a result of greenhouse effect.
 
 - The cause of global warming occurs because of greenhouse gases.
 - Global warming is a very serious problem that our society is dealing with.
 
-### Greenhouse effect *[Noun]* *(collocation)*
+### Greenhouse effect *[Noun]* *(collocation)* — /ˈɡɹinˌhaʊs/ /iˈfekt/
 
 **Definition**: the rise in temperature of the atmosphere due to the carbon dioxide and other gases.
 
 - Greenhouse effect causes global warming.
 - Earth would be too cold for life to exist without the greenhouse effect.
 
-### Natural disaster *[Noun]* *(collocation)*
+### Natural disaster *[Noun]* *(collocation)* — /nætʃrəl/ /diˈzɑ:stə/
 
 **Definition**: a natural event such as a flood, earthquake, or hurricane that causes great damage or loss of life.
 
 - Almost 15,000 people were killed in the natural disaster.
 - The flood in 1995 was the worst natural disaster in our country.
 
-### Toxic waste *[Noun]* *(collocation)*
+### Toxic waste *[Noun]* *(collocation)* — /ˈtɑksɪk/ /weɪst/
 
 **Definition**: industrial or chemical waste materials that are harmful to living things and the environment.
 
 - The company was fined $6.5 million for dumping toxic waste into the river.
 - Toxic wastes were detected in the water samples.
 
-### To become extinct *[Adjective]* *(collocation)*
+### To become extinct *[Adjective]* *(collocation)* — /ˈtu/ /biˈkʌm/ /ɪkˈstɪŋkt/
 
 **Definition**: to stop existing (not now existing).
 
 - Unless whales are protected, they will become extinct.
 - Plant and animal species become extinct for many reasons, including climate change, disease, etc.
 
-### To be under threat *[Expression]* *(collocation)*
+### To be under threat *[Expression]* *(collocation)* — /ˈtu/ /ˈbi/ /ʌndə/ /θrɛt/
 
 **Definition**: likely to be harmed, damaged or become extinct.
 
 - The house was under threat of demolition.
 - She lives daily under threat of violence.
 
-### To get back to nature *[Expression]* *(collocation)*
+### To get back to nature *[Expression]* *(collocation)* — /ˈtu/ /ˈɡɛt/ /bæk/ /ˈtu/ /neitʃə/
 
 **Definition**: to start living a more simple life that is closer to nature.
 
 - We went on a camping trip to get back to nature.
 - There are plenty of ways to get back to nature, even if you live in a city.
 
-### Biodiversity *[Noun]*
+### Biodiversity *[Noun]* — /ˌbaɪoʊdaɪˈvɝsəti/
 
 **Definition**: a diversity of plants and animals in a particular region.
 
 - The newcomers can pose a threat to biodiversity by altering ecosystems.
 - Biodiversity continues to decline each year.
 
-### Contaminated *[Adjective]*
+### Contaminated *[Adjective]* — /kənˈtæməˌneɪtɪd/
 
 **Definition**: made dirty, polluted, or poisonous by adding something that is dangerous or carries a disease.
 
 - He died because he had eaten some contaminated beef.
 - Many bays and coastal waters have been contaminated with heavy metals.
 
-### Deforestation *[Noun]*
+### Deforestation *[Noun]* — /dɪˌfɔɹɪˈsteɪʃən/
 
 **Definition**: the action of cutting down of a wide area of trees.
 
 - Deforestation is destroying large areas of tropical rainforest.
 - Their habitat is threatened by deforestation.
 
-### Ecosystems *[Noun]*
+### Ecosystems *[Noun]* — /ˈikoʊˌsɪstəmz/
 
 **Definition**: all the animals and plants that live in a particular area.
 
 - Dynamite fishing is extremely destructive to reef ecosystems.
 - What efforts have been increased to save our ecosystems?
 
-### Exhaust emissions *[Noun]* *(collocation)*
+### Exhaust emissions *[Noun]* *(collocation)* — /ɪɡˈzɔst/ /ɪˈmɪʃənz/
 
 **Definition**: waste gases that are released from a vehicle and go into the air.
 
 - Car manufacturers must cut down the exhaust emissions that cause smog.
 - The reduction of exhaust emissions from diesel engines.
 
-### Contaminate *[Verb]*
+### Contaminate *[Verb]* — /kənˈtæməˌneɪt/
 
 **Definition**: make a place or something dirty or poisonous by adding a chemical, waste, or infection.
 
 - To contaminate a lake with sewage.
 - Industrial chemicals contaminate the atmosphere.
 
-### Discharge *[Verb]*
+### Discharge *[Verb]* — /ˈdɪsˌtʃɑɹdʒ/
 
 **Definition**: to release gas, liquid, or other harmful substances into the water or the air.
 
 - The chemical company was fined for discharging chemicals into the river.
 
-### Erosion *[Noun]*
+### Erosion *[Noun]* — /ɪˈɹoʊʒən/
 
 **Definition**: the action or process of eroding by wind, water, or other natural agents.
 
 - For many years, the town has been threatened by the erosion of the river banks.
 - Soil erosion was mitigated by the planting of trees.
 
-### Drought *[Noun]*
+### Drought *[Noun]* — /ˈdɹaʊt/
 
 **Definition**: a long period of time when there is little or no rain.
 
 - The area was constantly hit by drought.
 - The land ploughs hard after the drought.
 
-### Recycle *[Verb]*
+### Recycle *[Verb]* — /ɹiˈsaɪkəɫ/
 
 **Definition**: to convert waste materials such as newspapers and bottles into reusable material.
 

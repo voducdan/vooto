@@ -23,7 +23,7 @@
 
 ## Nouns
 
-### A change of clothes
+### A change of clothes — /ˈeɪ/ /tʃeɪndʒ/ /ɔv/ /klouðz/
 
 **Definition**: an extra set of clothes that someone takes with him/her when he/she goes to stay somewhere.
 
@@ -32,7 +32,7 @@
 
 *Source*: [[money]]
 
-### A check-up
+### A check-up — /ˈeɪ/ /ˈtʃɛˌkəp/
 
 **Definition**: an examination done by a doctor to make sure that you are healthy.
 
@@ -42,7 +42,7 @@
 
 *Source*: [[health]]
 
-### A close relationship
+### A close relationship — /ˈeɪ/ /klouz/ /riˈleiʃәnʃip/
 
 **Definition**: a relationship that is connected by shared interests and shared feelings.
 
@@ -51,7 +51,7 @@
 
 *Source*: [[family]]
 
-### A concrete jungle
+### A concrete jungle — /ˈeɪ/ /kɔnkri:t/ /ˈdʒəŋɡəɫ/
 
 **Definition**: a way to describe a city that has many modern buildings and few green spaces, so it is unpleasant to live in.
 
@@ -60,7 +60,7 @@
 
 *Source*: [[letter-a]]
 
-### A digital watch
+### A digital watch — /ˈeɪ/ /ˈdɪdʒətəɫ/ /wɔtʃ/
 
 **Definition**: a watch shows the hours, minutes, and sometimes seconds as a row of numbers.
 
@@ -69,7 +69,7 @@
 
 *Source*: [[time]]
 
-### A dual-income family
+### A dual-income family — /ˈeɪ/ /ˈduəɫ/ /inkəm/ /ˈfæmili/
 
 **Definition**: a family that gets money from two separate incomes from the father and mother.
 
@@ -77,7 +77,7 @@
 
 *Source*: [[family]]
 
-### A family gathering
+### A family gathering — /ˈeɪ/ /ˈfæmili/ /ˈɡæðɝɪŋ/
 
 **Definition**: an occasion when all family members meet together for a particular purpose.
 
@@ -87,7 +87,7 @@
 
 *Source*: [[family]]
 
-### A feast for the eyes and ears
+### A feast for the eyes and ears — /ˈeɪ/ /ˈfist/ /fɔ:/ /ˈðə/ /ˈaɪz/ /ˈænd/ /ˈiɹz/
 
 **Definition**: to describe something that is pleasant to watch and listen to.
 
@@ -96,7 +96,7 @@
 
 *Source*: [[books-and-films]]
 
-### A fitness regime
+### A fitness regime — /ˈeɪ/ /ˈfɪtnəs/ /ɹeɪˈʒim/
 
 **Definition**: a habit of taking regular exercise.
 
@@ -105,7 +105,7 @@
 
 *Source*: [[health]]
 
-### A formal examination
+### A formal examination — /ˈeɪ/ /fɔ:ml/ /igˌzæmiˈneiʃən/
 
 **Definition**: a test conducted under strict, regulated conditions.
 
@@ -114,7 +114,7 @@
 
 *Source*: [[education]]
 
-### A heavy workload
+### A heavy workload — /ˈeɪ/ /hevi/ /ˈwɝˌkɫoʊd/
 
 **Definition**: a large amount of work or many tasks to perform.
 
@@ -123,7 +123,7 @@
 
 *Source*: [[education]]
 
-### A high-flyer
+### A high-flyer — /ˈeɪ/ /hai/ /ˈfɫaɪɝ/
 
 **Definition**: someone who has the strong desire to be very successful.
 
@@ -132,7 +132,7 @@
 
 *Source*: [[letter-a]]
 
-### A lavish amount of something
+### A lavish amount of something — /ˈeɪ/ /ˈɫævɪʃ/ /əˈmaunt/ /ɔv/ /sʌmθiŋ/
 
 **Definition**: a huge amount of something.
 
@@ -141,7 +141,7 @@
 
 *Source*: [[business]]
 
-### A leisurely stroll
+### A leisurely stroll — /ˈeɪ/ /ˈɫizɝɫi/ /ˈstɹoʊɫ/
 
 **Definition**: a slow, relaxing walk.
 
@@ -150,7 +150,7 @@
 
 *Source*: [[travel]]
 
-### A long-standing relationship
+### A long-standing relationship — /ˈeɪ/ /lɔŋ/ /ˈstændɪŋ/ /riˈleiʃәnʃip/
 
 **Definition**: a relationship that has existed or continued for a long time.
 
@@ -159,7 +159,7 @@
 
 *Source*: [[family]]
 
-### A native speaker
+### A native speaker — /ˈeɪ/ /ˈneɪtɪv/ /ˈspikər/
 
 **Definition**: someone who has spoken a language since he/she was a baby and did not learn it as a foreign language.
 
@@ -168,7 +168,7 @@
 
 *Source*: [[education]]
 
-### A passer-by
+### A passer-by — /ˈeɪ/ /ˈpæsɝ/ /bai/
 
 **Definition**: a person who is walking past you (in the street).
 
@@ -177,7 +177,7 @@
 
 *Source*: [[urbanisation]]
 
-### A riot of colour
+### A riot of colour — /ˈeɪ/ /ˈɹaɪət/ /ɔv/ /ˈkəɫɝ/
 
 **Definition**: a collection of many different colours.
 
@@ -186,7 +186,7 @@
 
 *Source*: [[travel]]
 
-### A runny nose
+### A runny nose — /ˈeɪ/ /ˈɹəni/ /nouz/
 
 **Definition**: a nose that has more liquid than it is usual.
 
@@ -195,7 +195,7 @@
 
 *Source*: [[health]]
 
-### A sedentary lifestyle
+### A sedentary lifestyle — /ˈeɪ/ /ˈsɛdənˌtɛɹi/ /ˈɫaɪfˌstaɪɫ/
 
 **Definition**: an inactive lifestyle with little exercise or physical activity.
 
@@ -204,7 +204,7 @@
 
 *Source*: [[health]]
 
-### A shopaholic
+### A shopaholic — /ˈeɪ/ /?/
 
 **Definition**: a person who spends too much time shopping.
 
@@ -213,7 +213,7 @@
 
 *Source*: [[money]]
 
-### A social butterfly
+### A social butterfly — /ˈeɪ/ /souʃl/ /ˈbətɝˌfɫaɪ/
 
 **Definition**: refers to an extrovert person who is social or friendly with everyone.
 
@@ -222,7 +222,7 @@
 
 *Source*: [[letter-a]]
 
-### A sports fan
+### A sports fan — /ˈeɪ/ /ˈspɔɹts/ /fæn/
 
 **Definition**: a person who is really interested in sport.
 
@@ -232,7 +232,7 @@
 
 *Source*: [[health]]
 
-### A team player
+### A team player — /ˈeɪ/ /ti:m/ /pleiз/
 
 **Definition**: someone who willingly cooperates with others in a team, or group.
 
@@ -241,7 +241,7 @@
 
 *Source*: [[health]]
 
-### A thing of the past
+### A thing of the past — /ˈeɪ/ /θiŋ/ /ɔv/ /ˈðə/ /ˈpæst/
 
 **Definition**: something that no longer happens or exists.
 
@@ -250,7 +250,7 @@
 
 *Source*: [[travel]]
 
-### A vegetarian diet
+### A vegetarian diet — /ˈeɪ/ /ˌvɛdʒəˈtɛˌɹiən/ /daiət/
 
 **Definition**: a diet focuses on plants for food without any meat, poultry, or seafood.
 
@@ -259,7 +259,7 @@
 
 *Source*: [[food]]
 
-### A vocational course
+### A vocational course — /ˈeɪ/ /voʊˈkeɪʃənəɫ/ /kɔ:s/
 
 **Definition**: a course which provides students with the skills and education that they need to do a particular job.
 
@@ -268,7 +268,7 @@
 
 *Source*: [[education]]
 
-### A win-win situation
+### A win-win situation — /ˈeɪ/ /ˌwɪnˈwɪn/ /
 
 **Definition**: a situation in which the result is good for everyone who is involved in.
 
@@ -277,7 +277,7 @@
 
 *Source*: [[family]]
 
-### A workaholic
+### A workaholic — /ˈeɪ/ /ˌwɝkəˈhɑɫɪk/
 
 **Definition**: a person who spends most of their time working and finds it difficult not to work.
 
@@ -286,7 +286,7 @@
 
 *Source*: [[work]]
 
-### Academic subject
+### Academic subject — / /ˈsʌbdʒɪkt/
 
 **Definition**: subjects relating to education, schools, universities, etc.
 
@@ -295,7 +295,7 @@
 
 *Source*: [[education]]
 
-### Action movie = Kung Fu film
+### Action movie = Kung Fu film — /ækʃn/ /ˈmu:vi/ /ˈkəŋ/ /ˈfu/ /ˈfɪɫm/
 
 **Definition**: a film/movie that contains lots of action and violence.
 
@@ -304,7 +304,7 @@
 
 *Source*: [[books-and-films]]
 
-### Advances in technology
+### Advances in technology — /ədˈvænsəz/ /ˈɪn/ /tekˈnɔlədʤi/
 
 **Definition**: improvements, innovations or developments in technology.
 
@@ -313,7 +313,7 @@
 
 *Source*: [[technology]]
 
-### Air quality
+### Air quality — /eə/ /kwɔliti/
 
 **Definition**: the state of the air around us (how much pollution it contains).
 
@@ -322,7 +322,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Amusement center
+### Amusement center — /əmˈjuzmənt/ /ˈsɛnɝ/
 
 **Definition**: a place that has a lot of things to play for fun.
 
@@ -331,7 +331,7 @@
 
 *Source*: [[business]]
 
-### Amusement park = a theme park = funfair
+### Amusement park = a theme park = funfair — /əmˈjuzmənt/ /pa:k/ /ˈeɪ/ /θi:m/ /pa:k/ /?/
 
 **Definition**: an outdoor area for entertainment where people pay money to go on rides and play games to win prizes.
 
@@ -341,7 +341,7 @@
 
 *Source*: [[free-time]]
 
-### An entrepreneur
+### An entrepreneur — /ˈæn/ /ˌɑntɹəpɹəˈnɝ/
 
 **Definition**: a person who makes profits by organizing and operating a business or businesses.
 
@@ -350,7 +350,7 @@
 
 *Source*: [[business]]
 
-### An inevitable consequence
+### An inevitable consequence — /ˈæn/ /inˈevitəbl/ /kɔnsikwəns/
 
 **Definition**: certain to happen and unable to be avoided or prevented.
 
@@ -359,7 +359,7 @@
 
 *Source*: [[letter-a]]
 
-### An occupation
+### An occupation — /ˈæn/ /ˌɑkjəˈpeɪʃən/
 
 **Definition**: a job.
 
@@ -368,7 +368,7 @@
 
 *Source*: [[work]]
 
-### Animated film
+### Animated film — /ˈænəˌmeɪtɪd/ /ˈfɪɫm/
 
 **Definition**: cartoon.
 
@@ -377,7 +377,7 @@
 
 *Source*: [[books-and-films]]
 
-### Apartment building
+### Apartment building — /əˈpɑ:tmənt/ /bildiŋ/
 
 **Definition**: a large building that is divided into apartments.
 
@@ -386,7 +386,7 @@
 
 *Source*: [[buildings]]
 
-### Aquatic animals
+### Aquatic animals — /əˈkwætɪk/ /ˈænəməɫz/
 
 **Definition**: animals that live in water.
 
@@ -394,7 +394,7 @@
 
 *Source*: [[letter-a]]
 
-### Aquatic life
+### Aquatic life — /əˈkwætɪk/ /laif/
 
 **Definition**: the creatures and plants that live in the water for most or all of their lifetime.
 
@@ -403,7 +403,7 @@
 
 *Source*: [[letter-a]]
 
-### Attendance record
+### Attendance record — /əˈtɛndəns/ /ˈrekɔ:d/
 
 **Definition**: a record of how often someone has been present at an event or an institution.
 
@@ -412,7 +412,7 @@
 
 *Source*: [[education]]
 
-### Bachelor's degree
+### Bachelor's degree — /ˈbætʃəɫɝz/ /dɪˈgri:/
 
 **Definition**: a first university degree (a degree awarded by a college or university).
 
@@ -421,7 +421,7 @@
 
 *Source*: [[education]]
 
-### Basic necessities
+### Basic necessities — /beisik/ /nəˈsɛsɪtiz/
 
 **Definition**: the things necessary or indispensable which we must have and cannot survive without such as food, shelter, and other necessities of life.
 
@@ -430,7 +430,7 @@
 
 *Source*: [[health]]
 
-### Bedtime reading
+### Bedtime reading — /ˈbɛdˌtaɪm/ /ˈri:diŋ/
 
 **Definition**: a book, novel etc read at bedtime.
 
@@ -439,7 +439,7 @@
 
 *Source*: [[education]]
 
-### Bedtime story
+### Bedtime story — /ˈbɛdˌtaɪm/ /stɔ:ri/
 
 **Definition**: a story read or told to children at bedtime.
 
@@ -448,7 +448,7 @@
 
 *Source*: [[books-and-films]]
 
-### Beer belly
+### Beer belly — /bi:ə/ /ˈbɛɫi/
 
 **Definition**: a fat stomach caused by drinking too much beer for a long time.
 
@@ -457,7 +457,7 @@
 
 *Source*: [[family]]
 
-### Best friend
+### Best friend — /ˈbɛst/ /frend/
 
 **Definition**: a closest and dearest friend.
 
@@ -467,7 +467,7 @@
 
 *Source*: [[friends]]
 
-### Big money
+### Big money — /ˈbɪɡ/ /mʌni/
 
 **Definition**: a large amount of money.
 
@@ -476,7 +476,7 @@
 
 *Source*: [[money]]
 
-### Block of flats
+### Block of flats — /blɔk/ /ɔv/ /ˈfɫæts/
 
 **Definition**: a large building that consists of many apartments.
 
@@ -485,7 +485,7 @@
 
 *Source*: [[urbanisation]]
 
-### Body language
+### Body language — /bɔdi/ /ˈlæŋgwɪdʒ/
 
 **Definition**: the way that someone communicates nonverbally by moving his/her body.
 
@@ -494,7 +494,7 @@
 
 *Source*: [[letter-b]]
 
-### Box office hit
+### Box office hit — /bɔks/ /ɔfis/ /ˈhɪt/
 
 **Definition**: a very successful movie that a lot of tickets are well sold.
 
@@ -503,7 +503,7 @@
 
 *Source*: [[books-and-films]]
 
-### Breaking news
+### Breaking news — /ˈbɹeɪkɪŋ/ /nju:z/
 
 **Definition**: newly received information about an event that is currently happening.
 
@@ -512,7 +512,7 @@
 
 *Source*: [[media]]
 
-### Budget airline
+### Budget airline — /ˈbʌdʒɪt/ /ˈɛɹˌɫaɪn/
 
 **Definition**: low-cost airline (an airline which offers cheaper tickets).
 
@@ -521,7 +521,7 @@
 
 *Source*: [[travel]]
 
-### Career advancement
+### Career advancement — /kəˈriə/ /ədˈvænsmənt/
 
 **Definition**: development in jobs.
 
@@ -530,7 +530,7 @@
 
 *Source*: [[work]]
 
-### Career woman
+### Career woman — /kəˈriə/ /wʊmən/
 
 **Definition**: a woman who considers her job is very important in her life.
 
@@ -539,7 +539,7 @@
 
 *Source*: [[work]]
 
-### Catchy melody
+### Catchy melody — /ˈkæˌtʃi/ /ˈmɛɫədi/
 
 **Definition**: a melody that is pleasing and easily remembered.
 
@@ -548,7 +548,7 @@
 
 *Source*: [[music]]
 
-### Catchy tune
+### Catchy tune — /ˈkæˌtʃi/ /ˈtun/
 
 **Definition**: a song that is pleasing and easily remembered.
 
@@ -557,7 +557,7 @@
 
 *Source*: [[music]]
 
-### Changeable weather
+### Changeable weather — /ˈtʃeɪndʒəbəɫ/ /weθə/
 
 **Definition**: weather that tends to change suddenly and often.
 
@@ -566,7 +566,7 @@
 
 *Source*: [[environment]]
 
-### Charitable donations
+### Charitable donations — /ˈtʃæɹətəbəɫ/ /doʊˈneɪʃənz/
 
 **Definition**: money given to nonprofit organizations which help the poor or people in need of help.
 
@@ -575,7 +575,7 @@
 
 *Source*: [[business]]
 
-### Charter flight
+### Charter flight — /ˈtʃɑɹtɝ/ /flait/
 
 **Definition**: a cheap regular flight.
 
@@ -584,7 +584,7 @@
 
 *Source*: [[travel]]
 
-### Check-in desk
+### Check-in desk — /tʃek/ /ˈɪn/ /ˈdɛsk/
 
 **Definition**: the place at the airport where you register for your flight and deposit your luggage.
 
@@ -593,7 +593,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Childhood diseases
+### Childhood diseases — /ˈtʃaɪɫdˌhʊd/ /dɪˈzizəz/
 
 **Definition**: illnesses such as Mumps, Chickenpox, Measles, etc. typically caught in childhood.
 
@@ -602,7 +602,7 @@
 
 *Source*: [[health]]
 
-### Chronic disease
+### Chronic disease — /ˈkɹɑnɪk/ /diˈzi:z/
 
 **Definition**: a type of disease that persists over a long period of time.
 
@@ -611,7 +611,7 @@
 
 *Source*: [[health]]
 
-### Chronic illness = chronic disease
+### Chronic illness = chronic disease — /ˈkɹɑnɪk/ /ˈilnis/ /ˈkɹɑnɪk/ /diˈzi:z/
 
 **Definition**: a disease that persists for a long time and is difficult to cure.
 
@@ -620,7 +620,7 @@
 
 *Source*: [[health]]
 
-### Cinemagoer = moviegoer
+### Cinemagoer = moviegoer — /?/ /ˈmuˌviˌɡoʊɝ/
 
 **Definition**: a person who regularly goes to the cinema to watch films.
 
@@ -629,7 +629,7 @@
 
 *Source*: [[books-and-films]]
 
-### Circle of virtual friends
+### Circle of virtual friends — /sə:kl/ /ɔv/ /ˈvɝtʃuəɫ/ /ˈfɹɛndz/
 
 **Definition**: a group of friends whom you chat with online.
 
@@ -638,7 +638,7 @@
 
 *Source*: [[friends]]
 
-### City dwellers
+### City dwellers — /si:ti/ /ˈdwɛɫɝz/
 
 **Definition**: people who live in a city.
 
@@ -647,7 +647,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Classical music
+### Classical music — /ˈkɫæsɪkəɫ/ /mju:zik/
 
 **Definition**: music that is developed from a European tradition mainly in the 18th and 19th centuries.
 
@@ -656,7 +656,7 @@
 
 *Source*: [[music]]
 
-### Classified ads
+### Classified ads — /ˈkɫæsəˌfaɪd/ /ˈædz/
 
 **Definition**: a short advertisement that you put in a newspaper or magazine, usually because you want to sell something.
 
@@ -665,7 +665,7 @@
 
 *Source*: [[media]]
 
-### Clear sky
+### Clear sky — /ˈkɫɪɹ/ /skaɪ/
 
 **Definition**: a sky that is bright and clear.
 
@@ -673,7 +673,7 @@
 
 *Source*: [[environment]]
 
-### Close friends
+### Close friends — /klouz/ /ˈfɹɛndz/
 
 **Definition**: friends who know and understand each other very well.
 
@@ -682,7 +682,7 @@
 
 *Source*: [[friends]]
 
-### Cloudy weather
+### Cloudy weather — /ˈkɫaʊdi/ /weθə/
 
 **Definition**: (of the sky or weather) covered with a lot of clouds.
 
@@ -691,7 +691,7 @@
 
 *Source*: [[environment]]
 
-### Collective level
+### Collective level — /kəˈɫɛktɪv/ /levl/
 
 **Definition**: done by people acting as a group.
 
@@ -699,7 +699,7 @@
 
 *Source*: [[business]]
 
-### Commercial advertising
+### Commercial advertising — /kəˈmə:ʃl/ /ˈædvɝˌtaɪzɪŋ/
 
 **Definition**: advertising on the radio or television, between or during programmes that is typically for the purpose of educating consumers or promoting specific product or service.
 
@@ -708,7 +708,7 @@
 
 *Source*: [[media]]
 
-### Common cold
+### Common cold — /kɔmən/ /kould/
 
 **Definition**: a slight illness that a lot of people catch with symptoms like sneezing, coughing, runny nose and temperature.
 
@@ -717,7 +717,7 @@
 
 *Source*: [[health]]
 
-### Computer age
+### Computer age — /kəmˈpju:tə/ /eidʤ/
 
 **Definition**: the period in modern history characterized by the development and widespread use of computers.
 
@@ -726,7 +726,7 @@
 
 *Source*: [[technology]]
 
-### Computer buff
+### Computer buff — /kəmˈpju:tə/ /ˈbəf/
 
 **Definition**: a user who is very enthusiastic about computers.
 
@@ -734,7 +734,7 @@
 
 *Source*: [[technology]]
 
-### Concert venue
+### Concert venue — /kənˈsə:t/ /ˈvɛnju/
 
 **Definition**: a location used for a concert or musical performance.
 
@@ -743,7 +743,7 @@
 
 *Source*: [[music]]
 
-### Condo (short for condominium)
+### Condo (short for condominium) — /ˈkɑndoʊ/ /ʃɔ:t/ /fɔ:/ /ˌkɑndəˈmɪniəm/
 
 **Definition**: an apartment that someone owns in a building.
 
@@ -752,7 +752,7 @@
 
 *Source*: [[buildings]]
 
-### Construction site
+### Construction site — /kənˈstrʌkʃn/ /ˈsaɪt/
 
 **Definition**: an area of land where a building, etc, is built.
 
@@ -761,7 +761,7 @@
 
 *Source*: [[buildings]]
 
-### Contemporary music
+### Contemporary music — /kənˈtempərəri/ /mju:zik/
 
 **Definition**: modern music.
 
@@ -769,7 +769,7 @@
 
 *Source*: [[music]]
 
-### Core values
+### Core values — /kɔ:/ /ˈvæɫjuz/
 
 **Definition**: the most important values or fundamental beliefs of something.
 
@@ -778,7 +778,7 @@
 
 *Source*: [[business]]
 
-### Cost of living
+### Cost of living — /ˈkɑst/ /ɔv/ /liviŋ/
 
 **Definition**: the level of prices you pay for basic things such as food, clothes, shelter, and transport.
 
@@ -787,7 +787,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Couch potato
+### Couch potato — /ˈkaʊtʃ/ /pəˈteitou/
 
 **Definition**: somebody who is lazy and inactive.
 
@@ -796,7 +796,7 @@
 
 *Source*: [[family]]
 
-### Current affairs
+### Current affairs — /kʌrənt/ /əˈfɛɹz/
 
 **Definition**: political and social events that are happening now.
 
@@ -805,7 +805,7 @@
 
 *Source*: [[letter-c]]
 
-### Daily routine
+### Daily routine — /deili/ /ru:ˈti:n/
 
 **Definition**: the usual set of activities that you do at a particular time.
 
@@ -815,7 +815,7 @@
 
 *Source*: [[work]]
 
-### Daily routine
+### Daily routine — /deili/ /ru:ˈti:n/
 
 **Definition**: activities that you do every day.
 
@@ -824,7 +824,7 @@
 
 *Source*: [[free-time]]
 
-### Day off
+### Day off — /dei/ /ɔ:f/
 
 **Definition**: a day without going to work.
 
@@ -833,7 +833,7 @@
 
 *Source*: [[work]]
 
-### Dead-end job
+### Dead-end job — /ˌdɛˈdɛnd/ /dʒɔb/
 
 **Definition**: a job that has no prospects of promotion.
 
@@ -842,7 +842,7 @@
 
 *Source*: [[work]]
 
-### Degrees Celsius
+### Degrees Celsius — /dɪˈɡɹiz/ /ˈsɛɫsiəs/
 
 **Definition**: a temperature scale (used to measure the temperature).
 
@@ -851,7 +851,7 @@
 
 *Source*: [[environment]]
 
-### Dependence on
+### Dependence on — /dɪˈpɛndəns/ /ˈɑn/
 
 **Definition**: the state of needing something or someone all the time in order to survive or be successful.
 
@@ -860,7 +860,7 @@
 
 *Source*: [[letter-d]]
 
-### Desktop PC
+### Desktop PC — /ˈdɛskˌtɑp/ /ˈpiˈsi/
 
 **Definition**: a personal computer that remains on a desk and it is designed to be used by one person at home or in an office.
 
@@ -870,7 +870,7 @@
 
 *Source*: [[technology]]
 
-### Destination resorts
+### Destination resorts — /ˌdɛstəˈneɪʃən/ /ɹiˈsɔɹts/
 
 **Definition**: a place where tourists like to visit on vacation.
 
@@ -879,7 +879,7 @@
 
 *Source*: [[travel]]
 
-### Digital age
+### Digital age — /ˈdɪdʒətəɫ/ /eidʤ/
 
 **Definition**: a period when information is sent electronically.
 
@@ -888,7 +888,7 @@
 
 *Source*: [[technology]]
 
-### Digital camera
+### Digital camera — /ˈdɪdʒətəɫ/ /kæmərə/
 
 **Definition**: a camera that records and stores digital pictures and video in the form of electronic signals that can be looked at on a computer.
 
@@ -897,7 +897,7 @@
 
 *Source*: [[technology]]
 
-### Discount coupon
+### Discount coupon — /diskaunt/ /ˈkjuˌpɔn/
 
 **Definition**: a voucher that allows someone to pay less money than usual for an item.
 
@@ -906,7 +906,7 @@
 
 *Source*: [[business]]
 
-### Discount store
+### Discount store — /diskaunt/ /stɔ:/
 
 **Definition**: a store that sells goods at low prices.
 
@@ -915,7 +915,7 @@
 
 *Source*: [[money]]
 
-### Distance learning
+### Distance learning — /distəns/ /ˈɫɝnɪŋ/
 
 **Definition**: a system of education in which teachers and students do not meet in a classroom but use the Internet or TV programmes and e-mail to have classes.
 
@@ -924,7 +924,7 @@
 
 *Source*: [[education]]
 
-### Divorce rate
+### Divorce rate — /diˈvɔ:s/ /reit/
 
 **Definition**: the ratio between the number of divorces.
 
@@ -933,7 +933,7 @@
 
 *Source*: [[urbanisation]]
 
-### Domestic news
+### Domestic news — /dəˈmestik/ /nju:z/
 
 **Definition**: information about something that has happened recently of or inside a particular country.
 
@@ -942,7 +942,7 @@
 
 *Source*: [[media]]
 
-### Double income
+### Double income — /dʌbl/ /inkəm/
 
 **Definition**: two salaries.
 
@@ -951,7 +951,7 @@
 
 *Source*: [[family]]
 
-### Dream career
+### Dream career — /dri:m/ /kəˈriə/
 
 **Definition**: a job/profession that someone desires to have.
 
@@ -960,7 +960,7 @@
 
 *Source*: [[work]]
 
-### Dream job
+### Dream job — /dri:m/ /dʒɔb/
 
 **Definition**: a job that you love to do.
 
@@ -969,7 +969,7 @@
 
 *Source*: [[work]]
 
-### Drug trafficking
+### Drug trafficking — /drʌg/ /ˈtɹæfɪkɪŋ/
 
 **Definition**: trading drugs illegally.
 
@@ -978,7 +978,7 @@
 
 *Source*: [[law]]
 
-### Eager beaver
+### Eager beaver — /ˈiɡɝ/ /ˈbivɝ/
 
 **Definition**: someone who is extremely enthusiastic and works very hard.
 
@@ -987,7 +987,7 @@
 
 *Source*: [[work]]
 
-### Easy money
+### Easy money — /i:zi/ /mʌni/
 
 **Definition**: money that's made without working hard, and sometimes dishonestly earned.
 
@@ -996,7 +996,7 @@
 
 *Source*: [[law]]
 
-### Endangered species
+### Endangered species — /ɛnˈdeɪndʒɝd/ /ˈspiʃiz/
 
 **Definition**: a type of animal or plant that might become extinct.
 
@@ -1005,7 +1005,7 @@
 
 *Source*: [[environment]]
 
-### Environmentally friendly
+### Environmentally friendly — /ɪnˌvaɪɹənˈmɛnəɫi/ /ˈfrendli/
 
 **Definition**: not harmful to the environment.
 
@@ -1014,7 +1014,7 @@
 
 *Source*: [[environment]]
 
-### Ethnic groups
+### Ethnic groups — /ˈɛθnɪk/ /ˈɡɹups/
 
 **Definition**: a community or group of people who share a common cultural background or tradition.
 
@@ -1023,7 +1023,7 @@
 
 *Source*: [[travel]]
 
-### Ethnic minority
+### Ethnic minority — /ˈɛθnɪk/ /maiˈnɔriti/
 
 **Definition**: a group of people living in a country or area in which most people have a different culture and different traditions.
 
@@ -1032,7 +1032,7 @@
 
 *Source*: [[letter-e]]
 
-### Exercise machines
+### Exercise machines — /eksəsaiz/ /məˈʃinz/
 
 **Definition**: any machine used for physical exercise or training.
 
@@ -1041,7 +1041,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Exhaust emissions
+### Exhaust emissions — /ɪɡˈzɔst/ /ɪˈmɪʃənz/
 
 **Definition**: waste gases that are released from a vehicle and go into the air.
 
@@ -1050,7 +1050,7 @@
 
 *Source*: [[environment]]
 
-### Exhaust fumes
+### Exhaust fumes — /ɪɡˈzɔst/ /ˈfjumz/
 
 **Definition**: gases, ejected from an engine that is unpleasant, and sometimes dangerous.
 
@@ -1059,7 +1059,7 @@
 
 *Source*: [[environment]]
 
-### Expenditure = spending
+### Expenditure = spending — /ɪkˈspɛndətʃɝ/ /ˈspɛndɪŋ/
 
 **Definition**: the amount of money spent.
 
@@ -1068,7 +1068,7 @@
 
 *Source*: [[ielts-writing]]
 
-### Extended family
+### Extended family — /ɪkˈstɛndəd/ /ˈfæmili/
 
 **Definition**: a family unit including grandparents, parents, children, aunts, uncles, and other relatives.
 
@@ -1077,7 +1077,7 @@
 
 *Source*: [[family]]
 
-### Extra-curricular activities
+### Extra-curricular activities — /ekstrə/ /kɝˈɪkjəˌɫɝ/ /ækˈtɪvətiz/
 
 **Definition**: not falling within the scope of a regular course, work or studies in school or college.
 
@@ -1086,7 +1086,7 @@
 
 *Source*: [[education]]
 
-### Extracurricular activities
+### Extracurricular activities — /ˌɛkstɹəkɝˈɪkjəɫɝ/ /ækˈtɪvətiz/
 
 **Definition**: activities that students do at school or college that are not part of their course.
 
@@ -1095,7 +1095,7 @@
 
 *Source*: [[education]]
 
-### Extreme sports
+### Extreme sports — /iksˈtri:m/ /ˈspɔɹts/
 
 **Definition**: a sporting activity which is very dangerous and exciting.
 
@@ -1104,7 +1104,7 @@
 
 *Source*: [[health]]
 
-### Face-to-face learning
+### Face-to-face learning — /ˈfeɪstuˈfeɪs/ /ˈɫɝnɪŋ/
 
 **Definition**: to study in the traditional way, with the teacher and students present in the room.
 
@@ -1114,7 +1114,7 @@
 
 *Source*: [[education]]
 
-### Fair-weather friend
+### Fair-weather friend — /feə/ /weθə/ /frend/
 
 **Definition**: someone who only wants to be your good friend when you are cheerful and successful.
 
@@ -1123,7 +1123,7 @@
 
 *Source*: [[friends]]
 
-### Family ties
+### Family ties — /ˈfæmili/ /ˈtaɪz/
 
 **Definition**: family links or connections.
 
@@ -1132,7 +1132,7 @@
 
 *Source*: [[family]]
 
-### Far-off destination
+### Far-off destination — /fɑ:/ /ɔ:f/ /ˌdɛstəˈneɪʃən/
 
 **Definition**: an exciting place that is far away from where you are.
 
@@ -1141,7 +1141,7 @@
 
 *Source*: [[travel]]
 
-### Fast food chain
+### Fast food chain — /fa:st/ /fu:d/ /tʃeɪn/
 
 **Definition**: a network of restaurants serving fast food like McDonald's, KFC, etc.
 
@@ -1150,7 +1150,7 @@
 
 *Source*: [[business]]
 
-### Favorable conditions
+### Favorable conditions — /ˈfeɪvɝəbəɫ/ /kənˈdɪʃənz/
 
 **Definition**: good conditions.
 
@@ -1159,7 +1159,7 @@
 
 *Source*: [[travel]]
 
-### Fierce competition
+### Fierce competition — /ˈfɪɹs/ /
 
 **Definition**: strong competition/ tough competition.
 
@@ -1168,7 +1168,7 @@
 
 *Source*: [[letter-f]]
 
-### Flexible working hours
+### Flexible working hours — /ˈfɫɛksəbəɫ/ /ˈwə:kiŋ/ /ˈaʊɝz/
 
 **Definition**: a flexible schedule allows an employee to work hours that can be changed by agreement between the employer and the employee.
 
@@ -1177,7 +1177,7 @@
 
 *Source*: [[work]]
 
-### Folk music
+### Folk music — /ˈfoʊk/ /mju:zik/
 
 **Definition**: traditional music in a particular country, region, or community.
 
@@ -1186,7 +1186,7 @@
 
 *Source*: [[music]]
 
-### Food hygiene
+### Food hygiene — /fu:d/ /ˈhaɪˌdʒin/
 
 **Definition**: the clean and safety of food from production to consumption.
 
@@ -1194,7 +1194,7 @@
 
 *Source*: [[food]]
 
-### Football fan
+### Football fan — /ˈfʊtˌbɔl/ /fæn/
 
 **Definition**: someone who likes football.
 
@@ -1203,7 +1203,7 @@
 
 *Source*: [[health]]
 
-### Football season
+### Football season — /ˈfʊtˌbɔl/ /ˈsi:zən/
 
 **Definition**: a period when football is played.
 
@@ -1212,7 +1212,7 @@
 
 *Source*: [[health]]
 
-### Fossil fuels
+### Fossil fuels — /ˈfɑsəɫ/ /ˈfjuəɫz/
 
 **Definition**: energy resources like gas, coal and oil.
 
@@ -1221,7 +1221,7 @@
 
 *Source*: [[environment]]
 
-### Foster family
+### Foster family — /ˈfɑstɝ/ /ˈfæmili/
 
 **Definition**: a family that takes care of or bring up children whose parents are dead or unable to look after them.
 
@@ -1230,7 +1230,7 @@
 
 *Source*: [[family]]
 
-### Frame of mind
+### Frame of mind — /freim/ /ɔv/ /maid/
 
 **Definition**: the mood that someone is in.
 
@@ -1239,7 +1239,7 @@
 
 *Source*: [[travel]]
 
-### Full moon
+### Full moon — /ful/ /mu:n/
 
 **Definition**: the moon which is shaped like a complete disc and fully illuminated.
 
@@ -1248,7 +1248,7 @@
 
 *Source*: [[travel]]
 
-### Fussy eater
+### Fussy eater — /ˈfəsi/ /ˈitɝ/
 
 **Definition**: someone who is very picky about the food, eats very few things and constantly complains about the food.
 
@@ -1257,7 +1257,7 @@
 
 *Source*: [[food]]
 
-### Future workforce
+### Future workforce — /fju:tʃə/ /ˈwɝkˌfɔɹs/
 
 **Definition**: workers in the future.
 
@@ -1266,7 +1266,7 @@
 
 *Source*: [[work]]
 
-### Gap year
+### Gap year — /gæp/ /jə:/
 
 **Definition**: a year between leaving high school and starting university that someone spends on working or travelling.
 
@@ -1275,7 +1275,7 @@
 
 *Source*: [[education]]
 
-### Generation gap
+### Generation gap — /ˌdʒɛnəˈreɪʃən/ /gæp/
 
 **Definition**: the difference in attitude, experiences, opinions, habits, and behaviour between young and older people that causes a lack of understanding each other.
 
@@ -1284,7 +1284,7 @@
 
 *Source*: [[family]]
 
-### Generation gap
+### Generation gap — /ˌdʒɛnəˈreɪʃən/ /gæp/
 
 **Definition**: the difference in attitude, experiences, opinions, habits, and behaviour between young and older people that causes a lack of understanding each other.
 
@@ -1293,7 +1293,7 @@
 
 *Source*: [[family]]
 
-### Genres of music
+### Genres of music — /ˈʒɑnɹəz/ /ɔv/ /mju:zik/
 
 **Definition**: particular types or styles of music.
 
@@ -1302,7 +1302,7 @@
 
 *Source*: [[music]]
 
-### Genuine leather
+### Genuine leather — /ˈdʒenjuin/ /leðə/
 
 **Definition**: real leather.
 
@@ -1311,7 +1311,7 @@
 
 *Source*: [[letter-g]]
 
-### Global warming
+### Global warming — /ˈɡɫoʊbəɫ/ /ˈwɔɹmɪŋ/
 
 **Definition**: the gradual increase in temperature of the atmosphere of the Earth caused by high levels of carbon dioxide and other gases in the atmosphere.
 
@@ -1320,7 +1320,7 @@
 
 *Source*: [[environment]]
 
-### Global warming
+### Global warming — /ˈɡɫoʊbəɫ/ /ˈwɔɹmɪŋ/
 
 **Definition**: an increase in the amount of carbon dioxide in the atmosphere all-over the world, as a result of greenhouse effect.
 
@@ -1329,7 +1329,7 @@
 
 *Source*: [[environment]]
 
-### Golden opportunity
+### Golden opportunity — /ˈɡoʊɫdən/ /ˌɒpərˈtyunɪti/
 
 **Definition**: a very good opportunity or a chance to do something.
 
@@ -1338,7 +1338,7 @@
 
 *Source*: [[travel]]
 
-### Greenhouse effect
+### Greenhouse effect — /ˈɡɹinˌhaʊs/ /iˈfekt/
 
 **Definition**: the rise in temperature of the atmosphere due to the carbon dioxide and other gases.
 
@@ -1347,7 +1347,7 @@
 
 *Source*: [[environment]]
 
-### Guest workers
+### Guest workers — /gest/ /ˈwɝkɝz/
 
 **Definition**: people, usually from a poor country, are permitted to live and work temporarily in a richer country.
 
@@ -1356,7 +1356,7 @@
 
 *Source*: [[work]]
 
-### Guided tour
+### Guided tour — /ˈɡaɪdəd/ /tuə/
 
 **Definition**: a tour in which a group of people is guided by an expert who explains facts about the place.
 
@@ -1366,7 +1366,7 @@
 
 *Source*: [[travel]]
 
-### Health benefits
+### Health benefits — /hɛlθ/ /ˈbɛnəfɪts/
 
 **Definition**: great advantages for health.
 
@@ -1376,7 +1376,7 @@
 
 *Source*: [[health]]
 
-### Health problems
+### Health problems — /hɛlθ/ /ˈpɹɑbɫəmz/
 
 **Definition**: things that have bad effects on someone's health.
 
@@ -1386,7 +1386,7 @@
 
 *Source*: [[health]]
 
-### Healthy eating habits
+### Healthy eating habits — /helθi/ /ˈitɪŋ/ /ˈhæbəts/
 
 **Definition**: eating healthy food at regular times of the day.
 
@@ -1395,7 +1395,7 @@
 
 *Source*: [[food]]
 
-### Healthy relationship
+### Healthy relationship — /helθi/ /riˈleiʃәnʃip/
 
 **Definition**: good relationship.
 
@@ -1404,7 +1404,7 @@
 
 *Source*: [[family]]
 
-### Heavily fine
+### Heavily fine — /ˈhevili/ /fain/
 
 **Definition**: to charge someone a lot of money since he/she has violated a law or regulation.
 
@@ -1414,7 +1414,7 @@
 
 *Source*: [[law]]
 
-### Heavy snow
+### Heavy snow — /hevi/ /snou/
 
 **Definition**: when a lot of snow falls.
 
@@ -1424,7 +1424,7 @@
 
 *Source*: [[environment]]
 
-### Heavy traffic congestion
+### Heavy traffic congestion — /hevi/ /træfik/ /kənˈdʒɛstʃən/
 
 **Definition**: the state of having so many vehicles or people that it is difficult to move around.
 
@@ -1433,7 +1433,7 @@
 
 *Source*: [[urbanisation]]
 
-### Hi-fi devices
+### Hi-fi devices — /ˈhaɪˈfaɪ/ /dɪˈvaɪsəz/
 
 **Definition**: equipment which plays recorded music.
 
@@ -1442,7 +1442,7 @@
 
 *Source*: [[music]]
 
-### High degree of
+### High degree of — /hai/ /dɪˈgri:/ /ɔv/
 
 **Definition**: high level of.
 
@@ -1450,7 +1450,7 @@
 
 *Source*: [[letter-h]]
 
-### Higher education
+### Higher education — /ˈhaɪɝ/ /
 
 **Definition**: education beyond high school, usually provided by a college or university.
 
@@ -1459,7 +1459,7 @@
 
 *Source*: [[education]]
 
-### Historic site
+### Historic site — /hɪˈstɔɹɪk/ /ˈsaɪt/
 
 **Definition**: an official location where pieces of political, military have been preserved.
 
@@ -1468,7 +1468,7 @@
 
 *Source*: [[travel]]
 
-### Historical monument
+### Historical monument — /hisˈtɔrikəl/ /ˈmɑnjəmənt/
 
 **Definition**: ancient buildings, statues, or other structures that have historical importance.
 
@@ -1477,7 +1477,7 @@
 
 *Source*: [[buildings]]
 
-### Historical places
+### Historical places — /hisˈtɔrikəl/ /ˈpɫeɪsəz/
 
 **Definition**: places that have historical value due to some important events in the past.
 
@@ -1486,7 +1486,7 @@
 
 *Source*: [[travel]]
 
-### Holiday brochure
+### Holiday brochure — /hɔlədi/ /bɹoʊˈʃʊɹ/
 
 **Definition**: a small book or magazine containing details of the holiday.
 
@@ -1495,7 +1495,7 @@
 
 *Source*: [[travel]]
 
-### Holiday destination
+### Holiday destination — /hɔlədi/ /ˌdɛstəˈneɪʃən/
 
 **Definition**: the place to which people are going for a holiday.
 
@@ -1504,7 +1504,7 @@
 
 *Source*: [[travel]]
 
-### Holiday resort (tourist resort)
+### Holiday resort (tourist resort) — /hɔlədi/ /riˈzɔ:t/ /tuərist/ /riˈzɔ:t/
 
 **Definition**: a place where lots of people go for a holiday.
 
@@ -1513,7 +1513,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Home life
+### Home life — /hoʊm/ /laif/
 
 **Definition**: your life at home; private life.
 
@@ -1522,7 +1522,7 @@
 
 *Source*: [[letter-h]]
 
-### Home-cooked food
+### Home-cooked food — /hoʊm/ /ˈkʊkt/ /fu:d/
 
 **Definition**: (of food) prepared or cooked at home.
 
@@ -1531,7 +1531,7 @@
 
 *Source*: [[food]]
 
-### Homemade food
+### Homemade food — /ˈhoʊˈmeɪd/ /fu:d/
 
 **Definition**: food that is prepared at home, in a traditional way, by a real person.
 
@@ -1540,7 +1540,7 @@
 
 *Source*: [[food]]
 
-### Hordes of tourists
+### Hordes of tourists — /ˈhɔɹdz/ /ɔv/ /ˈtʊɹəsts/
 
 **Definition**: large crowds of tourists.
 
@@ -1549,7 +1549,7 @@
 
 *Source*: [[travel]]
 
-### Horror films
+### Horror films — /ˈhɔrə/ /ˈfɪɫmz/
 
 **Definition**: a film with a frightening storyline and atmosphere, especially the one about murders, frightening creatures, or evil people.
 
@@ -1558,7 +1558,7 @@
 
 *Source*: [[books-and-films]]
 
-### Host country
+### Host country — /houst/ /ˈkʌntri/
 
 **Definition**: a country hosting an event.
 
@@ -1567,7 +1567,7 @@
 
 *Source*: [[letter-h]]
 
-### Huge challenge
+### Huge challenge — /hjuːdʒ/ /tʃælindʤ/
 
 **Definition**: very big challenge; it's difficult or tough.
 
@@ -1576,7 +1576,7 @@
 
 *Source*: [[work]]
 
-### Immune system
+### Immune system — /ˌɪmˈjun/ /sistim/
 
 **Definition**: the bodily system that protects the body from infection and disease.
 
@@ -1584,7 +1584,7 @@
 
 *Source*: [[health]]
 
-### Interactive learning
+### Interactive learning — /ˌɪnɝˈæktɪv/ /ˈɫɝnɪŋ/
 
 **Definition**: refers to a method of teaching and learning in which teachers encourage students to be part of the lesson instead of passive observers (teachers and students acting with each other).
 
@@ -1593,7 +1593,7 @@
 
 *Source*: [[education]]
 
-### International hotel
+### International hotel — /intəˈnæʃən(ə)l/ /houˈtel/
 
 **Definition**: an international trade association providing lodging, meals, and other guest services on a short-term basis.
 
@@ -1601,7 +1601,7 @@
 
 *Source*: [[buildings]]
 
-### Interpersonal relationships
+### Interpersonal relationships — /ˌɪntɝˈpɝsənəɫ/ /ɹiˈɫeɪʃənˌʃɪps/
 
 **Definition**: a strong bond between 2 or more people.
 
@@ -1610,7 +1610,7 @@
 
 *Source*: [[family]]
 
-### Job opportunity
+### Job opportunity — /dʒɔb/ /ˌɒpərˈtyunɪti/
 
 **Definition**: an opportunity of employment.
 
@@ -1619,7 +1619,7 @@
 
 *Source*: [[work]]
 
-### Job prospects
+### Job prospects — /dʒɔb/ /ˈpɹɑspɛks/
 
 **Definition**: the possibility of being successful and having more opportunities at work.
 
@@ -1629,7 +1629,7 @@
 
 *Source*: [[work]]
 
-### Job satisfaction
+### Job satisfaction — /dʒɔb/ /
 
 **Definition**: a feeling of enjoyment that you derives from your job.
 
@@ -1639,7 +1639,7 @@
 
 *Source*: [[work]]
 
-### Job-hunting = job seeking, or job searching
+### Job-hunting = job seeking, or job searching — /dʒɔb/ /hʌntiŋ/ /dʒɔb/ /ˈsikɪŋ/ /ˈɔɹ/ /dʒɔb/ /ˈsɝtʃɪŋ/
 
 **Definition**: the act of looking for a job.
 
@@ -1648,14 +1648,14 @@
 
 *Source*: [[work]]
 
-### Kindergarten = pre-school education
+### Kindergarten = pre-school education — /ˈkɪndɝˌɡɑɹtən/ /ˈpɹi/ /sku:l/ /
 
 - Can you remember your kindergarten teacher's name?
 - He and I have been friends since kindergarten.
 
 *Source*: [[education]]
 
-### Known reasons
+### Known reasons — /ˈnoʊn/ /ˈɹizənz/
 
 **Definition**: reasons that people already know about.
 
@@ -1664,7 +1664,7 @@
 
 *Source*: [[letter-k]]
 
-### Learning atmosphere
+### Learning atmosphere — /ˈɫɝnɪŋ/ /ætməsfiə/
 
 **Definition**: the mood or feeling that exists in a class and affects the students who are there.
 
@@ -1673,7 +1673,7 @@
 
 *Source*: [[education]]
 
-### Learning environment
+### Learning environment — /ˈɫɝnɪŋ/ /inˈvaiərənmənt/
 
 **Definition**: the whole range of conditions and activities in which learning happens.
 
@@ -1682,7 +1682,7 @@
 
 *Source*: [[education]]
 
-### Leftover food
+### Leftover food — /ˈɫɛfˌtoʊvɝ/ /fu:d/
 
 **Definition**: the food that remains after a meal.
 
@@ -1691,7 +1691,7 @@
 
 *Source*: [[food]]
 
-### Leisure centre
+### Leisure centre — /ˈɫɛʒɝ/ /sentə/
 
 **Definition**: a large building containing a swimming pool and other places for exercising and playing different sports.
 
@@ -1700,7 +1700,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Level of competition
+### Level of competition — /levl/ /ɔv/ /
 
 **Definition**: the extent, or degree of a competition.
 
@@ -1708,7 +1708,7 @@
 
 *Source*: [[work]]
 
-### Life skills
+### Life skills — /laif/ /ˈskɪɫz/
 
 **Definition**: skills that are necessary, useful or important in everyday life.
 
@@ -1717,7 +1717,7 @@
 
 *Source*: [[work]]
 
-### Linguistic ability
+### Linguistic ability — /ɫɪŋˈɡwɪstɪk/ /əˈbiliti/
 
 **Definition**: the ability to master other languages.
 
@@ -1726,7 +1726,7 @@
 
 *Source*: [[education]]
 
-### Live broadcast
+### Live broadcast — /liv/ /brɔ:dkɑ:st/
 
 **Definition**: live programmes on television or radio.
 
@@ -1735,7 +1735,7 @@
 
 *Source*: [[media]]
 
-### Live concert
+### Live concert — /liv/ /kənˈsə:t/
 
 **Definition**: a music performance given by one or more singers that is taking place.
 
@@ -1743,7 +1743,7 @@
 
 *Source*: [[music]]
 
-### Live music
+### Live music — /liv/ /mju:zik/
 
 **Definition**: music played on instruments in front of an audience.
 
@@ -1752,7 +1752,7 @@
 
 *Source*: [[music]]
 
-### Living standards
+### Living standards — /liviŋ/ /ˈstændɝdz/
 
 **Definition**: the amount of money and level of comfort that people have in a particular society.
 
@@ -1761,7 +1761,7 @@
 
 *Source*: [[urbanisation]]
 
-### Local inhabitants
+### Local inhabitants — /ləʊk(ə)l/ /ɪnˈhæbətənts/
 
 **Definition**: people who live in the town.
 
@@ -1770,7 +1770,7 @@
 
 *Source*: [[travel]]
 
-### Look = appearance
+### Look = appearance — /luk/ /əˈpiərəns/
 
 **Definition**: the way that a person looks.
 
@@ -1779,7 +1779,7 @@
 
 *Source*: [[description]]
 
-### Loved ones
+### Loved ones — /ˈɫəvd/ /ˈwənz/
 
 **Definition**: people that you love, usually members of your family.
 
@@ -1788,7 +1788,7 @@
 
 *Source*: [[family]]
 
-### Low priority
+### Low priority — /lou/ /praiˈɔriti/
 
 **Definition**: something that you think is not urgent and less important than other things.
 
@@ -1797,7 +1797,7 @@
 
 *Source*: [[letter-l]]
 
-### Low-income people
+### Low-income people — /ˌɫoʊˈɪnkəm/ /ˈpipəl/
 
 **Definition**: poor people.
 
@@ -1806,7 +1806,7 @@
 
 *Source*: [[family]]
 
-### Manual work
+### Manual work — /ˈmænjuəɫ/ /wɜ:k/
 
 **Definition**: work involving the hands and physical strength, as opposed to an office job.
 
@@ -1815,7 +1815,7 @@
 
 *Source*: [[work]]
 
-### Market leader
+### Market leader — /mɑ:kit/ /ˈli:də/
 
 **Definition**: a company with the largest market share in an industry or sells the largest quantity of a particular product.
 
@@ -1824,7 +1824,7 @@
 
 *Source*: [[business]]
 
-### Mass media
+### Mass media — /mæs/ /ˈmi:diə/
 
 **Definition**: newspapers, magazines, television, radio, and the Internet.
 
@@ -1833,7 +1833,7 @@
 
 *Source*: [[media]]
 
-### Master's degree
+### Master's degree — /ˈmæstɝz/ /dɪˈgri:/
 
 **Definition**: an advanced college or university degree, which follows after bachelor's degree.
 
@@ -1842,7 +1842,7 @@
 
 *Source*: [[education]]
 
-### Mature student
+### Mature student — /məˈtʃʊɹ/ /stju:dnt/
 
 **Definition**: a student at a college or university who's older than others.
 
@@ -1851,7 +1851,7 @@
 
 *Source*: [[education]]
 
-### Meaningful lyrics
+### Meaningful lyrics — /ˈminɪŋfəɫ/ /ˈɫɪɹɪks/
 
 **Definition**: words in a song that are meaningful.
 
@@ -1860,7 +1860,7 @@
 
 *Source*: [[music]]
 
-### Means of transport
+### Means of transport — /mi:nz/ /ɔv/ /trænspɔ:t/
 
 **Definition**: all different types of transport that you can travel or carry goods in.
 
@@ -1869,7 +1869,7 @@
 
 *Source*: [[travel]]
 
-### Medical care
+### Medical care — /medikə/ /kɛər/
 
 **Definition**: health care provided by a medical professional.
 
@@ -1879,7 +1879,7 @@
 
 *Source*: [[urbanisation]]
 
-### Melody = rhyme
+### Melody = rhyme — /ˈmɛɫədi/ /ˈɹaɪm/
 
 **Definition**: a tune.
 
@@ -1888,7 +1888,7 @@
 
 *Source*: [[music]]
 
-### Mental health problem
+### Mental health problem — /mentl/ /hɛlθ/ /prɔbləm/
 
 **Definition**: related to the physical illness of one's mind.
 
@@ -1897,7 +1897,7 @@
 
 *Source*: [[health]]
 
-### Mild climate
+### Mild climate — /maɪld/ /klaimit/
 
 **Definition**: a climate with pleasant conditions.
 
@@ -1906,7 +1906,7 @@
 
 *Source*: [[environment]]
 
-### Modes of transport = means of transport
+### Modes of transport = means of transport — /ˈmoʊdz/ /ɔv/ /trænspɔ:t/ /mi:nz/ /ɔv/ /trænspɔ:t/
 
 **Definition**: particular types of transport.
 
@@ -1915,7 +1915,7 @@
 
 *Source*: [[urbanisation]]
 
-### Muscular development
+### Muscular development — /ˈməskjəɫɝ/ /di’velәpmәnt/
 
 **Definition**: the process of making muscles become stronger.
 
@@ -1923,7 +1923,7 @@
 
 *Source*: [[letter-m]]
 
-### Musical instrument
+### Musical instrument — /ˈmyuzɪkəl/ /instrumənt/
 
 **Definition**: an object such as a violin, piano, flute or drum that you use to make music.
 
@@ -1932,7 +1932,7 @@
 
 *Source*: [[music]]
 
-### Mutual friend
+### Mutual friend — /ˈmjutʃuəɫ/ /frend/
 
 **Definition**: a friend who is shared by two people.
 
@@ -1941,7 +1941,7 @@
 
 *Source*: [[friends]]
 
-### Natural disaster
+### Natural disaster — /nætʃrəl/ /diˈzɑ:stə/
 
 **Definition**: a natural event such as a flood, earthquake, or hurricane that causes great damage or loss of life.
 
@@ -1950,7 +1950,7 @@
 
 *Source*: [[environment]]
 
-### Negative factor
+### Negative factor — /ˈnegətiv/ /fæktə/
 
 **Definition**: factor that is not good and negatively affects something else.
 
@@ -1959,7 +1959,7 @@
 
 *Source*: [[letter-n]]
 
-### Nervous breakdown
+### Nervous breakdown — /ˈnɜrvəs/ /ˈbɹeɪkˌdaʊn/
 
 **Definition**: a serious mental illness resulting from severe depression, insomnia, and anxiety.
 
@@ -1969,7 +1969,7 @@
 
 *Source*: [[health]]
 
-### Night lamp = night light
+### Night lamp = night light — /nait/ /læmp/ /nait/ /lait/
 
 **Definition**: a lamp kept burning during the night, especially in a bedroom.
 
@@ -1977,7 +1977,7 @@
 
 *Source*: [[letter-n]]
 
-### No-stopping zones = No parking areas
+### No-stopping zones = No parking areas — /ˈnoʊ/ /ˈstɑpɪŋ/ /ˈzoʊnz/ /ˈnoʊ/ /ˈpɑɹkɪŋ/ /ˈɛɹiəz/
 
 **Definition**: areas in which you are not permitted to stop or park your car or other vehicles.
 
@@ -1986,7 +1986,7 @@
 
 *Source*: [[travel]]
 
-### Notable drawbacks
+### Notable drawbacks — /ˈnoʊtəbəɫ/ /ˈdɹɔˌbæks/
 
 **Definition**: disadvantages which are important to note.
 
@@ -1995,7 +1995,7 @@
 
 *Source*: [[letter-n]]
 
-### Nuclear family
+### Nuclear family — /nju:kliз/ /ˈfæmili/
 
 **Definition**: a family that consists of parents and children.
 
@@ -2004,7 +2004,7 @@
 
 *Source*: [[family]]
 
-### Nursing home
+### Nursing home — /ˈnɝsɪŋ/ /hoʊm/
 
 **Definition**: an institution where old people live to receive medical treatment and care.
 
@@ -2013,7 +2013,7 @@
 
 *Source*: [[urbanisation]]
 
-### Online scams = Internet fraud
+### Online scams = Internet fraud — /ˈɔnˌɫaɪn/ /ˈskæmz/ /intə/ /ˈfɹɔd/
 
 **Definition**: a type of fraud performed by a dishonest individual, group who makes use of the Internet in order to make money.
 
@@ -2022,7 +2022,7 @@
 
 *Source*: [[media]]
 
-### Package holiday
+### Package holiday — /pæk.ɪdʒ/ /hɔlədi/
 
 **Definition**: a vacation arranged by a travel company for a fixed price, with arrangements for transportation, accommodations, and sometimes meals and entertainment.
 
@@ -2031,7 +2031,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Package tour
+### Package tour — /pæk.ɪdʒ/ /tuə/
 
 **Definition**: a holiday at a fixed price organized by a travel agent including transportation, accommodations, etc.
 
@@ -2040,7 +2040,7 @@
 
 *Source*: [[travel]]
 
-### Page turner
+### Page turner — /peidʒ/ /ˈtɝnɝ/
 
 **Definition**: a book that is very interesting or exciting that you want to read it quickly.
 
@@ -2050,7 +2050,7 @@
 
 *Source*: [[books-and-films]]
 
-### Pay rise
+### Pay rise — /pei/ /raiz/
 
 **Definition**: an increase in your salary for doing your job.
 
@@ -2059,7 +2059,7 @@
 
 *Source*: [[work]]
 
-### Peak traffic hours
+### Peak traffic hours — /pi:k/ /træfik/ /ˈaʊɝz/
 
 **Definition**: the time of day when traffic is at its heaviest.
 
@@ -2068,7 +2068,7 @@
 
 *Source*: [[urbanisation]]
 
-### Physical fitness
+### Physical fitness — /ˈfizikl/ /ˈfɪtnəs/
 
 **Definition**: good health and strength achieved through sports, occupations, daily activities, and exercise.
 
@@ -2078,7 +2078,7 @@
 
 *Source*: [[health]]
 
-### Picturesque village
+### Picturesque village — /ˈpɪktʃɝəsk/ /ˈvɪlɪdʒ/
 
 **Definition**: a nice, beautiful, attractive village, especially because it is old and interesting.
 
@@ -2087,7 +2087,7 @@
 
 *Source*: [[travel]]
 
-### Piece of advice
+### Piece of advice — /pi:s/ /ɔv/ /ədˈvais/
 
 **Definition**: a suggestion about what somebody should do in a particular situation.
 
@@ -2096,7 +2096,7 @@
 
 *Source*: [[family]]
 
-### Places of interest
+### Places of interest — /ˈpɫeɪsəz/ /ɔv/ /ˈɪntərest/
 
 **Definition**: a place that is famous for its scenery or historical sites.
 
@@ -2105,7 +2105,7 @@
 
 *Source*: [[travel]]
 
-### Plant foods
+### Plant foods — /ˈpɫænt/ /ˈfudz/
 
 **Definition**: a number of types of food derived from plants, including vegetables, whole grains, nuts, seeds, etc.
 
@@ -2115,7 +2115,7 @@
 
 *Source*: [[food]]
 
-### Plastic surgery
+### Plastic surgery — /plæstik/ /ˈsɝdʒɝi/
 
 **Definition**: operation to reshape, remodel or resize body parts, especially by the transfer of tissue, either in the treatment of injury or for cosmetic reasons.
 
@@ -2124,7 +2124,7 @@
 
 *Source*: [[health]]
 
-### Pop music
+### Pop music — /ˈpɑp/ /mju:zik/
 
 **Definition**: a type of music that is popular with many people at a particular time.
 
@@ -2133,7 +2133,7 @@
 
 *Source*: [[music]]
 
-### Portable device
+### Portable device — /ˈpɔɹtəbəɫ/ /diˈvais/
 
 **Definition**: any device that can easily be held, carried or moved.
 
@@ -2142,7 +2142,7 @@
 
 *Source*: [[letter-p]]
 
-### Postgraduate school
+### Postgraduate school — /?/ /sku:l/
 
 **Definition**: a school that awards advanced academic degrees.
 
@@ -2151,7 +2151,7 @@
 
 *Source*: [[education]]
 
-### Primary school
+### Primary school — /praiməri/ /sku:l/
 
 **Definition**: a school for children between the ages of five and eleven.
 
@@ -2161,7 +2161,7 @@
 
 *Source*: [[education]]
 
-### Processed food
+### Processed food — /ˈpɹɑsɛst/ /fu:d/
 
 **Definition**: food that has been treated or prepared in an unhealthy way to achieve its current state.
 
@@ -2170,7 +2170,7 @@
 
 *Source*: [[food]]
 
-### Public schools
+### Public schools — /pʌblik/ /ˈskuɫz/
 
 **Definition**: a school that is supported and paid for by the government.
 
@@ -2179,7 +2179,7 @@
 
 *Source*: [[education]]
 
-### Quality time
+### Quality time — /kwɔliti/ /taim/
 
 **Definition**: time that you spend with only one person in order to strengthen a relationship.
 
@@ -2188,7 +2188,7 @@
 
 *Source*: [[time]]
 
-### Quick snack
+### Quick snack — /kwik/ /ˈsnæk/
 
 **Definition**: a small portion of food that is eaten quickly between meals.
 
@@ -2197,7 +2197,7 @@
 
 *Source*: [[food]]
 
-### Rainy weather
+### Rainy weather — /ˈɹeɪni/ /weθə/
 
 **Definition**: (of the weather) to rain a lot.
 
@@ -2206,7 +2206,7 @@
 
 *Source*: [[environment]]
 
-### Ready meal
+### Ready meal — /redi/ /mi:l/
 
 **Definition**: a meal that you buy at a shop already cooked and which you only have to heat it before eating it.
 
@@ -2215,7 +2215,7 @@
 
 *Source*: [[travel]]
 
-### Reference book
+### Reference book — /refərəns/ /buk/
 
 **Definition**: a book that is intended to be used for information on specific matters, for example, a dictionary, encyclopedia, atlas etc.
 
@@ -2224,7 +2224,7 @@
 
 *Source*: [[books-and-films]]
 
-### Reliance [on]
+### Reliance [on] — /ɹiˈɫaɪəns/ /ˈɑn/
 
 **Definition**: a synonym for “dependence on”: the state of needing something or someone all the time in order to survive or be successful.
 
@@ -2233,7 +2233,7 @@
 
 *Source*: [[technology]]
 
-### Relics of the past
+### Relics of the past — /ˈɹɛɫɪks/ /ɔv/ /ˈðə/ /ˈpæst/
 
 **Definition**: old objects that have survived from the past.
 
@@ -2241,7 +2241,7 @@
 
 *Source*: [[travel]]
 
-### Renewable energy
+### Renewable energy — /ɹiˈnuəbəɫ/ /ˈɛnərdʒi/
 
 **Definition**: energy from a source that is not depleted when used, such as wind or solar power so that there is no danger that it will finish.
 
@@ -2250,7 +2250,7 @@
 
 *Source*: [[business]]
 
-### Residential areas
+### Residential areas — /ˌɹɛzɪˈdɛnʃəɫ/ /ˈɛɹiəz/
 
 **Definition**: places with private houses in which people live.
 
@@ -2259,7 +2259,7 @@
 
 *Source*: [[urbanisation]]
 
-### Respiratory disorder
+### Respiratory disorder — /ˈɹɛspɝəˌtɔɹi/ /dɪˈsɔɹdɝ/
 
 **Definition**: an illness or problems affecting the respiratory system.
 
@@ -2268,7 +2268,7 @@
 
 *Source*: [[letter-r]]
 
-### Retail staff
+### Retail staff — /ˈɹiˌteɪɫ/ /sta:f/
 
 **Definition**: employees who sell products to the public.
 
@@ -2277,7 +2277,7 @@
 
 *Source*: [[work]]
 
-### Retirement home
+### Retirement home — /rɪˈtaɪərmənt/ /hoʊm/
 
 **Definition**: a house in which old people live and are cared for by staff.
 
@@ -2286,7 +2286,7 @@
 
 *Source*: [[urbanisation]]
 
-### Rock band
+### Rock band — /rɔk/ /bænd/
 
 **Definition**: a band of musicians who play rock music together.
 
@@ -2295,7 +2295,7 @@
 
 *Source*: [[music]]
 
-### Rock climbing
+### Rock climbing — /rɔk/ /ˈklaimiŋ/
 
 **Definition**: the activity of climbing rocky cliffs, as a hobby or sport.
 
@@ -2304,7 +2304,7 @@
 
 *Source*: [[free-time]]
 
-### Rock music
+### Rock music — /rɔk/ /mju:zik/
 
 **Definition**: music that is developed from rock 'n' roll.
 
@@ -2313,7 +2313,7 @@
 
 *Source*: [[music]]
 
-### Role model
+### Role model — /roul/ /ˈmɒdl/
 
 **Definition**: a person who is looked up to and imitated by someone else.
 
@@ -2322,7 +2322,7 @@
 
 *Source*: [[family]]
 
-### Roller coaster
+### Roller coaster — /ˈɹoʊɫɝ/ /ˈkoʊstɝ/
 
 **Definition**: a structure like a tall railway with steep slopes that goes up and down at a high speed.
 
@@ -2332,7 +2332,7 @@
 
 *Source*: [[free-time]]
 
-### Schoolboy error
+### Schoolboy error — /ˈskuɫˌbɔɪ/ /erə/
 
 **Definition**: a very simple, basic and foolish mistake.
 
@@ -2341,7 +2341,7 @@
 
 *Source*: [[education]]
 
-### Sci-fi = science fiction
+### Sci-fi = science fiction — /ˌsaɪˈfaɪ/ /saiəns/ /ˈfɪkʃən/
 
 **Definition**: a form of fiction based on imagined future science.
 
@@ -2350,7 +2350,7 @@
 
 *Source*: [[books-and-films]]
 
-### Seaside resort
+### Seaside resort — /ˈsiˌsaɪd/ /riˈzɔ:t/
 
 **Definition**: a resort town or resort hotel, located on the coast where people spend holidays.
 
@@ -2359,7 +2359,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Secondary school
+### Secondary school — /ˈsekəndəri/ /sku:l/
 
 **Definition**: a school for children who are aged from 11, 16 to 18.
 
@@ -2368,7 +2368,7 @@
 
 *Source*: [[education]]
 
-### Sedentary lifestyle
+### Sedentary lifestyle — /ˈsɛdənˌtɛɹi/ /ˈɫaɪfˌstaɪɫ/
 
 **Definition**: lifestyle with little or no physical activity.
 
@@ -2377,7 +2377,7 @@
 
 *Source*: [[health]]
 
-### Sex discrimination
+### Sex discrimination — /seks/ /dɪsˌkɹɪməˈneɪʃən/
 
 **Definition**: the practice of treating somebody or a particular group in society unequally because of their gender.
 
@@ -2386,7 +2386,7 @@
 
 *Source*: [[letter-s]]
 
-### Sick leave
+### Sick leave — /ˈsɪk/ /li:v/
 
 **Definition**: paid absence from work because of illness.
 
@@ -2395,7 +2395,7 @@
 
 *Source*: [[health]]
 
-### Sick pay
+### Sick pay — /ˈsɪk/ /pei/
 
 **Definition**: money that you are given by an employer when you are unable to work because of illness.
 
@@ -2404,7 +2404,7 @@
 
 *Source*: [[work]]
 
-### Single-parent family
+### Single-parent family — /siŋgl/ /peərənt/ /ˈfæmili/
 
 **Definition**: someone who brings up a child or children alone, without a partner.
 
@@ -2413,7 +2413,7 @@
 
 *Source*: [[family]]
 
-### Single-sex schools
+### Single-sex schools — /siŋgl/ /seks/ /ˈskuɫz/
 
 **Definition**: schools that have only one sex (for either boys or girls).
 
@@ -2422,7 +2422,7 @@
 
 *Source*: [[education]]
 
-### Slap-up meal
+### Slap-up meal — /ˈsɫæp/ /Λp/ /mi:l/
 
 **Definition**: a large and very good meal.
 
@@ -2431,7 +2431,7 @@
 
 *Source*: [[food]]
 
-### Slot machine
+### Slot machine — /ˈsɫɑt/ /məˈʃi:n/
 
 **Definition**: a machine that you put coins into to play gambling games.
 
@@ -2440,7 +2440,7 @@
 
 *Source*: [[free-time]]
 
-### Social and cultural life
+### Social and cultural life — /souʃl/ /ˈænd/ /ˈkʌltʃərəl/ /laif/
 
 **Definition**: ways of life.
 
@@ -2449,7 +2449,7 @@
 
 *Source*: [[education]]
 
-### Social isolation
+### Social isolation — /souʃl/ /ˌaɪsəˈɫeɪʃən/
 
 **Definition**: the state of isolating/separating someone from society.
 
@@ -2458,7 +2458,7 @@
 
 *Source*: [[letter-s]]
 
-### Solid evidence
+### Solid evidence — /sɔlid/ /evidəns/
 
 **Definition**: very convincing evidence.
 
@@ -2467,7 +2467,7 @@
 
 *Source*: [[law]]
 
-### Soul mate
+### Soul mate — /soʊl/ /meit/
 
 **Definition**: someone with whom you have a special relationship with because you share the same feelings, attitudes, and beliefs.
 
@@ -2476,7 +2476,7 @@
 
 *Source*: [[friends]]
 
-### Sound advice
+### Sound advice — /ˈsaʊnd/ /ədˈvais/
 
 **Definition**: good advice.
 
@@ -2485,7 +2485,7 @@
 
 *Source*: [[friends]]
 
-### Sound reasons
+### Sound reasons — /ˈsaʊnd/ /ˈɹizənz/
 
 **Definition**: good and sensible reasons.
 
@@ -2494,7 +2494,7 @@
 
 *Source*: [[letter-s]]
 
-### Spare time
+### Spare time — /speə/ /taim/
 
 **Definition**: leisure time (time when you do not have to work or study).
 
@@ -2503,7 +2503,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Sports centre (fitness centre)
+### Sports centre (fitness centre) — /ˈspɔɹts/ /sentə/ /ˈfɪtnəs/ /sentə/
 
 **Definition**: a specific building where people can play different sports and other activities.
 
@@ -2512,7 +2512,7 @@
 
 *Source*: [[health]]
 
-### Sports facilities
+### Sports facilities — /ˈspɔɹts/ /fəˈsɪɫətiz/
 
 **Definition**: the equipment and services for doing sports.
 
@@ -2521,7 +2521,7 @@
 
 *Source*: [[health]]
 
-### Studio flat
+### Studio flat — /ˈstju:diou/ /flæt/
 
 **Definition**: an apartment containing one main room, a kitchen, and a bathroom.
 
@@ -2531,7 +2531,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Stuffed bear
+### Stuffed bear — /ˈstəft/ /beə/
 
 **Definition**: a stuffed toy in the shape of a bear.
 
@@ -2540,7 +2540,7 @@
 
 *Source*: [[letter-s]]
 
-### Sunny weather
+### Sunny weather — /ˈsəni/ /weθə/
 
 **Definition**: (of the weather) with a lot of bright light from the sun.
 
@@ -2550,7 +2550,7 @@
 
 *Source*: [[environment]]
 
-### Surveillance cameras
+### Surveillance cameras — /sɝˈveɪɫəns/ /ˈkæmɝəz/
 
 **Definition**: video cameras used for the purpose of observing an area where a crime may be committed.
 
@@ -2559,7 +2559,7 @@
 
 *Source*: [[law]]
 
-### Sweated labour
+### Sweated labour — /ˈswɛtɪd/ /leibз/
 
 **Definition**: hard work that is done by people who work for long hours for low wages in poor conditions.
 
@@ -2568,7 +2568,7 @@
 
 *Source*: [[work]]
 
-### Technology gadget
+### Technology gadget — /tekˈnɔlədʤi/ /ˈɡædʒət/
 
 **Definition**: a small device or machine that has a particular function.
 
@@ -2576,7 +2576,7 @@
 
 *Source*: [[technology]]
 
-### Tertiary education/higher education
+### Tertiary education/higher education — /ˈtɝʃɝi/ / /ˈhaɪɝ/ /
 
 **Definition**: education for people at college or university level.
 
@@ -2585,7 +2585,7 @@
 
 *Source*: [[education]]
 
-### The crime rate
+### The crime rate — /ˈðə/ /kraim/ /reit/
 
 **Definition**: the ratio of crimes in a particular area during a period of time.
 
@@ -2595,7 +2595,7 @@
 
 *Source*: [[law]]
 
-### The hectic pace of life
+### The hectic pace of life — /ˈðə/ /ˈhɛktɪk/ /peis/ /ɔv/ /laif/
 
 **Definition**: a life that is almost always very busy or chaotic.
 
@@ -2605,7 +2605,7 @@
 
 *Source*: [[urbanisation]]
 
-### The holiday of a lifetime
+### The holiday of a lifetime — /ˈðə/ /hɔlədi/ /ɔv/ /ˈeɪ/ /ˈɫaɪfˌtaɪm/
 
 **Definition**: a very special holiday or the best holiday that you will ever have (you will only take once).
 
@@ -2614,7 +2614,7 @@
 
 *Source*: [[travel]]
 
-### The in-laws
+### The in-laws — /ˈðə/ /ɪnˈɫɔz/
 
 **Definition**: the parents and relatives of your husband or wife.
 
@@ -2623,7 +2623,7 @@
 
 *Source*: [[family]]
 
-### The lungs of the city
+### The lungs of the city — /ˈðə/ /ˈɫəŋz/ /ɔv/ /ˈðə/ /si:ti/
 
 **Definition**: places in the city where the air is less polluted.
 
@@ -2632,7 +2632,7 @@
 
 *Source*: [[urbanisation]]
 
-### The main meal
+### The main meal — /ˈðə/ /mein/ /mi:l/
 
 **Definition**: the most important or largest meal of the day.
 
@@ -2641,13 +2641,13 @@
 
 *Source*: [[food]]
 
-### The naked eye
+### The naked eye — /ˈðə/ /neikid/ /ai/
 
 **Definition**: the normal power of your eye without the help of any special device for making images larger (a telescope, microscope, or other devices.) You can see it with the naked eye. Bacteria are invisible to the naked eye.
 
 *Source*: [[letter-n]]
 
-### The needy
+### The needy — /ˈðə/ /ˈnidi/
 
 **Definition**: poor people.
 
@@ -2656,7 +2656,7 @@
 
 *Source*: [[letter-n]]
 
-### The rush hour
+### The rush hour — /ˈðə/ /rʌʃ/ /auз/
 
 **Definition**: a time during each day when the roads are full of traffic.
 
@@ -2665,7 +2665,7 @@
 
 *Source*: [[urbanisation]]
 
-### The shore
+### The shore — /ˈðə/ /ˈʃɔɹ/
 
 **Definition**: the land along the edge of a sea, lake or river.
 
@@ -2674,7 +2674,7 @@
 
 *Source*: [[letter-s]]
 
-### The world of work
+### The world of work — /ˈðə/ /wɜ:ld/ /ɔv/ /wɜ:k/
 
 **Definition**: the job market; types of work and the possibilities for employment.
 
@@ -2684,7 +2684,7 @@
 
 *Source*: [[work]]
 
-### Ties of kinship
+### Ties of kinship — /ˈtaɪz/ /ɔv/ /ˈkɪnˌʃɪp/
 
 **Definition**: the fact of being related to the link or the relationship between members of the same family.
 
@@ -2693,7 +2693,7 @@
 
 *Source*: [[family]]
 
-### Tour guide
+### Tour guide — /tuə/ /gaɪd/
 
 **Definition**: a person employed to show tourists around places of interest and explain its history, architecture etc.
 
@@ -2702,7 +2702,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Tourist attraction
+### Tourist attraction — /tuərist/ /əˈtrækʃn/
 
 **Definition**: a place to visit for pleasure and interest that is very popular with tourists.
 
@@ -2711,7 +2711,7 @@
 
 *Source*: [[travel]]
 
-### Tourist trap
+### Tourist trap — /tuərist/ /træp/
 
 **Definition**: a place such as a restaurant, shop, or hotel that is visited by many tourists and usually is expensive.
 
@@ -2720,7 +2720,7 @@
 
 *Source*: [[travel]]
 
-### Toxic waste
+### Toxic waste — /ˈtɑksɪk/ /weɪst/
 
 **Definition**: industrial or chemical waste materials that are harmful to living things and the environment.
 
@@ -2729,7 +2729,7 @@
 
 *Source*: [[environment]]
 
-### Traffic jam
+### Traffic jam — /træfik/ /dʒæm/
 
 **Definition**: a situation in which a lot of vehicles are very close together so that they cannot move forward.
 
@@ -2739,7 +2739,7 @@
 
 *Source*: [[urbanisation]]
 
-### Training course
+### Training course — /trainiŋ/ /kɔ:s/
 
 **Definition**: a course providing training in a particular field or profession.
 
@@ -2747,7 +2747,7 @@
 
 *Source*: [[work]]
 
-### Transferable skills
+### Transferable skills — /tɹænsˈfɝəbəɫ/ /ˈskɪɫz/
 
 **Definition**: skills that are used in different jobs or different situations.
 
@@ -2756,7 +2756,7 @@
 
 *Source*: [[work]]
 
-### Transmission of knowledge
+### Transmission of knowledge — /tɹænsˈmɪʃən/ /ɔv/ /nɒliʤ/
 
 **Definition**: the process of passing knowledge from one person to another.
 
@@ -2765,7 +2765,7 @@
 
 *Source*: [[education]]
 
-### Travel agency
+### Travel agency — /trævl/ /eidʤənsi/
 
 **Definition**: an agency that helps travelers plan holidays and make travel arrangements, especially transportation, accommodations, tours, and trips.
 
@@ -2774,7 +2774,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Tuition fees
+### Tuition fees — /tjuˈɪʃən/ /ˈfiz/
 
 **Definition**: the amount of money that you pay for your education.
 
@@ -2783,7 +2783,7 @@
 
 *Source*: [[education]]
 
-### Upper class
+### Upper class — /ˈʌpə/ /klɑ:s/
 
 **Definition**: a group of people who have the highest social rank and wealth.
 
@@ -2792,7 +2792,7 @@
 
 *Source*: [[family]]
 
-### Vocational school
+### Vocational school — /voʊˈkeɪʃənəɫ/ /sku:l/
 
 **Definition**: a school which provides students with the special skills and education that they need to do a particular job.
 
@@ -2801,7 +2801,7 @@
 
 *Source*: [[education]]
 
-### Vocational training
+### Vocational training — /voʊˈkeɪʃənəɫ/ /trainiŋ/
 
 **Definition**: training that emphasizes skills and knowledge required for a particular job.
 
@@ -2809,7 +2809,7 @@
 
 *Source*: [[education]]
 
-### Voluntary activities
+### Voluntary activities — /ˈvɑɫəntɛɹi/ /ækˈtɪvətiz/
 
 **Definition**: activities that people do on a voluntary basis, without getting paid, they do it volunteers.
 
@@ -2818,7 +2818,7 @@
 
 *Source*: [[health]]
 
-### Waste treatment
+### Waste treatment — /weɪst/ /tri:tmənt/
 
 **Definition**: the treatment of materials that are no longer used.
 
@@ -2827,7 +2827,7 @@
 
 *Source*: [[environment]]
 
-### Wildlife safari
+### Wildlife safari — /ˈwaɪɫdˌɫaɪf/ /səˈfɑɹi/
 
 **Definition**: an observational holiday, mainly in Africa.
 
@@ -2836,7 +2836,7 @@
 
 *Source*: [[travel]]
 
-### Windy weather
+### Windy weather — /ˈwaɪndi/ /weθə/
 
 **Definition**: (of the weather) with a lot of wind.
 
@@ -2845,7 +2845,7 @@
 
 *Source*: [[environment]]
 
-### Work environment
+### Work environment — /wɜ:k/ /inˈvaiərənmənt/
 
 **Definition**: the surrounding conditions in which you work in.
 
@@ -2854,7 +2854,7 @@
 
 *Source*: [[work]]
 
-### Work experience
+### Work experience — /wɜ:k/ /iksˈpiəriəns/
 
 **Definition**: the experience and skills that you gain while working in a specific field or occupation.
 
@@ -2864,7 +2864,7 @@
 
 *Source*: [[work]]
 
-### Working environment
+### Working environment — /ˈwə:kiŋ/ /inˈvaiərənmənt/
 
 **Definition**: location where a task is completed.
 
@@ -2873,7 +2873,7 @@
 
 *Source*: [[work]]
 
-### Working mothers
+### Working mothers — /ˈwə:kiŋ/ /ˈməðɝz/
 
 **Definition**: women who work outside the home and also have to take care of their children at home.
 
@@ -2882,7 +2882,7 @@
 
 *Source*: [[family]]
 
-### Working parents
+### Working parents — /ˈwə:kiŋ/ /ˈpɛɹənts/
 
 **Definition**: parents who both engages in a work life (go out to work).
 
@@ -2891,7 +2891,7 @@
 
 *Source*: [[family]]
 
-### Works of craftsmanship
+### Works of craftsmanship — /ˈwɝks/ /ɔv/ /ˈkɹæfsmənˌʃɪp/
 
 **Definition**: objects made by people who are very skilled at making things by hand.
 
@@ -2900,7 +2900,7 @@
 
 *Source*: [[work]]
 
-### Youth hostel
+### Youth hostel — /ju:θ/ /ˈhɑstəɫ/
 
 **Definition**: a cheap hotel where young people can stay for a short period of time.
 
@@ -2911,7 +2911,7 @@
 
 ## Verbs
 
-### (To) accomplish
+### (To) accomplish — /ˈtu/ /əˈkɑmpɫɪʃ/
 
 **Definition**: to succeed in doing something; to achieve or complete something successfully.
 
@@ -2920,7 +2920,7 @@
 
 *Source*: [[family]]
 
-### (To) address
+### (To) address — /ˈtu/ /əˈdres/
 
 **Definition**: to deal with a problem.
 
@@ -2929,7 +2929,7 @@
 
 *Source*: [[letter-a]]
 
-### (To) appeal to sb/sth
+### (To) appeal to sb/sth — /ˈtu/ /əˈpi:l/ /ˈtu/ /?/ /?/
 
 **Definition**: to attract or interest someone or something.
 
@@ -2938,7 +2938,7 @@
 
 *Source*: [[family]]
 
-### (To) aspire to
+### (To) aspire to — /ˈtu/ /əˈspaɪɹ/ /ˈtu/
 
 **Definition**: to have a strong desire to achieve something.
 
@@ -2947,7 +2947,7 @@
 
 *Source*: [[family]]
 
-### (To) cater for
+### (To) cater for — /ˈtu/ /ˈkeɪtɝ/ /fɔ:/
 
 **Definition**: to provide the things that people need or want.
 
@@ -2955,7 +2955,7 @@
 
 *Source*: [[travel]]
 
-### (To) charm
+### (To) charm — /ˈtu/ /ˈtʃɑɹm/
 
 **Definition**: to please or attract someone in order to make them like you.
 
@@ -2964,7 +2964,7 @@
 
 *Source*: [[travel]]
 
-### (To) compensate
+### (To) compensate — /ˈtu/ /ˈkɑmpənˌseɪt/
 
 **Definition**: to pay money to someone in exchange for something that they have suffered.
 
@@ -2974,7 +2974,7 @@
 
 *Source*: [[letter-c]]
 
-### (To) crop up
+### (To) crop up — /ˈtu/ /krop/ /Λp/
 
 **Definition**: to appear or happen unexpectedly.
 
@@ -2983,7 +2983,7 @@
 
 *Source*: [[letter-c]]
 
-### (To) disclose
+### (To) disclose — /ˈtu/ /dɪˈskɫoʊz/
 
 **Definition**: to give someone or reveal information about something.
 
@@ -2992,7 +2992,7 @@
 
 *Source*: [[education]]
 
-### (To) endure
+### (To) endure — /ˈtu/ /ɛnˈdjʊɹ/
 
 **Definition**: to experience and suffer something that is painful or unpleasant.
 
@@ -3001,7 +3001,7 @@
 
 *Source*: [[health]]
 
-### (To) extend
+### (To) extend — /ˈtu/ /iksˈtend/
 
 **Definition**: to make something longer, wider or larger.
 
@@ -3010,7 +3010,7 @@
 
 *Source*: [[letter-e]]
 
-### (To) grasp
+### (To) grasp — /ˈtu/ /ˈɡɹæsp/
 
 **Definition**: to comprehend/understand something completely.
 
@@ -3019,7 +3019,7 @@
 
 *Source*: [[books-and-films]]
 
-### (To) have a stroll
+### (To) have a stroll — /ˈtu/ /ˈhæv/ /ˈeɪ/ /ˈstɹoʊɫ/
 
 **Definition**: to have a short walk to somewhere in a leisurely and relaxed way.
 
@@ -3028,7 +3028,7 @@
 
 *Source*: [[free-time]]
 
-### (To) incorporate
+### (To) incorporate — /ˈtu/ /ˌɪnˈkɔɹpɝˌeɪt/
 
 **Definition**: to include something so that it forms a part of something else.
 
@@ -3037,7 +3037,7 @@
 
 *Source*: [[business]]
 
-### (To) instill
+### (To) instill — /ˈtu/ /ˌɪnˈstɪɫ/
 
 **Definition**: to put a feeling, idea, or attitude gradually into someone's mind.
 
@@ -3046,7 +3046,7 @@
 
 *Source*: [[family]]
 
-### (To) integrate
+### (To) integrate — /ˈtu/ /ˈɪnəˌɡɹeɪt/
 
 **Definition**: to join a group.
 
@@ -3055,7 +3055,7 @@
 
 *Source*: [[letter-i]]
 
-### (To) lag behind
+### (To) lag behind — /ˈtu/ /ˈɫæɡ/ /biˈhaind/
 
 **Definition**: to move or develop more slowly than someone or something else.
 
@@ -3064,7 +3064,7 @@
 
 *Source*: [[letter-l]]
 
-### (To) make a living
+### (To) make a living — /ˈtu/ /meik/ /ˈeɪ/ /liviŋ/
 
 **Definition**: to make money to pay for the things that you need in life such as housing, food, etc.
 
@@ -3073,7 +3073,7 @@
 
 *Source*: [[work]]
 
-### (To) memorize
+### (To) memorize — /ˈtu/ /ˈmɛmɝˌaɪz/
 
 **Definition**: to learn by heart.
 
@@ -3082,7 +3082,7 @@
 
 *Source*: [[letter-m]]
 
-### (To) possess
+### (To) possess — /ˈtu/ /pәˈzes/
 
 **Definition**: to have or own something.
 
@@ -3091,7 +3091,7 @@
 
 *Source*: [[letter-p]]
 
-### (To) preserve
+### (To) preserve — /ˈtu/ /priˈzə:v/
 
 **Definition**: to keep something in its original quality, feature, etc.
 
@@ -3100,7 +3100,7 @@
 
 *Source*: [[family]]
 
-### (To) recall
+### (To) recall — /ˈtu/ /riˈkɔ:l/
 
 **Definition**: to remember something that happened in the past.
 
@@ -3109,7 +3109,7 @@
 
 *Source*: [[education]]
 
-### (To) surround
+### (To) surround — /ˈtu/ /sәˈraƱnd/
 
 **Definition**: to be all around someone or something.
 
@@ -3119,7 +3119,7 @@
 
 *Source*: [[letter-s]]
 
-### (To) terminate
+### (To) terminate — /ˈtu/ /ˈtɝməˌneɪt/
 
 **Definition**: to end or stop.
 
@@ -3128,7 +3128,7 @@
 
 *Source*: [[family]]
 
-### (To) turn out
+### (To) turn out — /ˈtu/ /tə:n/ /ˈaʊt/
 
 **Definition**: to be discovered to be something.
 
@@ -3137,7 +3137,7 @@
 
 *Source*: [[letter-t]]
 
-### (To) upgrade
+### (To) upgrade — /ˈtu/ /ˈəpˈɡɹeɪd/
 
 **Definition**: to improve something so that it would be more powerful, efficient, better, etc.
 
@@ -3146,7 +3146,7 @@
 
 *Source*: [[business]]
 
-### Adopt the habit
+### Adopt the habit — /əˈdɔpt/ /ˈðə/ /ˈhæbit/
 
 **Definition**: to begin to do something regularly.
 
@@ -3155,7 +3155,7 @@
 
 *Source*: [[free-time]]
 
-### Apply for
+### Apply for — /əˈplai/ /fɔ:/
 
 **Definition**: to enroll in; to write a letter asking for a job.
 
@@ -3164,7 +3164,7 @@
 
 *Source*: [[work]]
 
-### Associate with
+### Associate with — /əˈsouʃiit/ /wið/
 
 **Definition**: connect with.
 
@@ -3173,7 +3173,7 @@
 
 *Source*: [[work]]
 
-### Attract more visitors
+### Attract more visitors — /əˈtrækt/ /mɔ:/ /ˈvɪzɪtɝz/
 
 **Definition**: to get more people to come to visit.
 
@@ -3183,7 +3183,7 @@
 
 *Source*: [[travel]]
 
-### Be crazy about
+### Be crazy about — /ˈbi/ /kreizi/ /əˈbaut/
 
 **Definition**: to be very interested or very enthusiastic about something.
 
@@ -3192,7 +3192,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Be willing to
+### Be willing to — /ˈbi/ /ˈwiliŋ/ /ˈtu/
 
 **Definition**: to be ready or happy to do something if it is necessary.
 
@@ -3202,7 +3202,7 @@
 
 *Source*: [[work]]
 
-### Boost someone's immune system
+### Boost someone's immune system — /ˈbust/ /ˈsəmˌwənz/ /ˌɪmˈjun/ /sistim/
 
 **Definition**: to make someone's physical health stronger in order to fight against illness.
 
@@ -3211,7 +3211,7 @@
 
 *Source*: [[health]]
 
-### Break the law
+### Break the law — /breik/ /ˈðə/ /lo:/
 
 **Definition**: to fail to obey a law; to act contrary to a law; to do something illegal.
 
@@ -3220,7 +3220,7 @@
 
 *Source*: [[law]]
 
-### Break up
+### Break up — /breik/ /Λp/
 
 **Definition**: to end a relationship.
 
@@ -3230,7 +3230,7 @@
 
 *Source*: [[family]]
 
-### Broaden one's knowledge
+### Broaden one's knowledge — /ˈbɹɔdən/ /ˈwənz/ /nɒliʤ/
 
 **Definition**: to widen one's knowledge of something.
 
@@ -3239,7 +3239,7 @@
 
 *Source*: [[books-and-films]]
 
-### Build up
+### Build up — /bild/ /Λp/
 
 **Definition**: to make someone healthier and stronger.
 
@@ -3248,7 +3248,7 @@
 
 *Source*: [[health]]
 
-### Build up
+### Build up — /bild/ /Λp/
 
 **Definition**: to develop.
 
@@ -3257,7 +3257,7 @@
 
 *Source*: [[business]]
 
-### Calm someone down
+### Calm someone down — /kɑ:m/ /ˈsəmˌwən/ /daun/
 
 **Definition**: to make someone less angry.
 
@@ -3267,7 +3267,7 @@
 
 *Source*: [[family]]
 
-### Can't stand (someone or something)
+### Can't stand (someone or something) — /ˈkænt/ /stænd/ /ˈsəmˌwən/ /ˈɔɹ/ /sʌmθiŋ/
 
 **Definition**: to hate or dislike someone or something very much.
 
@@ -3276,7 +3276,7 @@
 
 *Source*: [[liking-and-disliking]]
 
-### Care about
+### Care about — /kɛər/ /əˈbaut/
 
 **Definition**: to be concerned about someone or something.
 
@@ -3286,7 +3286,7 @@
 
 *Source*: [[friends]]
 
-### Carry on
+### Carry on — /ˈkæri/ /ˈɑn/
 
 **Definition**: to continue to do something.
 
@@ -3296,7 +3296,7 @@
 
 *Source*: [[work]]
 
-### Catch everything
+### Catch everything — /kætʃ/ /evriθiŋ/
 
 **Definition**: to understand completely what someone said.
 
@@ -3306,7 +3306,7 @@
 
 *Source*: [[letter-c]]
 
-### Catering food
+### Catering food — /ˈkeɪtɝɪŋ/ /fu:d/
 
 **Definition**: serving food.
 
@@ -3314,7 +3314,7 @@
 
 *Source*: [[food]]
 
-### Check into
+### Check into — /tʃek/ /intu/
 
 **Definition**: to arrive and register at a hotel.
 
@@ -3323,7 +3323,7 @@
 
 *Source*: [[travel]]
 
-### Come across
+### Come across — /kʌm/ /əˈkrɔs/
 
 **Definition**: to meet or find something or someone by chance.
 
@@ -3332,7 +3332,7 @@
 
 *Source*: [[letter-c]]
 
-### Come up to me
+### Come up to me — /kʌm/ /Λp/ /ˈtu/ /mi:/
 
 **Definition**: to approach someone.
 
@@ -3341,7 +3341,7 @@
 
 *Source*: [[family]]
 
-### Commit a crime
+### Commit a crime — /kəˈmit/ /ˈeɪ/ /kraim/
 
 **Definition**: to do something wrong or illegal.
 
@@ -3350,7 +3350,7 @@
 
 *Source*: [[law]]
 
-### Comply with
+### Comply with — /kəmˈpɫaɪ/ /wið/
 
 **Definition**: follow/abide by.
 
@@ -3359,7 +3359,7 @@
 
 *Source*: [[law]]
 
-### Cope with
+### Cope with — /ˈkoʊp/ /wið/
 
 **Definition**: deal successfully with something difficult.
 
@@ -3368,7 +3368,7 @@
 
 *Source*: [[work]]
 
-### Count on
+### Count on — /kaunt/ /ˈɑn/
 
 **Definition**: to depend on someone to do what you want.
 
@@ -3377,7 +3377,7 @@
 
 *Source*: [[family]]
 
-### Cut down
+### Cut down — /kʌt/ /daun/
 
 **Definition**: a decrease or reduction of the size, amount or number of something.
 
@@ -3386,7 +3386,7 @@
 
 *Source*: [[ielts-writing]]
 
-### Cut down on
+### Cut down on — /kʌt/ /daun/ /ˈɑn/
 
 **Definition**: to reduce an amount of something.
 
@@ -3395,7 +3395,7 @@
 
 *Source*: [[health]]
 
-### Depend on
+### Depend on — /dɪˈpɛnd/ /ˈɑn/
 
 **Definition**: to rely on someone for help.
 
@@ -3404,7 +3404,7 @@
 
 *Source*: [[letter-d]]
 
-### Devote to
+### Devote to — /diˈvout/ /ˈtu/
 
 **Definition**: give a large amount of time or attention to someone or something.
 
@@ -3414,7 +3414,7 @@
 
 *Source*: [[work]]
 
-### Dine in
+### Dine in — /ˈdaɪn/ /ˈɪn/
 
 **Definition**: to have dinner at home, instead of at a restaurant.
 
@@ -3423,7 +3423,7 @@
 
 *Source*: [[food]]
 
-### Dine out
+### Dine out — /ˈdaɪn/ /ˈaʊt/
 
 **Definition**: to have dinner at a restaurant, instead of at home.
 
@@ -3433,7 +3433,7 @@
 
 *Source*: [[food]]
 
-### Dispose of
+### Dispose of — /dɪˈspoʊz/ /ɔv/
 
 **Definition**: to throw away or get rid of something that you no longer want or need.
 
@@ -3442,7 +3442,7 @@
 
 *Source*: [[letter-d]]
 
-### Do a good deed
+### Do a good deed — /ˈdu/ /ˈeɪ/ /gud/ /ˈdid/
 
 **Definition**: the action of doing a good thing.
 
@@ -3451,7 +3451,7 @@
 
 *Source*: [[free-time]]
 
-### Do aerobics/ yoga
+### Do aerobics/ yoga — /ˈdu/ /ɝˈoʊbɪks/ /ˈjoʊɡə/
 
 **Definition**: very active physical exercises, often performed while listening to music.
 
@@ -3461,7 +3461,7 @@
 
 *Source*: [[health]]
 
-### Do an exam = sit an exam = take an exam
+### Do an exam = sit an exam = take an exam — /ˈdu/ /ˈæn/ /igˈzæm/ /ˈsɪt/ /ˈæn/ /igˈzæm/ /teik/ /ˈæn/ /igˈzæm/
 
 **Definition**: to do a test.
 
@@ -3470,7 +3470,7 @@
 
 *Source*: [[education]]
 
-### Do badly in an exam
+### Do badly in an exam — /ˈdu/ /bædli/ /ˈɪn/ /ˈæn/ /igˈzæm/
 
 **Definition**: if you do badly in an exam it is because the test was too hard.
 
@@ -3479,7 +3479,7 @@
 
 *Source*: [[education]]
 
-### Draw lots
+### Draw lots — /dro:/ /ˈɫɑts/
 
 **Definition**: to decide who will do something by picking cards, tickets or numbers from a container by chance.
 
@@ -3488,7 +3488,7 @@
 
 *Source*: [[letter-d]]
 
-### Drop in
+### Drop in — /drɒp/ /ˈɪn/
 
 **Definition**: to visit someone.
 
@@ -3497,7 +3497,7 @@
 
 *Source*: [[free-time]]
 
-### Drop off
+### Drop off — /drɒp/ /ɔ:f/
 
 **Definition**: quickly leave someone or something at a place.
 
@@ -3506,7 +3506,7 @@
 
 *Source*: [[travel]]
 
-### Elaborate on
+### Elaborate on — /ɪˈɫæbɝˌeɪt/ /ˈɑn/
 
 **Definition**: explain about.
 
@@ -3514,7 +3514,7 @@
 
 *Source*: [[letter-e]]
 
-### Embark on
+### Embark on — /ɛmˈbɑɹk/ /ˈɑn/
 
 **Definition**: start to do something new, important or difficult.
 
@@ -3523,7 +3523,7 @@
 
 *Source*: [[family]]
 
-### Enroll in
+### Enroll in — /ɛnˈɹoʊɫ/ /ˈɪn/
 
 **Definition**: to register, or enter in a list for an activity or for membership in a group.
 
@@ -3532,7 +3532,7 @@
 
 *Source*: [[education]]
 
-### Express oneself
+### Express oneself — /iksˈpres/ /ˌwənˈsɛɫf/
 
 **Definition**: to show your thoughts and feelings.
 
@@ -3541,7 +3541,7 @@
 
 *Source*: [[family]]
 
-### Fall away
+### Fall away — /fɔl/ /əˈwei/
 
 **Definition**: to disappear.
 
@@ -3549,7 +3549,7 @@
 
 *Source*: [[travel]]
 
-### Focus on
+### Focus on — /foukəs/ /ˈɑn/
 
 **Definition**: to put a lot of your attention on one thing.
 
@@ -3558,7 +3558,7 @@
 
 *Source*: [[education]]
 
-### Follow in someone's footsteps
+### Follow in someone's footsteps — /fɔlou/ /ˈɪn/ /ˈsəmˌwənz/ /ˈfʊtˌstɛps/
 
 **Definition**: to do the same job or to have the same style of life as someone else.
 
@@ -3568,7 +3568,7 @@
 
 *Source*: [[work]]
 
-### Fool around
+### Fool around — /ˈfuɫ/ /əˈraund/
 
 **Definition**: to behave in a silly way for fun.
 
@@ -3577,7 +3577,7 @@
 
 *Source*: [[letter-f]]
 
-### Get a suntan
+### Get a suntan — /ˈɡɛt/ /ˈeɪ/ /ˈsənˌtæn/
 
 **Definition**: to make your skin darker.
 
@@ -3586,7 +3586,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Get rid of
+### Get rid of — /ˈɡɛt/ /ˈɹɪd/ /ɔv/
 
 **Definition**: to remove; to abolish.
 
@@ -3596,7 +3596,7 @@
 
 *Source*: [[environment]]
 
-### Get stuck
+### Get stuck — /ˈɡɛt/ /ˈstək/
 
 **Definition**: to be unable to escape from or move further.
 
@@ -3604,7 +3604,7 @@
 
 *Source*: [[urbanisation]]
 
-### Get the hang of
+### Get the hang of — /ˈɡɛt/ /ˈðə/ /hæŋ/ /ɔv/
 
 **Definition**: to understand the technique of how to operate or do (something).
 
@@ -3613,7 +3613,7 @@
 
 *Source*: [[work]]
 
-### Give up
+### Give up — /giv/ /Λp/
 
 **Definition**: to quit; to stop doing something.
 
@@ -3622,7 +3622,7 @@
 
 *Source*: [[free-time]]
 
-### Give up
+### Give up — /giv/ /Λp/
 
 **Definition**: to quit or stop doing something.
 
@@ -3631,7 +3631,7 @@
 
 *Source*: [[free-time]]
 
-### Go sightseeing
+### Go sightseeing — /gou/ /ˈsaɪtˈsiɪŋ/
 
 **Definition**: to look around the places of interest.
 
@@ -3640,7 +3640,7 @@
 
 *Source*: [[free-time]]
 
-### Handle someone's workload
+### Handle someone's workload — /hændl/ /ˈsəmˌwənz/ /ˈwɝˌkɫoʊd/
 
 **Definition**: to manage the amount of work that someone has to do.
 
@@ -3649,7 +3649,7 @@
 
 *Source*: [[work]]
 
-### Hang around
+### Hang around — /hæŋ/ /əˈraund/
 
 **Definition**: to spend time in a place, usually for no particular reason.
 
@@ -3658,7 +3658,7 @@
 
 *Source*: [[family]]
 
-### Hang out
+### Hang out — /hæŋ/ /ˈaʊt/
 
 **Definition**: to spend a lot of time with someone in a place.
 
@@ -3667,7 +3667,7 @@
 
 *Source*: [[free-time]]
 
-### Have a go
+### Have a go — /ˈhæv/ /ˈeɪ/ /gou/
 
 **Definition**: to try or attempt to do something.
 
@@ -3676,7 +3676,7 @@
 
 *Source*: [[health]]
 
-### Have a good command of
+### Have a good command of — /ˈhæv/ /ˈeɪ/ /gud/ /kəˈmɑ:nd/ /ɔv/
 
 **Definition**: to have the ability to use something, especially a language.
 
@@ -3685,7 +3685,7 @@
 
 *Source*: [[free-time]]
 
-### Head for
+### Head for — /hed/ /fɔ:/
 
 **Definition**: go towards a direction.
 
@@ -3694,7 +3694,7 @@
 
 *Source*: [[travel]]
 
-### Hit the books
+### Hit the books — /ˈhɪt/ /ˈðə/ /ˈbʊks/
 
 **Definition**: to study very hard.
 
@@ -3703,7 +3703,7 @@
 
 *Source*: [[education]]
 
-### Hold conversations
+### Hold conversations — /hould/ /ˌkɑnvɝˈseɪʃənz/
 
 **Definition**: to have conversations.
 
@@ -3712,7 +3712,7 @@
 
 *Source*: [[family]]
 
-### In charge of
+### In charge of — /ˈɪn/ /tʃɑ:dʤ/ /ɔv/
 
 **Definition**: to have control over or responsibility for something or someone.
 
@@ -3721,7 +3721,7 @@
 
 *Source*: [[work]]
 
-### Jump at the chance
+### Jump at the chance — /dʒʌmp/ /ˈæt/ /ˈðə/ /ˈtʃæns/
 
 **Definition**: to immediately seize an opportunity.
 
@@ -3731,7 +3731,7 @@
 
 *Source*: [[travel]]
 
-### Keep someone from doing something
+### Keep someone from doing something — /ki:p/ /ˈsəmˌwən/ /frɔm/ /ˈduɪŋ/ /sʌmθiŋ/
 
 **Definition**: to prevent, stop someone from doing something.
 
@@ -3740,7 +3740,7 @@
 
 *Source*: [[work]]
 
-### Keep track of
+### Keep track of — /ki:p/ /træk/ /ɔv/
 
 **Definition**: to keep an eye on something.
 
@@ -3749,7 +3749,7 @@
 
 *Source*: [[education]]
 
-### Look after
+### Look after — /luk/ /ɑ:ftə/
 
 **Definition**: to take care of (someone or something).
 
@@ -3758,7 +3758,7 @@
 
 *Source*: [[health]]
 
-### Look up to
+### Look up to — /luk/ /Λp/ /ˈtu/
 
 **Definition**: to admire and respect someone.
 
@@ -3768,7 +3768,7 @@
 
 *Source*: [[family]]
 
-### Lose faith
+### Lose faith — /lu:z/ /feiθ/
 
 **Definition**: Don't trust anymore.
 
@@ -3777,7 +3777,7 @@
 
 *Source*: [[letter-l]]
 
-### Lost the habit
+### Lost the habit — /ˈɫɔst/ /ˈðə/ /ˈhæbit/
 
 **Definition**: stopped an activity that you used to do often.
 
@@ -3786,7 +3786,7 @@
 
 *Source*: [[free-time]]
 
-### Make an honest living
+### Make an honest living — /meik/ /ˈæn/ /ɔnist/ /liviŋ/
 
 **Definition**: to earn money through hard work.
 
@@ -3795,7 +3795,7 @@
 
 *Source*: [[work]]
 
-### Make ends meet
+### Make ends meet — /meik/ /ˈɛndz/ /mi:t/
 
 **Definition**: to earn enough money to buy the things you need without getting into debt.
 
@@ -3804,7 +3804,7 @@
 
 *Source*: [[work]]
 
-### Meet someone's needs
+### Meet someone's needs — /mi:t/ /ˈsəmˌwənz/ /ˈnidz/
 
 **Definition**: to satisfy someone's needs.
 
@@ -3813,7 +3813,7 @@
 
 *Source*: [[work]]
 
-### Meet up
+### Meet up — /mi:t/ /Λp/
 
 **Definition**: to meet someone, usually by making an appointment with them first.
 
@@ -3822,7 +3822,7 @@
 
 *Source*: [[family]]
 
-### Opt for
+### Opt for — /ˈɑpt/ /fɔ:/
 
 **Definition**: to make a choice from a range of options.
 
@@ -3831,7 +3831,7 @@
 
 *Source*: [[letter-o]]
 
-### Pass away
+### Pass away — /ˈpa:s/ /əˈwei/
 
 **Definition**: to die.
 
@@ -3840,7 +3840,7 @@
 
 *Source*: [[health]]
 
-### Pick something up
+### Pick something up — /pik/ /sʌmθiŋ/ /Λp/
 
 **Definition**: to lift something up and take it away.
 
@@ -3849,7 +3849,7 @@
 
 *Source*: [[letter-p]]
 
-### Pick up
+### Pick up — /pik/ /Λp/
 
 **Definition**: to get or bring someone from somewhere.
 
@@ -3858,7 +3858,7 @@
 
 *Source*: [[travel]]
 
-### Politely decline
+### Politely decline — /pəˈlaɪtli/ /diˈklain/
 
 **Definition**: to politely refuse.
 
@@ -3867,7 +3867,7 @@
 
 *Source*: [[letter-p]]
 
-### Pop up
+### Pop up — /ˈpɑp/ /Λp/
 
 **Definition**: to appear or happen in a place or situation suddenly or unexpectedly.
 
@@ -3876,7 +3876,7 @@
 
 *Source*: [[family]]
 
-### Progress rapidly
+### Progress rapidly — /prougres/ /ræpidli/
 
 **Definition**: to grow, improve or develop very quickly.
 
@@ -3885,7 +3885,7 @@
 
 *Source*: [[education]]
 
-### Pursue a goal
+### Pursue a goal — /pәˈsju:/ /ˈeɪ/ /goƱl/
 
 **Definition**: to follow something that someone wants to accomplish or achieve.
 
@@ -3894,7 +3894,7 @@
 
 *Source*: [[free-time]]
 
-### Pursue one's passions
+### Pursue one's passions — /pәˈsju:/ /ˈwənz/ /ˈpæʃənz/
 
 **Definition**: to follow your interests and desires.
 
@@ -3903,7 +3903,7 @@
 
 *Source*: [[free-time]]
 
-### Put off
+### Put off — /ˈpʊt/ /ɔ:f/
 
 **Definition**: to delay doing something.
 
@@ -3912,7 +3912,7 @@
 
 *Source*: [[free-time]]
 
-### Put off
+### Put off — /ˈpʊt/ /ɔ:f/
 
 **Definition**: to delay doing something.
 
@@ -3922,7 +3922,7 @@
 
 *Source*: [[letter-p]]
 
-### Reach one's full potential
+### Reach one's full potential — /ri:tʃ/ /ˈwənz/ /ful/ /pəˈtɛnʃəl/
 
 **Definition**: to take great effort and self-discipline.
 
@@ -3931,7 +3931,7 @@
 
 *Source*: [[education]]
 
-### Relieve pressure on
+### Relieve pressure on — /ɹiˈɫiv/ /preʃə/ /ˈɑn/
 
 **Definition**: remove or reduce pressure on someone or something.
 
@@ -3940,7 +3940,7 @@
 
 *Source*: [[health]]
 
-### Remind of
+### Remind of — /riˈmaind/ /ɔv/
 
 **Definition**: to make somebody remember something that happened.
 
@@ -3949,7 +3949,7 @@
 
 *Source*: [[letter-r]]
 
-### Restrain one's hunger
+### Restrain one's hunger — /ɹiˈstɹeɪn/ /ˈwənz/ /ˈhəŋɡɝ/
 
 **Definition**: if you restrain your hunger, you try to avoid eating when you are hungry.
 
@@ -3958,7 +3958,7 @@
 
 *Source*: [[food]]
 
-### Run out
+### Run out — /rʌn/ /ˈaʊt/
 
 **Definition**: to be used up or finished; come to an end.
 
@@ -3968,7 +3968,7 @@
 
 *Source*: [[business]]
 
-### Save up
+### Save up — /seiv/ /Λp/
 
 **Definition**: to save money for future use.
 
@@ -3977,7 +3977,7 @@
 
 *Source*: [[money]]
 
-### Set off
+### Set off — /ˈsɛt/ /ɔ:f/
 
 **Definition**: to start a journey; to start to go somewhere.
 
@@ -3986,7 +3986,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Set to
+### Set to — /ˈsɛt/ /ˈtu/
 
 **Definition**: likely to.
 
@@ -3995,7 +3995,7 @@
 
 *Source*: [[letter-s]]
 
-### Share a common interest
+### Share a common interest — /ʃeə/ /ˈeɪ/ /kɔmən/ /ˈɪntərest/
 
 **Definition**: used to describe two or more people who enjoy doing similar things.
 
@@ -4004,7 +4004,7 @@
 
 *Source*: [[free-time]]
 
-### Show off
+### Show off — /ʃou/ /ɔ:f/
 
 **Definition**: to intentionally act in a way to attract other people's attention or admiration.
 
@@ -4013,7 +4013,7 @@
 
 *Source*: [[family]]
 
-### Show someone around
+### Show someone around — /ʃou/ /ˈsəmˌwən/ /əˈraund/
 
 **Definition**: to act as a guide for someone when they are visiting a new place or building and to show them what is interesting in such place or building.
 
@@ -4022,7 +4022,7 @@
 
 *Source*: [[travel]]
 
-### Show up
+### Show up — /ʃou/ /Λp/
 
 **Definition**: to arrive somewhere in order to meet someone.
 
@@ -4032,7 +4032,7 @@
 
 *Source*: [[travel]]
 
-### Sink in
+### Sink in — /sɪŋk/ /ˈɪn/
 
 **Definition**: to become completely understood, known or realized.
 
@@ -4041,7 +4041,7 @@
 
 *Source*: [[letter-s]]
 
-### Skip classes
+### Skip classes — /ˈskɪp/ /ˈkɫæsəz/
 
 **Definition**: to miss a class or not go to a class for some reason.
 
@@ -4050,7 +4050,7 @@
 
 *Source*: [[education]]
 
-### Slow down
+### Slow down — /slou/ /daun/
 
 **Definition**: to move more slowly.
 
@@ -4059,7 +4059,7 @@
 
 *Source*: [[urbanisation]]
 
-### Soothe one's soul
+### Soothe one's soul — /ˈsuð/ /ˈwənz/ /soʊl/
 
 **Definition**: to make us feel relaxed and peaceful.
 
@@ -4069,7 +4069,7 @@
 
 *Source*: [[health]]
 
-### Sort out
+### Sort out — /sɔ:t/ /ˈaʊt/
 
 **Definition**: to deal with your own, or someone else's, problems successfully.
 
@@ -4078,7 +4078,7 @@
 
 *Source*: [[work]]
 
-### Speed up
+### Speed up — /spi:d/ /Λp/
 
 **Definition**: make something move or travel faster.
 
@@ -4087,7 +4087,7 @@
 
 *Source*: [[letter-s]]
 
-### Spread throughout
+### Spread throughout — /spred/ /θru:ˈaut/
 
 **Definition**: to open, arrange, or place something over a large area.
 
@@ -4096,7 +4096,7 @@
 
 *Source*: [[letter-s]]
 
-### Study abroad
+### Study abroad — /stʌdi/ /əˈbrɔ:d/
 
 **Definition**: the act of going to a foreign country to study.
 
@@ -4105,7 +4105,7 @@
 
 *Source*: [[education]]
 
-### Take a nap = have a nap
+### Take a nap = have a nap — /teik/ /ˈeɪ/ /ˈnæp/ /ˈhæv/ /ˈeɪ/ /ˈnæp/
 
 **Definition**: to have a short period of sleep, especially during the day.
 
@@ -4114,7 +4114,7 @@
 
 *Source*: [[free-time]]
 
-### Take care of
+### Take care of — /teik/ /kɛər/ /ɔv/
 
 **Definition**: to treat someone or something carefully so that he/she/it stays in good condition.
 
@@ -4123,7 +4123,7 @@
 
 *Source*: [[health]]
 
-### Take it easy
+### Take it easy — /teik/ /ˈɪt/ /i:zi/
 
 **Definition**: to rest or relax.
 
@@ -4133,7 +4133,7 @@
 
 *Source*: [[free-time]]
 
-### Take on
+### Take on — /teik/ /ˈɑn/
 
 **Definition**: to undertake; to accept to do something.
 
@@ -4142,7 +4142,7 @@
 
 *Source*: [[work]]
 
-### Take part
+### Take part — /teik/ /pa:t/
 
 **Definition**: participate (in something).
 
@@ -4151,7 +4151,7 @@
 
 *Source*: [[free-time]]
 
-### Take place
+### Take place — /teik/ /pleis/
 
 **Definition**: to occur; to happen.
 
@@ -4160,7 +4160,7 @@
 
 *Source*: [[travel]]
 
-### Take up
+### Take up — /teik/ /Λp/
 
 **Definition**: start to learn or do something.
 
@@ -4169,7 +4169,7 @@
 
 *Source*: [[free-time]]
 
-### Take up regular exercise
+### Take up regular exercise — /teik/ /Λp/ /rəgjulə/ /eksəsaiz/
 
 **Definition**: to learn or start doing exercise regularly as a habit.
 
@@ -4178,7 +4178,7 @@
 
 *Source*: [[health]]
 
-### Throw something out
+### Throw something out — /θrou/ /sʌmθiŋ/ /ˈaʊt/
 
 **Definition**: to discard or get rid of something.
 
@@ -4187,7 +4187,7 @@
 
 *Source*: [[environment]]
 
-### To accumulate
+### To accumulate — /ˈtu/ /əkˈjumjəˌɫeɪt/
 
 **Definition**: to gather or collect something gradually as time passes.
 
@@ -4196,7 +4196,7 @@
 
 *Source*: [[education]]
 
-### To acquire experience/knowledge/skill
+### To acquire experience/knowledge/skill — /ˈtu/ /əˈkwaiə/ /iksˈpiəriəns/ /nɒliʤ/ /skil/
 
 **Definition**: to gain experience/knowledge/skill by your own efforts.
 
@@ -4205,7 +4205,7 @@
 
 *Source*: [[work]]
 
-### To attend classes
+### To attend classes — /ˈtu/ /əˈtend/ /ˈkɫæsəz/
 
 **Definition**: to go to classes.
 
@@ -4215,7 +4215,7 @@
 
 *Source*: [[education]]
 
-### To back up files
+### To back up files — /ˈtu/ /bæk/ /Λp/ /ˈfaɪɫz/
 
 **Definition**: to make a copy of files on your computer in case of its problem.
 
@@ -4224,7 +4224,7 @@
 
 *Source*: [[technology]]
 
-### To be engrossed in something
+### To be engrossed in something — /ˈtu/ /ˈbi/ /ɪnˈɡɹoʊst/ /ˈɪn/ /sʌmθiŋ/
 
 **Definition**: to be completely focused on something.
 
@@ -4233,7 +4233,7 @@
 
 *Source*: [[work]]
 
-### To be in charge of
+### To be in charge of — /ˈtu/ /ˈbi/ /ˈɪn/ /tʃɑ:dʤ/ /ɔv/
 
 **Definition**: to have control over someone or something and have responsibility for them.
 
@@ -4242,7 +4242,7 @@
 
 *Source*: [[work]]
 
-### To be poor at something
+### To be poor at something — /ˈtu/ /ˈbi/ /puə/ /ˈæt/ /sʌmθiŋ/
 
 **Definition**: not to be good at something.
 
@@ -4251,7 +4251,7 @@
 
 *Source*: [[education]]
 
-### To be spoiled by
+### To be spoiled by — /ˈtu/ /ˈbi/ /ˈspɔɪɫd/ /bai/
 
 **Definition**: to be ruined by.
 
@@ -4260,7 +4260,7 @@
 
 *Source*: [[environment]]
 
-### To become obsolete
+### To become obsolete — /ˈtu/ /biˈkʌm/ /ˈɑbsəˌɫit/
 
 **Definition**: to be no longer used because something new has been invented.
 
@@ -4269,7 +4269,7 @@
 
 *Source*: [[letter-b]]
 
-### To black out
+### To black out — /ˈtu/ /blæk/ /ˈaʊt/
 
 **Definition**: to suddenly lose consciousness.
 
@@ -4278,7 +4278,7 @@
 
 *Source*: [[health]]
 
-### To book (something)
+### To book (something) — /ˈtu/ /buk/ /sʌmθiŋ/
 
 **Definition**: to reserve (accommodations, a place, etc.) for an event in the future.
 
@@ -4288,7 +4288,7 @@
 
 *Source*: [[travel]]
 
-### To boot up
+### To boot up — /ˈtu/ /bu:t/ /Λp/
 
 **Definition**: to start a computer.
 
@@ -4297,7 +4297,7 @@
 
 *Source*: [[technology]]
 
-### To break a habit
+### To break a habit — /ˈtu/ /breik/ /ˈeɪ/ /ˈhæbit/
 
 **Definition**: to stop doing something that you do regularly, especially something bad or harmful.
 
@@ -4306,7 +4306,7 @@
 
 *Source*: [[health]]
 
-### To broaden one's literary horizons
+### To broaden one's literary horizons — /ˈtu/ /ˈbɹɔdən/ /ˈwənz/ /ˈɫɪtɝˌɛɹi/ /hɝˈaɪzənz/
 
 **Definition**: to extend the limit of your knowledge, desires or interests by reading widely.
 
@@ -4315,7 +4315,7 @@
 
 *Source*: [[travel]]
 
-### To build muscle
+### To build muscle — /ˈtu/ /bild/ /mʌsl/
 
 **Definition**: to gain muscle mass.
 
@@ -4324,7 +4324,7 @@
 
 *Source*: [[health]]
 
-### To carry out
+### To carry out — /ˈtu/ /ˈkæri/ /ˈaʊt/
 
 **Definition**: to perform; to do a particular piece of work.
 
@@ -4333,7 +4333,7 @@
 
 *Source*: [[family]]
 
-### To catch the latest movie
+### To catch the latest movie — /ˈtu/ /kætʃ/ /ˈðə/ /leitist/ /ˈmu:vi/
 
 **Definition**: to see a film that has just come out.
 
@@ -4342,7 +4342,7 @@
 
 *Source*: [[books-and-films]]
 
-### To code
+### To code — /ˈtu/ /koud/
 
 **Definition**: to write code (numbers, words, and symbols) for a computer program.
 
@@ -4351,7 +4351,7 @@
 
 *Source*: [[letter-c]]
 
-### To confront
+### To confront — /ˈtu/ /kənˈfrʌnt/
 
 **Definition**: to deal with a problem or difficult situation.
 
@@ -4360,7 +4360,7 @@
 
 *Source*: [[work]]
 
-### To create a strong bond
+### To create a strong bond — /ˈtu/ /kri:ˈeit/ /ˈeɪ/ /ˈstɹɔŋ/ /ˈbɑnd/
 
 **Definition**: to make a strong connection with someone or animal.
 
@@ -4369,7 +4369,7 @@
 
 *Source*: [[friends]]
 
-### To deal with
+### To deal with — /ˈtu/ /di:l/ /wið/
 
 **Definition**: to take action in order to solve a problem.
 
@@ -4378,7 +4378,7 @@
 
 *Source*: [[work]]
 
-### To derive
+### To derive — /ˈtu/ /diˈraiv/
 
 **Definition**: to get or obtain something from something else.
 
@@ -4388,7 +4388,7 @@
 
 *Source*: [[family]]
 
-### To detest
+### To detest — /ˈtu/ /diˈtɛst/
 
 **Definition**: to dislike someone or something very much.
 
@@ -4397,7 +4397,7 @@
 
 *Source*: [[liking-and-disliking]]
 
-### To diagnose
+### To diagnose — /ˈtu/ /ˌdaɪəɡˈnoʊs/
 
 **Definition**: to recognise a physical or mental problem by examining the patient.
 
@@ -4406,7 +4406,7 @@
 
 *Source*: [[health]]
 
-### To disrupt lessons
+### To disrupt lessons — /ˈtu/ /dɪsˈɹəpt/ /ˈɫɛsənz/
 
 **Definition**: to interrupt the lesson by causing a disturbance or problem.
 
@@ -4415,7 +4415,7 @@
 
 *Source*: [[education]]
 
-### To drift apart
+### To drift apart — /ˈtu/ /ˈdɹɪft/ /əˈpɑ:t/
 
 **Definition**: to gradually become less friendly or intimate.
 
@@ -4424,7 +4424,7 @@
 
 *Source*: [[family]]
 
-### To drop out of college
+### To drop out of college — /ˈtu/ /drɒp/ /ˈaʊt/ /ɔv/ /kɔlidʤ/
 
 **Definition**: to leave college or university before you have finished your studies.
 
@@ -4434,7 +4434,7 @@
 
 *Source*: [[education]]
 
-### To earn a living
+### To earn a living — /ˈtu/ /ə:n/ /ˈeɪ/ /liviŋ/
 
 **Definition**: to earn money.
 
@@ -4443,7 +4443,7 @@
 
 *Source*: [[work]]
 
-### To embark on
+### To embark on — /ˈtu/ /ɛmˈbɑɹk/ /ˈɑn/
 
 **Definition**: to start to do something.
 
@@ -4452,7 +4452,7 @@
 
 *Source*: [[free-time]]
 
-### To empower women
+### To empower women — /ˈtu/ /ɪmˈpaʊɝ/ /ˈwɪmən/
 
 **Definition**: to give women the freedom to do something.
 
@@ -4461,13 +4461,13 @@
 
 *Source*: [[letter-e]]
 
-### To entice
+### To entice — /ˈtu/ /ɪnˈtaɪs/
 
 **Definition**: to persuade someone to do something by offering them pleasure, reward or My brother was enticed by the smell of coffee in the doorway he found at a nearby shop. My mom was enticed into buying things she doesn't really want by the adverts.
 
 *Source*: [[family]]
 
-### To exert oneself
+### To exert oneself — /ˈtu/ /ɪɡˈzɝt/ /ˌwənˈsɛɫf/
 
 **Definition**: to make a big physical effort to do something.
 
@@ -4476,7 +4476,7 @@
 
 *Source*: [[health]]
 
-### To face the music
+### To face the music — /ˈtu/ /feis/ /ˈðə/ /mju:zik/
 
 **Definition**: be confronted with the unpleasant consequences of something you have done wrong.
 
@@ -4485,7 +4485,7 @@
 
 *Source*: [[music]]
 
-### To fall behind with your studies
+### To fall behind with your studies — /ˈtu/ /fɔl/ /biˈhaind/ /wið/ /jo:/ /ˈstədiz/
 
 **Definition**: to progress more slowly in studying than other people.
 
@@ -4493,7 +4493,7 @@
 
 *Source*: [[education]]
 
-### To feel at peace
+### To feel at peace — /ˈtu/ /fi:l/ /ˈæt/ /pi:s/
 
 **Definition**: to feel peaceful, without any anxiety or distress.
 
@@ -4502,7 +4502,7 @@
 
 *Source*: [[travel]]
 
-### To feel relieved
+### To feel relieved — /ˈtu/ /fi:l/ /ɹiˈɫivd/
 
 **Definition**: feeling good because a difficult problem has been solved.
 
@@ -4511,7 +4511,7 @@
 
 *Source*: [[personality]]
 
-### To flick through
+### To flick through — /ˈtu/ /ˈfɫɪk/ /θru:/
 
 **Definition**: to look through a book quickly.
 
@@ -4520,7 +4520,7 @@
 
 *Source*: [[books-and-films]]
 
-### To flourish
+### To flourish — /ˈtu/ /ˈfɫɝɪʃ/
 
 **Definition**: to grow or develop in a healthy or successful way.
 
@@ -4529,7 +4529,7 @@
 
 *Source*: [[health]]
 
-### To fuel
+### To fuel — /ˈtu/ /ˈfyuəl/
 
 **Definition**: to make something increase or stronger.
 
@@ -4538,7 +4538,7 @@
 
 *Source*: [[letter-f]]
 
-### To fund
+### To fund — /ˈtu/ /fʌnd/
 
 **Definition**: to provide money for something official or for a particular purpose.
 
@@ -4548,7 +4548,7 @@
 
 *Source*: [[business]]
 
-### To gain
+### To gain — /ˈtu/ /geɪn/
 
 **Definition**: to receive, to get.
 
@@ -4557,7 +4557,7 @@
 
 *Source*: [[education]]
 
-### To generate
+### To generate — /ˈtu/ /dʒenəreit/
 
 **Definition**: to produce or create something.
 
@@ -4566,7 +4566,7 @@
 
 *Source*: [[business]]
 
-### To give feedback
+### To give feedback — /ˈtu/ /giv/ /ˈfidˌbæk/
 
 **Definition**: to give comments (how well or badly), corrections or information about a person's performance of a task.
 
@@ -4575,7 +4575,7 @@
 
 *Source*: [[education]]
 
-### To go below zero
+### To go below zero — /ˈtu/ /gou/ /biˈlou/ /ˈziɹoʊ/
 
 **Definition**: to become negative (about temperatures).
 
@@ -4583,7 +4583,7 @@
 
 *Source*: [[environment]]
 
-### To go online
+### To go online — /ˈtu/ /gou/ /ˈɔnˌɫaɪn/
 
 **Definition**: to use the Internet.
 
@@ -4592,7 +4592,7 @@
 
 *Source*: [[technology]]
 
-### To have a good grasp of
+### To have a good grasp of — /ˈtu/ /ˈhæv/ /ˈeɪ/ /gud/ /ˈɡɹæsp/ /ɔv/
 
 **Definition**: to have a complete, clear understanding of something.
 
@@ -4601,7 +4601,7 @@
 
 *Source*: [[education]]
 
-### To have social skills
+### To have social skills — /ˈtu/ /ˈhæv/ /souʃl/ /ˈskɪɫz/
 
 **Definition**: to have the personal skills that you use to successfully communicate and interact with each other.
 
@@ -4609,7 +4609,7 @@
 
 *Source*: [[letter-h]]
 
-### To hinder
+### To hinder — /ˈtu/ /ˈhɪndɝ/
 
 **Definition**: to make it difficult for somebody to do something or for something to happen.
 
@@ -4618,7 +4618,7 @@
 
 *Source*: [[letter-h]]
 
-### To impose discipline
+### To impose discipline — /ˈtu/ /imˈpouz/ /disiplin/
 
 **Definition**: to make students obey the rules of a school or college.
 
@@ -4626,7 +4626,7 @@
 
 *Source*: [[education]]
 
-### To impose discipline
+### To impose discipline — /ˈtu/ /imˈpouz/ /disiplin/
 
 **Definition**: to make people obey the rules of a particular organization (school or college).
 
@@ -4636,7 +4636,7 @@
 
 *Source*: [[law]]
 
-### To involve
+### To involve — /ˈtu/ /ɪnˈvɒlv/
 
 **Definition**: to contain/ to include.
 
@@ -4646,7 +4646,7 @@
 
 *Source*: [[work]]
 
-### To job share
+### To job share — /ˈtu/ /dʒɔb/ /ʃeə/
 
 **Definition**: to share the responsibilities and the pay of a single full-time job between two people.
 
@@ -4655,7 +4655,7 @@
 
 *Source*: [[work]]
 
-### To keep fit
+### To keep fit — /ˈtu/ /ki:p/ /ˈfɪt/
 
 **Definition**: to stay in good physical condition.
 
@@ -4664,7 +4664,7 @@
 
 *Source*: [[health]]
 
-### To know like a book
+### To know like a book — /ˈtu/ /nou/ /ˈɫaɪk/ /ˈeɪ/ /buk/
 
 **Definition**: to know someone or something extremely well.
 
@@ -4673,7 +4673,7 @@
 
 *Source*: [[books-and-films]]
 
-### To learn something by heart
+### To learn something by heart — /ˈtu/ /lə:n/ /sʌmθiŋ/ /bai/ /hɑ:t/
 
 **Definition**: to memorize something.
 
@@ -4682,7 +4682,7 @@
 
 *Source*: [[education]]
 
-### To long for
+### To long for — /ˈtu/ /lɔŋ/ /fɔ:/
 
 **Definition**: to want something very much/ to desire for something.
 
@@ -4691,7 +4691,7 @@
 
 *Source*: [[letter-l]]
 
-### To master a language
+### To master a language — /ˈtu/ /mɑ:stə/ /ˈeɪ/ /ˈlæŋgwɪdʒ/
 
 **Definition**: to learn or understand a language completely.
 
@@ -4700,7 +4700,7 @@
 
 *Source*: [[education]]
 
-### To meet a deadline
+### To meet a deadline — /ˈtu/ /mi:t/ /ˈeɪ/ /ˈdɛdˌɫaɪn/
 
 **Definition**: to finish something in time (by or before it is due).
 
@@ -4709,7 +4709,7 @@
 
 *Source*: [[education]]
 
-### To move up the career ladder
+### To move up the career ladder — /ˈtu/ /mu:v/ /Λp/ /ˈðə/ /kəˈriə/ /ˈɫædɝ/
 
 **Definition**: a series of actions you have taken to make progress in your career.
 
@@ -4718,7 +4718,7 @@
 
 *Source*: [[work]]
 
-### To mow the lawn
+### To mow the lawn — /ˈtu/ /ˈmoʊ/ /ˈðə/ /ˈɫɔn/
 
 **Definition**: to cut down (grass, grain, etc.) with a lawnmower.
 
@@ -4728,7 +4728,7 @@
 
 *Source*: [[free-time]]
 
-### To pass with flying colours
+### To pass with flying colours — /ˈtu/ /ˈpa:s/ /wið/ /ˈflaiiŋ/ /ˈkəɫɝz/
 
 **Definition**: to achieve, or accomplish something very successfully.
 
@@ -4738,7 +4738,7 @@
 
 *Source*: [[education]]
 
-### To pay attention to
+### To pay attention to — /ˈtu/ /pei/ /əˈtenʃn/ /ˈtu/
 
 **Definition**: to think about, work on, watch, or listen to someone or something carefully.
 
@@ -4748,7 +4748,7 @@
 
 *Source*: [[education]]
 
-### To peak
+### To peak — /ˈtu/ /pi:k/
 
 **Definition**: reached its highest point.
 
@@ -4756,7 +4756,7 @@
 
 *Source*: [[ielts-writing]]
 
-### To play truant = to skive off
+### To play truant = to skive off — /ˈtu/ /plei/ /ˈtɹuənt/ /ˈtu/ /?/ /ɔ:f/
 
 **Definition**: to purposefully not attend a class without permission.
 
@@ -4765,7 +4765,7 @@
 
 *Source*: [[education]]
 
-### To plead
+### To plead — /ˈtu/ /ˈpɫid/
 
 **Definition**: to beg, or ask for something in a serious and emotional way.
 
@@ -4774,7 +4774,7 @@
 
 *Source*: [[family]]
 
-### To pour down
+### To pour down — /ˈtu/ /pɔ:/ /daun/
 
 **Definition**: to rain heavily.
 
@@ -4783,7 +4783,7 @@
 
 *Source*: [[environment]]
 
-### To prey on
+### To prey on — /ˈtu/ /ˈpɹeɪ/ /ˈɑn/
 
 **Definition**: to hurt or deceive someone, especially who is weaker than you.
 
@@ -4792,7 +4792,7 @@
 
 *Source*: [[letter-p]]
 
-### To provide someone with a healthy diet
+### To provide someone with a healthy diet — /ˈtu/ /prəˈvaid/ /ˈsəmˌwən/ /wið/ /ˈeɪ/ /helθi/ /daiət/
 
 **Definition**: to give someone a diet which is healthy.
 
@@ -4801,7 +4801,7 @@
 
 *Source*: [[health]]
 
-### To pursue studying
+### To pursue studying — /ˈtu/ /pәˈsju:/ /ˈstədiɪŋ/
 
 **Definition**: to follow a course (education).
 
@@ -4810,7 +4810,7 @@
 
 *Source*: [[education]]
 
-### To read over
+### To read over — /ˈtu/ /ri:d/ /ouvə/
 
 **Definition**: to read something carefully from beginning to end to look for mistakes or to check details.
 
@@ -4819,7 +4819,7 @@
 
 *Source*: [[letter-r]]
 
-### To recharge one's energy
+### To recharge one's energy — /ˈtu/ /ɹiˈtʃɑɹdʒ/ /ˈwənz/ /ˈɛnərdʒi/
 
 **Definition**: to recover your strength by resting for a time.
 
@@ -4828,7 +4828,7 @@
 
 *Source*: [[work]]
 
-### To remedy
+### To remedy — /ˈtu/ /ˈɹɛmədi/
 
 **Definition**: to correct or improve something.
 
@@ -4837,7 +4837,7 @@
 
 *Source*: [[health]]
 
-### To resit an exam
+### To resit an exam — /ˈtu/ /?/ /ˈæn/ /igˈzæm/
 
 **Definition**: to take an examination again.
 
@@ -4846,7 +4846,7 @@
 
 *Source*: [[education]]
 
-### To rest
+### To rest — /ˈtu/ /ˈɹɛst/
 
 **Definition**: to take a break or relax from some activity.
 
@@ -4855,7 +4855,7 @@
 
 *Source*: [[letter-r]]
 
-### To retake a course
+### To retake a course — /ˈtu/ /ˈɹiˈteɪk/ /ˈeɪ/ /kɔ:s/
 
 **Definition**: to do a course again because you have failed it the first time.
 
@@ -4864,7 +4864,7 @@
 
 *Source*: [[education]]
 
-### To reunite
+### To reunite — /ˈtu/ /ˌɹiuˈnaɪt/
 
 **Definition**: to bring people together again after a period of separation.
 
@@ -4873,7 +4873,7 @@
 
 *Source*: [[family]]
 
-### To ring a bell
+### To ring a bell — /ˈtu/ /riŋ/ /ˈeɪ/ /bel/
 
 **Definition**: to sound familiar.
 
@@ -4882,7 +4882,7 @@
 
 *Source*: [[music]]
 
-### To seat
+### To seat — /ˈtu/ /si:t/
 
 **Definition**: to arrange for someone to sit somewhere.
 
@@ -4891,7 +4891,7 @@
 
 *Source*: [[letter-s]]
 
-### To set aside some time
+### To set aside some time — /ˈtu/ /ˈsɛt/ /əˈsaid/ /sʌm/ /taim/
 
 **Definition**: to take some time.
 
@@ -4900,7 +4900,7 @@
 
 *Source*: [[free-time]]
 
-### To speak fluently
+### To speak fluently — /ˈtu/ /spi:k/ /ˈfɫuəntɫi/
 
 **Definition**: to speak easily and quickly.
 
@@ -4909,7 +4909,7 @@
 
 *Source*: [[education]]
 
-### To stand out
+### To stand out — /ˈtu/ /stænd/ /ˈaʊt/
 
 **Definition**: to be prominent or more important than somebody/something.
 
@@ -4918,7 +4918,7 @@
 
 *Source*: [[letter-s]]
 
-### To stem from
+### To stem from — /ˈtu/ /ˈstɛm/ /frɔm/
 
 **Definition**: to be caused by/ as the result of something.
 
@@ -4927,7 +4927,7 @@
 
 *Source*: [[letter-s]]
 
-### To stem from
+### To stem from — /ˈtu/ /ˈstɛm/ /frɔm/
 
 **Definition**: to be the result of something.
 
@@ -4936,7 +4936,7 @@
 
 *Source*: [[letter-s]]
 
-### To stutter
+### To stutter — /ˈtu/ /ˈstətɝ/
 
 **Definition**: to talk the sounds of words over and over again in an uncontrolled way.
 
@@ -4944,7 +4944,7 @@
 
 *Source*: [[health]]
 
-### To sympathize
+### To sympathize — /ˈtu/ /ˈsɪmpəˌθaɪz/
 
 **Definition**: to show that you understand and feel sorry for someone who is in a bad situation.
 
@@ -4953,7 +4953,7 @@
 
 *Source*: [[family]]
 
-### To take a year out
+### To take a year out — /ˈtu/ /teik/ /ˈeɪ/ /jə:/ /ˈaʊt/
 
 **Definition**: to spend one year working to gain more valuable experience.
 
@@ -4963,7 +4963,7 @@
 
 *Source*: [[education]]
 
-### To take gentle exercise
+### To take gentle exercise — /ˈtu/ /teik/ /dʒentl/ /eksəsaiz/
 
 **Definition**: to do exercise which does not involve a lot of force or effort.
 
@@ -4972,7 +4972,7 @@
 
 *Source*: [[health]]
 
-### To take regular exercise
+### To take regular exercise — /ˈtu/ /teik/ /rəgjulə/ /eksəsaiz/
 
 **Definition**: to do some physical activity on a regular basis to improve health and fitness.
 
@@ -4981,7 +4981,7 @@
 
 *Source*: [[health]]
 
-### To take up a language
+### To take up a language — /ˈtu/ /teik/ /Λp/ /ˈeɪ/ /ˈlæŋgwɪdʒ/
 
 **Definition**: to start to study a language.
 
@@ -4990,7 +4990,7 @@
 
 *Source*: [[education]]
 
-### To throw something out
+### To throw something out — /ˈtu/ /θrou/ /sʌmθiŋ/ /ˈaʊt/
 
 **Definition**: to get rid of something.
 
@@ -4998,7 +4998,7 @@
 
 *Source*: [[environment]]
 
-### To twinkle
+### To twinkle — /ˈtu/ /ˈtwɪŋkəɫ/
 
 **Definition**: to shine and sparkle with a flickering gleam of light.
 
@@ -5007,7 +5007,7 @@
 
 *Source*: [[travel]]
 
-### To utilize
+### To utilize — /ˈtu/ /ˈjutəˌɫaɪz/
 
 **Definition**: to use.
 
@@ -5015,7 +5015,7 @@
 
 *Source*: [[technology]]
 
-### To warm up
+### To warm up — /ˈtu/ /wɔ:m/ /Λp/
 
 **Definition**: to perform light exercises before doing a sport.
 
@@ -5024,7 +5024,7 @@
 
 *Source*: [[health]]
 
-### To weigh on
+### To weigh on — /ˈtu/ /wei/ /ˈɑn/
 
 **Definition**: to make somebody sad, anxious or worried.
 
@@ -5033,7 +5033,7 @@
 
 *Source*: [[family]]
 
-### To work/ perform miracles
+### To work/ perform miracles — /ˈtu/ /wɜ:k/ /pəˈfɔ:m/ /ˈmɪɹəkəɫz/
 
 **Definition**: to achieve extraordinary/very good results.
 
@@ -5043,7 +5043,7 @@
 
 *Source*: [[work]]
 
-### Turn down
+### Turn down — /tə:n/ /daun/
 
 **Definition**: reject an offer made by someone.
 
@@ -5052,7 +5052,7 @@
 
 *Source*: [[letter-t]]
 
-### Turn into = become
+### Turn into = become — /tə:n/ /intu/ /biˈkʌm/
 
 **Definition**: be transformed into.
 
@@ -5061,7 +5061,7 @@
 
 *Source*: [[letter-t]]
 
-### Turn to
+### Turn to — /tə:n/ /ˈtu/
 
 **Definition**: to go in a new direction to improve a situation.
 
@@ -5070,7 +5070,7 @@
 
 *Source*: [[letter-t]]
 
-### Update = up to date
+### Update = up to date — /ˈəpˌdeɪt/ /Λp/ /ˈtu/ /deit/
 
 **Definition**: to make something more modern.
 
@@ -5079,7 +5079,7 @@
 
 *Source*: [[letter-u]]
 
-### Work on
+### Work on — /wɜ:k/ /ˈɑn/
 
 **Definition**: try hard to repair or improve something.
 
@@ -5088,7 +5088,7 @@
 
 *Source*: [[work]]
 
-### Work things out
+### Work things out — /wɜ:k/ /ˈθɪŋz/ /ˈaʊt/
 
 **Definition**: to find a solution.
 
@@ -5099,7 +5099,7 @@
 
 ## Adjectives
 
-### (Be) occupied with
+### (Be) occupied with — /ˈbi/ /ɔkjupaid/ /wið/
 
 **Definition**: be busy with something.
 
@@ -5108,7 +5108,7 @@
 
 *Source*: [[work]]
 
-### (To be) grateful to
+### (To be) grateful to — /ˈtu/ /ˈbi/ /ˈgreitful/ /ˈtu/
 
 **Definition**: feeling or showing an appreciation of kindness because someone has done something kind for you.
 
@@ -5117,7 +5117,7 @@
 
 *Source*: [[personality]]
 
-### (To) proceed
+### (To) proceed — /ˈtu/ /pɝˈsid/
 
 **Definition**: to begin or continue an action or process.
 
@@ -5126,7 +5126,7 @@
 
 *Source*: [[work]]
 
-### A bit pricey
+### A bit pricey — /ˈeɪ/ /ˈbɪt/ /ˈpɹaɪsi/
 
 **Definition**: a little expensive.
 
@@ -5135,7 +5135,7 @@
 
 *Source*: [[money]]
 
-### A myriad of
+### A myriad of — /ˈeɪ/ /ˈmɪɹiəd/ /ɔv/
 
 **Definition**: a lot of/many.
 
@@ -5144,7 +5144,7 @@
 
 *Source*: [[travel]]
 
-### Absorbed in
+### Absorbed in — /əbˈzɔɹbd/ /ˈɪn/
 
 **Definition**: to be very interested in something and do not notice anything else.
 
@@ -5153,7 +5153,7 @@
 
 *Source*: [[free-time]]
 
-### Alive and kicking
+### Alive and kicking — /əˈlaiv/ /ˈænd/ /ˈkɪkɪŋ/
 
 **Definition**: healthy and active.
 
@@ -5162,7 +5162,7 @@
 
 *Source*: [[health]]
 
-### Be prone to
+### Be prone to — /ˈbi/ /ˈpɹoʊn/ /ˈtu/
 
 **Definition**: likely to suffer from something unpleasant or regrettable (an illness, etc.).
 
@@ -5171,7 +5171,7 @@
 
 *Source*: [[family]]
 
-### Boiling hot
+### Boiling hot — /ˈbɔɪɫɪŋ/ /hɒt/
 
 **Definition**: (of weather) very hot.
 
@@ -5180,7 +5180,7 @@
 
 *Source*: [[environment]]
 
-### Brilliant white
+### Brilliant white — /briljənt/ /wai:t/
 
 **Definition**: very white, extremely white.
 
@@ -5188,7 +5188,7 @@
 
 *Source*: [[family]]
 
-### Come over
+### Come over — /kʌm/ /ouvə/
 
 **Definition**: to come to someone's house to visit for a short time.
 
@@ -5197,7 +5197,7 @@
 
 *Source*: [[family]]
 
-### Crystal clear
+### Crystal clear — /ˈkɹɪstəɫ/ /ˈkɫɪɹ/
 
 **Definition**: completely or transparently clear and bright.
 
@@ -5206,7 +5206,7 @@
 
 *Source*: [[travel]]
 
-### Empathize with
+### Empathize with — /ˈɛmpəˌθaɪz/ /wið/
 
 **Definition**: to understand the feeling and experience of another person.
 
@@ -5215,7 +5215,7 @@
 
 *Source*: [[family]]
 
-### Fed up
+### Fed up — /ˈfɛd/ /Λp/
 
 **Definition**: bored, unhappy or disappointed, especially with a situation that has continued for a long time.
 
@@ -5224,7 +5224,7 @@
 
 *Source*: [[letter-f]]
 
-### Freezing = chilly
+### Freezing = chilly — /ˈfɹizɪŋ/ /ˈtʃɪɫi/
 
 **Definition**: very cold.
 
@@ -5234,7 +5234,7 @@
 
 *Source*: [[environment]]
 
-### Highly credible
+### Highly credible — /ˈhaili/ /ˈkɹɛdəbəɫ/
 
 **Definition**: very trustful.
 
@@ -5243,7 +5243,7 @@
 
 *Source*: [[letter-h]]
 
-### Identical to
+### Identical to — /aɪˈdɛntɪkəɫ/ /ˈtu/
 
 **Definition**: exactly the same; exactly alike.
 
@@ -5252,7 +5252,7 @@
 
 *Source*: [[description]]
 
-### Low- rise
+### Low- rise — /?/ /raiz/
 
 **Definition**: describing buildings which have few stories (just one or two stories).
 
@@ -5261,7 +5261,7 @@
 
 *Source*: [[buildings]]
 
-### Open to
+### Open to — /oupən/ /ˈtu/
 
 **Definition**: be willing to receive or welcome.
 
@@ -5270,7 +5270,7 @@
 
 *Source*: [[letter-o]]
 
-### Pose potential health risks
+### Pose potential health risks — /pouz/ /pəˈtɛnʃəl/ /hɛlθ/ /ˈɹɪsks/
 
 **Definition**: bring some risks.
 
@@ -5279,7 +5279,7 @@
 
 *Source*: [[health]]
 
-### Run down
+### Run down — /rʌn/ /daun/
 
 **Definition**: to be in very bad condition.
 
@@ -5288,7 +5288,7 @@
 
 *Source*: [[buildings]]
 
-### Starving hungry
+### Starving hungry — /ˈstɑɹvɪŋ/ /hΔŋgri/
 
 **Definition**: to be extremely hungry.
 
@@ -5297,7 +5297,7 @@
 
 *Source*: [[food]]
 
-### Suitable for
+### Suitable for — /ˈsu:təbl/ /fɔ:/
 
 **Definition**: right or appropriate for a particular purpose, someone or situation.
 
@@ -5307,7 +5307,7 @@
 
 *Source*: [[books-and-films]]
 
-### To be addicted to
+### To be addicted to — /ˈtu/ /ˈbi/ /əˈdɪktɪd/ /ˈtu/
 
 **Definition**: to be unable to stop doing something as a habit.
 
@@ -5316,7 +5316,7 @@
 
 *Source*: [[health]]
 
-### To be detrimental to health
+### To be detrimental to health — /ˈtu/ /ˈbi/ /ˌdɛtɹəˈmɛnəɫ/ /ˈtu/ /hɛlθ/
 
 **Definition**: to be damaging or harmful to health.
 
@@ -5325,7 +5325,7 @@
 
 *Source*: [[health]]
 
-### To be drenched (to the skin)
+### To be drenched (to the skin) — /ˈtu/ /ˈbi/ /ˈdɹɛntʃt/ /ˈtu/ /ˈðə/ /ˈskɪn/
 
 **Definition**: to be completely wet.
 
@@ -5335,7 +5335,7 @@
 
 *Source*: [[environment]]
 
-### To be overprotective
+### To be overprotective — /ˈtu/ /ˈbi/ /ˌoʊvɝpɹəˈtɛktəv/
 
 **Definition**: tending to protect someone, especially a child, excessively.
 
@@ -5344,7 +5344,7 @@
 
 *Source*: [[letter-o]]
 
-### To be user-friendly
+### To be user-friendly — /ˈtu/ /ˈbi/ /ˈju:zə/ /ˈfrendli/
 
 **Definition**: to be easy to use, learn or understand without advanced skills.
 
@@ -5353,7 +5353,7 @@
 
 *Source*: [[business]]
 
-### To be well-matched
+### To be well-matched — /ˈtu/ /ˈbi/ /wel/ /ˈmætʃt/
 
 **Definition**: (of two people) to be similar in interests.
 
@@ -5362,7 +5362,7 @@
 
 *Source*: [[friends]]
 
-### To become extinct
+### To become extinct — /ˈtu/ /biˈkʌm/ /ɪkˈstɪŋkt/
 
 **Definition**: to stop existing (not now existing).
 
@@ -5371,7 +5371,7 @@
 
 *Source*: [[environment]]
 
-### Vitally important
+### Vitally important — /ˈvaɪtəɫi/ /imˈpɔ:tənt/
 
 **Definition**: very important.
 
@@ -5382,7 +5382,7 @@
 
 ## Adverbs
 
-### All year round
+### All year round — /ɔ:l/ /jə:/ /ˈɹaʊnd/
 
 **Definition**: throughout the entire year.
 
@@ -5391,7 +5391,7 @@
 
 *Source*: [[free-time]]
 
-### As a rule
+### As a rule — /ˈæz/ /ˈeɪ/ /ru:l/
 
 **Definition**: usually, but not always.
 
@@ -5400,7 +5400,7 @@
 
 *Source*: [[free-time]]
 
-### By contrast/ In contrast
+### By contrast/ In contrast — /bai/ /kənˈtræst/ /ˈɪn/ /kənˈtræst/
 
 **Definition**: these can be used to describe opposite/different trend.
 
@@ -5415,7 +5415,7 @@
 
 *Source*: [[ielts-writing]]
 
-### Down the road
+### Down the road — /daun/ /ˈðə/ /roʊd/
 
 **Definition**: in the future.
 
@@ -5424,7 +5424,7 @@
 
 *Source*: [[time]]
 
-### Every so often
+### Every so often — /evәri/ /sou/ /ɔ:fn/
 
 **Definition**: sometimes; from time to time; occasionally.
 
@@ -5433,7 +5433,7 @@
 
 *Source*: [[free-time]]
 
-### Every so often = from time to time
+### Every so often = from time to time — /evәri/ /sou/ /ɔ:fn/ /frɔm/ /taim/ /ˈtu/ /taim/
 
 **Definition**: occasionally; sometimes.
 
@@ -5442,7 +5442,7 @@
 
 *Source*: [[free-time]]
 
-### For ages
+### For ages — /fɔ:/ /ˈeɪdʒəz/
 
 **Definition**: for a very long time.
 
@@ -5451,7 +5451,7 @@
 
 *Source*: [[free-time]]
 
-### Have a whale of time
+### Have a whale of time — /ˈhæv/ /ˈeɪ/ /ˈhweɪɫ/ /ɔv/ /taim/
 
 **Definition**: have a good time.
 
@@ -5460,7 +5460,7 @@
 
 *Source*: [[free-time]]
 
-### In the middle of nowhere
+### In the middle of nowhere — /ˈɪn/ /ˈðə/ /midl/ /ɔv/ /ˈnouˌwɛə/
 
 **Definition**: in a place where few people live that is far away from any towns and cities.
 
@@ -5469,7 +5469,7 @@
 
 *Source*: [[travel]]
 
-### In this day and age
+### In this day and age — /ˈɪn/ /ðis/ /dei/ /ˈænd/ /eidʤ/
 
 **Definition**: at the present time.
 
@@ -5478,7 +5478,7 @@
 
 *Source*: [[time]]
 
-### On a daily basis
+### On a daily basis — /ˈɑn/ /ˈeɪ/ /deili/ /beisis/
 
 **Definition**: every day.
 
@@ -5487,7 +5487,7 @@
 
 *Source*: [[free-time]]
 
-### On time
+### On time — /ˈɑn/ /taim/
 
 **Definition**: punctual; punctually (arriving at the correct time and not late).
 
@@ -5496,7 +5496,7 @@
 
 *Source*: [[time]]
 
-### Once in a blue moon
+### Once in a blue moon — /wʌns/ /ˈɪn/ /ˈeɪ/ /blu:/ /mu:n/
 
 **Definition**: very rarely; not very often.
 
@@ -5505,7 +5505,7 @@
 
 *Source*: [[free-time]]
 
-### Once in a lifetime
+### Once in a lifetime — /wʌns/ /ˈɪn/ /ˈeɪ/ /ˈɫaɪfˌtaɪm/
 
 **Definition**: a chance that is very rarely to happen to someone again in his/her life.
 
@@ -5514,7 +5514,7 @@
 
 *Source*: [[time]]
 
-### Overall = general
+### Overall = general — /ˈoʊvɝˌɔɫ/ /ʤenər(ə)l/
 
 **Definition**: in all parts; taken as a whole.
 
@@ -5523,7 +5523,7 @@
 
 *Source*: [[ielts-writing]]
 
-### Rarely = seldom
+### Rarely = seldom — /reзli/ /ˈsɛɫdəm/
 
 **Definition**: not very often.
 
@@ -5533,7 +5533,7 @@
 
 *Source*: [[free-time]]
 
-### Right after
+### Right after — /rait/ /ɑ:ftə/
 
 **Definition**: immediately after.
 
@@ -5543,7 +5543,7 @@
 
 *Source*: [[time]]
 
-### Right away
+### Right away — /rait/ /əˈwei/
 
 **Definition**: immediately.
 
@@ -5552,7 +5552,7 @@
 
 *Source*: [[time]]
 
-### Stressed out
+### Stressed out — /strest/ /ˈaʊt/
 
 **Definition**: being anxious, worried and nervous.
 
@@ -5561,7 +5561,7 @@
 
 *Source*: [[letter-s]]
 
-### Tend to
+### Tend to — /ˈtɛnd/ /ˈtu/
 
 **Definition**: usually, regularly or frequently.
 
@@ -5570,7 +5570,7 @@
 
 *Source*: [[free-time]]
 
-### The coming year
+### The coming year — /ˈðə/ /ˈkəmɪŋ/ /jə:/
 
 **Definition**: the next year.
 
@@ -5579,7 +5579,7 @@
 
 *Source*: [[time]]
 
-### To the full
+### To the full — /ˈtu/ /ˈðə/ /ful/
 
 **Definition**: to the greatest possible degree.
 
@@ -5587,7 +5587,7 @@
 
 *Source*: [[letter-m]]
 
-### Up to the minute
+### Up to the minute — /Λp/ /ˈtu/ /ˈðə/ /minit/
 
 **Definition**: very latest; the most recent.
 
@@ -5596,7 +5596,7 @@
 
 *Source*: [[time]]
 
-### Used to
+### Used to — /ju:st/ /ˈtu/
 
 **Definition**: to show that something is usually done or experienced in the past.
 
@@ -5607,7 +5607,7 @@
 
 ## Expressions
 
-### (To) come highly recommended
+### (To) come highly recommended — /ˈtu/ /kʌm/ /ˈhaili/ /ˌɹɛkəˈmɛndɪd/
 
 **Definition**: to be praised by a lot of people.
 
@@ -5616,7 +5616,7 @@
 
 *Source*: [[books-and-films]]
 
-### (To) float on air
+### (To) float on air — /ˈtu/ /floʊt/ /ˈɑn/ /eə/
 
 **Definition**: to feel extremely happy.
 
@@ -5625,7 +5625,7 @@
 
 *Source*: [[family]]
 
-### (To) get access to
+### (To) get access to — /ˈtu/ /ˈɡɛt/ /ækses/ /ˈtu/
 
 **Definition**: to get the right to use something or enter a place.
 
@@ -5634,7 +5634,7 @@
 
 *Source*: [[letter-g]]
 
-### (To) have high hopes
+### (To) have high hopes — /ˈtu/ /ˈhæv/ /hai/ /ˈhoʊps/
 
 **Definition**: to believe that something will be successful or will happen.
 
@@ -5643,7 +5643,7 @@
 
 *Source*: [[family]]
 
-### (To) stick in one's mind
+### (To) stick in one's mind — /ˈtu/ /ˈstɪk/ /ˈɪn/ /ˈwənz/ /maid/
 
 **Definition**: a memory or image which is remembered clearly and for a long time.
 
@@ -5652,7 +5652,7 @@
 
 *Source*: [[books-and-films]]
 
-### (To) take something into account
+### (To) take something into account — /ˈtu/ /teik/ /sʌmθiŋ/ /intu/ /əˈkaunt/
 
 **Definition**: to consider particular facts before making a decision about something.
 
@@ -5661,7 +5661,7 @@
 
 *Source*: [[letter-t]]
 
-### A bit
+### A bit — /ˈeɪ/ /ˈbɪt/
 
 **Definition**: a little, a small amount.
 
@@ -5670,7 +5670,7 @@
 
 *Source*: [[letter-a]]
 
-### A sense of accomplishment
+### A sense of accomplishment — /ˈeɪ/ /sens/ /ɔv/ /əˈkɑmpɫɪʃmənt/
 
 **Definition**: a feeling of success in something or when you achieve something great.
 
@@ -5679,7 +5679,7 @@
 
 *Source*: [[letter-a]]
 
-### A waste of money
+### A waste of money — /ˈeɪ/ /weɪst/ /ɔv/ /mʌni/
 
 **Definition**: to spend money in a bad way.
 
@@ -5688,7 +5688,7 @@
 
 *Source*: [[money]]
 
-### Account for
+### Account for — /əˈkaunt/ /fɔ:/
 
 **Definition**: to form a particular part or amount of something.
 
@@ -5697,7 +5697,7 @@
 
 *Source*: [[ielts-writing]]
 
-### An integral part of
+### An integral part of — /ˈæn/ /ˈɪnəɡɹəɫ/ /pa:t/ /ɔv/
 
 **Definition**: play an essential part in something.
 
@@ -5707,7 +5707,7 @@
 
 *Source*: [[letter-a]]
 
-### As for
+### As for — /ˈæz/ /fɔ:/
 
 **Definition**: with regard to.
 
@@ -5716,7 +5716,7 @@
 
 *Source*: [[letter-a]]
 
-### At a crossroads
+### At a crossroads — /ˈæt/ /ˈeɪ/ /ˈkɹɔsˌɹoʊdz/
 
 **Definition**: at an important point in someone's life when he/she has to make a very important decision.
 
@@ -5725,7 +5725,7 @@
 
 *Source*: [[letter-a]]
 
-### At a slow /leisurely pace
+### At a slow /leisurely pace — /ˈæt/ /ˈeɪ/ /slou/ /ˈɫizɝɫi/ /peis/
 
 **Definition**: at an unhurried, relaxed, slow speed.
 
@@ -5735,7 +5735,7 @@
 
 *Source*: [[education]]
 
-### At heart
+### At heart — /ˈæt/ /hɑ:t/
 
 **Definition**: in someone's real nature.
 
@@ -5744,7 +5744,7 @@
 
 *Source*: [[letter-a]]
 
-### Based on
+### Based on — /ˈbeɪst/ /ˈɑn/
 
 **Definition**: according to; to be the reason for something.
 
@@ -5754,7 +5754,7 @@
 
 *Source*: [[letter-b]]
 
-### Be in the mood
+### Be in the mood — /ˈbi/ /ˈɪn/ /ˈðə/ /mu:d/
 
 **Definition**: to feel like doing something.
 
@@ -5763,7 +5763,7 @@
 
 *Source*: [[free-time]]
 
-### Be keen on
+### Be keen on — /ˈbi/ /ki:n/ /ˈɑn/
 
 **Definition**: to be interested in; like.
 
@@ -5776,7 +5776,7 @@
 
 *Source*: [[liking-and-disliking]]
 
-### Be linked to
+### Be linked to — /ˈbi/ /ˈɫɪŋkt/ /ˈtu/
 
 **Definition**: has a connection with.
 
@@ -5784,7 +5784,7 @@
 
 *Source*: [[letter-b]]
 
-### Be madly in love with
+### Be madly in love with — /ˈbi/ /ˈmædɫi/ /ˈɪn/ /lʌv/ /wið/
 
 **Definition**: to love someone very much in a romantic way.
 
@@ -5793,7 +5793,7 @@
 
 *Source*: [[family]]
 
-### Be more likely to
+### Be more likely to — /ˈbi/ /mɔ:/ /ˈlaikli/ /ˈtu/
 
 **Definition**: has a higher chance.
 
@@ -5802,7 +5802,7 @@
 
 *Source*: [[free-time]]
 
-### Be on one's way
+### Be on one's way — /ˈbi/ /ˈɑn/ /ˈwənz/ /wei/
 
 **Definition**: be going, moving, travelling.
 
@@ -5811,7 +5811,7 @@
 
 *Source*: [[letter-b]]
 
-### Be out of condition
+### Be out of condition — /ˈbi/ /ˈaʊt/ /ɔv/ /kәnˈdiʃәn/
 
 **Definition**: not be healthy or fit due to lack of exercise.
 
@@ -5820,7 +5820,7 @@
 
 *Source*: [[health]]
 
-### Be passionate about
+### Be passionate about — /ˈbi/ /ˈpæʃənət/ /əˈbaut/
 
 **Definition**: really enjoy (doing) something.
 
@@ -5829,7 +5829,7 @@
 
 *Source*: [[free-time]]
 
-### Be passionate about
+### Be passionate about — /ˈbi/ /ˈpæʃənət/ /əˈbaut/
 
 **Definition**: to have a strong desire to do something; really enjoy something.
 
@@ -5839,7 +5839,7 @@
 
 *Source*: [[liking-and-disliking]]
 
-### Be there for
+### Be there for — /ˈbi/ /ðeз/ /fɔ:/
 
 **Definition**: to be available to provide support for someone or to make him/her feel better.
 
@@ -5848,7 +5848,7 @@
 
 *Source*: [[letter-b]]
 
-### Bear in mind
+### Bear in mind — /beə/ /ˈɪn/ /maid/
 
 **Definition**: remember/ keep in mind.
 
@@ -5857,7 +5857,7 @@
 
 *Source*: [[letter-b]]
 
-### Beyond one's expectation
+### Beyond one's expectation — /biˈjɔnd/ /ˈwənz/ /
 
 **Definition**: greater than what was expected.
 
@@ -5866,7 +5866,7 @@
 
 *Source*: [[family]]
 
-### Blend into
+### Blend into — /ˈbɫɛnd/ /intu/
 
 **Definition**: to look very similar to the surrounding people or things, so that it is not easily noticeable.
 
@@ -5875,7 +5875,7 @@
 
 *Source*: [[letter-b]]
 
-### Born and raised in
+### Born and raised in — /ˈbɔɹn/ /ˈænd/ /ˈɹeɪzd/ /ˈɪn/
 
 **Definition**: someone was born in a certain place grew up there with his/her parents.
 
@@ -5884,7 +5884,7 @@
 
 *Source*: [[urbanisation]]
 
-### Bring up your offspring
+### Bring up your offspring — /briŋ/ /Λp/ /jo:/ /ˈɔfsˌpɹɪŋ/
 
 **Definition**: to raise your children (to educate, nurture your children).
 
@@ -5893,7 +5893,7 @@
 
 *Source*: [[family]]
 
-### Burn a lot of calories
+### Burn a lot of calories — /bə:n/ /ˈeɪ/ /ˈɫɑt/ /ɔv/ /ˈkæɫɝiz/
 
 **Definition**: to use up a lot of energy.
 
@@ -5902,7 +5902,7 @@
 
 *Source*: [[health]]
 
-### By leaps and bounds
+### By leaps and bounds — /bai/ /ˈɫips/ /ˈænd/ /ˈbaʊndz/
 
 **Definition**: very quickly.
 
@@ -5910,7 +5910,7 @@
 
 *Source*: [[books-and-films]]
 
-### By trial and error
+### By trial and error — /bai/ /traiəl/ /ˈænd/ /erə/
 
 **Definition**: to learn something from the mistakes that you make.
 
@@ -5919,7 +5919,7 @@
 
 *Source*: [[work]]
 
-### Catch one's eye
+### Catch one's eye — /kætʃ/ /ˈwənz/ /ai/
 
 **Definition**: to attract someone's attention.
 
@@ -5928,7 +5928,7 @@
 
 *Source*: [[letter-c]]
 
-### Chances are that
+### Chances are that — /ˈtʃænsəz/ /ˈɑɹ/ /ðæt/
 
 **Definition**: it's likely that.
 
@@ -5937,7 +5937,7 @@
 
 *Source*: [[letter-c]]
 
-### Cheer sb up
+### Cheer sb up — /ˈtʃɪɹ/ /?/ /Λp/
 
 **Definition**: to make someone feel happier.
 
@@ -5947,7 +5947,7 @@
 
 *Source*: [[family]]
 
-### Clean and tidy
+### Clean and tidy — /kli:n/ /ˈænd/ /ˈtaidi/
 
 **Definition**: neatly and not dirty.
 
@@ -5956,7 +5956,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### Come a close second
+### Come a close second — /kʌm/ /ˈeɪ/ /klouz/ /ˈsɛkənd/
 
 **Definition**: be just behind another thing or person.
 
@@ -5965,7 +5965,7 @@
 
 *Source*: [[ielts-writing]]
 
-### Come across
+### Come across — /kʌm/ /əˈkrɔs/
 
 **Definition**: to meet or find someone/something by chance.
 
@@ -5974,7 +5974,7 @@
 
 *Source*: [[letter-c]]
 
-### Come in handy
+### Come in handy — /kʌm/ /ˈɪn/ /ˈhændi/
 
 **Definition**: to be useful or convenient.
 
@@ -5983,7 +5983,7 @@
 
 *Source*: [[letter-c]]
 
-### Come up with
+### Come up with — /kʌm/ /Λp/ /wið/
 
 **Definition**: to suggest or think of an idea, solution or plan.
 
@@ -5992,7 +5992,7 @@
 
 *Source*: [[letter-c]]
 
-### Comes into play
+### Comes into play — /ˈkəmz/ /intu/ /plei/
 
 **Definition**: come into effect; come into action.
 
@@ -6000,7 +6000,7 @@
 
 *Source*: [[law]]
 
-### Despite the fact that
+### Despite the fact that — /disˈpait/ /ˈðə/ /fækt/ /ðæt/
 
 **Definition**: even though.
 
@@ -6009,7 +6009,7 @@
 
 *Source*: [[letter-d]]
 
-### Do (or try) one's best
+### Do (or try) one's best — /ˈdu/ /ˈɔɹ/ /trai/ /ˈwənz/ /ˈbɛst/
 
 **Definition**: to try very hard/ do as much as possible to achieve something.
 
@@ -6018,7 +6018,7 @@
 
 *Source*: [[letter-d]]
 
-### Don't judge a book by its cover
+### Don't judge a book by its cover — /ˈdoʊn/ /dʒʌdʒ/ /ˈeɪ/ /buk/ /bai/ /ˈɪts/ /kʌvə/
 
 **Definition**: you shouldn't judge someone or something only from their appearance.
 
@@ -6027,7 +6027,7 @@
 
 *Source*: [[books-and-films]]
 
-### Draw attention
+### Draw attention — /dro:/ /əˈtenʃn/
 
 **Definition**: to make people notice something or someone.
 
@@ -6037,7 +6037,7 @@
 
 *Source*: [[letter-d]]
 
-### Draw inspiration from
+### Draw inspiration from — /dro:/ /ˌɪnspɝˈeɪʃən/ /frɔm/
 
 **Definition**: be inspired by something (to have new ideas or to be creative).
 
@@ -6047,7 +6047,7 @@
 
 *Source*: [[travel]]
 
-### Drop someone off
+### Drop someone off — /drɒp/ /ˈsəmˌwən/ /ɔ:f/
 
 **Definition**: to take someone to a particular place.
 
@@ -6056,7 +6056,7 @@
 
 *Source*: [[travel]]
 
-### Due to
+### Due to — /ˈdju/ /ˈtu/
 
 **Definition**: because of; owing to; as a result of.
 
@@ -6065,7 +6065,7 @@
 
 *Source*: [[letter-d]]
 
-### End up
+### End up — /ˈɛnd/ /Λp/
 
 **Definition**: to find oneself in a situation or place that was not planned or expected to be in.
 
@@ -6075,7 +6075,7 @@
 
 *Source*: [[letter-e]]
 
-### Enjoy each other's company
+### Enjoy each other's company — /inˈdЗoi/ /i:tʃ/ /ˈəðɝz/ /ˈkʌmpəni/
 
 **Definition**: to enjoy spending time with each other.
 
@@ -6085,7 +6085,7 @@
 
 *Source*: [[friends]]
 
-### Fall out with
+### Fall out with — /fɔl/ /ˈaʊt/ /wið/
 
 **Definition**: to have an argument with someone.
 
@@ -6094,7 +6094,7 @@
 
 *Source*: [[family]]
 
-### Far and wide
+### Far and wide — /fɑ:/ /ˈænd/ /waid/
 
 **Definition**: over a large area.
 
@@ -6103,7 +6103,7 @@
 
 *Source*: [[letter-f]]
 
-### Fond of
+### Fond of — /ˈfɑnd/ /ɔv/
 
 **Definition**: to love something or doing something very much.
 
@@ -6112,7 +6112,7 @@
 
 *Source*: [[liking-and-disliking]]
 
-### For good
+### For good — /fɔ:/ /gud/
 
 **Definition**: forever; permanently.
 
@@ -6121,7 +6121,7 @@
 
 *Source*: [[letter-f]]
 
-### Forget all about
+### Forget all about — /fəˈget/ /ɔ:l/ /əˈbaut/
 
 **Definition**: to forget completely.
 
@@ -6131,7 +6131,7 @@
 
 *Source*: [[letter-f]]
 
-### From cover to cover
+### From cover to cover — /frɔm/ /kʌvə/ /ˈtu/ /kʌvə/
 
 **Definition**: from the beginning to the end (a book or magazine).
 
@@ -6140,7 +6140,7 @@
 
 *Source*: [[books-and-films]]
 
-### From scratch
+### From scratch — /frɔm/ /skrætʃ/
 
 **Definition**: to start from the very beginning.
 
@@ -6149,7 +6149,7 @@
 
 *Source*: [[letter-f]]
 
-### From/ Out of nowhere
+### From/ Out of nowhere — /frɔm/ /ˈaʊt/ /ɔv/ /ˈnouˌwɛə/
 
 **Definition**: happening or appearing very suddenly and unexpectedly.
 
@@ -6158,7 +6158,7 @@
 
 *Source*: [[travel]]
 
-### Fulfill one's dream
+### Fulfill one's dream — /fʊɫˈfɪɫ/ /ˈwənz/ /dri:m/
 
 **Definition**: to do or to achieve what someone hoped to do.
 
@@ -6167,7 +6167,7 @@
 
 *Source*: [[family]]
 
-### Fully intend to
+### Fully intend to — /ˈfuli/ /inˈtend/ /ˈtu/
 
 **Definition**: to have a definite objective or plan to do something.
 
@@ -6176,7 +6176,7 @@
 
 *Source*: [[letter-f]]
 
-### Generally speaking
+### Generally speaking — /dʒenərəli/ /ˈspikɪŋ/
 
 **Definition**: used to describe a general feeling or opinion about something.
 
@@ -6185,7 +6185,7 @@
 
 *Source*: [[letter-g]]
 
-### Get accustomed to
+### Get accustomed to — /ˈɡɛt/ /əˈkəstəmd/ /ˈtu/
 
 **Definition**: get used to; get familiar with.
 
@@ -6194,7 +6194,7 @@
 
 *Source*: [[free-time]]
 
-### Get familiar with
+### Get familiar with — /ˈɡɛt/ /fəˈmiliər/ /wið/
 
 **Definition**: familiarize yourself.
 
@@ -6202,7 +6202,7 @@
 
 *Source*: [[travel]]
 
-### Get in touch with somebody
+### Get in touch with somebody — /ˈɡɛt/ /ˈɪn/ /tʌtʃ/ /wið/ /ˈsəmˌbɑdi/
 
 **Definition**: to contact somebody by talking or writing.
 
@@ -6211,7 +6211,7 @@
 
 *Source*: [[friends]]
 
-### Get into shape
+### Get into shape — /ˈɡɛt/ /intu/ /ʃeip/
 
 **Definition**: to become strong, fit and healthy/ to be in good physical condition.
 
@@ -6220,7 +6220,7 @@
 
 *Source*: [[health]]
 
-### Get into the habit of
+### Get into the habit of — /ˈɡɛt/ /intu/ /ˈðə/ /ˈhæbit/ /ɔv/
 
 **Definition**: to begin to do something regularly or often.
 
@@ -6229,7 +6229,7 @@
 
 *Source*: [[free-time]]
 
-### Get into the habit of
+### Get into the habit of — /ˈɡɛt/ /intu/ /ˈðə/ /ˈhæbit/ /ɔv/
 
 **Definition**: make it a habit.
 
@@ -6238,7 +6238,7 @@
 
 *Source*: [[free-time]]
 
-### Get on with
+### Get on with — /ˈɡɛt/ /ˈɑn/ /wið/
 
 **Definition**: to have a friendly relationship with them.
 
@@ -6247,7 +6247,7 @@
 
 *Source*: [[friends]]
 
-### Get through
+### Get through — /ˈɡɛt/ /θru:/
 
 **Definition**: to successfully deal with a problem or overcome a difficulty.
 
@@ -6256,7 +6256,7 @@
 
 *Source*: [[letter-g]]
 
-### Get to grips with
+### Get to grips with — /ˈɡɛt/ /ˈtu/ /ˈɡɹɪps/ /wið/
 
 **Definition**: to make an effort to handle or deal with something difficult.
 
@@ -6264,7 +6264,7 @@
 
 *Source*: [[letter-g]]
 
-### Getting away from it all
+### Getting away from it all — /ˈɡɛtɪŋ/ /əˈwei/ /frɔm/ /ˈɪt/ /ɔ:l/
 
 **Definition**: to go somewhere different from where you live in order to rest from a daily routine.
 
@@ -6273,7 +6273,7 @@
 
 *Source*: [[travel]]
 
-### Give and take
+### Give and take — /giv/ /ˈænd/ /teik/
 
 **Definition**: the act of giving and receiving.
 
@@ -6282,7 +6282,7 @@
 
 *Source*: [[family]]
 
-### Give someone a lift
+### Give someone a lift — /giv/ /ˈsəmˌwən/ /ˈeɪ/ /ˈɫɪft/
 
 **Definition**: give someone a ride.
 
@@ -6291,7 +6291,7 @@
 
 *Source*: [[travel]]
 
-### Go off the beaten track
+### Go off the beaten track — /gou/ /ɔ:f/ /ˈðə/ /ˈbitən/ /træk/
 
 **Definition**: to visit an isolated place where few people go.
 
@@ -6300,7 +6300,7 @@
 
 *Source*: [[travel]]
 
-### Go out of one's way (to do something)
+### Go out of one's way (to do something) — /gou/ /ˈaʊt/ /ɔv/ /ˈwənz/ /wei/ /ˈtu/ /ˈdu/ /sʌmθiŋ/
 
 **Definition**: to make a special effort to do something.
 
@@ -6309,7 +6309,7 @@
 
 *Source*: [[letter-g]]
 
-### Go to great lengths to do something
+### Go to great lengths to do something — /gou/ /ˈtu/ /greɪt/ /ˈɫɛŋkθs/ /ˈtu/ /ˈdu/ /sʌmθiŋ/
 
 **Definition**: put a great deal of effort to accomplish something.
 
@@ -6318,7 +6318,7 @@
 
 *Source*: [[letter-g]]
 
-### Go viral
+### Go viral — /gou/ /ˈvaɪɹəɫ/
 
 **Definition**: spread quickly and widely through the Internet.
 
@@ -6327,7 +6327,7 @@
 
 *Source*: [[letter-g]]
 
-### Have a great influence on sth/sb
+### Have a great influence on sth/sb — /ˈhæv/ /ˈeɪ/ /greɪt/ /ˈɪnfluəns/ /ˈɑn/ /?/ /?/
 
 **Definition**: have a great impact on sth/sb.
 
@@ -6337,7 +6337,7 @@
 
 *Source*: [[family]]
 
-### Have a passion for
+### Have a passion for — /ˈhæv/ /ˈeɪ/ /ˈpæʃən/ /fɔ:/
 
 **Definition**: a hobby or activity that someone loves to do very much.
 
@@ -6347,7 +6347,7 @@
 
 *Source*: [[liking-and-disliking]]
 
-### Have a rehearsal
+### Have a rehearsal — /ˈhæv/ /ˈeɪ/ /ɹiˈhɝsəɫ/
 
 **Definition**: a practice or trial performance of something (a play, dance, etc.) in preparation for a public performance.
 
@@ -6356,7 +6356,7 @@
 
 *Source*: [[music]]
 
-### Have somebody over
+### Have somebody over — /ˈhæv/ /ˈsəmˌbɑdi/ /ouvə/
 
 **Definition**: to invite someone to come to your house for a meal, drink.
 
@@ -6365,7 +6365,7 @@
 
 *Source*: [[family]]
 
-### Have ups and downs
+### Have ups and downs — /ˈhæv/ /ˈəps/ /ˈænd/ /ˈdaʊnz/
 
 **Definition**: if someone has ups and downs, they experience a mixture of good things and bad things.
 
@@ -6374,7 +6374,7 @@
 
 *Source*: [[family]]
 
-### Have yet to
+### Have yet to — /ˈhæv/ /ˈjɛt/ /ˈtu/
 
 **Definition**: if you have yet to do something, you have not done or completed it.
 
@@ -6384,7 +6384,7 @@
 
 *Source*: [[letter-h]]
 
-### Head over heels in love
+### Head over heels in love — /hed/ /ouvə/ /ˈhiɫz/ /ˈɪn/ /lʌv/
 
 **Definition**: in love with someone (loving someone very much).
 
@@ -6394,7 +6394,7 @@
 
 *Source*: [[family]]
 
-### Huge number of
+### Huge number of — /hjuːdʒ/ /ˈnəmbɝ/ /ɔv/
 
 **Definition**: an extremely large amount of something.
 
@@ -6403,7 +6403,7 @@
 
 *Source*: [[letter-h]]
 
-### Hustle and bustle
+### Hustle and bustle — /ˈhəsəɫ/ /ˈænd/ /ˈbəsəɫ/
 
 **Definition**: busy and noisy, involving a lot of activities and work.
 
@@ -6412,7 +6412,7 @@
 
 *Source*: [[urbanisation]]
 
-### Ideal solution
+### Ideal solution — /aɪˈdiɫ/ /səˈlu:ʃn/
 
 **Definition**: good solution.
 
@@ -6421,7 +6421,7 @@
 
 *Source*: [[business]]
 
-### Illustrate one's point
+### Illustrate one's point — /ˈiləˌstreit/ /ˈwənz/ /ˈpɔɪnt/
 
 **Definition**: prove one's point, or use as an example.
 
@@ -6430,7 +6430,7 @@
 
 *Source*: [[letter-i]]
 
-### In a walking distance of
+### In a walking distance of — /ˈɪn/ /ˈeɪ/ /wɔ:kiŋ/ /distəns/ /ɔv/
 
 **Definition**: near; close to.
 
@@ -6438,7 +6438,7 @@
 
 *Source*: [[food]]
 
-### In advance
+### In advance — /ˈɪn/ /ədˈvɑ:ns/
 
 **Definition**: before a certain time; before you do something else.
 
@@ -6447,7 +6447,7 @@
 
 *Source*: [[letter-i]]
 
-### In all weathers
+### In all weathers — /ˈɪn/ /ɔ:l/ /ˈwɛðɝz/
 
 **Definition**: if something is done in all weathers, it is done whether the weather is good or bad.
 
@@ -6456,7 +6456,7 @@
 
 *Source*: [[environment]]
 
-### In an attempt to
+### In an attempt to — /ˈɪn/ /ˈæn/ /əˈtempt/ /ˈtu/
 
 **Definition**: in hopes of, in trying to.
 
@@ -6464,7 +6464,7 @@
 
 *Source*: [[family]]
 
-### In bloom
+### In bloom — /ˈɪn/ /ˈbɫum/
 
 **Definition**: the state of having flowers opening.
 
@@ -6474,7 +6474,7 @@
 
 *Source*: [[letter-i]]
 
-### In favor of
+### In favor of — /ˈɪn/ /ˈfeɪvɝ/ /ɔv/
 
 **Definition**: to support or approve of something.
 
@@ -6483,7 +6483,7 @@
 
 *Source*: [[free-time]]
 
-### In good condition
+### In good condition — /ˈɪn/ /gud/ /kәnˈdiʃәn/
 
 **Definition**: being in a good condition, without any damage.
 
@@ -6492,7 +6492,7 @@
 
 *Source*: [[towns-and-cities]]
 
-### In good health
+### In good health — /ˈɪn/ /gud/ /hɛlθ/
 
 **Definition**: to be healthy.
 
@@ -6502,7 +6502,7 @@
 
 *Source*: [[health]]
 
-### In good shape
+### In good shape — /ˈɪn/ /gud/ /ʃeip/
 
 **Definition**: in a good physical condition.
 
@@ -6512,7 +6512,7 @@
 
 *Source*: [[health]]
 
-### In jeopardy
+### In jeopardy — /ˈɪn/ /ˈdʒɛpɝdi/
 
 **Definition**: in danger.
 
@@ -6521,7 +6521,7 @@
 
 *Source*: [[letter-i]]
 
-### In poor health
+### In poor health — /ˈɪn/ /puə/ /hɛlθ/
 
 **Definition**: to be unhealthy.
 
@@ -6530,7 +6530,7 @@
 
 *Source*: [[health]]
 
-### In preference to
+### In preference to — /ˈɪn/ /prefərəns/ /ˈtu/
 
 **Definition**: instead of; rather than someone or something.
 
@@ -6539,7 +6539,7 @@
 
 *Source*: [[ielts-writing]]
 
-### In terms of
+### In terms of — /ˈɪn/ /ˈtɝmz/ /ɔv/
 
 **Definition**: used to show which aspect of a subject you are discussing or writing about.
 
@@ -6548,7 +6548,7 @@
 
 *Source*: [[ielts-writing]]
 
-### In the vicinity of
+### In the vicinity of — /ˈɪn/ /ˈðə/ /vəˈsɪnəti/ /ɔv/
 
 **Definition**: near; close to (a place).
 
@@ -6557,7 +6557,7 @@
 
 *Source*: [[letter-i]]
 
-### Investing heavily
+### Investing heavily — /ˌɪnˈvɛstɪŋ/ /ˈhevili/
 
 **Definition**: investing a lot of money in something.
 
@@ -6566,7 +6566,7 @@
 
 *Source*: [[business]]
 
-### Irrespective of
+### Irrespective of — /ˌɪɹəˈspɛktɪv/ /ɔv/
 
 **Definition**: regardless of, no matter what.
 
@@ -6575,7 +6575,7 @@
 
 *Source*: [[letter-i]]
 
-### It's no wonder
+### It's no wonder — /ˈɪts/ /ˈnoʊ/ /wʌndə/
 
 **Definition**: it is not surprising.
 
@@ -6584,7 +6584,7 @@
 
 *Source*: [[letter-i]]
 
-### It's not an indication of
+### It's not an indication of — /ˈɪts/ /nɔt/ /ˈæn/ / /ɔv/
 
 **Definition**: it doesn't mean (that).
 
@@ -6593,7 +6593,7 @@
 
 *Source*: [[letter-i]]
 
-### Keep in touch
+### Keep in touch — /ki:p/ /ˈɪn/ /tʌtʃ/
 
 **Definition**: to maintain communications (talking or writing) with someone.
 
@@ -6602,7 +6602,7 @@
 
 *Source*: [[family]]
 
-### Keep one's eyes glued to screens
+### Keep one's eyes glued to screens — /ki:p/ /ˈwənz/ /ˈaɪz/ /ˈɡɫud/ /ˈtu/ /ˈskɹinz/
 
 **Definition**: to watch (something) in a very concentrated way for a long time.
 
@@ -6612,7 +6612,7 @@
 
 *Source*: [[books-and-films]]
 
-### Keep up with
+### Keep up with — /ki:p/ /Λp/ /wið/
 
 **Definition**: to be able to continue to do something as planned.
 
@@ -6621,7 +6621,7 @@
 
 *Source*: [[free-time]]
 
-### Lack of respect for
+### Lack of respect for — /ˈɫæk/ /ɔv/ /riˈspekt/ /fɔ:/
 
 **Definition**: to have no special regard or respect for someone or something.
 
@@ -6630,7 +6630,7 @@
 
 *Source*: [[family]]
 
-### Lend someone a hand
+### Lend someone a hand — /ˈɫɛnd/ /ˈsəmˌwən/ /ˈeɪ/ /hænd/
 
 **Definition**: to help somebody with something.
 
@@ -6639,7 +6639,7 @@
 
 *Source*: [[family]]
 
-### Let one's hair down
+### Let one's hair down — /lεt/ /ˈwənz/ /heə/ /daun/
 
 **Definition**: to enjoy yourself in a relaxed manner.
 
@@ -6648,7 +6648,7 @@
 
 *Source*: [[letter-l]]
 
-### Lift one's spirits
+### Lift one's spirits — /ˈɫɪft/ /ˈwənz/ /ˈspɪɹɪts/
 
 **Definition**: to make somebody feel cheerful.
 
@@ -6657,7 +6657,7 @@
 
 *Source*: [[family]]
 
-### Look at/on the bright side
+### Look at/on the bright side — /luk/ /ˈæt/ /ˈɑn/ /ˈðə/ /brait/ /sait/
 
 **Definition**: to think of the advantageous/positive/good things.
 
@@ -6666,7 +6666,7 @@
 
 *Source*: [[family]]
 
-### Lose one's patience
+### Lose one's patience — /lu:z/ /ˈwənz/ /ˈpeiʃəns/
 
 **Definition**: if you lose your patience, you are unable to keep your temper, and become suddenly annoyed angry.
 
@@ -6676,7 +6676,7 @@
 
 *Source*: [[personality]]
 
-### Lose one's patience
+### Lose one's patience — /lu:z/ /ˈwənz/ /ˈpeiʃəns/
 
 **Definition**: if someone loses his/her patience, he/she is unable to keep his/her temper, and become suddenly angry.
 
@@ -6685,7 +6685,7 @@
 
 *Source*: [[letter-l]]
 
-### Lose the chance
+### Lose the chance — /lu:z/ /ˈðə/ /ˈtʃæns/
 
 **Definition**: lose the opportunity.
 
@@ -6693,7 +6693,7 @@
 
 *Source*: [[letter-l]]
 
-### Make it to the top
+### Make it to the top — /meik/ /ˈɪt/ /ˈtu/ /ˈðə/ /tɒp/
 
 **Definition**: to be very successful.
 
@@ -6702,7 +6702,7 @@
 
 *Source*: [[business]]
 
-### Makes it possible
+### Makes it possible — /ˈmeɪks/ /ˈɪt/ /pɔsibəl/
 
 **Definition**: allows/enables.
 
@@ -6711,7 +6711,7 @@
 
 *Source*: [[letter-m]]
 
-### Maximize customer satisfaction
+### Maximize customer satisfaction — /ˈmæksəˌmaɪz/ /ˈkʌstəmə/ /
 
 **Definition**: maximize customer happiness.
 
@@ -6719,7 +6719,7 @@
 
 *Source*: [[business]]
 
-### Means a lot to someone
+### Means a lot to someone — /mi:nz/ /ˈeɪ/ /ˈɫɑt/ /ˈtu/ /ˈsəmˌwən/
 
 **Definition**: something that is meaningful or important to someone.
 
@@ -6729,7 +6729,7 @@
 
 *Source*: [[letter-m]]
 
-### Move out of
+### Move out of — /mu:v/ /ˈaʊt/ /ɔv/
 
 **Definition**: to leave the place where you are living now (house, apartment, etc.).
 
@@ -6738,7 +6738,7 @@
 
 *Source*: [[letter-m]]
 
-### Music to one's ears
+### Music to one's ears — /mju:zik/ /ˈtu/ /ˈwənz/ /ˈiɹz/
 
 **Definition**: something that is very pleasant and enjoyable to hear.
 
@@ -6748,7 +6748,7 @@
 
 *Source*: [[music]]
 
-### Near and dear to someone
+### Near and dear to someone — /niə/ /ˈænd/ /diə/ /ˈtu/ /ˈsəmˌwən/
 
 **Definition**: to have a very close relationship with someone.
 
@@ -6758,7 +6758,7 @@
 
 *Source*: [[friends]]
 
-### Needless to say = it goes without saying that
+### Needless to say = it goes without saying that — /ˈnidɫəs/ /ˈtu/ /sei/ /ˈɪt/ /ˈɡoʊz/ /wɪˈðaʊt/ /ˈseɪɪŋ/ /ðæt/
 
 **Definition**: obviously.
 
@@ -6767,7 +6767,7 @@
 
 *Source*: [[family]]
 
-### On a regular basis
+### On a regular basis — /ˈɑn/ /ˈeɪ/ /rəgjulə/ /beisis/
 
 **Definition**: regularly.
 
@@ -6776,7 +6776,7 @@
 
 *Source*: [[free-time]]
 
-### On cloud 9
+### On cloud 9 — /ˈɑn/ /klaud/
 
 **Definition**: to be extremely happy.
 
@@ -6785,7 +6785,7 @@
 
 *Source*: [[free-time]]
 
-### On purpose
+### On purpose — /ˈɑn/ /pə:pəs/
 
 **Definition**: intentionally; deliberately.
 
@@ -6794,7 +6794,7 @@
 
 *Source*: [[letter-o]]
 
-### On safety grounds
+### On safety grounds — /ˈɑn/ /seifti/ /ˈɡɹaʊndz/
 
 **Definition**: for reasons of safety.
 
@@ -6802,7 +6802,7 @@
 
 *Source*: [[health]]
 
-### Out of season
+### Out of season — /ˈaʊt/ /ɔv/ /ˈsi:zən/
 
 **Definition**: at a time of the year when a place is less popular.
 
@@ -6811,7 +6811,7 @@
 
 *Source*: [[travel]]
 
-### Out of steam
+### Out of steam — /ˈaʊt/ /ɔv/ /stim/
 
 **Definition**: to lose energy, tired, exhausted.
 
@@ -6820,7 +6820,7 @@
 
 *Source*: [[work]]
 
-### Out of the question
+### Out of the question — /ˈaʊt/ /ɔv/ /ˈðə/ /ˈkwɛstʃən/
 
 **Definition**: impossible.
 
@@ -6829,7 +6829,7 @@
 
 *Source*: [[letter-o]]
 
-### Out of this world
+### Out of this world — /ˈaʊt/ /ɔv/ /ðis/ /wɜ:ld/
 
 **Definition**: used to emphasize how good, beautiful, etc. something is.
 
@@ -6841,7 +6841,7 @@
 
 *Source*: [[travel]]
 
-### Pay a visit
+### Pay a visit — /pei/ /ˈeɪ/ /vizun/
 
 **Definition**: to go somewhere to visit (someone or a place).
 
@@ -6850,7 +6850,7 @@
 
 *Source*: [[travel]]
 
-### Play an essential part IN something
+### Play an essential part IN something — /plei/ /ˈæn/ /əˈsɛnʃəl/ /pa:t/ /ˈɪn/ /sʌmθiŋ/
 
 **Definition**: have an important role in something.
 
@@ -6859,7 +6859,7 @@
 
 *Source*: [[work]]
 
-### Provide a link to our roots
+### Provide a link to our roots — /prəˈvaid/ /ˈeɪ/ /lɪŋk/ /ˈtu/ /auə/ /ˈɹuts/
 
 **Definition**: to connect with previous generations.
 
@@ -6867,7 +6867,7 @@
 
 *Source*: [[letter-p]]
 
-### Reach a peak
+### Reach a peak — /ri:tʃ/ /ˈeɪ/ /pi:k/
 
 **Definition**: the point at which something is at its highest quantity.
 
@@ -6876,7 +6876,7 @@
 
 *Source*: [[ielts-writing]]
 
-### Reach the top
+### Reach the top — /ri:tʃ/ /ˈðə/ /tɒp/
 
 **Definition**: become very successful at something.
 
@@ -6885,7 +6885,7 @@
 
 *Source*: [[family]]
 
-### Remote corners of the world
+### Remote corners of the world — /riˈmout/ /ˈkɔɹnɝz/ /ɔv/ /ˈðə/ /wɜ:ld/
 
 **Definition**: places in the world which are hard to access due to distance or difficulties of transport to get there.
 
@@ -6894,7 +6894,7 @@
 
 *Source*: [[travel]]
 
-### Run into difficulties
+### Run into difficulties — /rʌn/ /intu/ /ˈdɪfəkəɫtiz/
 
 **Definition**: to experience or get into a difficult situation.
 
@@ -6903,7 +6903,7 @@
 
 *Source*: [[letter-r]]
 
-### Second to none
+### Second to none — /ˈsɛkənd/ /ˈtu/ /nʌn/
 
 **Definition**: as good as or better than all others of the same kind.
 
@@ -6912,7 +6912,7 @@
 
 *Source*: [[letter-s]]
 
-### Secure in the knowledge
+### Secure in the knowledge — /siˈkjuə/ /ˈɪn/ /ˈðə/ /nɒliʤ/
 
 **Definition**: feeling safe or secure because you know something well.
 
@@ -6921,7 +6921,7 @@
 
 *Source*: [[letter-s]]
 
-### Shoulder to cry on
+### Shoulder to cry on — /ʃouldə/ /ˈtu/ /krai/ /ˈɑn/
 
 **Definition**: someone who is always ready to listen to your problems and give you sympathy, emotional support, etc.
 
@@ -6930,7 +6930,7 @@
 
 *Source*: [[friends]]
 
-### Sick as a dog = to be at death's door
+### Sick as a dog = to be at death's door — /ˈsɪk/ /ˈæz/ /ˈeɪ/ /dɔg/ /ˈtu/ /ˈbi/ /ˈæt/ /ˈdɛθs/ /dɔ:/
 
 **Definition**: very sick; extremely ill.
 
@@ -6939,7 +6939,7 @@
 
 *Source*: [[health]]
 
-### Sleep soundly
+### Sleep soundly — /sli:p/ /ˈsaʊndɫi/
 
 **Definition**: sleep very well.
 
@@ -6949,7 +6949,7 @@
 
 *Source*: [[family]]
 
-### Stay up late
+### Stay up late — /stei/ /Λp/ /leit/
 
 **Definition**: to go to bed later than normal bedtime.
 
@@ -6958,7 +6958,7 @@
 
 *Source*: [[free-time]]
 
-### Suit someone down to the ground
+### Suit someone down to the ground — /su:t/ /ˈsəmˌwən/ /daun/ /ˈtu/ /ˈðə/ /graund/
 
 **Definition**: to be completely suitable, convenient or right for someone.
 
@@ -6967,7 +6967,7 @@
 
 *Source*: [[letter-s]]
 
-### Take advantage of
+### Take advantage of — /teik/ /əbˈvɑ:ntidʤ/ /ɔv/
 
 **Definition**: use, take chance to use something.
 
@@ -6976,7 +6976,7 @@
 
 *Source*: [[free-time]]
 
-### Take an interest in
+### Take an interest in — /teik/ /ˈæn/ /ˈɪntərest/ /ˈɪn/
 
 **Definition**: to become interested in something.
 
@@ -6985,7 +6985,7 @@
 
 *Source*: [[free-time]]
 
-### Take special note of
+### Take special note of — /teik/ /speʃəl/ /nout/ /ɔv/
 
 **Definition**: to pay a special attention to something.
 
@@ -6994,7 +6994,7 @@
 
 *Source*: [[letter-t]]
 
-### Take your time
+### Take your time — /teik/ /jo:/ /taim/
 
 **Definition**: not hurry (to do something slowly or carefully).
 
@@ -7004,7 +7004,7 @@
 
 *Source*: [[time]]
 
-### Taken into consideration
+### Taken into consideration — /ˈteɪkən/ /intu/ /kənsidəˈreiʃn/
 
 **Definition**: take a look or take into account or consider.
 
@@ -7013,7 +7013,7 @@
 
 *Source*: [[law]]
 
-### Tended to increase
+### Tended to increase — /ˈtɛndɪd/ /ˈtu/ /inˈkri:s/
 
 **Definition**: increased over a period of time.
 
@@ -7022,7 +7022,7 @@
 
 *Source*: [[ielts-writing]]
 
-### Thanks to
+### Thanks to — /θæŋks/ /ˈtu/
 
 **Definition**: as a result of/ because of; with the help of.
 
@@ -7031,7 +7031,7 @@
 
 *Source*: [[letter-t]]
 
-### Thanks to (something or someone)
+### Thanks to (something or someone) — /θæŋks/ /ˈtu/ /sʌmθiŋ/ /ˈɔɹ/ /ˈsəmˌwən/
 
 **Definition**: as a result of, owing to, due to, because of (used to express the idea that something is good).
 
@@ -7040,7 +7040,7 @@
 
 *Source*: [[letter-t]]
 
-### Throw a party
+### Throw a party — /θrou/ /ˈeɪ/ /ˈpɑrti/
 
 **Definition**: to hold a party.
 
@@ -7049,7 +7049,7 @@
 
 *Source*: [[letter-t]]
 
-### To act one's age
+### To act one's age — /ˈtu/ /ækt/ /ˈwənz/ /eidʤ/
 
 **Definition**: to behave in a mature manner.
 
@@ -7058,7 +7058,7 @@
 
 *Source*: [[letter-a]]
 
-### To allocate somebody something
+### To allocate somebody something — /ˈtu/ /ˈæɫəˌkeɪt/ /ˈsəmˌbɑdi/ /sʌmθiŋ/
 
 **Definition**: to officially distribute something or someone for a particular purpose.
 
@@ -7067,7 +7067,7 @@
 
 *Source*: [[business]]
 
-### To be an inspiration to
+### To be an inspiration to — /ˈtu/ /ˈbi/ /ˈæn/ /ˌɪnspɝˈeɪʃən/ /ˈtu/
 
 **Definition**: to make somebody excited about something.
 
@@ -7077,7 +7077,7 @@
 
 *Source*: [[family]]
 
-### To be around the same age
+### To be around the same age — /ˈtu/ /ˈbi/ /əˈraund/ /ˈðə/ /seim/ /eidʤ/
 
 **Definition**: describing a group of people who have similar ages.
 
@@ -7086,7 +7086,7 @@
 
 *Source*: [[family]]
 
-### To be dying of hunger
+### To be dying of hunger — /ˈtu/ /ˈbi/ /ˈdaɪɪŋ/ /ɔv/ /ˈhəŋɡɝ/
 
 **Definition**: feeling very hungry.
 
@@ -7095,7 +7095,7 @@
 
 *Source*: [[food]]
 
-### To be for the better
+### To be for the better — /ˈtu/ /ˈbi/ /fɔ:/ /ˈðə/ /ˈbɛtɝ/
 
 **Definition**: in a way that improves the situation.
 
@@ -7104,7 +7104,7 @@
 
 *Source*: [[letter-b]]
 
-### To be high in fiber
+### To be high in fiber — /ˈtu/ /ˈbi/ /hai/ /ˈɪn/ /ˈfaɪbɝ/
 
 **Definition**: nondigestible part of food that helps to keep a person healthy by moving other food quickly through the body.
 
@@ -7113,7 +7113,7 @@
 
 *Source*: [[food]]
 
-### To be in the peak of the condition
+### To be in the peak of the condition — /ˈtu/ /ˈbi/ /ˈɪn/ /ˈðə/ /pi:k/ /ɔv/ /ˈðə/ /kәnˈdiʃәn/
 
 **Definition**: to be in the best possible physical condition; to be very fit.
 
@@ -7122,7 +7122,7 @@
 
 *Source*: [[family]]
 
-### To be out of one's depth
+### To be out of one's depth — /ˈtu/ /ˈbi/ /ˈaʊt/ /ɔv/ /ˈwənz/ /depθ/
 
 **Definition**: something that exceeds one's knowledge or ability because it is too difficult.
 
@@ -7131,7 +7131,7 @@
 
 *Source*: [[letter-b]]
 
-### To be stuck behind a computer
+### To be stuck behind a computer — /ˈtu/ /ˈbi/ /ˈstək/ /biˈhaind/ /ˈeɪ/ /kəmˈpju:tə/
 
 **Definition**: to use computer for a long period of time.
 
@@ -7140,7 +7140,7 @@
 
 *Source*: [[technology]]
 
-### To be thronged with tourists
+### To be thronged with tourists — /ˈtu/ /ˈbi/ /ˈθɹɔŋd/ /wið/ /ˈtʊɹəsts/
 
 **Definition**: this refers to the situation in which a place has a crowd or large group of people.
 
@@ -7150,7 +7150,7 @@
 
 *Source*: [[travel]]
 
-### To be through thick and thin
+### To be through thick and thin — /ˈtu/ /ˈbi/ /θru:/ /θik/ /ˈænd/ /θin/
 
 **Definition**: if you stay with someone through thick and thin, you always support or stay with them under all circumstances, no matter how difficult.
 
@@ -7159,7 +7159,7 @@
 
 *Source*: [[friends]]
 
-### To be under the weather
+### To be under the weather — /ˈtu/ /ˈbi/ /ʌndə/ /ˈðə/ /weθə/
 
 **Definition**: do not feel well; feel sick.
 
@@ -7168,7 +7168,7 @@
 
 *Source*: [[health]]
 
-### To be under threat
+### To be under threat — /ˈtu/ /ˈbi/ /ʌndə/ /θrɛt/
 
 **Definition**: likely to be harmed, damaged or become extinct.
 
@@ -7177,7 +7177,7 @@
 
 *Source*: [[environment]]
 
-### To be wary of
+### To be wary of — /ˈtu/ /ˈbi/ /ˈwɛɹi/ /ɔv/
 
 **Definition**: not completely trusting something; watchful, cautious, or alert.
 
@@ -7186,7 +7186,7 @@
 
 *Source*: [[family]]
 
-### To become over-reliant on
+### To become over-reliant on — /ˈtu/ /biˈkʌm/ /ouvə/ /ɹiˈɫaɪənt/ /ˈɑn/
 
 **Definition**: to need something too much for your survival or success.
 
@@ -7195,7 +7195,7 @@
 
 *Source*: [[letter-b]]
 
-### To bond with somebody
+### To bond with somebody — /ˈtu/ /ˈbɑnd/ /wið/ /ˈsəmˌbɑdi/
 
 **Definition**: to develop or create a strong relationship or trust with somebody.
 
@@ -7204,7 +7204,7 @@
 
 *Source*: [[family]]
 
-### To come highly recommended
+### To come highly recommended — /ˈtu/ /kʌm/ /ˈhaili/ /ˌɹɛkəˈmɛndɪd/
 
 **Definition**: to say that something is really good, and suggest people for a particular purpose.
 
@@ -7213,7 +7213,7 @@
 
 *Source*: [[family]]
 
-### To continue to thrive
+### To continue to thrive — /ˈtu/ /kənˈtinju:/ /ˈtu/ /ˈθɹaɪv/
 
 **Definition**: to continue to grow, develop or be successful.
 
@@ -7221,7 +7221,7 @@
 
 *Source*: [[letter-c]]
 
-### To cover a lot of ground
+### To cover a lot of ground — /ˈtu/ /kʌvə/ /ˈeɪ/ /ˈɫɑt/ /ɔv/ /graund/
 
 **Definition**: to deal with much information and many facts.
 
@@ -7230,7 +7230,7 @@
 
 *Source*: [[letter-c]]
 
-### To eat a balanced diet
+### To eat a balanced diet — /ˈtu/ /i:t/ /ˈeɪ/ /ˈbæɫənst/ /daiət/
 
 **Definition**: to eat correctly with proper quantities.
 
@@ -7239,7 +7239,7 @@
 
 *Source*: [[food]]
 
-### To eat like a horse
+### To eat like a horse — /ˈtu/ /i:t/ /ˈɫaɪk/ /ˈeɪ/ /hɔrs/
 
 **Definition**: to eat a lot.
 
@@ -7248,7 +7248,7 @@
 
 *Source*: [[food]]
 
-### To endear oneself to someone
+### To endear oneself to someone — /ˈtu/ /ɛnˈdiɹ/ /ˌwənˈsɛɫf/ /ˈtu/ /ˈsəmˌwən/
 
 **Definition**: to make someone liked by someone else.
 
@@ -7258,7 +7258,7 @@
 
 *Source*: [[family]]
 
-### To enforce strict regulations on
+### To enforce strict regulations on — /ˈtu/ /ɛnˈfɔɹs/ /strikt/ /ˌɹɛɡjəˈɫeɪʃənz/ /ˈɑn/
 
 **Definition**: to make sure a tough punishment to people if they do something against the laws or regulations.
 
@@ -7267,7 +7267,7 @@
 
 *Source*: [[law]]
 
-### To enjoy something to the fullest
+### To enjoy something to the fullest — /ˈtu/ /inˈdЗoi/ /sʌmθiŋ/ /ˈtu/ /ˈðə/ /ˈfʊɫəst/
 
 **Definition**: to enjoy something as much as possible.
 
@@ -7276,7 +7276,7 @@
 
 *Source*: [[letter-e]]
 
-### To fall by the wayside
+### To fall by the wayside — /ˈtu/ /fɔl/ /bai/ /ˈðə/ /ˈweɪˌsaɪd/
 
 **Definition**: if something falls by the wayside, it fails to continue/ people stop doing it.
 
@@ -7285,7 +7285,7 @@
 
 *Source*: [[letter-f]]
 
-### To fall for someone (to fall in love with someone)
+### To fall for someone (to fall in love with someone) — /ˈtu/ /fɔl/ /fɔ:/ /ˈsəmˌwən/ /ˈtu/ /fɔl/ /ˈɪn/ /lʌv/ /wið/ /ˈsəmˌwən/
 
 **Definition**: to start to love someone.
 
@@ -7294,7 +7294,7 @@
 
 *Source*: [[friends]]
 
-### To follow a recipe
+### To follow a recipe — /ˈtu/ /fɔlou/ /ˈeɪ/ /ˈɹɛsəpi/
 
 **Definition**: to cook a meal following a set of instructions.
 
@@ -7303,7 +7303,7 @@
 
 *Source*: [[food]]
 
-### To foot the bill
+### To foot the bill — /ˈtu/ /fut/ /ˈðə/ /bil/
 
 **Definition**: to pay the bill; to pay for something.
 
@@ -7312,7 +7312,7 @@
 
 *Source*: [[food]]
 
-### To gain access to the internet/to access the internet
+### To gain access to the internet/to access the internet — /ˈtu/ /geɪn/ /ækses/ /ˈtu/ /ˈðə/ /intə/ /ˈtu/ /ækses/ /ˈðə/ /intə/
 
 **Definition**: to have a chance to use the internet.
 
@@ -7321,7 +7321,7 @@
 
 *Source*: [[letter-g]]
 
-### To get away from it all
+### To get away from it all — /ˈtu/ /ˈɡɛt/ /əˈwei/ /frɔm/ /ˈɪt/ /ɔ:l/
 
 **Definition**: to leave a big city and go to a peaceful place where you can relax.
 
@@ -7330,7 +7330,7 @@
 
 *Source*: [[travel]]
 
-### To get back to nature
+### To get back to nature — /ˈtu/ /ˈɡɛt/ /bæk/ /ˈtu/ /neitʃə/
 
 **Definition**: to start living a more simple life that is closer to nature.
 
@@ -7339,7 +7339,7 @@
 
 *Source*: [[environment]]
 
-### To get on like a house on fire
+### To get on like a house on fire — /ˈtu/ /ˈɡɛt/ /ˈɑn/ /ˈɫaɪk/ /ˈeɪ/ /haus/ /ˈɑn/ /faiə/
 
 **Definition**: (of two people) to like each other very much and have a very good and friendly relationship very ​ quickly.
 
@@ -7348,7 +7348,7 @@
 
 *Source*: [[friends]]
 
-### To get to know someone
+### To get to know someone — /ˈtu/ /ˈɡɛt/ /ˈtu/ /nou/ /ˈsəmˌwən/
 
 **Definition**: to become acquainted; start to be familiar with someone.
 
@@ -7357,7 +7357,7 @@
 
 *Source*: [[friends]]
 
-### To grab a bite to eat
+### To grab a bite to eat — /ˈtu/ /græb/ /ˈeɪ/ /bait/ /ˈtu/ /i:t/
 
 **Definition**: to eat something in a hurry.
 
@@ -7367,7 +7367,7 @@
 
 *Source*: [[food]]
 
-### To have a head for sth
+### To have a head for sth — /ˈtu/ /ˈhæv/ /ˈeɪ/ /hed/ /fɔ:/ /?/
 
 **Definition**: to have a natural ability to do or understand something well.
 
@@ -7376,7 +7376,7 @@
 
 *Source*: [[letter-h]]
 
-### To have a laid-back attitude
+### To have a laid-back attitude — /ˈtu/ /ˈhæv/ /ˈeɪ/ /ˈɫeɪd/ /bæk/ /ætitju:d/
 
 **Definition**: relaxed, not worrying about anything.
 
@@ -7385,7 +7385,7 @@
 
 *Source*: [[letter-h]]
 
-### To have a lot in common
+### To have a lot in common — /ˈtu/ /ˈhæv/ /ˈeɪ/ /ˈɫɑt/ /ˈɪn/ /kɔmən/
 
 **Definition**: (of two people) share similar interests, beliefs, attitudes, opinions, etc.
 
@@ -7394,7 +7394,7 @@
 
 *Source*: [[friends]]
 
-### To have a sweet tooth
+### To have a sweet tooth — /ˈtu/ /ˈhæv/ /ˈeɪ/ /swi:t/ /tu:θ/
 
 **Definition**: to enjoy eating sweet food.
 
@@ -7403,7 +7403,7 @@
 
 *Source*: [[food]]
 
-### To hide one's light under a bushel
+### To hide one's light under a bushel — /ˈtu/ /haid/ /ˈwənz/ /lait/ /ʌndə/ /ˈeɪ/ /ˈbʊʃəɫ/
 
 **Definition**: if you hide your light under a bushel, you keep your talents or accomplishments hidden from other people.
 
@@ -7412,7 +7412,7 @@
 
 *Source*: [[letter-h]]
 
-### To hit it off with somebody
+### To hit it off with somebody — /ˈtu/ /ˈhɪt/ /ˈɪt/ /ɔ:f/ /wið/ /ˈsəmˌbɑdi/
 
 **Definition**: to quickly like someone when you meet him/her for the first time.
 
@@ -7421,7 +7421,7 @@
 
 *Source*: [[friends]]
 
-### To keep abreast of
+### To keep abreast of — /ˈtu/ /ki:p/ /əˈbɹɛst/ /ɔv/
 
 **Definition**: to have the most recent and important information about something.
 
@@ -7430,7 +7430,7 @@
 
 *Source*: [[letter-t]]
 
-### To keep abreast of something
+### To keep abreast of something — /ˈtu/ /ki:p/ /əˈbɹɛst/ /ɔv/ /sʌmθiŋ/
 
 **Definition**: to stay up-to-date with the new information about something.
 
@@ -7439,7 +7439,7 @@
 
 *Source*: [[media]]
 
-### To launch a product
+### To launch a product — /ˈtu/ /lɔ:ntʃ/ /ˈeɪ/ /ˈprɔdʌkt/
 
 **Definition**: to introduce a new product.
 
@@ -7448,7 +7448,7 @@
 
 *Source*: [[letter-l]]
 
-### To lie in the heart of sth
+### To lie in the heart of sth — /ˈtu/ /lai/ /ˈɪn/ /ˈðə/ /hɑ:t/ /ɔv/ /?/
 
 **Definition**: to be in the center of somewhere.
 
@@ -7457,7 +7457,7 @@
 
 *Source*: [[letter-l]]
 
-### To lift one's spirits
+### To lift one's spirits — /ˈtu/ /ˈɫɪft/ /ˈwənz/ /ˈspɪɹɪts/
 
 **Definition**: to make someone more cheerful.
 
@@ -7466,7 +7466,7 @@
 
 *Source*: [[family]]
 
-### To lose touch with someone
+### To lose touch with someone — /ˈtu/ /lu:z/ /tʌtʃ/ /wið/ /ˈsəmˌwən/
 
 **Definition**: to stop communicating with someone, usually because you lose their contact.
 
@@ -7475,7 +7475,7 @@
 
 *Source*: [[friends]]
 
-### To lose track of something
+### To lose track of something — /ˈtu/ /lu:z/ /træk/ /ɔv/ /sʌmθiŋ/
 
 **Definition**: to lose or lose sight of something.
 
@@ -7484,7 +7484,7 @@
 
 *Source*: [[letter-l]]
 
-### To make small talk
+### To make small talk — /ˈtu/ /meik/ /smɔ:l/ /tɔ:k/
 
 **Definition**: to make a polite conversation about unimportant things such as the weather.
 
@@ -7493,7 +7493,7 @@
 
 *Source*: [[family]]
 
-### To make the grade
+### To make the grade — /ˈtu/ /meik/ /ˈðə/ /greɪd/
 
 **Definition**: to successfully reach a particular standard.
 
@@ -7502,7 +7502,7 @@
 
 *Source*: [[letter-m]]
 
-### To make the most of something
+### To make the most of something — /ˈtu/ /meik/ /ˈðə/ /moust/ /ɔv/ /sʌmθiŋ/
 
 **Definition**: to exploit something as much as possible.
 
@@ -7511,7 +7511,7 @@
 
 *Source*: [[business]]
 
-### To offer emotional support
+### To offer emotional support — /ˈtu/ /ˈɔfə/ /iˈmouʃənəl/ /səˈpɔ:t/
 
 **Definition**: to give counselling or encouragement to a person who is suffering from a mental health problem or stress.
 
@@ -7520,7 +7520,7 @@
 
 *Source*: [[family]]
 
-### To one's liking
+### To one's liking — /ˈtu/ /ˈwənz/ /ˈɫaɪkɪŋ/
 
 **Definition**: to someone's taste (how somebody likes something).
 
@@ -7529,7 +7529,7 @@
 
 *Source*: [[free-time]]
 
-### To pay through the nose for something
+### To pay through the nose for something — /ˈtu/ /pei/ /θru:/ /ˈðə/ /nouz/ /fɔ:/ /sʌmθiŋ/
 
 **Definition**: to pay a large amount of money for something.
 
@@ -7538,7 +7538,7 @@
 
 *Source*: [[money]]
 
-### To phone in sick
+### To phone in sick — /ˈtu/ /ˈfoʊn/ /ˈɪn/ /ˈsɪk/
 
 **Definition**: to call your superior to inform him/her that you are too ill to go to work.
 
@@ -7547,7 +7547,7 @@
 
 *Source*: [[health]]
 
-### To play with your food
+### To play with your food — /ˈtu/ /plei/ /wið/ /jo:/ /fu:d/
 
 **Definition**: to push food around the plate without eating it.
 
@@ -7556,7 +7556,7 @@
 
 *Source*: [[food]]
 
-### To pull something off
+### To pull something off — /ˈtu/ /pul/ /sʌmθiŋ/ /ɔ:f/
 
 **Definition**: to succeed in doing or achieving something difficult.
 
@@ -7565,7 +7565,7 @@
 
 *Source*: [[letter-p]]
 
-### To push forward
+### To push forward — /ˈtu/ /puʃ/ /ˈfɔrwərd/
 
 **Definition**: to advance something; to continue doing something or making progress in something despite difficulties or opposition.
 
@@ -7575,7 +7575,7 @@
 
 *Source*: [[letter-p]]
 
-### To put up with
+### To put up with — /ˈtu/ /ˈpʊt/ /Λp/ /wið/
 
 **Definition**: to accept or tolerate something that is annoying or unpleasant.
 
@@ -7584,7 +7584,7 @@
 
 *Source*: [[letter-p]]
 
-### To see eye to eye
+### To see eye to eye — /ˈtu/ /si:/ /ai/ /ˈtu/ /ai/
 
 **Definition**: to agree with someone about something.
 
@@ -7593,7 +7593,7 @@
 
 *Source*: [[family]]
 
-### To sift information
+### To sift information — /ˈtu/ /ˈsɪft/ /
 
 **Definition**: to remove unwanted or less useful information.
 
@@ -7602,7 +7602,7 @@
 
 *Source*: [[letter-s]]
 
-### To some degree
+### To some degree — /ˈtu/ /sʌm/ /dɪˈgri:/
 
 **Definition**: to some extent.
 
@@ -7611,7 +7611,7 @@
 
 *Source*: [[letter-s]]
 
-### To sound like a broken record
+### To sound like a broken record — /ˈtu/ /ˈsaʊnd/ /ˈɫaɪk/ /ˈeɪ/ /broukən/ /ˈrekɔ:d/
 
 **Definition**: someone who keeps annoying you by saying the same thing over and over again.
 
@@ -7620,7 +7620,7 @@
 
 *Source*: [[music]]
 
-### To spoil your appetite
+### To spoil your appetite — /ˈtu/ /spɔil/ /jo:/ /ˈæpəˌtaɪt/
 
 **Definition**: to make you want to eat less.
 
@@ -7629,7 +7629,7 @@
 
 *Source*: [[food]]
 
-### To squander a chance/an opportunity
+### To squander a chance/an opportunity — /ˈtu/ /ˈskwɑndɝ/ /ˈeɪ/ /ˈtʃæns/ /ˈæn/ /ˌɒpərˈtyunɪti/
 
 **Definition**: to waste/fail to use a chance, by not taking advantage of it.
 
@@ -7638,7 +7638,7 @@
 
 *Source*: [[letter-s]]
 
-### To strike (hit) a false note
+### To strike (hit) a false note — /ˈtu/ /straik/ /ˈhɪt/ /ˈeɪ/ /fo:ls/ /nout/
 
 **Definition**: to do something wrong; to behave inappropriately.
 
@@ -7647,7 +7647,7 @@
 
 *Source*: [[music]]
 
-### To strike somebody as
+### To strike somebody as — /ˈtu/ /straik/ /ˈsəmˌbɑdi/ /ˈæz/
 
 **Definition**: to give somebody a particular impression.
 
@@ -7656,7 +7656,7 @@
 
 *Source*: [[letter-s]]
 
-### To strike up (a conversation, a relationship)
+### To strike up (a conversation, a relationship) — /ˈtu/ /straik/ /Λp/ /ˈeɪ/ / /ˈeɪ/ /riˈleiʃәnʃip/
 
 **Definition**: to start (to do) something.
 
@@ -7665,7 +7665,7 @@
 
 *Source*: [[letter-s]]
 
-### To take after somebody
+### To take after somebody — /ˈtu/ /teik/ /ɑ:ftə/ /ˈsəmˌbɑdi/
 
 **Definition**: to be similar in appearance or character to someone in your family.
 
@@ -7674,7 +7674,7 @@
 
 *Source*: [[family]]
 
-### To take up sport
+### To take up sport — /ˈtu/ /teik/ /Λp/ /spɔ:t/
 
 **Definition**: to start doing sport.
 
@@ -7683,7 +7683,7 @@
 
 *Source*: [[health]]
 
-### To tell off
+### To tell off — /ˈtu/ /tel/ /ɔ:f/
 
 **Definition**: to speak or criticize someone angrily because he/she has done something wrong.
 
@@ -7692,7 +7692,7 @@
 
 *Source*: [[letter-t]]
 
-### To tie the knot
+### To tie the knot — /ˈtu/ /tai/ /ˈðə/ /nɔt/
 
 **Definition**: to get married.
 
@@ -7701,7 +7701,7 @@
 
 *Source*: [[family]]
 
-### To watch someone's back
+### To watch someone's back — /ˈtu/ /wɔtʃ/ /ˈsəmˌwənz/ /bæk/
 
 **Definition**: to protect someone against danger from an unexpected situation.
 
@@ -7710,7 +7710,7 @@
 
 *Source*: [[letter-t]]
 
-### To wine and dine
+### To wine and dine — /ˈtu/ /wain/ /ˈænd/ /ˈdaɪn/
 
 **Definition**: to entertain someone with food and drink, usually at a fancy restaurant.
 
@@ -7719,7 +7719,7 @@
 
 *Source*: [[food]]
 
-### To work out at the gym
+### To work out at the gym — /ˈtu/ /wɜ:k/ /ˈaʊt/ /ˈæt/ /ˈðə/ /ˈdʒɪm/
 
 **Definition**: to train the body through physical exercise at the gym.
 
@@ -7728,7 +7728,7 @@
 
 *Source*: [[health]]
 
-### Try clothes on
+### Try clothes on — /trai/ /klouðz/ /ˈɑn/
 
 **Definition**: to put on clothes to see if they fit.
 
@@ -7737,7 +7737,7 @@
 
 *Source*: [[money]]
 
-### Understanding and caring
+### Understanding and caring — /ˌʌndərˈstændɪŋ/ /ˈænd/ /ˈkɛɹɪŋ/
 
 **Definition**: a feeling of sympathy for someone else who is suffering problems that have caused unhappiness.
 
@@ -7747,7 +7747,7 @@
 
 *Source*: [[family]]
 
-### Weigh up the pros and cons
+### Weigh up the pros and cons — /wei/ /Λp/ /ˈðə/ /ˈpɹoʊz/ /ˈænd/ /ˈkɑnz/
 
 **Definition**: to consider/compare carefully the advantages and disadvantages of something before making a decision.
 
@@ -7756,7 +7756,7 @@
 
 *Source*: [[letter-w]]
 
-### When it comes to
+### When it comes to — /wen/ /ˈɪt/ /ˈkəmz/ /ˈtu/
 
 **Definition**: when talking about.
 
@@ -7765,7 +7765,7 @@
 
 *Source*: [[free-time]]
 
-### White as a sheet
+### White as a sheet — /wai:t/ /ˈæz/ /ˈeɪ/ /ʃi:t/
 
 **Definition**: very pale, usually due to illness, shock, or fear.
 
@@ -7774,7 +7774,7 @@
 
 *Source*: [[health]]
 
-### Widely perceived
+### Widely perceived — /ˈwaidli/ /pɝˈsivd/
 
 **Definition**: something that is understood, realized, regarded or thought about in a particular way by a lot of people.
 
@@ -7785,7 +7785,7 @@
 
 ## Conjunctions
 
-### Whereas = in contrast
+### Whereas = in contrast — /weəˈræz/ /ˈɪn/ /kənˈtræst/
 
 **Definition**: used to contrast two facts.
 
@@ -7794,7 +7794,7 @@
 
 *Source*: [[ielts-writing]]
 
-### While = whereas
+### While = whereas — /wail/ /weəˈræz/
 
 **Definition**: used to indicate a contrast.
 

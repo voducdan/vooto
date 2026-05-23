@@ -20,73 +20,73 @@
 
 ## Entries
 
-### Nominate *[Verb]*
+### Nominate *[Verb]* — /ˈnɑməˌneɪt/
 
 **Definition**: to formally suggest or propose someone as a candidate for an important role, prize/award, position, etc.
 
 - He was nominated as the country's vice-president.
 - He was nominated to speak on our behalf.
 
-### Novelist *[Noun]*
+### Novelist *[Noun]* — /ˈnɑvəɫəst/
 
 **Definition**: someone who writes novels.
 
 - Besides being a lawyer, he is a very famous novelist.
 - As a novelist, he is famous for his difficulty.
 
-### The needy *[Noun]* *(collocation)*
+### The needy *[Noun]* *(collocation)* — /ˈðə/ /ˈnidi/
 
 **Definition**: poor people.
 
 - We should help the poor and the needy.
 - The city supplied the needy with food and clothes.
 
-### Nerve-racking *[Adjective]*
+### Nerve-racking *[Adjective]* — /ˌnɝvˈɹækɪŋ/
 
 **Definition**: making someone feel very nervous and worried.
 
 - His wedding was the most nerve-racking thing he's ever experienced.
 - It's nerve-racking watching him climb.
 
-### Night lamp = night light *[Noun]* *(collocation)*
+### Night lamp = night light *[Noun]* *(collocation)* — /nait/ /læmp/ /nait/ /lait/
 
 **Definition**: a lamp kept burning during the night, especially in a bedroom.
 
 - The modern style table with the night lamp in the bedroom.
 
-### The naked eye *[Noun]* *(collocation)*
+### The naked eye *[Noun]* *(collocation)* — /ˈðə/ /neikid/ /ai/
 
 **Definition**: the normal power of your eye without the help of any special device for making images larger (a telescope, microscope, or other devices.) You can see it with the naked eye. Bacteria are invisible to the naked eye.
 
-### Needy *[Adjective]*
+### Needy *[Adjective]* — /ˈnidi/
 
 **Definition**: lacking money, food, clothes; very poor.
 
 - They awarded scholarships to needy students.
 - He treats needy and poor with sympathy.
 
-### Notable drawbacks *[Noun]* *(collocation)*
+### Notable drawbacks *[Noun]* *(collocation)* — /ˈnoʊtəbəɫ/ /ˈdɹɔˌbæks/
 
 **Definition**: disadvantages which are important to note.
 
 - But just like with Facebook, there are some notable drawbacks to using Twitter.
 - Despite its success, this approach has notable drawbacks.
 
-### Negative factor *[Noun]* *(collocation)*
+### Negative factor *[Noun]* *(collocation)* — /ˈnegətiv/ /fæktə/
 
 **Definition**: factor that is not good and negatively affects something else.
 
 - A negative factor is that getting pregnant after 35 years of age oftentimes carries more potential health risks.
 - The one negative factor about this job is that I have to get up so early.
 
-### Novelty *[Noun]*
+### Novelty *[Noun]* — /ˈnɑvəɫti/
 
 **Definition**: the quality of being new, different, unique or unusual.
 
 - There's a certain novelty value in this approach.
 - We like novelty in our day to day life.
 
-### Neglected *[Verb]*
+### Neglected *[Verb]* — /nəˈɡɫɛktəd/
 
 **Definition**: to pay no attention to someone or something.
 

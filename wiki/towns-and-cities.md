@@ -22,182 +22,182 @@
 
 ## Entries
 
-### Cosmopolitan *[Noun]*
+### Cosmopolitan *[Noun]* — /ˌkɑzməˈpɑɫətən/
 
 **Definition**: including people from many different countries and cultures.
 
 - Singapore is considered as one of the most cosmopolitan cities in the world.
 - London is a truly cosmopolitan city.
 
-### Situated *[Verb]*
+### Situated *[Verb]* — /ˈsɪtʃuˌeɪtɪd/
 
 **Definition**: in a particular place or position.
 
 - The school is situated near the park.
 - Paris is situated in northern France.
 
-### Population *[Noun]*
+### Population *[Noun]* — /
 
 **Definition**: all the people living in a particular town, area, or country.
 
 - The population of the nearest big city was growing.
 - In spite of the significant growth in population, the healthcare facilities are extremely insufficient.
 
-### Specialty *[Noun]*
+### Specialty *[Noun]* — /ˈspeɪʃəɫti/
 
 **Definition**: a product that is extremely good in a particular place.
 
 - Wood carving is a specialty of this village.
 - Oysters are a local specialty of the area.
 
-### Cost of living *[Noun]* *(collocation)*
+### Cost of living *[Noun]* *(collocation)* — /ˈkɑst/ /ɔv/ /liviŋ/
 
 **Definition**: the level of prices you pay for basic things such as food, clothes, shelter, and transport.
 
 - It is the fact that the cost of living is always rising.
 - The cost of living has increased dramatically.
 
-### City dwellers *[Noun]* *(collocation)*
+### City dwellers *[Noun]* *(collocation)* — /si:ti/ /ˈdwɛɫɝz/
 
 **Definition**: people who live in a city.
 
 - He is a city dweller, so he has no idea on how to milk a cow.
 - City dwellers are suggested to produce fewer greenhouse-gas emissions than those who live in the countryside.
 
-### Air quality *[Noun]* *(collocation)*
+### Air quality *[Noun]* *(collocation)* — /eə/ /kwɔliti/
 
 **Definition**: the state of the air around us (how much pollution it contains).
 
 - A large amount of harmful pollutants have a detrimental effect on air quality.
 - Open the windows to circulate the air on days when the air quality is good.
 
-### Nightlife *[Noun]*
+### Nightlife *[Noun]* — /ˈnaɪtˌɫaɪf/
 
 **Definition**: evening entertainment in places such as theaters, nightclubs, and bars.
 
 - Havana, which is the capital of Cuba, has a lively nightlife.
 - I've always found it a friendly place and has a good nightlife.
 
-### Vibrant *[Adjective]*
+### Vibrant *[Adjective]* — /ˈvaɪbɹənt/
 
 **Definition**: lively and exciting (full of energy and enthusiasm).
 
 - The vibrant streets of a big city.
 - Orange is a very vibrant and energetic color.
 
-### Dynamic *[Adjective]*
+### Dynamic *[Adjective]* — /daɪˈnæmɪk/
 
 **Definition**: very lively and enthusiastic.
 
 - He is very dynamic and motivated to get the job.
 - We are in a dynamic group of people.
 
-### Holiday resort (tourist resort) *[Noun]* *(collocation)*
+### Holiday resort (tourist resort) *[Noun]* *(collocation)* — /hɔlədi/ /riˈzɔ:t/ /tuərist/ /riˈzɔ:t/
 
 **Definition**: a place where lots of people go for a holiday.
 
 - Ischia is a popular seaside holiday resort.
 - Rimini is a thriving holiday resort on the east coast of Italy.
 
-### Seaside resort *[Noun]* *(collocation)*
+### Seaside resort *[Noun]* *(collocation)* — /ˈsiˌsaɪd/ /riˈzɔ:t/
 
 **Definition**: a resort town or resort hotel, located on the coast where people spend holidays.
 
 - A sandy beach at a seaside resort area.
 - Fill your break with fun and activity at a seaside resort.
 
-### Be crazy about *[Verb]* *(collocation)*
+### Be crazy about *[Verb]* *(collocation)* — /ˈbi/ /kreizi/ /əˈbaut/
 
 **Definition**: to be very interested or very enthusiastic about something.
 
 - He is crazy about skiing.
 - She's completely crazy about him.
 
-### Spare time *[Noun]* *(collocation)*
+### Spare time *[Noun]* *(collocation)* — /speə/ /taim/
 
 **Definition**: leisure time (time when you do not have to work or study).
 
 - My mom loves to read books on cooking in her spare time.
 - In my spare time, I'm quite into listening to music.
 
-### Check-in desk *[Noun]* *(collocation)*
+### Check-in desk *[Noun]* *(collocation)* — /tʃek/ /ˈɪn/ /ˈdɛsk/
 
 **Definition**: the place at the airport where you register for your flight and deposit your luggage.
 
 - I'll meet you at the check-in desk.
 - The check-in desk is located in the lobby.
 
-### Sunbathe *[Verb]*
+### Sunbathe *[Verb]* — /ˈsənˌbeɪð/
 
 **Definition**: to sit or lie in the sun, especially to make your skin darker.
 
 - Tom was sunbathing on the dock.
 - They're sunbathing around the pool.
 
-### Get a suntan *[Verb]* *(collocation)*
+### Get a suntan *[Verb]* *(collocation)* — /ˈɡɛt/ /ˈeɪ/ /ˈsənˌtæn/
 
 **Definition**: to make your skin darker.
 
 - She doesn't want to get a suntan.
 - Tom is such a beach bum. All he wants to do is getting a suntan.
 
-### Destination *[Noun]*
+### Destination *[Noun]* — /ˌdɛstəˈneɪʃən/
 
 **Definition**: the place to which someone or something is going or travelling.
 
 - Although each person follows a different path, our destinations are the same.
 - The most beautiful destination I've been to was the Seychelles Islands.
 
-### Travel agency *[Noun]* *(collocation)*
+### Travel agency *[Noun]* *(collocation)* — /trævl/ /eidʤənsi/
 
 **Definition**: an agency that helps travelers plan holidays and make travel arrangements, especially transportation, accommodations, tours, and trips.
 
 - Almost 70% of tourists do not use a travel agency.
 - Expedia is the largest online travel agency in the world.
 
-### Tour guide *[Noun]* *(collocation)*
+### Tour guide *[Noun]* *(collocation)* — /tuə/ /gaɪd/
 
 **Definition**: a person employed to show tourists around places of interest and explain its history, architecture etc.
 
 - She was previously employed as a tour guide.
 - Our tour guide showed us around the old town.
 
-### Package holiday *[Noun]* *(collocation)*
+### Package holiday *[Noun]* *(collocation)* — /pæk.ɪdʒ/ /hɔlədi/
 
 **Definition**: a vacation arranged by a travel company for a fixed price, with arrangements for transportation, accommodations, and sometimes meals and entertainment.
 
 - We went on a cheap package holiday to Majorca.
 - We're going on a package holiday to Hong Kong.
 
-### Hitchhike *[Verb]*
+### Hitchhike *[Verb]* — /ˈhɪtʃˌhaɪk/
 
 **Definition**: to travel by asking someone to take you in their vehicle.
 
 - The man hitchhiked to get home after his car broke down.
 - Sometimes he hitchhiked to a car, and sometimes he hitchhiked to a truck.
 
-### Set off *[Verb]* *(collocation)*
+### Set off *[Verb]* *(collocation)* — /ˈsɛt/ /ɔ:f/
 
 **Definition**: to start a journey; to start to go somewhere.
 
 - After making sure she was sound asleep, he crept out of the room and set off.
 - I'm just about to set off for the station.
 
-### Campsite *[Noun]*
+### Campsite *[Noun]* — /ˈkæmpˌsaɪt/
 
 **Definition**: a place where people on holiday use for camping.
 
 - The campsite is in a beautiful location next to the beach.
 - The campsite is close to all local amenities.
 
-### Adjacent *[Adverb]*
+### Adjacent *[Adverb]* — /əˈdʒeɪsənt/
 
 **Definition**: next to or close to something else.
 
 - He couldn't sleep because of the noise coming from the adjacent apartment.
 - The criminal had been living in the adjacent house all this time.
 
-### Homey *[Adjective]*
+### Homey *[Adjective]* — /ˈhoʊmi/
 
 **Definition**: (of a place) pleasantly comfortable and cozy.
 
@@ -205,35 +205,35 @@
 - The room was homey and comfortable.
 - The restaurant has a relaxed, homey atmosphere.
 
-### Cafeteria *[Noun]*
+### Cafeteria *[Noun]* — /ˌkæfəˈtɪɹiə/
 
 **Definition**: an informal restaurant in which you take the food to the table yourself and pay before eating.
 
 - Students make lasting friendships in the cafeteria at school.
 - My friends and I ate in the cafeteria for lunch because they were serving pizza.
 
-### Maid *[Noun]*
+### Maid *[Noun]* — /ˈmeɪd/
 
 **Definition**: a woman whose job is to who clean rooms in a hotel or in someone's home.
 
 - Her maid helped her to clean the floor.
 - The maid made a delicious dish yesterday.
 
-### Guesthouse *[Noun]*
+### Guesthouse *[Noun]* — /ˈɡɛstˌhaʊs/
 
 **Definition**: a private house offering accommodations that people can pay to spend the night.
 
 - Last night, we stayed in a guesthouse.
 - My father bought an old guesthouse in the village where we lived.
 
-### Neighborhood *[Noun]*
+### Neighborhood *[Noun]* — /ˈneɪbɝˌhʊd/
 
 **Definition**: a particular area of a city or town where people live.
 
 - Last night there was a big fire in the neighbourhood.
 - His house is the largest one in our neighborhood.
 
-### Studio flat *[Noun]* *(collocation)*
+### Studio flat *[Noun]* *(collocation)* — /ˈstju:diou/ /flæt/
 
 **Definition**: an apartment containing one main room, a kitchen, and a bathroom.
 
@@ -241,35 +241,35 @@
 - We were in the living room of our studio flat.
 - Our studio flat is privately situated to the rear of the main house.
 
-### Furnished *[Verb]*
+### Furnished *[Verb]* — /ˈfɝnɪʃt/
 
 **Definition**: containing furniture.
 
 - They furnished their house with inexpensive furniture.
 - Tom's living room was tastefully furnished.
 
-### In good condition *[Expression]* *(collocation)*
+### In good condition *[Expression]* *(collocation)* — /ˈɪn/ /gud/ /kәnˈdiʃәn/
 
 **Definition**: being in a good condition, without any damage.
 
 - The car is kept in good condition.
 - This bike is second-hand but it's still in good condition.
 
-### Clean and tidy *[Expression]* *(collocation)*
+### Clean and tidy *[Expression]* *(collocation)* — /kli:n/ /ˈænd/ /ˈtaidi/
 
 **Definition**: neatly and not dirty.
 
 - The cottage was clean and tidy.
 - Everything was clean and tidy when I got home.
 
-### Leisure centre *[Noun]* *(collocation)*
+### Leisure centre *[Noun]* *(collocation)* — /ˈɫɛʒɝ/ /sentə/
 
 **Definition**: a large building containing a swimming pool and other places for exercising and playing different sports.
 
 - We went into their local leisure centre to use the swimming pool.
 - Our leisure centre is open seven days a week.
 
-### Exercise machines *[Noun]* *(collocation)*
+### Exercise machines *[Noun]* *(collocation)* — /eksəsaiz/ /məˈʃinz/
 
 **Definition**: any machine used for physical exercise or training.
 

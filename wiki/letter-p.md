@@ -22,131 +22,131 @@
 
 ## Entries
 
-### Potentially *[Adverb]*
+### Potentially *[Adverb]* — /pəˈtɛnʃəlli/
 
 **Definition**: be likely to develop or happen in the future.
 
 - This drug is potentially harmful to human health.
 - Smoking will not kill him immediately, but it is potentially harmful to his health.
 
-### Portable device *[Noun]* *(collocation)*
+### Portable device *[Noun]* *(collocation)* — /ˈpɔɹtəbəɫ/ /diˈvais/
 
 **Definition**: any device that can easily be held, carried or moved.
 
 - Portable devices such as MP3 players, laptops, cell phones are becoming increasingly popular.
 - Billions of portable devices are sold around the world.
 
-### Perspective *[Noun]*
+### Perspective *[Noun]* — /pɝˈspɛktɪv/
 
 **Definition**: a way of thinking about something.
 
 - When she spoke, her perspective surprised him.
 - His perspective on things is different.
 
-### Pestering *[Verb]*
+### Pestering *[Verb]* — /ˈpɛstɝɪŋ/
 
 **Definition**: annoying someone by asking them for something repeatedly.
 
 - A teenage boy was pestering his mother for money.
 - Lucy was pestering her mother for a story every morning after breakfast.
 
-### Politely decline *[Verb]* *(collocation)*
+### Politely decline *[Verb]* *(collocation)* — /pəˈlaɪtli/ /diˈklain/
 
 **Definition**: to politely refuse.
 
 - His offer was politely declined.
 - I offered to bear all the expenses but they politely declined.
 
-### Practical *[Adjective]*
+### Practical *[Adjective]* — /ˈpræktɪkəl/
 
 **Definition**: suitable for use in everyday life.
 
 - His idea is practical.
 - Tom gave Mary some practical advice.
 
-### Provide *[Verb]*
+### Provide *[Verb]* — /prəˈvaid/
 
 **Definition**: to give something to someone; to supply.
 
 - The company provides health care and life insurance benefits for all of its employees.
 - He always provides me with good input.
 
-### Purpose *[Noun]*
+### Purpose *[Noun]* — /pə:pəs/
 
 **Definition**: an aim, an objective or goal.
 
 - This room is used for various purposes.
 - The site is used for education purposes.
 
-### Precious *[Adjective]*
+### Precious *[Adjective]* — /ˈpɹɛʃəs/
 
 **Definition**: very valuable or important and not to be treated carelessly.
 
 - Time is a precious thing, so we should make the best use of it.
 - Clean water is a precious commodity in the world.
 
-### Primarily *[Adverb]*
+### Primarily *[Adverb]* — /ˈpraimərili/
 
 **Definition**: mainly.
 
 - This dictionary is primarily intended for high school students.
 - Hydropower is used primarily to generate electricity.
 
-### Poverty-stricken *[Adjective]*
+### Poverty-stricken *[Adjective]* — /ˈpɑvɝti/ /ˈstɹɪkən/
 
 **Definition**: extremely poor, almost without any money.
 
 - They are poverty-stricken, and easily fall victim to fever.
 - We wandered through a poverty-stricken village in the countryside.
 
-### Priority *[Noun]*
+### Priority *[Noun]* — /praiˈɔriti/
 
 **Definition**: something that is very important and must be done first.
 
 - Education cannot afford to be a priority, but it should be.
 - The government should give top priority to rebuilding the inner cities.
 
-### To put up with *[Expression]* *(collocation)*
+### To put up with *[Expression]* *(collocation)* — /ˈtu/ /ˈpʊt/ /Λp/ /wið/
 
 **Definition**: to accept or tolerate something that is annoying or unpleasant.
 
 - They have to put up with a lot of noise when their children are at home.
 - He has to put up with a lot of stress, but he still enjoys spending time with his grandmother.
 
-### Persistence *[Noun]*
+### Persistence *[Noun]* — /pɝˈsɪstəns/
 
 **Definition**: the act of continuing to do something despite difficulties.
 
 - Her persistence in asking for a raise was finally rewarded.
 - His persistence finally won him the prize.
 
-### Prevalent *[Adjective]*
+### Prevalent *[Adjective]* — /ˈpɹɛvəɫənt/
 
 **Definition**: widespread in a particular place.
 
 - These diseases are more prevalent among young children.
 - Drugs, and under-age drinking are prevalent among teenagers.
 
-### Patronage *[Noun]*
+### Patronage *[Noun]* — /ˈpætɹənɪdʒ/
 
 **Definition**: the support and money given to a person by an individual or organization.
 
 - The president manages patronage for the party.
 
-### Provide a link to our roots *[Expression]* *(collocation)*
+### Provide a link to our roots *[Expression]* *(collocation)* — /prəˈvaid/ /ˈeɪ/ /lɪŋk/ /ˈtu/ /auə/ /ˈɹuts/
 
 **Definition**: to connect with previous generations.
 
 - They provide a link to our roots, and they are part of our shared heritage.
 
-### Preparation *[Noun]*
+### Preparation *[Noun]* — /ˌprepəˈreiʃən/
 
 **Definition**: something done to get ready for an event or make something ready.
 
 - Cutting vegetables in preparation for making soup.
 - I am making plans in preparation for my son's wedding.
 
-### To push forward *[Expression]* *(collocation)*
+### To push forward *[Expression]* *(collocation)* — /ˈtu/ /puʃ/ /ˈfɔrwərd/
 
 **Definition**: to advance something; to continue doing something or making progress in something despite difficulties or opposition.
 
@@ -154,41 +154,41 @@
 - We must push forward with our plans.
 - The soldiers pushed forward to attack the enemy.
 
-### (To) possess *[Verb]* *(collocation)*
+### (To) possess *[Verb]* *(collocation)* — /ˈtu/ /pәˈzes/
 
 **Definition**: to have or own something.
 
 - The old man possesses great wealth.
 - My uncle possessed a large house and two cars.
 
-### To pull something off *[Expression]* *(collocation)*
+### To pull something off *[Expression]* *(collocation)* — /ˈtu/ /pul/ /sʌmθiŋ/ /ɔ:f/
 
 **Definition**: to succeed in doing or achieving something difficult.
 
 - Peter pulled off a surprise victory in the semi-final.
 - We pulled off the deal.
 
-### Purely *[Adverb]*
+### Purely *[Adverb]* — /ˈpjuəli/
 
 **Definition**: completely; entirely.
 
 - From a purely practical point of view, the house is too small.
 - They have been given college scholarships purely on athletic ability.
 
-### Pitfalls *[Noun]*
+### Pitfalls *[Noun]* — /ˈpɪtˌfɔɫz/
 
 **Definition**: a hidden or unsuspected danger or difficulty, which it is not easy or possible to see at first.
 
 - The mistakes could be avoided if a learner knows the pitfalls.
 - His advice helped me avoid some of the common pitfalls.
 
-### Privilege *[Noun]*
+### Privilege *[Noun]* — /ˈpɹɪvɪɫədʒ/
 
 **Definition**: a special right, or advantage granted to someone to have the chance to do something.
 
 - I am giving my son the privilege of being able to stay out till midnight on Saturday nights.
 
-### Put off *[Verb]* *(collocation)*
+### Put off *[Verb]* *(collocation)* — /ˈpʊt/ /ɔ:f/
 
 **Definition**: to delay doing something.
 
@@ -196,35 +196,35 @@
 - Don't put off your homework to the last minute.
 - We heard that the weather was bad, so we decided to put off our trip.
 
-### Popularize *[Verb]*
+### Popularize *[Verb]* — /ˈpɑpjəɫɝˌaɪz/
 
 **Definition**: to make something become popular so that a lot of people know about it.
 
 - Holidays in Thailand have been popularized through advertising on TV.
 - The book presents a popularized version of American history.
 
-### Pick something up *[Verb]* *(collocation)*
+### Pick something up *[Verb]* *(collocation)* — /pik/ /sʌmθiŋ/ /Λp/
 
 **Definition**: to lift something up and take it away.
 
 - Don't pick up the cat.
 - I want to stop by the bakery to pick up some fresh bread.
 
-### To prey on *[Verb]* *(collocation)*
+### To prey on *[Verb]* *(collocation)* — /ˈtu/ /ˈpɹeɪ/ /ˈɑn/
 
 **Definition**: to hurt or deceive someone, especially who is weaker than you.
 
 - Foxes prey on rabbits.
 - Criminals sometimes use social networks to prey on young people and involve them in the sex trade.
 
-### Permanently *[Adverb]*
+### Permanently *[Adverb]* — /pə:mənəntli/
 
 **Definition**: lasting forever or for a very long time.
 
 - The only way to lose weight permanently is to completely change your attitudes toward food.
 - Are you sure you want to permanently delete all the items and subfolders?
 
-### Polished *[Adjective]*
+### Polished *[Adjective]* — /ˈpɑɫɪʃt/
 
 **Definition**: clean and shiny as a result of being rubbed, usually with a chemical substance.
 
