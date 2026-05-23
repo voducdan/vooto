@@ -17,6 +17,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "books-and-films#keep-one-s-eyes-glued-to-screens": {
+    "due": "2026-05-23T14:32:24.337577+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#moviegoer": {
     "due": "2026-05-23T05:09:37.204445+00:00",
     "ef": 2.5,
@@ -55,6 +61,12 @@
   },
   "books-and-films#to-come-highly-recommended": {
     "due": "2026-05-23T12:21:06.905414+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "books-and-films#to-stick-in-one-s-mind": {
+    "due": "2026-05-23T14:32:24.337577+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
