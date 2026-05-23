@@ -2,9 +2,8 @@ name: vocab-bot
 
 on:
   schedule:
-    - cron: '0 1 * * *'    # 08:00 Vietnam (UTC+7)
-    - cron: '0 6 * * *'    # 13:00 Vietnam
-    - cron: '0 12 * * *'   # 19:00 Vietnam
+    # Every 2 hours during Vietnam (UTC+7) waking hours: 07, 09, 11, 13, 15, 17, 19, 21 VN
+    - cron: '0 0-14/2 * * *'
   workflow_dispatch:
 
 concurrency:
