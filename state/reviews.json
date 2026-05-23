@@ -17,6 +17,18 @@
     "interval": 0.0,
     "reps": 0
   },
+  "books-and-films#spectacular": {
+    "due": "2026-05-23T06:55:32.912021+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "books-and-films#suitable-for": {
+    "due": "2026-05-23T06:55:32.912021+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#trailer": {
     "due": "2026-05-23T05:26:38.534828+00:00",
     "ef": 2.5,
