@@ -1,4 +1,10 @@
 {
+  "books-and-films#gig": {
+    "due": "2026-05-23T08:42:37.896442+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#moviegoer": {
     "due": "2026-05-23T05:09:37.204445+00:00",
     "ef": 2.5,
@@ -31,6 +37,12 @@
   },
   "books-and-films#trailer": {
     "due": "2026-05-23T05:26:38.534828+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "books-and-films#venue": {
+    "due": "2026-05-23T08:42:37.896442+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
