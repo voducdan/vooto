@@ -121,10 +121,19 @@ def drain_ratings(token: str, chat_id: str, entries_by_key: dict[str, Entry]) ->
     _save_offset(last_id + 1)
 
 
-def pick_due(entries: list[Entry], reviews: dict, now: datetime, limit: int) -> list[Entry]:
+def pick_due(
+    entries: list[Entry],
+    reviews: dict,
+    pending: dict,
+    now: datetime,
+    limit: int,
+) -> list[Entry]:
+    awaiting = set(pending.values())  # card keys already sent, not yet rated
     due: list[tuple[str, Entry]] = []
     new_entries: list[Entry] = []
     for entry in entries:
+        if entry.key in awaiting:
+            continue
         state = reviews.get(entry.key)
         if state is None:
             new_entries.append(entry)
@@ -149,7 +158,7 @@ def send_due_cards(token: str, chat_id: str, entries: list[Entry]) -> None:
 
     now = datetime.now(timezone.utc)
     by_key = {e.key: e for e in entries}
-    picked = pick_due(entries, reviews, now, BATCH_SIZE)
+    picked = pick_due(entries, reviews, pending, now, BATCH_SIZE)
     print(f"sending {len(picked)} card(s)")
 
     for entry in picked:
