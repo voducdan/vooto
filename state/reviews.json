@@ -5,8 +5,20 @@
     "interval": 0.0,
     "reps": 0
   },
+  "books-and-films#plot": {
+    "due": "2026-05-23T05:26:38.534828+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#sci-fi-science-fiction": {
     "due": "2026-05-23T05:09:37.204445+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "books-and-films#trailer": {
+    "due": "2026-05-23T05:26:38.534828+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
