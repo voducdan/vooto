@@ -1,4 +1,10 @@
 {
+  "books-and-films#broaden-one-s-knowledge": {
+    "due": "2026-05-24T05:20:21.328526+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#by-leaps-and-bounds": {
     "due": "2026-05-24T03:06:57.128708+00:00",
     "ef": 2.5,
@@ -13,6 +19,12 @@
   },
   "books-and-films#curious": {
     "due": "2026-05-24T03:06:57.128708+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "books-and-films#enthralling": {
+    "due": "2026-05-24T05:20:21.328526+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
