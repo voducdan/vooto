@@ -119,6 +119,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "law#comes-into-play": {
+    "due": "2026-05-24T05:58:59.231218+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#chant": {
     "due": "2026-05-24T05:54:12.376226+00:00",
     "ef": 2.5,
@@ -127,6 +133,12 @@
   },
   "letter-w#widely-perceived": {
     "due": "2026-05-24T05:54:12.376226+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "travel#overcharge": {
+    "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
