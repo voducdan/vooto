@@ -51,10 +51,12 @@ def _save_offset(offset: int) -> None:
 
 
 def format_card(entry: Entry) -> str:
-    tag = f"[{entry.pos}]" if entry.pos else ""
+    header = [f"<b>{escape(entry.word)}</b>"]
+    if entry.pos:
+        header.append(f"[{escape(entry.pos)}]")
     if entry.collocation:
-        tag = f"{tag} <i>collocation</i>".strip()
-    parts = [f"<b>{escape(entry.word)}</b> {escape(tag)}".strip()]
+        header.append("<i>collocation</i>")
+    parts = [" ".join(header)]
     if entry.ipa:
         parts.append(f"<code>{escape(entry.ipa)}</code>")
     parts.append("")
@@ -107,7 +109,10 @@ def drain_ratings(token: str, chat_id: str, entries_by_key: dict[str, Entry]) ->
         reviews[key] = updated
 
         next_in = sr.humanize_interval(updated["interval"])
-        telegram.answer_callback(token, cb["id"], f"{rating} → next in {next_in}")
+        try:
+            telegram.answer_callback(token, cb["id"], f"{rating} → next in {next_in}")
+        except telegram.TelegramError as e:
+            print(f"drain: answer_callback skipped (query likely expired): {e}")
 
         if message_id is not None:
             try:
