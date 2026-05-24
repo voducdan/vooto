@@ -119,6 +119,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "free-time#adventurous": {
+    "due": "2026-05-24T06:09:53.765201+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#comes-into-play": {
     "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
@@ -137,11 +143,19 @@
     "interval": 0.0,
     "reps": 0
   },
-  "letter-g#go-viral": {
-    "due": "2026-05-24T06:08:52.213273+00:00",
+  "letter-c#complementary": {
+    "due": "2026-05-24T06:09:53.765201+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
+  },
+  "letter-g#go-viral": {
+    "due": "2026-05-25T06:09:51.751347+00:00",
+    "ef": 2.35,
+    "interval": 1.0,
+    "last_rating": "hard",
+    "last_reviewed": "2026-05-24T06:09:51.751347+00:00",
+    "reps": 1
   },
   "letter-w#widely-perceived": {
     "due": "2026-05-24T05:54:12.376226+00:00",
@@ -156,10 +170,12 @@
     "reps": 0
   },
   "time#in-this-day-and-age": {
-    "due": "2026-05-24T06:08:52.213273+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-05-25T06:09:52.809655+00:00",
+    "ef": 2.35,
+    "interval": 1.0,
+    "last_rating": "hard",
+    "last_reviewed": "2026-05-24T06:09:52.809655+00:00",
+    "reps": 1
   },
   "travel#overcharge": {
     "due": "2026-05-24T05:58:59.231218+00:00",
