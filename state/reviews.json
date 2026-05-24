@@ -165,6 +165,12 @@
     "last_reviewed": "2026-05-24T06:11:44.884897+00:00",
     "reps": 0
   },
+  "letter-e#to-enjoy-something-to-the-fullest": {
+    "due": "2026-05-24T08:52:03.459806+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-g#go-viral": {
     "due": "2026-05-25T06:09:51.751347+00:00",
     "ef": 2.35,
@@ -172,6 +178,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-05-24T06:09:51.751347+00:00",
     "reps": 1
+  },
+  "letter-s#speed-up": {
+    "due": "2026-05-24T08:52:03.459806+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-w#widely-perceived": {
     "due": "2026-05-24T05:54:12.376226+00:00",
