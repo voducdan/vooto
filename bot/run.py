@@ -71,6 +71,7 @@ def format_card(entry: Entry) -> str:
 def drain_ratings(token: str, chat_id: str, entries_by_key: dict[str, Entry]) -> None:
     offset = _load_offset()
     updates = telegram.get_updates(token, offset)
+    print(f"drain: offset={offset} updates={len(updates)}")
     if not updates:
         return
 
@@ -113,8 +114,9 @@ def drain_ratings(token: str, chat_id: str, entries_by_key: dict[str, Entry]) ->
                 entry = entries_by_key[key]
                 footer = f"\n\n✅ <b>{escape(rating)}</b> — next in {escape(next_in)}"
                 telegram.edit_message(token, chat_id, message_id, format_card(entry) + footer)
-            except telegram.TelegramError:
-                pass
+                print(f"drain: rated {key}={rating}, edited message {message_id}")
+            except telegram.TelegramError as e:
+                print(f"drain: rated {key}={rating}, edit FAILED: {e}")
             pending.pop(str(message_id), None)
 
     _save_json(REVIEWS_PATH, reviews)
