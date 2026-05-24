@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import json
 import os
+import random
 from datetime import datetime, timezone
 from html import escape
 from pathlib import Path
@@ -128,15 +129,19 @@ def pick_due(
     now: datetime,
     limit: int,
 ) -> list[Entry]:
-    awaiting = set(pending.values())  # card keys already sent, not yet rated
+    """Pick up to `limit` cards. Due reviews come first in due-date order.
+    Remaining slots are filled by stratified random: pick a topic at random,
+    then a random new word from it. Topics are not reused within a batch.
+    """
+    awaiting = set(pending.values())
     due: list[tuple[str, Entry]] = []
-    new_entries: list[Entry] = []
+    new_by_topic: dict[str, list[Entry]] = {}
     for entry in entries:
         if entry.key in awaiting:
             continue
         state = reviews.get(entry.key)
         if state is None:
-            new_entries.append(entry)
+            new_by_topic.setdefault(entry.source_file, []).append(entry)
             continue
         due_at = datetime.fromisoformat(state["due"])
         if due_at <= now:
@@ -144,8 +149,13 @@ def pick_due(
 
     due.sort(key=lambda t: t[0])
     picked = [e for _, e in due[:limit]]
-    if len(picked) < limit:
-        picked.extend(new_entries[: limit - len(picked)])
+
+    topics = [t for t, ws in new_by_topic.items() if ws]
+    random.shuffle(topics)
+    for topic in topics:
+        if len(picked) >= limit:
+            break
+        picked.append(random.choice(new_by_topic[topic]))
     return picked
 
 
