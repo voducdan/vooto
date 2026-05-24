@@ -119,8 +119,22 @@
     "interval": 0.0,
     "reps": 0
   },
+  "education#competent": {
+    "due": "2026-05-24T06:11:47.364962+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#adventurous": {
-    "due": "2026-05-24T06:09:53.765201+00:00",
+    "due": "2026-05-24T06:21:46.137897+00:00",
+    "ef": 2.5,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-05-24T06:11:46.137897+00:00",
+    "reps": 0
+  },
+  "ielts-writing#overall-general": {
+    "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
@@ -144,9 +158,11 @@
     "reps": 0
   },
   "letter-c#complementary": {
-    "due": "2026-05-24T06:09:53.765201+00:00",
+    "due": "2026-05-24T06:21:44.884897+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-05-24T06:11:44.884897+00:00",
     "reps": 0
   },
   "letter-g#go-viral": {
