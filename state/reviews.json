@@ -125,6 +125,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-a#alarming": {
+    "due": "2026-05-24T06:04:18.382657+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#chant": {
     "due": "2026-05-24T05:54:12.376226+00:00",
     "ef": 2.5,
@@ -133,6 +139,12 @@
   },
   "letter-w#widely-perceived": {
     "due": "2026-05-24T05:54:12.376226+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "media#classified-ads": {
+    "due": "2026-05-24T06:04:18.382657+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
