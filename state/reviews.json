@@ -187,6 +187,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "law#compulsion": {
+    "due": "2026-05-25T13:08:37.525282+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-a#alarming": {
     "due": "2026-05-24T06:04:18.382657+00:00",
     "ef": 2.5,
@@ -241,6 +247,12 @@
   },
   "letter-l#lose-one-s-patience": {
     "due": "2026-05-25T03:08:38.754677+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-m#to-memorize": {
+    "due": "2026-05-25T13:08:37.525282+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
