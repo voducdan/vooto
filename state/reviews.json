@@ -119,6 +119,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "buildings#cramped": {
+    "due": "2026-05-25T05:33:12.636410+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
     "ef": 2.5,
@@ -147,6 +153,12 @@
   },
   "free-time#to-set-aside-some-time": {
     "due": "2026-05-24T14:31:19.614187+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
+    "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
