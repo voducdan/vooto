@@ -209,6 +209,18 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-k#known-reasons": {
+    "due": "2026-05-25T03:08:38.754677+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-l#lose-one-s-patience": {
+    "due": "2026-05-25T03:08:38.754677+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#speed-up": {
     "due": "2026-05-24T08:52:03.459806+00:00",
     "ef": 2.5,
