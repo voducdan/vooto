@@ -215,6 +215,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-v#viewpoint": {
+    "due": "2026-05-25T00:39:49.976011+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-w#widely-perceived": {
     "due": "2026-05-24T05:54:12.376226+00:00",
     "ef": 2.5,
@@ -243,6 +249,12 @@
   },
   "travel#overcharge": {
     "due": "2026-05-24T05:58:59.231218+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "urbanisation#crowded": {
+    "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
