@@ -181,6 +181,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "friends#to-hit-it-off-with-somebody": {
+    "due": "2026-05-26T00:38:35.859551+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#in-preference-to": {
     "due": "2026-05-25T15:03:30.111894+00:00",
     "ef": 2.5,
@@ -265,6 +271,12 @@
   },
   "letter-m#to-memorize": {
     "due": "2026-05-25T13:08:37.525282+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-n#night-lamp-night-light": {
+    "due": "2026-05-26T00:38:35.859551+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
