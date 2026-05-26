@@ -119,6 +119,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "buildings#apartment-building": {
+    "due": "2026-05-26T05:21:31.942873+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "buildings#cramped": {
     "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
@@ -283,6 +289,12 @@
   },
   "letter-n#night-lamp-night-light": {
     "due": "2026-05-26T00:38:35.859551+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-s#set-to": {
+    "due": "2026-05-26T05:21:31.942873+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
