@@ -131,6 +131,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "buildings#historical-monument": {
+    "due": "2026-05-26T09:10:03.413561+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
     "ef": 2.5,
@@ -195,6 +201,12 @@
   },
   "friends#to-hit-it-off-with-somebody": {
     "due": "2026-05-26T00:38:35.859551+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "ielts-writing#cut-down": {
+    "due": "2026-05-26T09:10:03.413561+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
