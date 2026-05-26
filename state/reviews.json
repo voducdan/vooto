@@ -199,6 +199,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "ielts-writing#slightly": {
+    "due": "2026-05-26T03:07:23.351825+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#comes-into-play": {
     "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
@@ -277,6 +283,12 @@
   },
   "letter-n#night-lamp-night-light": {
     "due": "2026-05-26T00:38:35.859551+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-s#sex-discrimination": {
+    "due": "2026-05-26T03:07:23.351825+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
