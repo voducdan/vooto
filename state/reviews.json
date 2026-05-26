@@ -181,6 +181,12 @@
     "last_reviewed": "2026-05-24T06:11:46.137897+00:00",
     "reps": 0
   },
+  "free-time#have-a-good-command-of": {
+    "due": "2026-05-26T15:03:38.988167+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#to-embark-on": {
     "due": "2026-05-26T07:12:38.234446+00:00",
     "ef": 2.5,
@@ -387,6 +393,12 @@
   },
   "travel#a-riot-of-colour": {
     "due": "2026-05-25T11:23:22.840800+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "travel#impression": {
+    "due": "2026-05-26T15:03:38.988167+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
