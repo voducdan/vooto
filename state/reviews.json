@@ -169,6 +169,12 @@
     "last_reviewed": "2026-05-24T06:11:46.137897+00:00",
     "reps": 0
   },
+  "free-time#to-embark-on": {
+    "due": "2026-05-26T07:12:38.234446+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#to-set-aside-some-time": {
     "due": "2026-05-24T14:31:19.614187+00:00",
     "ef": 2.5,
@@ -337,6 +343,12 @@
   },
   "music#pop-music": {
     "due": "2026-05-24T12:23:35.966485+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "personality#frank": {
+    "due": "2026-05-26T07:12:38.234446+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
