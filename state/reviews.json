@@ -137,6 +137,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "buildings#pavilion": {
+    "due": "2026-05-26T12:59:04.831690+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
     "ef": 2.5,
@@ -283,6 +289,12 @@
   },
   "letter-h#haunt": {
     "due": "2026-05-24T12:23:35.966485+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-h#to-hide-one-s-light-under-a-bushel": {
+    "due": "2026-05-26T12:59:04.831690+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
