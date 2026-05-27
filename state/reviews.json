@@ -329,6 +329,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-p#pick-something-up": {
+    "due": "2026-05-27T00:39:39.859971+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#set-to": {
     "due": "2026-05-26T05:21:31.942873+00:00",
     "ef": 2.5,
@@ -355,6 +361,12 @@
   },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-w#weigh-up-the-pros-and-cons": {
+    "due": "2026-05-27T00:39:39.859971+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
