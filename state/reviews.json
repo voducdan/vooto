@@ -161,6 +161,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "environment#to-throw-something-out": {
+    "due": "2026-05-27T05:30:08.218156+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#crunchy": {
     "due": "2026-05-25T09:21:08.408281+00:00",
     "ef": 2.5,
@@ -189,6 +195,12 @@
   },
   "free-time#have-a-good-command-of": {
     "due": "2026-05-26T15:03:38.988167+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "free-time#on-a-daily-basis": {
+    "due": "2026-05-27T05:30:08.218156+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
