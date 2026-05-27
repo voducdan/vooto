@@ -309,6 +309,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-e#elaborate-on": {
+    "due": "2026-05-27T13:09:14.077392+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#to-enjoy-something-to-the-fullest": {
     "due": "2026-05-24T08:52:03.459806+00:00",
     "ef": 2.5,
@@ -427,6 +433,12 @@
   },
   "letter-w#widely-perceived": {
     "due": "2026-05-24T05:54:12.376226+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "liking-and-disliking#be-passionate-about": {
+    "due": "2026-05-27T13:09:14.077392+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
