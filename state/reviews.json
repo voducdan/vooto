@@ -235,6 +235,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "health#awareness": {
+    "due": "2026-05-27T09:08:45.644614+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#cut-down": {
     "due": "2026-05-26T09:10:03.413561+00:00",
     "ef": 2.5,
@@ -355,6 +361,12 @@
   },
   "letter-p#pick-something-up": {
     "due": "2026-05-27T00:39:39.859971+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-p#to-possess": {
+    "due": "2026-05-27T09:08:45.644614+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
