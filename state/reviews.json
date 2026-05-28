@@ -395,6 +395,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-n#nerve-racking": {
+    "due": "2026-05-28T00:36:28.967163+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-n#night-lamp-night-light": {
     "due": "2026-05-26T00:38:35.859551+00:00",
     "ef": 2.5,
@@ -487,6 +493,12 @@
   },
   "music#pop-music": {
     "due": "2026-05-24T12:23:35.966485+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "personality#foolish": {
+    "due": "2026-05-28T00:36:28.967163+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
