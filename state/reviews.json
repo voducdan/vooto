@@ -173,6 +173,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "education#extracurricular-activities": {
+    "due": "2026-05-28T09:15:02.191154+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#keep-track-of": {
     "due": "2026-05-27T13:43:06.236454+00:00",
     "ef": 2.5,
@@ -433,6 +439,12 @@
   },
   "letter-r#rebellious": {
     "due": "2026-05-28T03:09:05.889737+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-r#to-read-over": {
+    "due": "2026-05-28T09:15:02.191154+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
