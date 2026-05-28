@@ -419,6 +419,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-r#rebellious": {
+    "due": "2026-05-28T03:09:05.889737+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#set-to": {
     "due": "2026-05-26T05:21:31.942873+00:00",
     "ef": 2.5,
@@ -433,6 +439,12 @@
   },
   "letter-s#speed-up": {
     "due": "2026-05-24T08:52:03.459806+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-s#to-sift-information-tu-s-ft": {
+    "due": "2026-05-28T03:09:05.889737+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
