@@ -443,6 +443,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-p#prevalent": {
+    "due": "2026-05-28T13:13:46.671918+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-p#to-possess": {
     "due": "2026-05-27T09:08:45.644614+00:00",
     "ef": 2.5,
@@ -541,6 +547,12 @@
   },
   "music#pop-music": {
     "due": "2026-05-24T12:23:35.966485+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "personality#cheerful": {
+    "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
