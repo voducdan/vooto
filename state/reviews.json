@@ -179,6 +179,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "family#acquaintance": {
+    "due": "2026-05-28T05:26:20.568469+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#carefree": {
     "due": "2026-05-27T14:03:41.266284+00:00",
     "ef": 2.5,
@@ -543,6 +549,12 @@
   },
   "travel#impression": {
     "due": "2026-05-26T15:03:38.988167+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "travel#luxury": {
+    "due": "2026-05-28T05:26:20.568469+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
