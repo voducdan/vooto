@@ -301,6 +301,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "ielts-writing#significantly": {
+    "due": "2026-05-28T15:08:21.512057+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#slightly": {
     "due": "2026-05-26T03:07:23.351825+00:00",
     "ef": 2.5,
@@ -343,6 +349,12 @@
     "interval": 0.0069,
     "last_rating": "again",
     "last_reviewed": "2026-05-24T06:11:44.884897+00:00",
+    "reps": 0
+  },
+  "letter-c#congenial": {
+    "due": "2026-05-28T15:08:21.512057+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-c#current-affairs": {
