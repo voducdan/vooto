@@ -355,6 +355,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-a#autism": {
+    "due": "2026-05-29T09:10:23.238992+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#chant": {
     "due": "2026-05-24T05:54:12.376226+00:00",
     "ef": 2.5,
@@ -451,6 +457,12 @@
   },
   "letter-l#lose-one-s-patience": {
     "due": "2026-05-25T03:08:38.754677+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-m#maintenance": {
+    "due": "2026-05-29T09:10:23.238992+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
