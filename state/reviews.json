@@ -203,6 +203,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "education#tertiary-education-higher-education-t-i-ha": {
+    "due": "2026-05-29T15:06:00.008471+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#to-throw-something-out": {
     "due": "2026-05-27T05:30:08.218156+00:00",
     "ef": 2.5,
@@ -505,6 +511,12 @@
   },
   "letter-n#night-lamp-night-light": {
     "due": "2026-05-26T00:38:35.859551+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-n#nominate": {
+    "due": "2026-05-29T15:06:00.008471+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
