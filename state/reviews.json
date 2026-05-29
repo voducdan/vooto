@@ -325,6 +325,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "law#commit-a-crime": {
+    "due": "2026-05-29T03:08:07.791260+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#compulsion": {
     "due": "2026-05-25T13:08:37.525282+00:00",
     "ef": 2.5,
@@ -487,6 +493,12 @@
   },
   "letter-r#to-read-over": {
     "due": "2026-05-28T09:15:02.191154+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-s#self-explanatory": {
+    "due": "2026-05-29T03:08:07.791260+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
