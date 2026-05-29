@@ -47,6 +47,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "books-and-films#heartbreaking": {
+    "due": "2026-05-29T13:04:58.914006+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#keep-one-s-eyes-glued-to-screens": {
     "due": "2026-05-23T14:32:24.337577+00:00",
     "ef": 2.5,
@@ -699,6 +705,12 @@
   },
   "urbanisation#crowded": {
     "due": "2026-05-25T00:39:49.976011+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "urbanisation#the-hectic-pace-of-life": {
+    "due": "2026-05-29T13:04:58.914006+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
