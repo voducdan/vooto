@@ -143,6 +143,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "buildings#run-down": {
+    "due": "2026-05-29T00:42:37.578340+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "buildings#shabby": {
     "due": "2026-05-27T13:43:06.236454+00:00",
     "ef": 2.5,
@@ -377,6 +383,12 @@
   },
   "letter-f#fierce-competition-f-s": {
     "due": "2026-05-28T11:13:20.308468+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-f#for-good": {
+    "due": "2026-05-29T00:42:37.578340+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
