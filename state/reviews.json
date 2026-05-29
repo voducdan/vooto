@@ -167,6 +167,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "description#grave": {
+    "due": "2026-05-29T11:06:16.310369+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
@@ -357,6 +363,12 @@
   },
   "letter-a#autism": {
     "due": "2026-05-29T09:10:23.238992+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-b#barrier": {
+    "due": "2026-05-29T11:06:16.310369+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
