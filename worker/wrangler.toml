@@ -1,0 +1,13 @@
+name = "vocab-webhook"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+# Secrets (set via `wrangler secret put <NAME>`):
+#   TG_BOT_TOKEN      - Telegram bot token
+#   WEBHOOK_SECRET    - shared with setWebhook secret_token; used to verify requests
+#   GITHUB_TOKEN      - fine-grained PAT with contents:read+write on the wiki repo
+#
+# Plain vars below are committed and visible in the dashboard.
+[vars]
+GITHUB_REPO = "voducdan/vooto"
+GITHUB_BRANCH = "main"

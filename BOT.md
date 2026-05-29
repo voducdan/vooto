@@ -1,61 +1,123 @@
 # Vocab Bot — Setup
 
-A GitHub Actions cron sends IELTS vocab cards to your Telegram three times a day. You rate each card (Again / Hard / Good / Easy); SM-2 schedules the next review.
+IELTS vocab cards land in your Telegram every 2 hours during waking hours.
+You rate each card (Again / Hard / Good / Easy) and SM-2 schedules the next
+review.
+
+Two pieces:
+
+- **GitHub Actions cron** — sends new cards 3×/day. See `bot/run.py`,
+  `.github/workflows/send.yml`.
+- **Cloudflare Worker webhook** — handles each rating click in real time. See
+  `worker/`.
+
+Ratings *must* go through the webhook. `getUpdates` polling does not work for
+this bot: Telegram drops unanswered `callback_query` updates within minutes,
+well below any reasonable cron interval.
 
 ## One-time setup
 
-1. **Create the Telegram bot.** DM `@BotFather`, run `/newbot`, save the token.
-2. **Get your chat_id.** Send any message to the new bot, then:
+### 1. Telegram bot
+
+1. DM `@BotFather`, run `/newbot`, save the token.
+2. Send any message to the new bot, then:
    ```
    curl "https://api.telegram.org/bot<TOKEN>/getUpdates"
    ```
    Copy the integer at `result[0].message.chat.id`.
-3. **Create a private GitHub repo** (e.g. `ielts-vocab-bot`). Do not initialize it with a README.
-4. **Push this directory:**
+
+### 2. GitHub repo
+
+1. Create a private GitHub repo (e.g. `ielts-vocab-bot`). Do not initialize with a README.
+2. Push this directory:
    ```
    cd /Users/admin/Documents/vocab
    git init
    git branch -M main
    git remote add origin git@github.com:<you>/<repo>.git
    git add .
-   git commit -m "initial: bot + wiki"
+   git commit -m "initial: bot + wiki + webhook"
    git push -u origin main
    ```
-5. **Add secrets** (repo → Settings → Secrets and variables → Actions → New repository secret):
-   - `TG_BOT_TOKEN` — the bot token from step 1
-   - `TG_CHAT_ID` — the chat_id from step 2
-6. **Test it.** Repo → Actions → `vocab-bot` → Run workflow. You should receive 2 cards in Telegram.
+3. Add Actions secrets (Settings → Secrets and variables → Actions → New repository secret):
+   - `TG_BOT_TOKEN`
+   - `TG_CHAT_ID`
+4. Smoke-test the cron: Actions → `vocab-bot` → Run workflow. You should receive 2 cards.
+
+### 3. Cloudflare Worker (rating webhook)
+
+```
+cd worker
+npm install
+npx wrangler login
+npx wrangler deploy
+```
+
+Then create a fine-grained GitHub PAT scoped to the wiki repo only, with
+**Contents: read & write**, and set the worker secrets:
+
+```
+npx wrangler secret put TG_BOT_TOKEN     # same token as the Action
+npx wrangler secret put WEBHOOK_SECRET   # any random string
+npx wrangler secret put GITHUB_TOKEN     # the fine-grained PAT
+```
+
+Edit `worker/wrangler.toml` so `GITHUB_REPO = "<you>/<repo>"`.
+
+Finally, point Telegram at the deployed worker URL:
+
+```
+curl "https://api.telegram.org/bot<TG_BOT_TOKEN>/setWebhook" \
+  -H 'content-type: application/json' \
+  -d '{
+    "url": "https://vocab-webhook.<you>.workers.dev",
+    "secret_token": "<WEBHOOK_SECRET>",
+    "allowed_updates": ["callback_query"],
+    "drop_pending_updates": true
+  }'
+```
+
+Verify with `getWebhookInfo` — the `url` should be your worker.
 
 ## How it runs
 
-- Cron fires at 08:00, 13:00, 19:00 Vietnam time.
-- Each run:
-  1. Drains any button presses you made since the last run (applies SM-2, edits the message with the next-due date).
-  2. Picks up to `BATCH_SIZE` (default 2) due cards from the wiki, sends them with rating buttons.
-  3. Commits `state/` back to the repo so the next run sees updated SR data.
+- Cron fires every 2 hours from 07:00 to 21:00 Vietnam time (8 runs/day).
+  1. Picks up to `BATCH_SIZE` (default 2) due cards from the wiki.
+  2. Sends each with rating buttons.
+  3. Commits `state/` back to the repo.
+- Each button press is delivered by Telegram to the Worker URL within ~hundreds of ms.
+  1. Worker answers the callback (spinner dismissed).
+  2. Worker reads `state/{reviews,pending}.json` from GitHub.
+  3. Applies SM-2, edits the message with the rating footer.
+  4. Commits the updated state files via the GitHub git tree API.
 
 ## Tuning
 
-- **Cards per run** — set repo variable `BATCH_SIZE` or edit `bot/run.py`.
-- **Schedule** — edit the `cron:` lines in `.github/workflows/send.yml`. Times are UTC; current values are 08/13/19 Vietnam (UTC+7).
-- **Faster rating feedback** — ratings are only processed on the next scheduled run (≤6h delay). To process them sooner, add a separate workflow with a more frequent cron that calls `python -m bot.run` (the bot is idempotent — if no cards are due it does nothing).
+- **Cards per run** — repo variable `BATCH_SIZE` or edit `bot/run.py`.
+- **Schedule** — edit the `cron:` lines in `.github/workflows/send.yml`. Times are UTC.
+- **Worker code** — see `worker/`. `src/sr.ts` is a port of `bot/sr.py`; keep them in sync.
 
 ## Files
 
 ```
 bot/
-  parser.py   markdown → entries
-  sr.py       SM-2 algorithm
-  telegram.py Telegram Bot API wrapper
-  run.py      entry point
+  parser.py    markdown → entries
+  sr.py        SM-2 (Python copy)
+  telegram.py  Telegram send wrapper
+  run.py       cron entry point (sends only)
+worker/
+  src/index.ts handler + dispatch
+  src/sr.ts    SM-2 (TS port — keep in sync with bot/sr.py)
+  src/telegram.ts  answer + edit
+  src/github.ts    read + atomic commit
+  wrangler.toml
 state/
   reviews.json   per-card SR state (ef, interval, due, reps)
   pending.json   {message_id: card_key} for cards awaiting rating
-  tg_offset.txt  last seen update_id (for getUpdates)
 .github/workflows/send.yml
 ```
 
-## Local smoke test
+## Local smoke test (cron side only)
 
 ```
 cd /Users/admin/Documents/vocab
@@ -63,4 +125,5 @@ pip install -r requirements.txt
 TG_BOT_TOKEN=... TG_CHAT_ID=... python -m bot.run
 ```
 
-You should see two cards arrive. Tap a button. Re-run; the bot edits the original message with the new interval and `state/reviews.json` gets a new entry.
+You should see two cards arrive. Tapping a button only does anything if the
+webhook is deployed and `setWebhook` is configured.

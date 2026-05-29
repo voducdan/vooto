@@ -1,8 +1,11 @@
 name: vocab-bot
 
+# Sends due cards every 2 hours during Vietnam (UTC+7) waking hours.
+# Click handling is done by the Cloudflare Worker webhook (see worker/) —
+# this workflow no longer touches Telegram updates.
 on:
   schedule:
-    # Every 2 hours during Vietnam (UTC+7) waking hours: 07, 09, 11, 13, 15, 17, 19, 21 VN
+    # 07, 09, 11, 13, 15, 17, 19, 21 VN → 00, 02, 04, 06, 08, 10, 12, 14 UTC
     - cron: '0 0-14/2 * * *'
   workflow_dispatch:
 
@@ -36,10 +39,15 @@ jobs:
         run: |
           git config user.name "vocab-bot"
           git config user.email "vocab-bot@users.noreply.github.com"
-          git add state/
-          if git diff --quiet --cached; then
+          if git diff --quiet -- state/; then
             echo "no state changes"
           else
+            # Webhook may have pushed commits to state/ during this run.
+            # Stash our send-side updates, rebase, then re-apply on top.
+            git stash push -- state/
+            git pull --rebase origin main
+            git stash pop
+            git add state/
             git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi

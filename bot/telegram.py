@@ -1,4 +1,7 @@
-"""Tiny Telegram Bot API wrapper. Only the methods we need."""
+"""Tiny Telegram Bot API wrapper. Only the methods we need for sending cards.
+
+Click handling lives in the Cloudflare Worker (see worker/).
+"""
 from __future__ import annotations
 
 import os
@@ -44,26 +47,6 @@ def send_card(token: str, chat_id: str, text: str, card_key: str) -> int:
         disable_web_page_preview=True,
     )
     return result["message_id"]
-
-
-def get_updates(token: str, offset: int) -> list[dict]:
-    return _call(token, "getUpdates", offset=offset, timeout=0, allowed_updates=["callback_query"])
-
-
-def answer_callback(token: str, callback_id: str, text: str = "") -> None:
-    _call(token, "answerCallbackQuery", callback_query_id=callback_id, text=text)
-
-
-def edit_message(token: str, chat_id: str, message_id: int, text: str) -> None:
-    _call(
-        token,
-        "editMessageText",
-        chat_id=chat_id,
-        message_id=message_id,
-        text=text,
-        parse_mode="HTML",
-        disable_web_page_preview=True,
-    )
 
 
 def env(name: str) -> str:
