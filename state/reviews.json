@@ -2,253 +2,255 @@
   "books-and-films#broaden-one-s-knowledge": {
     "due": "2026-05-24T05:20:21.328526+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#by-leaps-and-bounds": {
     "due": "2026-05-24T03:06:57.128708+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#cinemagoer-moviegoer": {
     "due": "2026-05-23T10:31:43.029371+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#curious": {
     "due": "2026-05-24T03:06:57.128708+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#enthralling": {
     "due": "2026-05-24T05:20:21.328526+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#fascinating": {
     "due": "2026-05-23T12:21:06.905414+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#frustrated": {
     "due": "2026-05-24T00:38:29.987428+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#gig": {
     "due": "2026-05-23T08:42:37.896442+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#heartbreaking": {
     "due": "2026-05-29T13:04:58.914006+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#keep-one-s-eyes-glued-to-screens": {
     "due": "2026-05-23T14:32:24.337577+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#moviegoer": {
     "due": "2026-05-23T05:09:37.204445+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#plot": {
     "due": "2026-05-23T05:26:38.534828+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#sci-fi-science-fiction": {
     "due": "2026-05-23T05:09:37.204445+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#sitcom": {
     "due": "2026-05-23T10:31:43.029371+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#spectacular": {
     "due": "2026-05-23T06:55:32.912021+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#suitable-for": {
     "due": "2026-05-23T06:55:32.912021+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#to-come-highly-recommended": {
     "due": "2026-05-23T12:21:06.905414+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#to-grasp": {
     "due": "2026-05-24T00:38:29.987428+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#to-stick-in-one-s-mind": {
     "due": "2026-05-23T14:32:24.337577+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#trailer": {
     "due": "2026-05-23T05:26:38.534828+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#venue": {
     "due": "2026-05-23T08:42:37.896442+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#apartment-building": {
     "due": "2026-05-26T05:21:31.942873+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#cramped": {
     "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#historical-monument": {
     "due": "2026-05-26T09:10:03.413561+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#pavilion": {
     "due": "2026-05-26T12:59:04.831690+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#run-down": {
     "due": "2026-05-29T00:42:37.578340+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#shabby": {
     "due": "2026-05-27T13:43:06.236454+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#grave": {
     "due": "2026-05-29T11:06:16.310369+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#diploma": {
     "due": "2026-05-28T07:20:25.723808+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#extracurricular-activities": {
     "due": "2026-05-28T09:15:02.191154+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#keep-track-of": {
     "due": "2026-05-27T13:43:06.236454+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#tertiary-education-higher-education-t-i-ha": {
-    "due": "2026-05-29T15:06:00.008471+00:00",
+    "due": "2026-05-29T15:27:50.222Z",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-05-29T15:17:50.222Z",
     "reps": 0
   },
   "environment#to-throw-something-out": {
     "due": "2026-05-27T05:30:08.218156+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#acquaintance": {
     "due": "2026-05-28T05:26:20.568469+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#carefree": {
     "due": "2026-05-27T14:03:41.266284+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#crunchy": {
     "due": "2026-05-25T09:21:08.408281+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#inadequate": {
     "due": "2026-05-24T10:33:46.330980+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#portion": {
     "due": "2026-05-27T03:07:49.075051+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#ripe": {
     "due": "2026-05-27T14:03:41.266284+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#adventurous": {
@@ -262,133 +264,133 @@
   "free-time#have-a-good-command-of": {
     "due": "2026-05-26T15:03:38.988167+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#on-a-daily-basis": {
     "due": "2026-05-27T05:30:08.218156+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#to-embark-on": {
     "due": "2026-05-26T07:12:38.234446+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#to-set-aside-some-time": {
     "due": "2026-05-24T14:31:19.614187+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
     "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-get-on-like-a-house-on-fire": {
     "due": "2026-05-25T15:03:30.111894+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-hit-it-off-with-somebody": {
     "due": "2026-05-26T00:38:35.859551+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#awareness": {
     "due": "2026-05-27T09:08:45.644614+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#cut-down": {
     "due": "2026-05-26T09:10:03.413561+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#fuel": {
     "due": "2026-05-29T05:27:44.707832+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#in-preference-to": {
     "due": "2026-05-25T15:03:30.111894+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#overall-general": {
     "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#significantly": {
     "due": "2026-05-28T15:08:21.512057+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#slightly": {
     "due": "2026-05-26T03:07:23.351825+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#comes-into-play": {
     "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#commit-a-crime": {
     "due": "2026-05-29T03:08:07.791260+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#compulsion": {
     "due": "2026-05-25T13:08:37.525282+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#acknowledge": {
     "due": "2026-05-27T07:26:55.918228+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#alarming": {
     "due": "2026-05-24T06:04:18.382657+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#autism": {
     "due": "2026-05-29T09:10:23.238992+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-b#barrier": {
     "due": "2026-05-29T11:06:16.310369+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-c#chant": {
     "due": "2026-05-24T05:54:12.376226+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-c#complementary": {
@@ -402,55 +404,55 @@
   "letter-c#congenial": {
     "due": "2026-05-28T15:08:21.512057+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-c#current-affairs": {
     "due": "2026-05-24T14:31:19.614187+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#elaborate-on": {
     "due": "2026-05-27T13:09:14.077392+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#to-enjoy-something-to-the-fullest": {
     "due": "2026-05-24T08:52:03.459806+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fierce-competition-f-s": {
     "due": "2026-05-28T11:13:20.308468+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#for-good": {
     "due": "2026-05-29T00:42:37.578340+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fortunately": {
     "due": "2026-05-29T07:20:27.895452+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#to-fall-by-the-wayside": {
     "due": "2026-05-27T11:13:01.029340+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-g#go-viral": {
     "due": "2026-05-25T06:09:51.751347+00:00",
     "ef": 2.35,
-    "interval": 1.0,
+    "interval": 1,
     "last_rating": "hard",
     "last_reviewed": "2026-05-24T06:09:51.751347+00:00",
     "reps": 1
@@ -458,229 +460,229 @@
   "letter-h#haunt": {
     "due": "2026-05-24T12:23:35.966485+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-h#to-hide-one-s-light-under-a-bushel": {
     "due": "2026-05-26T12:59:04.831690+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#immeasurable": {
     "due": "2026-05-28T11:13:20.308468+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#lose-one-s-patience": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#maintenance": {
     "due": "2026-05-29T09:10:23.238992+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#minor": {
     "due": "2026-05-27T15:05:35.270190+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#to-memorize": {
     "due": "2026-05-25T13:08:37.525282+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-n#nerve-racking": {
     "due": "2026-05-28T00:36:28.967163+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-n#night-lamp-night-light": {
     "due": "2026-05-26T00:38:35.859551+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-n#nominate": {
     "due": "2026-05-29T15:06:00.008471+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#pick-something-up": {
     "due": "2026-05-27T00:39:39.859971+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#prevalent": {
     "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#to-possess": {
     "due": "2026-05-27T09:08:45.644614+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#rebellious": {
     "due": "2026-05-28T03:09:05.889737+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#to-read-over": {
     "due": "2026-05-28T09:15:02.191154+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#self-explanatory": {
     "due": "2026-05-29T03:08:07.791260+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#set-to": {
     "due": "2026-05-26T05:21:31.942873+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#sex-discrimination": {
     "due": "2026-05-26T03:07:23.351825+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#speed-up": {
     "due": "2026-05-24T08:52:03.459806+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#to-sift-information-tu-s-ft": {
     "due": "2026-05-28T03:09:05.889737+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#to-keep-abreast-of": {
     "due": "2026-05-25T11:23:22.840800+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#unnecessary": {
     "due": "2026-05-27T07:26:55.918228+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#update-up-to-date": {
     "due": "2026-05-27T11:13:01.029340+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#various": {
     "due": "2026-05-29T05:27:44.707832+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-w#weigh-up-the-pros-and-cons": {
     "due": "2026-05-27T00:39:39.859971+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-w#widely-perceived": {
     "due": "2026-05-24T05:54:12.376226+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "liking-and-disliking#be-passionate-about": {
     "due": "2026-05-27T13:09:14.077392+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "liking-and-disliking#fond-of": {
     "due": "2026-05-27T15:05:35.270190+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#classified-ads": {
     "due": "2026-05-24T06:04:18.382657+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#pop-music": {
     "due": "2026-05-24T12:23:35.966485+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#cheerful": {
     "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#foolish": {
     "due": "2026-05-28T00:36:28.967163+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#frank": {
     "due": "2026-05-26T07:12:38.234446+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#computer-buff": {
     "due": "2026-05-29T07:20:27.895452+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#geek": {
     "due": "2026-05-28T07:20:25.723808+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#in-this-day-and-age": {
     "due": "2026-05-25T06:09:52.809655+00:00",
     "ef": 2.35,
-    "interval": 1.0,
+    "interval": 1,
     "last_rating": "hard",
     "last_reviewed": "2026-05-24T06:09:52.809655+00:00",
     "reps": 1
@@ -688,43 +690,43 @@
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#a-riot-of-colour": {
     "due": "2026-05-25T11:23:22.840800+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#impression": {
     "due": "2026-05-26T15:03:38.988167+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#luxury": {
     "due": "2026-05-28T05:26:20.568469+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#overcharge": {
     "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#crowded": {
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#the-hectic-pace-of-life": {
     "due": "2026-05-29T13:04:58.914006+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   }
 }
