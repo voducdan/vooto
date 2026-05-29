@@ -518,10 +518,12 @@
     "reps": 0
   },
   "letter-n#nominate": {
-    "due": "2026-05-29T15:06:00.008471+00:00",
+    "due": "2026-05-30T15:18:10.553Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-05-29T15:18:10.553Z",
+    "reps": 1
   },
   "letter-p#pick-something-up": {
     "due": "2026-05-27T00:39:39.859971+00:00",
