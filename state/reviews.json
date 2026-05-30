@@ -380,12 +380,12 @@
     "reps": 0
   },
   "law#enact": {
-    "due": "2026-05-30T09:30:43.096Z",
-    "ef": 2.5,
-    "interval": 0.0069,
-    "last_rating": "again",
-    "last_reviewed": "2026-05-30T09:20:43.096Z",
-    "reps": 0
+    "due": "2026-05-31T10:35:25.436Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-05-30T10:35:25.436Z",
+    "reps": 1
   },
   "letter-a#acknowledge": {
     "due": "2026-05-27T07:26:55.918228+00:00",
