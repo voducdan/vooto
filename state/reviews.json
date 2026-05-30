@@ -318,11 +318,11 @@
     "reps": 0
   },
   "health#to-be-detrimental-to-health": {
-    "due": "2026-05-30T07:13:43.099Z",
+    "due": "2026-05-30T09:30:17.611Z",
     "ef": 2.5,
     "interval": 0.0069,
     "last_rating": "again",
-    "last_reviewed": "2026-05-30T07:03:43.099Z",
+    "last_reviewed": "2026-05-30T09:20:17.611Z",
     "reps": 0
   },
   "ielts-writing#cut-down": {
@@ -382,7 +382,7 @@
   "law#enact": {
     "due": "2026-05-30T08:49:05.777660+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#acknowledge": {
