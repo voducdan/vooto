@@ -168,10 +168,12 @@
     "reps": 0
   },
   "description#awful": {
-    "due": "2026-05-30T00:39:05.219727+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-05-31T08:06:20.839Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-05-30T00:54:20.839Z",
+    "reps": 1
   },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
