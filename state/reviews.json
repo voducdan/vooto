@@ -164,7 +164,7 @@
   "business#an-entrepreneur": {
     "due": "2026-05-30T12:25:29.433842+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#to-be-user-friendly": {
@@ -444,9 +444,11 @@
     "reps": 0
   },
   "letter-c#to-continue-to-thrive": {
-    "due": "2026-05-30T12:25:29.433842+00:00",
+    "due": "2026-05-30T13:13:45.511Z",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-05-30T13:03:45.511Z",
     "reps": 0
   },
   "letter-e#elaborate-on": {
