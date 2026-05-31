@@ -396,12 +396,12 @@
     "reps": 1
   },
   "law#enact": {
-    "due": "2026-05-31T10:35:25.436Z",
+    "due": "2026-06-06T12:02:53.482Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-05-30T10:35:25.436Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-05-31T12:02:53.482Z",
+    "reps": 2
   },
   "letter-a#acknowledge": {
     "due": "2026-05-27T07:26:55.918228+00:00",
