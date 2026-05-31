@@ -704,12 +704,12 @@
     "reps": 0
   },
   "liking-and-disliking#to-detest": {
-    "due": "2026-05-31T03:41:48.343Z",
+    "due": "2026-06-01T05:32:36.762Z",
     "ef": 2.5,
-    "interval": 0.0069,
-    "last_rating": "again",
-    "last_reviewed": "2026-05-31T03:31:48.343Z",
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-05-31T05:32:36.762Z",
+    "reps": 1
   },
   "media#classified-ads": {
     "due": "2026-05-24T06:04:18.382657+00:00",
