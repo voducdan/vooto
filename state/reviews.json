@@ -326,11 +326,11 @@
     "reps": 0
   },
   "health#to-be-detrimental-to-health": {
-    "due": "2026-05-31T12:13:10.031Z",
+    "due": "2026-05-31T12:41:02.664Z",
     "ef": 2.35,
     "interval": 0.0069,
     "last_rating": "again",
-    "last_reviewed": "2026-05-31T12:03:10.031Z",
+    "last_reviewed": "2026-05-31T12:31:02.664Z",
     "reps": 0
   },
   "ielts-writing#cut-down": {
@@ -674,7 +674,7 @@
   "letter-v#vitally-important": {
     "due": "2026-05-31T12:28:44.783524+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-w#weigh-up-the-pros-and-cons": {
