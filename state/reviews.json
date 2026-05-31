@@ -387,6 +387,12 @@
     "interval": 0,
     "reps": 0
   },
+  "law#copyright": {
+    "due": "2026-05-31T03:08:08.251065+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#enact": {
     "due": "2026-05-31T10:35:25.436Z",
     "ef": 2.35,
@@ -693,6 +699,12 @@
     "due": "2026-05-27T15:05:35.270190+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "liking-and-disliking#to-detest": {
+    "due": "2026-05-31T03:08:08.251065+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "media#classified-ads": {
