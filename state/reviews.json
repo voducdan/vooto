@@ -558,12 +558,12 @@
     "reps": 0
   },
   "letter-n#nominate": {
-    "due": "2026-05-30T15:18:10.553Z",
+    "due": "2026-06-06T03:01:39.858Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-05-29T15:18:10.553Z",
-    "reps": 1
+    "last_reviewed": "2026-05-31T03:01:39.858Z",
+    "reps": 2
   },
   "letter-n#novelist": {
     "due": "2026-05-31T14:15:13.887Z",
