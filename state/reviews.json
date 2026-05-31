@@ -672,10 +672,12 @@
     "reps": 0
   },
   "letter-v#vitally-important": {
-    "due": "2026-05-31T12:28:44.783524+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-01T12:31:09.857Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-05-31T12:31:09.857Z",
+    "reps": 1
   },
   "letter-w#weigh-up-the-pros-and-cons": {
     "due": "2026-05-27T00:39:39.859971+00:00",
