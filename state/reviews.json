@@ -220,12 +220,12 @@
     "reps": 0
   },
   "education#tertiary-education-higher-education-t-i-ha": {
-    "due": "2026-06-01T12:25:23.823Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-06-03T01:16:44.101Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-05-31T07:37:23.823Z",
-    "reps": 2
+    "last_reviewed": "2026-06-01T14:43:08.101Z",
+    "reps": 3
   },
   "environment#to-throw-something-out": {
     "due": "2026-05-27T05:30:08.218156+00:00",
