@@ -301,6 +301,12 @@
     "interval": 0,
     "reps": 0
   },
+  "friends#compliment": {
+    "due": "2026-06-01T11:59:25.260373+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
     "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
