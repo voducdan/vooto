@@ -770,10 +770,12 @@
     "reps": 0
   },
   "technology#to-utilize": {
-    "due": "2026-06-01T03:09:27.823964+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-02T10:21:40.558Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-01T03:09:40.558Z",
+    "reps": 1
   },
   "time#in-this-day-and-age": {
     "due": "2026-05-25T06:09:52.809655+00:00",
