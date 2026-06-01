@@ -524,9 +524,11 @@
     "reps": 0
   },
   "letter-i#immerse": {
-    "due": "2026-06-01T00:43:44.375996+00:00",
+    "due": "2026-06-01T01:10:42.604Z",
     "ef": 2.5,
-    "interval": 0,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-06-01T01:00:42.604Z",
     "reps": 0
   },
   "letter-k#known-reasons": {
