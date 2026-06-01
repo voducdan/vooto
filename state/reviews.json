@@ -551,6 +551,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-l#lose-the-chance": {
+    "due": "2026-06-01T07:45:45.973621+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-m#maintenance": {
     "due": "2026-05-29T09:10:23.238992+00:00",
     "ef": 2.5,
