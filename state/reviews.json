@@ -304,7 +304,7 @@
   "friends#compliment": {
     "due": "2026-06-01T11:59:25.260373+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
@@ -394,12 +394,12 @@
     "reps": 0
   },
   "law#copyright": {
-    "due": "2026-06-01T10:43:39.178Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-06-09T07:15:13.697Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-05-31T03:31:39.178Z",
-    "reps": 1
+    "last_reviewed": "2026-06-01T12:03:13.697Z",
+    "reps": 2
   },
   "law#enact": {
     "due": "2026-06-06T12:02:53.482Z",
