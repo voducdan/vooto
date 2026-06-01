@@ -523,6 +523,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-i#immerse": {
+    "due": "2026-06-01T00:43:44.375996+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
