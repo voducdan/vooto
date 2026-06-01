@@ -524,12 +524,12 @@
     "reps": 0
   },
   "letter-i#immerse": {
-    "due": "2026-06-01T01:10:42.604Z",
-    "ef": 2.5,
-    "interval": 0.0069,
-    "last_rating": "again",
-    "last_reviewed": "2026-06-01T01:00:42.604Z",
-    "reps": 0
+    "due": "2026-06-02T03:09:36.239Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-01T03:09:36.239Z",
+    "reps": 1
   },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
@@ -772,7 +772,7 @@
   "technology#to-utilize": {
     "due": "2026-06-01T03:09:27.823964+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#in-this-day-and-age": {
