@@ -334,12 +334,12 @@
     "reps": 0
   },
   "health#to-be-detrimental-to-health": {
-    "due": "2026-06-01T14:33:31.341Z",
-    "ef": 2.2,
-    "interval": 1,
+    "due": "2026-06-03T05:33:50.974Z",
+    "ef": 2.05,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-05-31T14:33:31.341Z",
-    "reps": 1
+    "last_reviewed": "2026-06-02T00:45:50.974Z",
+    "reps": 2
   },
   "ielts-writing#cut-down": {
     "due": "2026-05-26T09:10:03.413561+00:00",
