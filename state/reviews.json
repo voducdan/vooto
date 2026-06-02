@@ -426,7 +426,7 @@
   "letter-a#aspiration": {
     "due": "2026-06-02T05:35:02.828544+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#autism": {
@@ -442,9 +442,11 @@
     "reps": 0
   },
   "letter-b#breakthrough": {
-    "due": "2026-06-02T05:35:02.828544+00:00",
+    "due": "2026-06-02T06:22:07.265Z",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-06-02T06:12:07.265Z",
     "reps": 0
   },
   "letter-c#chant": {
