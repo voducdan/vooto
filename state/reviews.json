@@ -198,7 +198,7 @@
   "description#unappealing": {
     "due": "2026-06-02T09:27:37.169178+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#competent": {
@@ -590,12 +590,12 @@
     "reps": 0
   },
   "letter-l#lose-the-chance": {
-    "due": "2026-06-02T07:47:18.222Z",
+    "due": "2026-06-08T10:23:54.335Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-06-01T07:47:18.222Z",
-    "reps": 1
+    "last_reviewed": "2026-06-02T10:23:54.335Z",
+    "reps": 2
   },
   "letter-m#maintenance": {
     "due": "2026-05-29T09:10:23.238992+00:00",
