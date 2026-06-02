@@ -302,12 +302,12 @@
     "reps": 0
   },
   "friends#compliment": {
-    "due": "2026-06-01T14:53:03.252Z",
-    "ef": 2.5,
-    "interval": 0.0069,
-    "last_rating": "again",
-    "last_reviewed": "2026-06-01T14:43:03.252Z",
-    "reps": 0
+    "due": "2026-06-03T03:22:03.651Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-02T03:22:03.651Z",
+    "reps": 1
   },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
     "due": "2026-05-25T05:33:12.636410+00:00",
