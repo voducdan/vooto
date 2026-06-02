@@ -540,12 +540,12 @@
     "reps": 0
   },
   "letter-f#fully-intend-to": {
-    "due": "2026-06-02T13:26:11.763Z",
-    "ef": 2.5,
-    "interval": 0.0069,
-    "last_rating": "again",
-    "last_reviewed": "2026-06-02T13:16:11.763Z",
-    "reps": 0
+    "due": "2026-06-03T15:24:55.650Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-02T15:24:55.650Z",
+    "reps": 1
   },
   "letter-f#to-fall-by-the-wayside": {
     "due": "2026-05-27T11:13:01.029340+00:00",
