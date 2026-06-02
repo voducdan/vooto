@@ -539,6 +539,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-f#fully-intend-to": {
+    "due": "2026-06-02T13:15:45.973009+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-f#to-fall-by-the-wayside": {
     "due": "2026-05-27T11:13:01.029340+00:00",
     "ef": 2.5,
@@ -875,6 +881,12 @@
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "urbanisation#posh": {
+    "due": "2026-06-02T13:15:45.973009+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "urbanisation#the-hectic-pace-of-life": {
