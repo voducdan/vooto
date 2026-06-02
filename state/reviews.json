@@ -195,6 +195,12 @@
     "interval": 0,
     "reps": 0
   },
+  "description#unappealing": {
+    "due": "2026-06-02T09:27:37.169178+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
