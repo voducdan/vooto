@@ -822,10 +822,12 @@
     "reps": 0
   },
   "music#live-music": {
-    "due": "2026-06-03T13:36:36.782391+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-06-04T20:57:33.547Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-03T13:45:33.547Z",
+    "reps": 1
   },
   "music#pop-music": {
     "due": "2026-05-24T12:23:35.966485+00:00",
@@ -894,7 +896,7 @@
   "travel#endlessly": {
     "due": "2026-06-03T13:36:36.782391+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#impression": {
