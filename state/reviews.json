@@ -104,7 +104,7 @@
   "books-and-films#to-flick-through": {
     "due": "2026-06-03T07:41:54.349714+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#to-grasp": {
@@ -462,12 +462,12 @@
     "reps": 0
   },
   "letter-a#aspiration": {
-    "due": "2026-06-03T06:12:14.427Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-02T06:12:14.427Z",
-    "reps": 1
+    "due": "2026-06-11T03:00:38.212Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-03T07:48:38.212Z",
+    "reps": 2
   },
   "letter-a#autism": {
     "due": "2026-05-29T09:10:23.238992+00:00",
