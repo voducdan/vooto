@@ -228,10 +228,12 @@
     "reps": 0
   },
   "education#single-sex-schools": {
-    "due": "2026-06-03T00:50:08.149196+00:00",
+    "due": "2026-06-04T00:50:54.534Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-03T00:50:54.534Z",
+    "reps": 1
   },
   "education#tertiary-education-higher-education-t-i-ha": {
     "due": "2026-06-03T01:16:44.101Z",
