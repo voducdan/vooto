@@ -604,12 +604,12 @@
     "reps": 0
   },
   "letter-i#immerse": {
-    "due": "2026-06-03T08:10:00.123Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-06-04T22:51:54.577Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-02T03:22:00.123Z",
-    "reps": 2
+    "last_reviewed": "2026-06-03T12:18:18.577Z",
+    "reps": 3
   },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
