@@ -358,12 +358,12 @@
     "reps": 0
   },
   "health#childhood-diseases": {
-    "due": "2026-06-03T15:08:36.782Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-06-11T10:47:25.202Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-02T07:56:36.782Z",
-    "reps": 1
+    "last_reviewed": "2026-06-03T15:35:25.202Z",
+    "reps": 2
   },
   "health#to-be-detrimental-to-health": {
     "due": "2026-06-05T16:53:02.030Z",
