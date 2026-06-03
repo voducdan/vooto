@@ -162,12 +162,12 @@
     "reps": 0
   },
   "business#an-entrepreneur": {
-    "due": "2026-06-02T14:42:50.999Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-06-04T11:24:25.711Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-01T09:54:50.999Z",
-    "reps": 2
+    "last_reviewed": "2026-06-03T00:50:49.711Z",
+    "reps": 3
   },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
@@ -230,7 +230,7 @@
   "education#single-sex-schools": {
     "due": "2026-06-03T00:50:08.149196+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#tertiary-education-higher-education-t-i-ha": {
