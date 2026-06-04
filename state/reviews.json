@@ -800,10 +800,12 @@
     "reps": 0
   },
   "letter-v#vital": {
-    "due": "2026-06-04T15:03:08.534774+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-05T22:15:34.633Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-04T15:03:34.633Z",
+    "reps": 1
   },
   "letter-v#vitally-important": {
     "due": "2026-06-08T00:45:39.853Z",
