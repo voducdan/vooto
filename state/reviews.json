@@ -452,12 +452,12 @@
     "reps": 2
   },
   "law#to-enforce-strict-regulations-on": {
-    "due": "2026-06-04T04:16:44.280Z",
+    "due": "2026-06-10T06:03:08.985Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-06-03T04:16:44.280Z",
-    "reps": 1
+    "last_reviewed": "2026-06-04T06:03:08.985Z",
+    "reps": 2
   },
   "letter-a#acknowledge": {
     "due": "2026-05-27T07:26:55.918228+00:00",
