@@ -236,12 +236,12 @@
     "reps": 0
   },
   "education#single-sex-schools": {
-    "due": "2026-06-04T00:50:54.534Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-03T00:50:54.534Z",
-    "reps": 1
+    "due": "2026-06-11T22:28:12.917Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-04T03:16:12.917Z",
+    "reps": 2
   },
   "education#tertiary-education-higher-education-t-i-ha": {
     "due": "2026-06-06T03:07:24.185Z",
@@ -790,7 +790,7 @@
   "liking-and-disliking#be-keen-on": {
     "due": "2026-06-04T03:09:03.078782+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "liking-and-disliking#be-passionate-about": {
