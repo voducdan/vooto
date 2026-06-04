@@ -180,16 +180,16 @@
   "buildings#skyscraper": {
     "due": "2026-06-04T13:03:36.119098+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#an-entrepreneur": {
-    "due": "2026-06-04T11:24:25.711Z",
+    "due": "2026-06-07T13:54:11.343Z",
     "ef": 2.05,
-    "interval": 1.44,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-03T00:50:49.711Z",
-    "reps": 3
+    "interval": 2.952,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-04T15:03:18.543Z",
+    "reps": 4
   },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
@@ -800,7 +800,7 @@
   "letter-v#vital": {
     "due": "2026-06-04T15:03:08.534774+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#vitally-important": {
