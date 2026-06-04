@@ -275,6 +275,12 @@
     "interval": 0,
     "reps": 0
   },
+  "food#food-hygiene": {
+    "due": "2026-06-04T05:36:59.540395+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#inadequate": {
     "due": "2026-05-24T10:33:46.330980+00:00",
     "ef": 2.5,
