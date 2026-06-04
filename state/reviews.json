@@ -2,7 +2,7 @@
   "books-and-films#action-movie-kung-fu-film": {
     "due": "2026-06-04T09:20:12.782237+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#broaden-one-s-knowledge": {
@@ -912,10 +912,12 @@
     "reps": 1
   },
   "towns-and-cities#adjacent": {
-    "due": "2026-06-04T09:20:12.782237+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-06-05T09:20:26.978Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-04T09:20:26.978Z",
+    "reps": 1
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
