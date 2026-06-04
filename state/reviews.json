@@ -508,12 +508,12 @@
     "reps": 0
   },
   "letter-b#breakthrough": {
-    "due": "2026-06-04T14:26:53.342Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-06-06T01:37:07.081Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-03T09:38:53.342Z",
-    "reps": 2
+    "last_reviewed": "2026-06-04T15:03:31.081Z",
+    "reps": 3
   },
   "letter-c#chant": {
     "due": "2026-05-24T05:54:12.376226+00:00",
