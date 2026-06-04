@@ -797,6 +797,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-v#vital": {
+    "due": "2026-06-04T15:03:08.534774+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-v#vitally-important": {
     "due": "2026-06-08T00:45:39.853Z",
     "ef": 2.35,
