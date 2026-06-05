@@ -341,6 +341,12 @@
     "last_reviewed": "2026-05-24T06:11:46.137897+00:00",
     "reps": 0
   },
+  "free-time#fast-paced": {
+    "due": "2026-06-05T09:08:53.345781+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#have-a-good-command-of": {
     "due": "2026-05-26T15:03:38.988167+00:00",
     "ef": 2.5,
@@ -501,6 +507,12 @@
     "due": "2026-05-24T06:04:18.382657+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-a#an-inevitable-consequence": {
+    "due": "2026-06-05T09:08:53.345781+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-a#aspiration": {
