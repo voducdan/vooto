@@ -982,12 +982,12 @@
     "reps": 0
   },
   "travel#ample": {
-    "due": "2026-06-05T09:17:40.245Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-06-06T16:00:56.719Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-04T09:17:40.245Z",
-    "reps": 1
+    "last_reviewed": "2026-06-05T11:12:56.719Z",
+    "reps": 2
   },
   "travel#endlessly": {
     "due": "2026-06-12T22:20:29.738Z",
