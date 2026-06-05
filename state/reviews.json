@@ -582,12 +582,12 @@
     "reps": 2
   },
   "letter-d#deteriorate": {
-    "due": "2026-06-05T11:24:20.966Z",
+    "due": "2026-06-08T12:00:05.117Z",
     "ef": 2.05,
-    "interval": 1.44,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-04T00:50:44.966Z",
-    "reps": 3
+    "interval": 2.952,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-05T13:09:12.317Z",
+    "reps": 4
   },
   "letter-e#elaborate-on": {
     "due": "2026-05-27T13:09:14.077392+00:00",
