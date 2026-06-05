@@ -227,6 +227,12 @@
     "last_reviewed": "2026-06-05T01:05:33.697Z",
     "reps": 3
   },
+  "education#attendance-record": {
+    "due": "2026-06-05T05:31:57.571774+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
@@ -283,6 +289,12 @@
     "due": "2026-05-27T14:03:41.266284+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "family#satisfying": {
+    "due": "2026-06-05T05:31:57.571774+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "food#crunchy": {
