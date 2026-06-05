@@ -962,12 +962,12 @@
     "reps": 1
   },
   "towns-and-cities#adjacent": {
-    "due": "2026-06-05T09:20:26.978Z",
+    "due": "2026-06-11T11:12:53.503Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-04T09:20:26.978Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-05T11:12:53.503Z",
+    "reps": 2
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
