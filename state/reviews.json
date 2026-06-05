@@ -661,6 +661,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-h#to-hinder": {
+    "due": "2026-06-05T15:01:32.020575+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-i#immeasurable": {
     "due": "2026-05-28T11:13:20.308468+00:00",
     "ef": 2.5,
@@ -787,6 +793,12 @@
     "due": "2026-05-26T03:07:23.351825+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-s#simplify": {
+    "due": "2026-06-05T15:01:32.020575+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-s#speed-up": {
