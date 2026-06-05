@@ -220,12 +220,12 @@
     "reps": 0
   },
   "description#unappealing": {
-    "due": "2026-06-04T17:06:24.502Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-06-06T11:39:09.697Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-03T12:18:24.502Z",
-    "reps": 2
+    "last_reviewed": "2026-06-05T01:05:33.697Z",
+    "reps": 3
   },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
