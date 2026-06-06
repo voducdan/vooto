@@ -512,12 +512,12 @@
     "reps": 0
   },
   "letter-a#an-inevitable-consequence": {
-    "due": "2026-06-06T09:54:40.545Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-06-07T15:43:50.052Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-05T09:54:40.545Z",
-    "reps": 1
+    "last_reviewed": "2026-06-06T10:55:50.052Z",
+    "reps": 2
   },
   "letter-a#aspiration": {
     "due": "2026-06-11T03:00:38.212Z",
@@ -844,7 +844,7 @@
   "letter-v#versatile": {
     "due": "2026-06-06T10:38:38.356870+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#viewpoint": {
