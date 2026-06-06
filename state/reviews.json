@@ -890,12 +890,12 @@
     "reps": 0
   },
   "liking-and-disliking#can-t-stand-someone-or-something": {
-    "due": "2026-06-06T07:37:15.492Z",
+    "due": "2026-06-20T11:29:36.258Z",
     "ef": 2.35,
-    "interval": 6,
+    "interval": 14.1,
     "last_rating": "good",
-    "last_reviewed": "2026-05-31T07:37:15.492Z",
-    "reps": 2
+    "last_reviewed": "2026-06-06T09:05:36.258Z",
+    "reps": 3
   },
   "liking-and-disliking#fond-of": {
     "due": "2026-05-27T15:05:35.270190+00:00",
