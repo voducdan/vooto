@@ -484,12 +484,12 @@
     "reps": 2
   },
   "law#enact": {
-    "due": "2026-06-06T12:02:53.482Z",
+    "due": "2026-06-20T16:57:10.293Z",
     "ef": 2.35,
-    "interval": 6,
+    "interval": 14.1,
     "last_rating": "good",
-    "last_reviewed": "2026-05-31T12:02:53.482Z",
-    "reps": 2
+    "last_reviewed": "2026-06-06T14:33:10.293Z",
+    "reps": 3
   },
   "law#to-enforce-strict-regulations-on": {
     "due": "2026-06-10T06:03:08.985Z",
