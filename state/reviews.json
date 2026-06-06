@@ -842,9 +842,11 @@
     "reps": 0
   },
   "letter-v#versatile": {
-    "due": "2026-06-06T10:38:38.356870+00:00",
+    "due": "2026-06-06T11:05:55.719Z",
     "ef": 2.5,
-    "interval": 0,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-06-06T10:55:55.719Z",
     "reps": 0
   },
   "letter-v#viewpoint": {
