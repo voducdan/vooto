@@ -178,12 +178,12 @@
     "reps": 0
   },
   "buildings#skyscraper": {
-    "due": "2026-06-05T15:03:27.288Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-06-07T06:16:44.131Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-04T15:03:27.288Z",
-    "reps": 1
+    "last_reviewed": "2026-06-06T01:28:44.131Z",
+    "reps": 2
   },
   "business#an-entrepreneur": {
     "due": "2026-06-07T13:54:11.343Z",
