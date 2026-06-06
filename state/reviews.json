@@ -841,6 +841,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-v#versatile": {
+    "due": "2026-06-06T10:38:38.356870+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
