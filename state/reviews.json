@@ -734,12 +734,12 @@
     "reps": 0
   },
   "letter-n#nominate": {
-    "due": "2026-06-06T03:01:39.858Z",
-    "ef": 2.5,
-    "interval": 6,
-    "last_rating": "good",
-    "last_reviewed": "2026-05-31T03:01:39.858Z",
-    "reps": 2
+    "due": "2026-06-26T23:09:50.237Z",
+    "ef": 2.65,
+    "interval": 20.67,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-06T07:05:02.237Z",
+    "reps": 3
   },
   "letter-n#novelist": {
     "due": "2026-06-08T09:45:21.010Z",
