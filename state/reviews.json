@@ -844,7 +844,7 @@
   "letter-v#venerable": {
     "due": "2026-06-07T09:03:48.040035+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#versatile": {
@@ -918,12 +918,12 @@
     "reps": 0
   },
   "liking-and-disliking#to-detest": {
-    "due": "2026-06-07T06:38:08.322Z",
+    "due": "2026-06-07T09:33:26.930Z",
     "ef": 2.5,
-    "interval": 6,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-01T06:38:08.322Z",
-    "reps": 2
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-06-07T09:23:26.930Z",
+    "reps": 0
   },
   "media#classified-ads": {
     "due": "2026-05-24T06:04:18.382657+00:00",
