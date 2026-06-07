@@ -842,10 +842,12 @@
     "reps": 0
   },
   "letter-v#venerable": {
-    "due": "2026-06-07T09:03:48.040035+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-08T09:23:35.519Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-07T09:23:35.519Z",
+    "reps": 1
   },
   "letter-v#versatile": {
     "due": "2026-06-07T12:27:42.182Z",
