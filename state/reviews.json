@@ -858,12 +858,12 @@
     "reps": 1
   },
   "letter-v#versatile": {
-    "due": "2026-06-07T12:27:42.182Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-06-08T17:53:44.208Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-06T12:27:42.182Z",
-    "reps": 1
+    "last_reviewed": "2026-06-07T13:05:44.208Z",
+    "reps": 2
   },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
