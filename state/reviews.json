@@ -574,12 +574,12 @@
     "reps": 0
   },
   "letter-c#to-continue-to-thrive": {
-    "due": "2026-06-07T01:00:26.722Z",
-    "ef": 2.35,
-    "interval": 6,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-01T01:00:26.722Z",
-    "reps": 2
+    "due": "2026-06-14T10:21:36.056Z",
+    "ef": 2.2,
+    "interval": 7.2,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-07T05:33:36.056Z",
+    "reps": 3
   },
   "letter-d#deteriorate": {
     "due": "2026-06-08T12:00:05.117Z",
