@@ -874,12 +874,12 @@
     "reps": 0
   },
   "letter-v#venerable": {
-    "due": "2026-06-08T09:50:50.708Z",
+    "due": "2026-06-09T11:40:31.080Z",
     "ef": 2.35,
-    "interval": 0.0069,
-    "last_rating": "again",
-    "last_reviewed": "2026-06-08T09:40:50.708Z",
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-08T11:40:31.080Z",
+    "reps": 1
   },
   "letter-v#versatile": {
     "due": "2026-06-08T17:53:44.208Z",
