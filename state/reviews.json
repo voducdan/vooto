@@ -512,12 +512,12 @@
     "reps": 0
   },
   "letter-a#an-inevitable-consequence": {
-    "due": "2026-06-07T15:43:50.052Z",
+    "due": "2026-06-10T17:27:45.142Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-06T10:55:50.052Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-08T02:06:09.142Z",
+    "reps": 3
   },
   "letter-a#aspiration": {
     "due": "2026-06-11T03:00:38.212Z",
