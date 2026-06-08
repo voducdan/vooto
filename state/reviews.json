@@ -186,12 +186,12 @@
     "reps": 3
   },
   "business#an-entrepreneur": {
-    "due": "2026-06-07T13:54:11.343Z",
+    "due": "2026-06-14T03:20:17.337Z",
     "ef": 2.05,
-    "interval": 2.952,
+    "interval": 6.0516,
     "last_rating": "good",
-    "last_reviewed": "2026-06-04T15:03:18.543Z",
-    "reps": 4
+    "last_reviewed": "2026-06-08T02:05:59.097Z",
+    "reps": 5
   },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
