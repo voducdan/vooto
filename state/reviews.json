@@ -758,12 +758,12 @@
     "reps": 3
   },
   "letter-n#novelist": {
-    "due": "2026-06-08T09:45:21.010Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-07-08T09:35:10.549Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-05-31T14:33:21.010Z",
-    "reps": 2
+    "last_reviewed": "2026-06-08T11:40:27.349Z",
+    "reps": 3
   },
   "letter-p#pick-something-up": {
     "due": "2026-05-27T00:39:39.859971+00:00",
