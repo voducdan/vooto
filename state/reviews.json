@@ -228,12 +228,12 @@
     "reps": 4
   },
   "education#attendance-record": {
-    "due": "2026-06-07T13:53:33.508Z",
-    "ef": 2.35,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-06T09:05:33.508Z",
-    "reps": 2
+    "due": "2026-06-11T23:41:51.314Z",
+    "ef": 2.5,
+    "interval": 3.9,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-08T02:05:51.314Z",
+    "reps": 3
   },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
@@ -816,7 +816,7 @@
   "letter-s#souvenir": {
     "due": "2026-06-08T00:44:07.663256+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#speed-up": {
