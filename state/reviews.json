@@ -846,9 +846,11 @@
     "reps": 0
   },
   "letter-u#unscrupulous": {
-    "due": "2026-06-08T05:35:25.305903+00:00",
+    "due": "2026-06-08T07:22:59.620Z",
     "ef": 2.5,
-    "interval": 0,
+    "interval": 0.0069,
+    "last_rating": "again",
+    "last_reviewed": "2026-06-08T07:12:59.620Z",
     "reps": 0
   },
   "letter-u#update-up-to-date": {
