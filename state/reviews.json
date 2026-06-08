@@ -200,12 +200,12 @@
     "reps": 0
   },
   "description#awful": {
-    "due": "2026-06-08T04:39:37.930Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-07-08T05:07:32.638Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-05-31T09:27:37.930Z",
-    "reps": 2
+    "last_reviewed": "2026-06-08T07:12:49.438Z",
+    "reps": 3
   },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
@@ -848,7 +848,7 @@
   "letter-u#unscrupulous": {
     "due": "2026-06-08T05:35:25.305903+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#update-up-to-date": {
