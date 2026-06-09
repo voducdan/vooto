@@ -58,7 +58,7 @@
   "books-and-films#hardcover": {
     "due": "2026-06-09T11:04:01.337147+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#heartbreaking": {
@@ -904,12 +904,12 @@
     "reps": 0
   },
   "letter-v#venerable": {
-    "due": "2026-06-09T11:40:31.080Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-08T11:40:31.080Z",
-    "reps": 1
+    "due": "2026-06-10T20:17:03.234Z",
+    "ef": 2.2,
+    "interval": 1.2,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-09T15:29:03.234Z",
+    "reps": 2
   },
   "letter-v#versatile": {
     "due": "2026-06-11T18:30:09.236Z",
@@ -1012,7 +1012,7 @@
   "music#to-face-the-music": {
     "due": "2026-06-09T13:00:02.180428+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#cheerful": {
