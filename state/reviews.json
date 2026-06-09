@@ -500,12 +500,12 @@
     "reps": 0
   },
   "law#copyright": {
-    "due": "2026-06-09T07:15:13.697Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-07-09T07:03:38.619Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-01T12:03:13.697Z",
-    "reps": 2
+    "last_reviewed": "2026-06-09T09:08:55.419Z",
+    "reps": 3
   },
   "law#enact": {
     "due": "2026-06-20T16:57:10.293Z",
