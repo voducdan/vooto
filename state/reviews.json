@@ -602,12 +602,12 @@
     "reps": 0
   },
   "letter-f#fed-up": {
-    "due": "2026-06-08T13:05:37.529Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-06-10T05:27:00.328Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-07T13:05:37.529Z",
-    "reps": 1
+    "last_reviewed": "2026-06-09T00:39:00.328Z",
+    "reps": 2
   },
   "letter-f#fierce-competition-f-s": {
     "due": "2026-05-28T11:13:20.308468+00:00",
