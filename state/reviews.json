@@ -1009,6 +1009,12 @@
     "interval": 0,
     "reps": 0
   },
+  "music#to-face-the-music": {
+    "due": "2026-06-09T13:00:02.180428+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "personality#cheerful": {
     "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
