@@ -1086,12 +1086,12 @@
     "reps": 0
   },
   "urbanisation#posh": {
-    "due": "2026-06-08T20:36:49.422Z",
+    "due": "2026-06-12T09:56:14.554Z",
     "ef": 1.9,
-    "interval": 1.728,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-07T03:08:30.222Z",
-    "reps": 4
+    "interval": 3.2832,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-09T03:08:26.074Z",
+    "reps": 5
   },
   "urbanisation#the-hectic-pace-of-life": {
     "due": "2026-05-29T13:04:58.914006+00:00",
