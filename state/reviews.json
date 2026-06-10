@@ -184,12 +184,12 @@
     "reps": 0
   },
   "buildings#skyscraper": {
-    "due": "2026-06-09T22:45:56.767Z",
-    "ef": 2.2,
-    "interval": 2.64,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-07T07:24:20.767Z",
-    "reps": 3
+    "due": "2026-06-18T04:43:54.134Z",
+    "ef": 2.35,
+    "interval": 8.0652,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-10T03:10:00.854Z",
+    "reps": 4
   },
   "business#an-entrepreneur": {
     "due": "2026-06-14T03:20:17.337Z",
@@ -998,7 +998,7 @@
   "money#a-shopaholic": {
     "due": "2026-06-10T03:07:32.873081+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#live-music": {
