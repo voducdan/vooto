@@ -490,7 +490,7 @@
   "ielts-writing#steadily": {
     "due": "2026-06-10T09:14:10.555609+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#comes-into-play": {
@@ -576,12 +576,12 @@
     "reps": 0
   },
   "letter-b#breakthrough": {
-    "due": "2026-06-10T08:29:06.458Z",
+    "due": "2026-06-19T12:32:04.918Z",
     "ef": 2.2,
-    "interval": 4.1184,
-    "last_rating": "easy",
-    "last_reviewed": "2026-06-06T05:38:36.698Z",
-    "reps": 4
+    "interval": 9.0605,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-10T11:04:59.446Z",
+    "reps": 5
   },
   "letter-c#chant": {
     "due": "2026-05-24T05:54:12.376226+00:00",
