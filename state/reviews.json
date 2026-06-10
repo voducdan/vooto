@@ -632,12 +632,12 @@
     "reps": 0
   },
   "letter-f#fed-up": {
-    "due": "2026-06-10T05:27:00.328Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-06-11T16:08:42.785Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-09T00:39:00.328Z",
-    "reps": 2
+    "last_reviewed": "2026-06-10T05:35:06.785Z",
+    "reps": 3
   },
   "letter-f#fierce-competition-f-s": {
     "due": "2026-05-28T11:13:20.308468+00:00",
@@ -704,7 +704,7 @@
   "letter-h#humane": {
     "due": "2026-06-10T05:32:16.457242+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-h#to-hide-one-s-light-under-a-bushel": {
