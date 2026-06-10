@@ -1065,6 +1065,12 @@
     "interval": 0,
     "reps": 0
   },
+  "personality#outstanding": {
+    "due": "2026-06-10T13:09:36.673989+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "technology#computer-buff": {
     "due": "2026-05-29T07:20:27.895452+00:00",
     "ef": 2.5,
