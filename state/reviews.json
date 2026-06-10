@@ -687,6 +687,12 @@
     "last_reviewed": "2026-06-08T09:40:55.918Z",
     "reps": 0
   },
+  "letter-g#go-out-of-one-s-way-to-do-something": {
+    "due": "2026-06-10T11:16:02.036876+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-g#go-viral": {
     "due": "2026-05-25T06:09:51.751347+00:00",
     "ef": 2.35,
@@ -1145,6 +1151,12 @@
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "urbanisation#get-stuck": {
+    "due": "2026-06-10T11:16:02.036876+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "urbanisation#posh": {
