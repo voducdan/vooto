@@ -1071,6 +1071,12 @@
     "interval": 0,
     "reps": 0
   },
+  "personality#embarrassed": {
+    "due": "2026-06-11T15:11:40.557712+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "personality#foolish": {
     "due": "2026-05-28T00:36:28.967163+00:00",
     "ef": 2.5,
