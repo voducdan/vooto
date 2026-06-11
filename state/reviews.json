@@ -206,12 +206,12 @@
     "reps": 0
   },
   "description#appearance": {
-    "due": "2026-06-10T16:18:46.101Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-06-18T22:19:57.671Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-09T09:06:46.101Z",
-    "reps": 1
+    "last_reviewed": "2026-06-11T03:07:57.671Z",
+    "reps": 2
   },
   "description#awful": {
     "due": "2026-07-08T05:07:32.638Z",
