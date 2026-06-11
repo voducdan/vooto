@@ -1028,12 +1028,12 @@
     "reps": 0
   },
   "money#a-shopaholic": {
-    "due": "2026-06-11T03:10:04.372Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-10T03:10:04.372Z",
-    "reps": 1
+    "due": "2026-06-19T02:52:47.186Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-11T07:40:47.186Z",
+    "reps": 2
   },
   "money#affordable": {
     "due": "2026-06-12T10:19:49.301Z",
