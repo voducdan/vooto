@@ -936,12 +936,12 @@
     "reps": 0
   },
   "letter-v#venerable": {
-    "due": "2026-06-10T20:17:03.234Z",
+    "due": "2026-06-13T22:38:45.241Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-09T15:29:03.234Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-11T07:17:09.241Z",
+    "reps": 3
   },
   "letter-v#versatile": {
     "due": "2026-06-11T18:30:09.236Z",
