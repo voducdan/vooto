@@ -916,12 +916,12 @@
     "reps": 0
   },
   "letter-u#unscrupulous": {
-    "due": "2026-06-11T14:35:32.396Z",
-    "ef": 2.5,
-    "interval": 1.56,
+    "due": "2026-06-13T12:07:50.993Z",
+    "ef": 2.35,
+    "interval": 1.872,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-10T01:09:08.396Z",
-    "reps": 2
+    "last_reviewed": "2026-06-11T15:12:10.193Z",
+    "reps": 3
   },
   "letter-u#update-up-to-date": {
     "due": "2026-05-27T11:13:01.029340+00:00",
@@ -1074,7 +1074,7 @@
   "personality#embarrassed": {
     "due": "2026-06-11T15:11:40.557712+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#foolish": {
