@@ -262,12 +262,12 @@
     "reps": 0
   },
   "education#distance-learning": {
-    "due": "2026-06-10T16:20:52.495Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-06-18T22:20:02.986Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-09T09:08:52.495Z",
-    "reps": 1
+    "last_reviewed": "2026-06-11T03:08:02.986Z",
+    "reps": 2
   },
   "education#extracurricular-activities": {
     "due": "2026-05-28T09:15:02.191154+00:00",
