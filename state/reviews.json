@@ -566,12 +566,12 @@
     "reps": 4
   },
   "letter-a#aspiration": {
-    "due": "2026-06-11T03:00:38.212Z",
-    "ef": 2.5,
-    "interval": 7.8,
+    "due": "2026-07-08T04:34:58.317Z",
+    "ef": 2.65,
+    "interval": 26.871,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-03T07:48:38.212Z",
-    "reps": 2
+    "last_reviewed": "2026-06-11T07:40:43.917Z",
+    "reps": 3
   },
   "letter-a#autism": {
     "due": "2026-05-29T09:10:23.238992+00:00",
