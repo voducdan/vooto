@@ -242,12 +242,12 @@
     "reps": 6
   },
   "education#attendance-record": {
-    "due": "2026-06-11T23:41:51.314Z",
-    "ef": 2.5,
-    "interval": 3.9,
+    "due": "2026-06-25T18:19:41.889Z",
+    "ef": 2.65,
+    "interval": 13.4355,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-08T02:05:51.314Z",
-    "reps": 3
+    "last_reviewed": "2026-06-12T07:52:34.689Z",
+    "reps": 4
   },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
