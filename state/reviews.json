@@ -696,12 +696,12 @@
     "reps": 0
   },
   "letter-g#go-out-of-one-s-way-to-do-something": {
-    "due": "2026-06-12T09:34:47.534Z",
+    "due": "2026-06-18T11:30:18.667Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-06-11T09:34:47.534Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-12T11:30:18.667Z",
+    "reps": 2
   },
   "letter-g#go-viral": {
     "due": "2026-05-25T06:09:51.751347+00:00",
