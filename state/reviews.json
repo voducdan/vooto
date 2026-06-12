@@ -1154,12 +1154,12 @@
     "reps": 0
   },
   "travel#ample": {
-    "due": "2026-06-11T23:29:59.607Z",
-    "ef": 2.05,
-    "interval": 2.952,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-09T00:39:06.807Z",
-    "reps": 4
+    "due": "2026-06-20T18:30:02.500Z",
+    "ef": 2.2,
+    "interval": 8.4427,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-12T07:52:31.492Z",
+    "reps": 5
   },
   "travel#endlessly": {
     "due": "2026-06-12T22:20:29.738Z",
