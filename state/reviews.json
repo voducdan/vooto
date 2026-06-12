@@ -1027,6 +1027,12 @@
     "interval": 0,
     "reps": 0
   },
+  "media#commercial-advertising": {
+    "due": "2026-06-12T07:37:53.972567+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "money#a-shopaholic": {
     "due": "2026-06-19T02:52:47.186Z",
     "ef": 2.5,
