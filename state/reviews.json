@@ -1146,7 +1146,7 @@
   "towns-and-cities#campsite": {
     "due": "2026-06-12T09:25:05.343215+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#specialty": {
@@ -1202,12 +1202,12 @@
     "reps": 0
   },
   "urbanisation#get-stuck": {
-    "due": "2026-06-12T09:34:53.044Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-11T09:34:53.044Z",
-    "reps": 1
+    "due": "2026-06-20T06:42:11.874Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-12T11:30:11.874Z",
+    "reps": 2
   },
   "urbanisation#posh": {
     "due": "2026-06-12T09:56:14.554Z",
