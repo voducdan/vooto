@@ -944,12 +944,12 @@
     "reps": 3
   },
   "letter-v#versatile": {
-    "due": "2026-06-11T18:30:09.236Z",
+    "due": "2026-06-17T22:55:43.649Z",
     "ef": 2.2,
-    "interval": 2.64,
+    "interval": 5.808,
     "last_rating": "good",
-    "last_reviewed": "2026-06-09T03:08:33.236Z",
-    "reps": 3
+    "last_reviewed": "2026-06-12T03:32:12.449Z",
+    "reps": 4
   },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
