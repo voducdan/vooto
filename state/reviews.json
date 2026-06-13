@@ -443,6 +443,12 @@
     "last_reviewed": "2026-06-03T15:35:25.202Z",
     "reps": 2
   },
+  "health#remedy": {
+    "due": "2026-06-13T05:31:50.021961+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "health#to-be-detrimental-to-health": {
     "due": "2026-06-13T03:58:16.019Z",
     "ef": 2.2,
