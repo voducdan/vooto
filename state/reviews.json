@@ -919,6 +919,12 @@
     "last_reviewed": "2026-06-07T05:33:28.550Z",
     "reps": 2
   },
+  "letter-s#sound-reasons": {
+    "due": "2026-06-13T14:44:35.771039+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#souvenir": {
     "due": "2026-06-09T09:18:12.055Z",
     "ef": 2.65,
@@ -1212,6 +1218,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-13T04:18:03.952Z",
     "reps": 3
+  },
+  "travel#immense": {
+    "due": "2026-06-13T14:44:35.771039+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "travel#impression": {
     "due": "2026-05-26T15:03:38.988167+00:00",
