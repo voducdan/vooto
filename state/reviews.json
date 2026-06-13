@@ -1044,12 +1044,12 @@
     "reps": 2
   },
   "money#affordable": {
-    "due": "2026-06-12T10:19:49.301Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-06-20T23:29:54.514Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-11T03:07:49.301Z",
-    "reps": 1
+    "last_reviewed": "2026-06-13T04:17:54.514Z",
+    "reps": 2
   },
   "music#live-music": {
     "due": "2026-06-12T20:17:36.958Z",
