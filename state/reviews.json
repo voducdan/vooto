@@ -811,6 +811,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-m#makes-it-possible": {
+    "due": "2026-06-13T12:36:21.958268+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-m#mindless": {
     "due": "2026-06-13T09:04:39.047462+00:00",
     "ef": 2.5,
