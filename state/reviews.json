@@ -295,6 +295,12 @@
     "last_reviewed": "2026-06-12T07:52:28.273Z",
     "reps": 3
   },
+  "education#strive": {
+    "due": "2026-06-14T09:06:20.740116+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#tertiary-education-higher-education-t-i-ha": {
     "due": "2026-06-12T08:19:17.817Z",
     "ef": 2.05,
@@ -689,6 +695,12 @@
     "due": "2026-05-28T11:13:20.308468+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-f#fool-around": {
+    "due": "2026-06-14T09:06:20.740116+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-f#for-good": {
