@@ -287,6 +287,12 @@
     "interval": 0,
     "reps": 0
   },
+  "education#reach-one-s-full-potential": {
+    "due": "2026-06-14T14:46:35.221730+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#single-sex-schools": {
     "due": "2026-07-10T17:16:57.073Z",
     "ef": 2.8,
@@ -973,6 +979,12 @@
     "due": "2026-05-25T11:23:22.840800+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-u#unfamiliar": {
+    "due": "2026-06-14T14:46:35.221730+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-u#unnecessary": {
