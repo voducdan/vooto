@@ -645,6 +645,12 @@
     "last_reviewed": "2026-06-07T05:33:36.056Z",
     "reps": 3
   },
+  "letter-d#decorative": {
+    "due": "2026-06-14T07:36:20.514515+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-d#deteriorate": {
     "due": "2026-06-08T12:00:05.117Z",
     "ef": 2.05,
