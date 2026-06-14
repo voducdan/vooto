@@ -881,6 +881,12 @@
     "last_reviewed": "2026-06-08T11:40:27.349Z",
     "reps": 3
   },
+  "letter-o#outweighed": {
+    "due": "2026-06-14T12:39:13.474077+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-p#pick-something-up": {
     "due": "2026-05-27T00:39:39.859971+00:00",
     "ef": 2.5,
@@ -1132,6 +1138,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-11T03:07:54.744Z",
     "reps": 2
+  },
+  "personality#charming": {
+    "due": "2026-06-14T12:39:13.474077+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "personality#cheerful": {
     "due": "2026-05-28T13:13:46.671918+00:00",
