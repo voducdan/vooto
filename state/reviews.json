@@ -340,10 +340,12 @@
     "reps": 0
   },
   "family#goodwill": {
-    "due": "2026-06-15T05:47:57.072963+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T07:59:00.625Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-15T07:59:00.625Z",
+    "reps": 1
   },
   "family#needless-to-say-it-goes-without-saying-that": {
     "due": "2026-06-20T23:29:57.167Z",
