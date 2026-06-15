@@ -1178,10 +1178,12 @@
     "reps": 2
   },
   "personality#charming": {
-    "due": "2026-06-14T12:39:13.474077+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T03:32:34.299Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-15T03:32:34.299Z",
+    "reps": 1
   },
   "personality#cheerful": {
     "due": "2026-05-28T13:13:46.671918+00:00",
