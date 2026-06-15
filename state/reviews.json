@@ -912,10 +912,12 @@
     "reps": 3
   },
   "letter-o#outweighed": {
-    "due": "2026-06-14T12:39:13.474077+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T10:44:37.178Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-15T03:32:37.178Z",
+    "reps": 1
   },
   "letter-p#pick-something-up": {
     "due": "2026-05-27T00:39:39.859971+00:00",
