@@ -1282,10 +1282,12 @@
     "reps": 3
   },
   "travel#immense": {
-    "due": "2026-06-13T14:44:35.771039+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T10:43:59.997Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-15T03:31:59.997Z",
+    "reps": 1
   },
   "travel#impression": {
     "due": "2026-05-26T15:03:38.988167+00:00",
