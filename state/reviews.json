@@ -304,10 +304,12 @@
     "reps": 3
   },
   "education#strive": {
-    "due": "2026-06-14T09:06:20.740116+00:00",
+    "due": "2026-06-16T03:32:25.631Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-15T03:32:25.631Z",
+    "reps": 1
   },
   "education#tertiary-education-higher-education-t-i-ha": {
     "due": "2026-06-12T08:19:17.817Z",
