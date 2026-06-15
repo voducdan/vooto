@@ -1180,10 +1180,12 @@
     "reps": 2
   },
   "money#savings": {
-    "due": "2026-06-15T07:58:31.083650+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T15:11:08.082Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-15T07:59:08.082Z",
+    "reps": 1
   },
   "music#live-music": {
     "due": "2026-07-13T02:12:43.916Z",
