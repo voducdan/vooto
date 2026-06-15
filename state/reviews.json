@@ -1034,12 +1034,12 @@
     "reps": 0
   },
   "letter-v#venerable": {
-    "due": "2026-06-13T22:38:45.241Z",
-    "ef": 2.2,
-    "interval": 2.64,
-    "last_rating": "good",
-    "last_reviewed": "2026-06-11T07:17:09.241Z",
-    "reps": 3
+    "due": "2026-06-23T05:06:07.828Z",
+    "ef": 2.35,
+    "interval": 8.0652,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-15T03:32:14.548Z",
+    "reps": 4
   },
   "letter-v#versatile": {
     "due": "2026-06-17T22:55:43.649Z",
