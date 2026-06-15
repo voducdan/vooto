@@ -850,10 +850,12 @@
     "reps": 0
   },
   "letter-m#makes-it-possible": {
-    "due": "2026-06-13T12:36:21.958268+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T10:43:54.340Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-15T03:31:54.340Z",
+    "reps": 1
   },
   "letter-m#mindless": {
     "due": "2026-06-16T10:43:24.463Z",
