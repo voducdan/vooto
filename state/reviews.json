@@ -339,6 +339,12 @@
     "interval": 0,
     "reps": 0
   },
+  "family#goodwill": {
+    "due": "2026-06-15T05:47:57.072963+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#needless-to-say-it-goes-without-saying-that": {
     "due": "2026-06-20T23:29:57.167Z",
     "ef": 2.8,
@@ -442,6 +448,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-06-13T04:18:18.062Z",
     "reps": 5
+  },
+  "friends#sound-advice": {
+    "due": "2026-06-15T05:47:57.072963+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
     "due": "2026-05-25T05:33:12.636410+00:00",
