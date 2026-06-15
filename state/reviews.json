@@ -1175,6 +1175,12 @@
     "last_reviewed": "2026-06-13T04:17:54.514Z",
     "reps": 2
   },
+  "money#savings": {
+    "due": "2026-06-15T07:58:31.083650+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "music#live-music": {
     "due": "2026-07-13T02:12:43.916Z",
     "ef": 2.95,
@@ -1209,6 +1215,12 @@
     "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "personality#depressing": {
+    "due": "2026-06-15T07:58:31.083650+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "personality#embarrassed": {
