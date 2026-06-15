@@ -774,12 +774,12 @@
     "reps": 1
   },
   "letter-g#to-get-access-to": {
-    "due": "2026-06-13T20:40:46.851Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-07-15T01:26:52.111Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-06T01:28:46.851Z",
-    "reps": 2
+    "last_reviewed": "2026-06-15T03:32:08.911Z",
+    "reps": 3
   },
   "letter-h#haunt": {
     "due": "2026-05-24T12:23:35.966485+00:00",
