@@ -680,10 +680,12 @@
     "reps": 4
   },
   "letter-d#discourage": {
-    "due": "2026-06-13T07:18:50.991484+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T10:43:16.094Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-15T03:31:16.094Z",
+    "reps": 1
   },
   "letter-e#elaborate-on": {
     "due": "2026-05-27T13:09:14.077392+00:00",
