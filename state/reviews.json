@@ -1010,12 +1010,12 @@
     "reps": 0
   },
   "letter-u#unscrupulous": {
-    "due": "2026-06-13T12:07:50.993Z",
-    "ef": 2.35,
-    "interval": 1.872,
+    "due": "2026-06-17T09:26:40.598Z",
+    "ef": 2.2,
+    "interval": 2.2464,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-11T15:12:10.193Z",
-    "reps": 3
+    "last_reviewed": "2026-06-15T03:31:51.638Z",
+    "reps": 4
   },
   "letter-u#update-up-to-date": {
     "due": "2026-05-27T11:13:01.029340+00:00",
