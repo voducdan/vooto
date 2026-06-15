@@ -722,10 +722,12 @@
     "reps": 0
   },
   "letter-f#fool-around": {
-    "due": "2026-06-14T09:06:20.740116+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T03:32:28.548Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-15T03:32:28.548Z",
+    "reps": 1
   },
   "letter-f#for-good": {
     "due": "2026-05-29T00:42:37.578340+00:00",
