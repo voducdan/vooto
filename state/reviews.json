@@ -704,12 +704,12 @@
     "reps": 0
   },
   "letter-f#fed-up": {
-    "due": "2026-06-13T18:21:55.027Z",
-    "ef": 1.9,
-    "interval": 1.728,
+    "due": "2026-06-17T05:18:04.697Z",
+    "ef": 1.75,
+    "interval": 2.0736,
     "last_rating": "hard",
-    "last_reviewed": "2026-06-12T00:53:35.827Z",
-    "reps": 4
+    "last_reviewed": "2026-06-15T03:32:05.657Z",
+    "reps": 5
   },
   "letter-f#fierce-competition-f-s": {
     "due": "2026-05-28T11:13:20.308468+00:00",
