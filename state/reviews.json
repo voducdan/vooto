@@ -727,6 +727,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-e#to-extend": {
+    "due": "2026-06-15T10:19:34.474576+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-f#fed-up": {
     "due": "2026-06-17T05:18:04.697Z",
     "ef": 1.75,
@@ -1186,6 +1192,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T07:59:08.082Z",
     "reps": 1
+  },
+  "money#to-pay-through-the-nose-for-something": {
+    "due": "2026-06-15T10:19:34.474576+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "music#live-music": {
     "due": "2026-07-13T02:12:43.916Z",
