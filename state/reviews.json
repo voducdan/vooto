@@ -618,10 +618,12 @@
     "reps": 0
   },
   "letter-b#be-there-for": {
-    "due": "2026-06-13T10:48:06.917097+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T03:31:34.975Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-15T03:31:34.975Z",
+    "reps": 1
   },
   "letter-b#breakthrough": {
     "due": "2026-06-19T12:32:04.918Z",
