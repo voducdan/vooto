@@ -670,10 +670,12 @@
     "reps": 3
   },
   "letter-d#decorative": {
-    "due": "2026-06-14T07:36:20.514515+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T10:44:22.908Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-15T03:32:22.908Z",
+    "reps": 1
   },
   "letter-d#deteriorate": {
     "due": "2026-06-08T12:00:05.117Z",
