@@ -208,7 +208,7 @@
   "business#to-incorporate": {
     "due": "2026-06-13T10:48:06.917097+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#appearance": {
@@ -290,7 +290,7 @@
   "education#reach-one-s-full-potential": {
     "due": "2026-06-14T14:46:35.221730+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#single-sex-schools": {
@@ -304,7 +304,7 @@
   "education#strive": {
     "due": "2026-06-14T09:06:20.740116+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#tertiary-education-higher-education-t-i-ha": {
@@ -344,7 +344,7 @@
   "family#proficiency": {
     "due": "2026-06-15T03:10:01.748385+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#satisfying": {
@@ -470,16 +470,16 @@
   "health#remedy": {
     "due": "2026-06-13T05:31:50.021961+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#to-be-detrimental-to-health": {
-    "due": "2026-06-13T03:58:16.019Z",
-    "ef": 2.2,
-    "interval": 7.0356,
+    "due": "2026-07-06T15:22:10.902Z",
+    "ef": 2.35,
+    "interval": 21.4938,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-06T03:07:00.179Z",
-    "reps": 4
+    "last_reviewed": "2026-06-15T03:31:10.211Z",
+    "reps": 5
   },
   "ielts-writing#cut-down": {
     "due": "2026-05-26T09:10:03.413561+00:00",
@@ -618,7 +618,7 @@
   "letter-b#be-there-for": {
     "due": "2026-06-13T10:48:06.917097+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-b#breakthrough": {
@@ -666,7 +666,7 @@
   "letter-d#decorative": {
     "due": "2026-06-14T07:36:20.514515+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-d#deteriorate": {
@@ -680,7 +680,7 @@
   "letter-d#discourage": {
     "due": "2026-06-13T07:18:50.991484+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#elaborate-on": {
@@ -712,7 +712,7 @@
   "letter-f#fool-around": {
     "due": "2026-06-14T09:06:20.740116+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#for-good": {
@@ -844,13 +844,13 @@
   "letter-m#makes-it-possible": {
     "due": "2026-06-13T12:36:21.958268+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#mindless": {
     "due": "2026-06-13T09:04:39.047462+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#minor": {
@@ -896,7 +896,7 @@
   "letter-o#outweighed": {
     "due": "2026-06-14T12:39:13.474077+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#pick-something-up": {
@@ -958,7 +958,7 @@
   "letter-s#sound-reasons": {
     "due": "2026-06-13T14:44:35.771039+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#souvenir": {
@@ -990,7 +990,7 @@
   "letter-u#unfamiliar": {
     "due": "2026-06-14T14:46:35.221730+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#unnecessary": {
@@ -1160,7 +1160,7 @@
   "personality#charming": {
     "due": "2026-06-14T12:39:13.474077+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#cheerful": {
@@ -1270,7 +1270,7 @@
   "travel#immense": {
     "due": "2026-06-13T14:44:35.771039+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#impression": {
@@ -1322,7 +1322,7 @@
   "work#paperwork": {
     "due": "2026-06-13T07:18:50.991484+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   }
 }
