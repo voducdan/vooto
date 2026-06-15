@@ -206,10 +206,12 @@
     "reps": 0
   },
   "business#to-incorporate": {
-    "due": "2026-06-13T10:48:06.917097+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-16T03:31:45.199Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-15T03:31:45.199Z",
+    "reps": 1
   },
   "description#appearance": {
     "due": "2026-06-18T22:19:57.671Z",
