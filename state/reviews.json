@@ -1222,10 +1222,12 @@
     "reps": 0
   },
   "personality#depressing": {
-    "due": "2026-06-15T07:58:31.083650+00:00",
+    "due": "2026-06-16T07:59:05.169Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-15T07:59:05.169Z",
+    "reps": 1
   },
   "personality#embarrassed": {
     "due": "2026-06-20T23:30:06.779Z",
