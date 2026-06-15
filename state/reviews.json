@@ -1126,12 +1126,12 @@
     "reps": 0
   },
   "media#commercial-advertising": {
-    "due": "2026-06-13T15:04:37.359Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-06-22T22:44:02.900Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-12T07:52:37.359Z",
-    "reps": 1
+    "last_reviewed": "2026-06-15T03:32:02.900Z",
+    "reps": 2
   },
   "money#a-shopaholic": {
     "due": "2026-06-19T02:52:47.186Z",
