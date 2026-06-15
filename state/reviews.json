@@ -1023,6 +1023,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-s#the-shore": {
+    "due": "2026-06-15T14:07:01.253408+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#to-sift-information-tu-s-ft": {
     "due": "2026-05-28T03:09:05.889737+00:00",
     "ef": 2.5,
@@ -1311,6 +1317,12 @@
     "due": "2026-06-12T09:25:05.343215+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "towns-and-cities#furnished": {
+    "due": "2026-06-15T14:07:01.253408+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "towns-and-cities#specialty": {
