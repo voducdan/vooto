@@ -721,6 +721,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-e#extraction": {
+    "due": "2026-06-16T00:52:00.910943+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#to-enjoy-something-to-the-fullest": {
     "due": "2026-05-24T08:52:03.459806+00:00",
     "ef": 2.5,
@@ -796,6 +802,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-06-12T11:30:18.667Z",
     "reps": 2
+  },
+  "letter-g#go-to-great-lengths-to-do-something": {
+    "due": "2026-06-16T00:52:00.910943+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-g#go-viral": {
     "due": "2026-05-25T06:09:51.751347+00:00",
