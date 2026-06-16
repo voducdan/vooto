@@ -324,7 +324,7 @@
   "environment#to-go-below-zero": {
     "due": "2026-06-16T03:09:22.249190+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "environment#to-throw-something-out": {
@@ -730,7 +730,7 @@
   "letter-e#extraction": {
     "due": "2026-06-16T00:52:00.910943+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#to-enjoy-something-to-the-fullest": {
@@ -742,7 +742,7 @@
   "letter-e#to-extend": {
     "due": "2026-06-15T10:19:34.474576+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fed-up": {
@@ -812,7 +812,7 @@
   "letter-g#go-to-great-lengths-to-do-something": {
     "due": "2026-06-16T00:52:00.910943+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-g#go-viral": {
@@ -1044,7 +1044,7 @@
   "letter-s#the-shore": {
     "due": "2026-06-15T14:07:01.253408+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#to-sift-information-tu-s-ft": {
@@ -1218,10 +1218,12 @@
     "reps": 1
   },
   "money#to-pay-through-the-nose-for-something": {
-    "due": "2026-06-15T10:19:34.474576+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-06-17T07:57:38.701Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-16T07:57:38.701Z",
+    "reps": 1
   },
   "music#live-music": {
     "due": "2026-07-13T02:12:43.916Z",
@@ -1278,7 +1280,7 @@
   "personality#extroverted": {
     "due": "2026-06-16T03:09:22.249190+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#foolish": {
@@ -1346,7 +1348,7 @@
   "towns-and-cities#furnished": {
     "due": "2026-06-15T14:07:01.253408+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#specialty": {
