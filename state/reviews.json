@@ -322,10 +322,12 @@
     "reps": 5
   },
   "environment#to-go-below-zero": {
-    "due": "2026-06-16T03:09:22.249190+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-17T07:58:21.385Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-16T07:58:21.385Z",
+    "reps": 1
   },
   "environment#to-throw-something-out": {
     "due": "2026-05-27T05:30:08.218156+00:00",
