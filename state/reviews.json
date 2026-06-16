@@ -1348,10 +1348,12 @@
     "reps": 0
   },
   "towns-and-cities#furnished": {
-    "due": "2026-06-15T14:07:01.253408+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-17T15:09:44.742Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-16T07:57:44.742Z",
+    "reps": 1
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
