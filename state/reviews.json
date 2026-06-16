@@ -814,10 +814,12 @@
     "reps": 2
   },
   "letter-g#go-to-great-lengths-to-do-something": {
-    "due": "2026-06-16T00:52:00.910943+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-17T07:58:15.266Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-06-16T07:58:15.266Z",
+    "reps": 1
   },
   "letter-g#go-viral": {
     "due": "2026-05-25T06:09:51.751347+00:00",
