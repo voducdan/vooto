@@ -1044,10 +1044,12 @@
     "reps": 0
   },
   "letter-s#the-shore": {
-    "due": "2026-06-15T14:07:01.253408+00:00",
+    "due": "2026-06-17T07:57:52.114Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-06-16T07:57:52.114Z",
+    "reps": 1
   },
   "letter-s#to-sift-information-tu-s-ft": {
     "due": "2026-05-28T03:09:05.889737+00:00",
