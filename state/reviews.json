@@ -1343,6 +1343,12 @@
     "last_reviewed": "2026-05-24T06:09:52.809655+00:00",
     "reps": 1
   },
+  "time#timely": {
+    "due": "2026-06-18T11:23:32.714315+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "towns-and-cities#adjacent": {
     "due": "2026-06-11T11:12:53.503Z",
     "ef": 2.35,
@@ -1405,6 +1411,12 @@
     "due": "2026-05-26T15:03:38.988167+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "travel#jump-at-the-chance": {
+    "due": "2026-06-18T11:23:32.714315+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "travel#luxury": {
