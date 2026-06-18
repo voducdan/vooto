@@ -165,6 +165,12 @@
     "interval": 0,
     "reps": 0
   },
+  "buildings#installation": {
+    "due": "2026-06-18T15:05:02.556072+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "buildings#pavilion": {
     "due": "2026-05-26T12:59:04.831690+00:00",
     "ef": 2.5,
@@ -1218,6 +1224,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-13T04:17:54.514Z",
     "reps": 2
+  },
+  "money#earn": {
+    "due": "2026-06-18T15:05:02.556072+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "money#savings": {
     "due": "2026-06-16T15:11:08.082Z",
