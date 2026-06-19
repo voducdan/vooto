@@ -869,6 +869,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-h#high-degree-of": {
+    "due": "2026-06-19T15:03:31.197989+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-h#humane": {
     "due": "2026-06-11T05:35:22.981Z",
     "ef": 2.35,
@@ -1382,6 +1388,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-10T08:20:35.921Z",
     "reps": 3
+  },
+  "time#antique": {
+    "due": "2026-06-19T15:03:31.197989+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "time#in-this-day-and-age": {
     "due": "2026-05-25T06:09:52.809655+00:00",
