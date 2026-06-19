@@ -579,6 +579,12 @@
     "last_reviewed": "2026-06-12T03:32:15.186Z",
     "reps": 2
   },
+  "ielts-writing#whereas-in-contrast": {
+    "due": "2026-06-19T11:32:55.988059+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#comes-into-play": {
     "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
@@ -1378,6 +1384,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-05-24T06:09:52.809655+00:00",
     "reps": 1
+  },
+  "time#middle-aged": {
+    "due": "2026-06-19T11:32:55.988059+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "time#timely": {
     "due": "2026-06-18T11:23:32.714315+00:00",
