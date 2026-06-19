@@ -981,6 +981,12 @@
     "last_reviewed": "2026-06-08T11:40:27.349Z",
     "reps": 3
   },
+  "letter-o#open-to": {
+    "due": "2026-06-19T09:36:14.053578+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-o#outweighed": {
     "due": "2026-06-16T10:44:37.178Z",
     "ef": 2.65,
