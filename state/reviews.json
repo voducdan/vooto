@@ -437,6 +437,12 @@
     "last_reviewed": "2026-05-24T06:11:46.137897+00:00",
     "reps": 0
   },
+  "free-time#all-year-round": {
+    "due": "2026-06-20T10:48:33.021248+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#fast-paced": {
     "due": "2026-07-15T01:27:30.817Z",
     "ef": 2.95,
@@ -652,6 +658,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-11T07:17:17.257Z",
     "reps": 4
+  },
+  "letter-a#aquatic-animals": {
+    "due": "2026-06-20T10:48:33.021248+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-a#aspiration": {
     "due": "2026-07-08T04:34:58.317Z",
