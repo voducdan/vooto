@@ -835,6 +835,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-g#get-through": {
+    "due": "2026-06-20T07:20:25.225251+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-g#get-to-grips-with": {
     "due": "2026-06-08T09:50:55.918Z",
     "ef": 2.5,
