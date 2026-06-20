@@ -359,6 +359,12 @@
     "interval": 0,
     "reps": 0
   },
+  "family#fulfill-one-s-dream": {
+    "due": "2026-06-20T05:30:22.314567+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#goodwill": {
     "due": "2026-06-16T07:59:00.625Z",
     "ef": 2.35,
@@ -1109,6 +1115,12 @@
     "due": "2026-05-28T03:09:05.889737+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-t#thanks-to": {
+    "due": "2026-06-20T05:30:22.314567+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-t#to-keep-abreast-of": {
