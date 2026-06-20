@@ -1049,6 +1049,12 @@
     "last_reviewed": "2026-06-15T03:32:37.178Z",
     "reps": 1
   },
+  "letter-p#perspective": {
+    "due": "2026-06-20T12:36:30.355718+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-p#pick-something-up": {
     "due": "2026-05-27T00:39:39.859971+00:00",
     "ef": 2.5,
