@@ -1189,6 +1189,12 @@
     "last_reviewed": "2026-06-08T03:09:28.162Z",
     "reps": 3
   },
+  "letter-v#vivid": {
+    "due": "2026-06-20T03:07:14.027434+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-w#weigh-up-the-pros-and-cons": {
     "due": "2026-05-27T00:39:39.859971+00:00",
     "ef": 2.5,
@@ -1294,6 +1300,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-06-16T07:57:38.701Z",
     "reps": 1
+  },
+  "music#hip-hop": {
+    "due": "2026-06-20T03:07:14.027434+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "music#live-music": {
     "due": "2026-07-13T02:12:43.916Z",
