@@ -747,6 +747,12 @@
     "last_reviewed": "2026-06-15T03:31:16.094Z",
     "reps": 1
   },
+  "letter-d#distinctive": {
+    "due": "2026-06-20T00:41:50.507802+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#elaborate-on": {
     "due": "2026-05-27T13:09:14.077392+00:00",
     "ef": 2.5,
