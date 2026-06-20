@@ -893,6 +893,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-h#highly-credible": {
+    "due": "2026-06-20T09:04:11.982753+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-h#humane": {
     "due": "2026-06-11T05:35:22.981Z",
     "ef": 2.35,
@@ -1189,6 +1195,12 @@
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-v#virtually": {
+    "due": "2026-06-20T09:04:11.982753+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-v#vital": {
