@@ -205,6 +205,12 @@
     "last_reviewed": "2026-06-15T03:32:20.256Z",
     "reps": 6
   },
+  "business#prosperity": {
+    "due": "2026-06-21T07:38:28.957564+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
     "ef": 2.5,
@@ -918,6 +924,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-06-10T05:35:22.981Z",
     "reps": 1
+  },
+  "letter-h#to-have-a-head-for-sth": {
+    "due": "2026-06-21T07:38:28.957564+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-h#to-hide-one-s-light-under-a-bushel": {
     "due": "2026-05-26T12:59:04.831690+00:00",
