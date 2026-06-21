@@ -865,6 +865,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-g#generally-speaking": {
+    "due": "2026-06-21T14:50:29.716860+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-g#get-through": {
     "due": "2026-06-20T07:20:25.225251+00:00",
     "ef": 2.5,
@@ -1095,6 +1101,12 @@
     "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-p#priority": {
+    "due": "2026-06-21T14:50:29.716860+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-p#to-possess": {
