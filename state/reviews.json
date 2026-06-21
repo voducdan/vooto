@@ -733,6 +733,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-c#convince": {
+    "due": "2026-06-21T14:49:50.080466+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#current-affairs": {
     "due": "2026-05-24T14:31:19.614187+00:00",
     "ef": 2.5,
@@ -1493,6 +1499,12 @@
     "due": "2026-05-29T07:20:27.895452+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "technology#desktop-pc": {
+    "due": "2026-06-21T14:49:50.080466+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "technology#geek": {
