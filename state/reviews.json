@@ -1399,6 +1399,12 @@
     "last_reviewed": "2026-06-13T04:18:00.716Z",
     "reps": 3
   },
+  "music#opera": {
+    "due": "2026-06-21T11:04:07.053789+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "music#pop-music": {
     "due": "2026-05-24T12:23:35.966485+00:00",
     "ef": 2.5,
@@ -1566,6 +1572,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-13T04:18:03.952Z",
     "reps": 3
+  },
+  "travel#full-moon": {
+    "due": "2026-06-21T11:04:07.053789+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "travel#immense": {
     "due": "2026-06-16T10:43:59.997Z",
