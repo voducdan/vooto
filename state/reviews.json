@@ -577,6 +577,12 @@
     "interval": 0,
     "reps": 0
   },
+  "ielts-writing#sharply": {
+    "due": "2026-06-22T00:45:53.710136+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#significantly": {
     "due": "2026-05-28T15:08:21.512057+00:00",
     "ef": 2.5,
@@ -1035,6 +1041,12 @@
     "due": "2026-05-27T15:05:35.270190+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-m#muscular-development": {
+    "due": "2026-06-22T00:45:53.710136+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-m#to-memorize": {
