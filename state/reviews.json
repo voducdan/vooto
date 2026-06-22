@@ -261,6 +261,12 @@
     "last_reviewed": "2026-06-12T00:53:29.110Z",
     "reps": 6
   },
+  "description#untidy": {
+    "due": "2026-06-22T05:49:49.864688+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#attendance-record": {
     "due": "2026-06-25T18:19:41.889Z",
     "ef": 2.65,
@@ -1229,6 +1235,12 @@
     "due": "2026-05-25T11:23:22.840800+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-u#ultimately": {
+    "due": "2026-06-22T05:49:49.864688+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-u#unfamiliar": {
