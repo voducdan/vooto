@@ -197,6 +197,12 @@
     "last_reviewed": "2026-06-10T03:10:00.854Z",
     "reps": 4
   },
+  "business#adjustment": {
+    "due": "2026-06-22T15:39:54.611762+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#an-entrepreneur": {
     "due": "2026-07-02T10:55:14.822Z",
     "ef": 2.2,
@@ -1030,6 +1036,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-08T03:09:30.911Z",
     "reps": 5
+  },
+  "letter-i#inevitably": {
+    "due": "2026-06-22T15:39:54.611762+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
