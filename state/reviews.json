@@ -719,6 +719,12 @@
     "last_reviewed": "2026-06-10T11:04:59.446Z",
     "reps": 5
   },
+  "letter-b#to-be-out-of-one-s-depth": {
+    "due": "2026-06-22T08:00:16.398391+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#catch-everything": {
     "due": "2026-06-19T05:44:14.651522+00:00",
     "ef": 2.5,
@@ -1527,6 +1533,12 @@
     "due": "2026-05-26T07:12:38.234446+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "personality#lively": {
+    "due": "2026-06-22T08:00:16.398391+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "personality#outstanding": {
