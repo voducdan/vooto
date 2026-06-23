@@ -667,6 +667,12 @@
     "last_reviewed": "2026-06-06T14:33:10.293Z",
     "reps": 3
   },
+  "law#obligatory": {
+    "due": "2026-06-23T03:06:57.261130+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#to-enforce-strict-regulations-on": {
     "due": "2026-07-01T00:25:20.739Z",
     "ef": 2.65,
@@ -824,6 +830,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:31:16.094Z",
     "reps": 1
+  },
+  "letter-d#disregard": {
+    "due": "2026-06-23T03:06:57.261130+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-d#distinctive": {
     "due": "2026-06-20T00:41:50.507802+00:00",
