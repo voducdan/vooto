@@ -993,6 +993,12 @@
     "last_reviewed": "2026-05-24T06:09:51.751347+00:00",
     "reps": 1
   },
+  "letter-g#grossly": {
+    "due": "2026-06-23T15:02:22.920955+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-g#to-get-access-to": {
     "due": "2026-07-15T01:26:52.111Z",
     "ef": 2.95,
@@ -1516,6 +1522,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-11T07:40:47.186Z",
     "reps": 2
+  },
+  "money#a-waste-of-money": {
+    "due": "2026-06-23T15:02:22.920955+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "money#affordable": {
     "due": "2026-06-20T23:29:54.514Z",
