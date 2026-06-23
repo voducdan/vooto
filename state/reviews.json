@@ -357,6 +357,12 @@
     "last_reviewed": "2026-06-06T07:04:59.577Z",
     "reps": 5
   },
+  "education#to-take-a-year-out": {
+    "due": "2026-06-23T09:07:38.657457+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#rubbish": {
     "due": "2026-06-19T07:51:55.812615+00:00",
     "ef": 2.5,
@@ -1023,6 +1029,12 @@
   },
   "letter-h#to-have-a-head-for-sth": {
     "due": "2026-06-21T07:38:28.957564+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-h#to-have-a-laid-back-attitude": {
+    "due": "2026-06-23T09:07:38.657457+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
