@@ -363,6 +363,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "environment#greenhouse-effect": {
+    "due": "2026-06-23T11:03:29.911270+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#rubbish": {
     "due": "2026-06-19T07:51:55.812615+00:00",
     "ef": 2.5,
@@ -1180,6 +1186,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:32:37.178Z",
     "reps": 1
+  },
+  "letter-p#patronage": {
+    "due": "2026-06-23T11:03:29.911270+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-p#perspective": {
     "due": "2026-06-20T12:36:30.355718+00:00",
