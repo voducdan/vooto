@@ -1173,6 +1173,12 @@
     "last_reviewed": "2026-06-08T11:40:27.349Z",
     "reps": 3
   },
+  "letter-o#on-purpose": {
+    "due": "2026-06-23T12:56:54.421329+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-o#open-to": {
     "due": "2026-06-19T09:36:14.053578+00:00",
     "ef": 2.5,
@@ -1806,6 +1812,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-06-13T04:17:49.019Z",
     "reps": 6
+  },
+  "urbanisation#stressful": {
+    "due": "2026-06-23T12:56:54.421329+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "urbanisation#the-hectic-pace-of-life": {
     "due": "2026-05-29T13:04:58.914006+00:00",
