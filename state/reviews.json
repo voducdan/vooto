@@ -569,6 +569,12 @@
     "last_reviewed": "2026-06-15T03:31:10.211Z",
     "reps": 5
   },
+  "health#vulnerable": {
+    "due": "2026-06-23T07:14:46.098437+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#cut-down": {
     "due": "2026-05-26T09:10:03.413561+00:00",
     "ef": 2.5,
@@ -1463,6 +1469,12 @@
   },
   "media#publication": {
     "due": "2026-06-23T05:21:31.707105+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "money#a-bit-pricey": {
+    "due": "2026-06-23T07:14:46.098437+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
