@@ -705,6 +705,12 @@
     "last_reviewed": "2026-06-10T08:20:32.739Z",
     "reps": 3
   },
+  "letter-a#a-sense-of-accomplishment": {
+    "due": "2026-06-24T11:01:54.622555+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-a#acknowledge": {
     "due": "2026-05-27T07:26:55.918228+00:00",
     "ef": 2.5,
@@ -900,6 +906,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-16T07:57:41.641Z",
     "reps": 1
+  },
+  "letter-f#faculty": {
+    "due": "2026-06-24T11:01:54.622555+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-f#fake": {
     "due": "2026-06-22T10:13:40.871743+00:00",
