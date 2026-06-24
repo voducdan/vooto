@@ -867,6 +867,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-e#emulate": {
+    "due": "2026-06-24T03:07:06.538774+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#extraction": {
     "due": "2026-06-17T15:09:59.486Z",
     "ef": 2.65,
@@ -1313,6 +1319,12 @@
     "due": "2026-05-24T08:52:03.459806+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-s#substandard": {
+    "due": "2026-06-24T03:07:06.538774+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-s#the-shore": {
