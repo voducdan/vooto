@@ -1032,10 +1032,12 @@
     "reps": 0
   },
   "letter-h#host-country": {
-    "due": "2026-06-24T00:36:27.170007+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-06-25T09:34:25.745Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-06-24T02:22:25.745Z",
+    "reps": 1
   },
   "letter-h#humane": {
     "due": "2026-06-11T05:35:22.981Z",
