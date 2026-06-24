@@ -341,6 +341,12 @@
     "last_reviewed": "2026-06-12T07:52:28.273Z",
     "reps": 3
   },
+  "education#strict": {
+    "due": "2026-06-24T09:06:33.487643+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#strive": {
     "due": "2026-06-24T03:10:56.842Z",
     "ef": 2.65,
@@ -1863,6 +1869,12 @@
     "due": "2026-05-29T13:04:58.914006+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "urbanisation#the-rush-hour": {
+    "due": "2026-06-24T09:06:33.487643+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "work#associate-with": {
