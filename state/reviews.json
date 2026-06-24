@@ -1031,6 +1031,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-h#host-country": {
+    "due": "2026-06-24T00:36:27.170007+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-h#humane": {
     "due": "2026-06-11T05:35:22.981Z",
     "ef": 2.35,
@@ -1850,5 +1856,11 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:31:18.844Z",
     "reps": 1
+  },
+  "work#unemployed": {
+    "due": "2026-06-24T00:36:27.170007+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   }
 }
