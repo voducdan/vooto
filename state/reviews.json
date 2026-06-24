@@ -539,6 +539,12 @@
     "last_reviewed": "2026-06-15T07:58:50.912Z",
     "reps": 1
   },
+  "friends#to-be-through-thick-and-thin": {
+    "due": "2026-06-24T12:44:33.612420+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
     "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
@@ -821,6 +827,12 @@
     "due": "2026-05-24T14:31:19.614187+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-c#to-compensate": {
+    "due": "2026-06-24T12:44:33.612420+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-c#to-continue-to-thrive": {
