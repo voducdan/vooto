@@ -1375,6 +1375,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-s#spread-throughout": {
+    "due": "2026-06-25T03:06:50.708808+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#substandard": {
     "due": "2026-06-24T03:07:06.538774+00:00",
     "ef": 2.5,
@@ -1783,6 +1789,12 @@
     "due": "2026-06-19T11:32:55.988059+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "time#the-coming-year": {
+    "due": "2026-06-25T03:06:50.708808+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "time#timely": {
