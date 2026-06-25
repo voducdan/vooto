@@ -1165,6 +1165,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-l#leap": {
+    "due": "2026-06-25T12:48:06.837904+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-l#lose-one-s-patience": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
