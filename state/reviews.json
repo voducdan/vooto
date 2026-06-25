@@ -857,6 +857,12 @@
     "last_reviewed": "2026-06-15T03:32:22.908Z",
     "reps": 1
   },
+  "letter-d#deplete": {
+    "due": "2026-06-25T09:06:37.443322+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-d#desirable": {
     "due": "2026-06-22T03:09:48.710762+00:00",
     "ef": 2.5,
@@ -1913,6 +1919,12 @@
     "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "travel#self-catering": {
+    "due": "2026-06-25T09:06:37.443322+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "urbanisation#crowded": {
