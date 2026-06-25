@@ -1159,6 +1159,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-i#initial": {
+    "due": "2026-06-25T14:59:43.906352+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
@@ -1349,6 +1355,12 @@
     "due": "2026-05-29T03:08:07.791260+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-s#sensitivity": {
+    "due": "2026-06-25T14:59:43.906352+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-s#set-to": {
