@@ -797,6 +797,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-b#to-become-over-reliant-on": {
+    "due": "2026-06-26T07:18:11.124567+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#catch-everything": {
     "due": "2026-06-19T05:44:14.651522+00:00",
     "ef": 2.5,
@@ -901,6 +907,12 @@
     "due": "2026-06-20T00:41:50.507802+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-d#due-to": {
+    "due": "2026-06-26T07:18:11.124567+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-e#elaborate-on": {
