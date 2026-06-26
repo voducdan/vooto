@@ -381,6 +381,12 @@
     "interval": 0,
     "reps": 0
   },
+  "environment#rainy-weather": {
+    "due": "2026-06-26T11:01:12.980445+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#rubbish": {
     "due": "2026-06-19T07:51:55.812615+00:00",
     "ef": 2.5,
@@ -1349,6 +1355,12 @@
     "due": "2026-05-27T09:08:45.644614+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-p#to-push-forward": {
+    "due": "2026-06-26T11:01:12.980445+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-r#rebellious": {
