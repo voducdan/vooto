@@ -1255,6 +1255,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-n#neglected": {
+    "due": "2026-06-26T09:06:15.407554+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-n#nerve-racking": {
     "due": "2026-05-28T00:36:28.967163+00:00",
     "ef": 2.5,
@@ -1907,6 +1913,12 @@
     "due": "2026-05-27T03:07:49.075051+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "towns-and-cities#sunbathe": {
+    "due": "2026-06-26T09:06:15.407554+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "travel#a-riot-of-colour": {
