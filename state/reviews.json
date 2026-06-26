@@ -1455,6 +1455,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-t#to-watch-someone-s-back": {
+    "due": "2026-06-26T05:26:30.313714+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-t#turn-down": {
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
@@ -1917,6 +1923,12 @@
     "due": "2026-06-21T11:04:07.053789+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "travel#half-board": {
+    "due": "2026-06-26T05:26:30.313714+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "travel#immense": {
