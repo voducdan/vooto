@@ -217,6 +217,12 @@
     "interval": 0,
     "reps": 0
   },
+  "business#enterprises": {
+    "due": "2026-06-26T03:07:32.775742+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#prosperity": {
     "due": "2026-06-21T07:38:28.957564+00:00",
     "ef": 2.5,
@@ -1447,6 +1453,12 @@
     "due": "2026-05-25T11:23:22.840800+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-t#turn-down": {
+    "due": "2026-06-26T03:07:32.775742+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-u#ultimately": {
