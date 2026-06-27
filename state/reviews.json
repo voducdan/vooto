@@ -921,6 +921,12 @@
     "last_reviewed": "2026-06-15T03:31:16.094Z",
     "reps": 1
   },
+  "letter-d#dispose-of": {
+    "due": "2026-06-27T07:04:54.652236+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-d#disregard": {
     "due": "2026-06-23T03:06:57.261130+00:00",
     "ef": 2.5,
@@ -1241,6 +1247,12 @@
   },
   "letter-l#loyal": {
     "due": "2026-06-27T00:40:03.575208+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-l#to-lie-in-the-heart-of-sth": {
+    "due": "2026-06-27T07:04:54.652236+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
