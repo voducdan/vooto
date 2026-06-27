@@ -793,6 +793,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-b#be-on-one-s-way": {
+    "due": "2026-06-27T08:55:41.055466+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-b#be-there-for": {
     "due": "2026-06-17T12:46:34.962Z",
     "ef": 2.2,
@@ -1821,6 +1827,12 @@
     "due": "2026-05-24T12:23:35.966485+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "music#soothing": {
+    "due": "2026-06-27T08:55:41.055466+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "music#to-face-the-music": {
