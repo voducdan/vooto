@@ -907,6 +907,12 @@
     "last_reviewed": "2026-06-05T13:09:12.317Z",
     "reps": 4
   },
+  "letter-d#discerning": {
+    "due": "2026-06-27T03:06:03.765782+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-d#discourage": {
     "due": "2026-06-16T10:43:16.094Z",
     "ef": 2.65,
@@ -1421,6 +1427,12 @@
     "due": "2026-05-26T05:21:31.942873+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-s#settle": {
+    "due": "2026-06-27T03:06:03.765782+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-s#sex-discrimination": {
