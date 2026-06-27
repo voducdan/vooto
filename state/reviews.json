@@ -489,6 +489,12 @@
     "interval": 0,
     "reps": 0
   },
+  "food#the-main-meal": {
+    "due": "2026-06-27T10:39:47.630544+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#adventurous": {
     "due": "2026-05-24T06:21:46.137897+00:00",
     "ef": 2.5,
@@ -1158,6 +1164,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-24T02:22:25.745Z",
     "reps": 1
+  },
+  "letter-h#huge-number-of": {
+    "due": "2026-06-27T10:39:47.630544+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-h#humane": {
     "due": "2026-06-11T05:35:22.981Z",
