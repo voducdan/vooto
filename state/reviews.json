@@ -965,6 +965,12 @@
     "last_reviewed": "2026-06-16T07:57:59.486Z",
     "reps": 1
   },
+  "letter-e#to-empower-women": {
+    "due": "2026-06-27T05:18:22.222129+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#to-enjoy-something-to-the-fullest": {
     "due": "2026-05-24T08:52:03.459806+00:00",
     "ef": 2.5,
@@ -1682,6 +1688,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-06-07T10:51:25.107Z",
     "reps": 1
+  },
+  "media#breaking-news": {
+    "due": "2026-06-27T05:18:22.222129+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "media#classified-ads": {
     "due": "2026-05-24T06:04:18.382657+00:00",
