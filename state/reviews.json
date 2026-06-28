@@ -617,6 +617,12 @@
     "interval": 0,
     "reps": 0
   },
+  "health#burn-a-lot-of-calories": {
+    "due": "2026-06-28T09:03:25.003192+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "health#childhood-diseases": {
     "due": "2026-06-11T10:47:25.202Z",
     "ef": 2.8,
@@ -2234,5 +2240,11 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-24T02:22:22.475Z",
     "reps": 1
+  },
+  "work#well-paid": {
+    "due": "2026-06-28T09:03:25.003192+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   }
 }
