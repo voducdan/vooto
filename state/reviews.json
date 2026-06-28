@@ -1279,6 +1279,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "letter-i#irrespective-of": {
+    "due": "2026-06-28T10:44:41.553467+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
@@ -2229,6 +2235,12 @@
   },
   "work#play-an-essential-part-in-something": {
     "due": "2026-06-24T07:11:38.638117+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "work#to-recharge-one-s-energy": {
+    "due": "2026-06-28T10:44:41.553467+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
