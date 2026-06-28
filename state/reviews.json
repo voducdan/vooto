@@ -387,6 +387,12 @@
     "interval": 0,
     "reps": 0
   },
+  "environment#gloomy": {
+    "due": "2026-06-28T12:28:35.771655+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#greenhouse-effect": {
     "due": "2026-06-23T11:03:29.911270+00:00",
     "ef": 2.5,
@@ -1422,6 +1428,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:32:37.178Z",
     "reps": 1
+  },
+  "letter-o#overload": {
+    "due": "2026-06-28T12:28:35.771655+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-o#to-be-overprotective": {
     "due": "2026-06-24T14:57:27.546736+00:00",
