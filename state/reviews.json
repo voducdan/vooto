@@ -319,6 +319,12 @@
     "interval": 0,
     "reps": 0
   },
+  "education#gossip": {
+    "due": "2026-06-28T03:07:46.782518+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#keep-track-of": {
     "due": "2026-05-27T13:43:06.236454+00:00",
     "ef": 2.5,
@@ -432,6 +438,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-06-15T07:59:00.625Z",
     "reps": 1
+  },
+  "family#kind-hearted": {
+    "due": "2026-06-28T03:07:46.782518+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "family#needless-to-say-it-goes-without-saying-that": {
     "due": "2026-06-20T23:29:57.167Z",
