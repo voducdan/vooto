@@ -271,6 +271,12 @@
     "interval": 0,
     "reps": 0
   },
+  "description#pretty": {
+    "due": "2026-06-28T07:21:28.962006+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#unappealing": {
     "due": "2026-06-18T06:36:19.222Z",
     "ef": 1.9,
@@ -1850,6 +1856,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-06-16T07:57:38.701Z",
     "reps": 1
+  },
+  "money#try-clothes-on": {
+    "due": "2026-06-28T07:21:28.962006+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "music#concert-venue": {
     "due": "2026-06-25T05:21:34.502747+00:00",
