@@ -1811,6 +1811,12 @@
     "last_reviewed": "2026-06-15T03:32:02.900Z",
     "reps": 2
   },
+  "media#entertaining": {
+    "due": "2026-06-28T14:34:46.151539+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "media#live-broadcast": {
     "due": "2026-06-26T14:54:26.332402+00:00",
     "ef": 2.5,
@@ -2083,6 +2089,12 @@
   },
   "towns-and-cities#destination": {
     "due": "2026-06-27T12:27:25.937574+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "towns-and-cities#dynamic": {
+    "due": "2026-06-28T14:34:46.151539+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
