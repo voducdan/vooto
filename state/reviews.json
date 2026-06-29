@@ -861,6 +861,12 @@
     "last_reviewed": "2026-06-16T07:58:34.962Z",
     "reps": 2
   },
+  "letter-b#body-language": {
+    "due": "2026-06-29T03:08:49.948887+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-b#breakthrough": {
     "due": "2026-06-19T12:32:04.918Z",
     "ef": 2.2,
@@ -1293,6 +1299,12 @@
   },
   "letter-i#irrespective-of": {
     "due": "2026-06-28T10:44:41.553467+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-i#it-s-not-an-indication-of-ts-n-t-n-v": {
+    "due": "2026-06-29T03:08:49.948887+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
