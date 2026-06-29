@@ -271,6 +271,12 @@
     "interval": 0,
     "reps": 0
   },
+  "description#horrible": {
+    "due": "2026-06-29T07:42:13.657670+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#pretty": {
     "due": "2026-06-28T07:21:28.962006+00:00",
     "ef": 2.5,
@@ -1645,6 +1651,12 @@
     "due": "2026-06-20T05:30:22.314567+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-t#thought-provoking": {
+    "due": "2026-06-29T07:42:13.657670+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-t#to-keep-abreast-of": {
