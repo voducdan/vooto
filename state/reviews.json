@@ -623,6 +623,12 @@
     "interval": 0,
     "reps": 0
   },
+  "health#antioxidant": {
+    "due": "2026-06-29T09:37:10.781076+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "health#awareness": {
     "due": "2026-05-27T09:08:45.644614+00:00",
     "ef": 2.5,
@@ -1503,6 +1509,12 @@
   },
   "letter-p#provide": {
     "due": "2026-06-29T00:42:18.265949+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-p#put-off": {
+    "due": "2026-06-29T09:37:10.781076+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
