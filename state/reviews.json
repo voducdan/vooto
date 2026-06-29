@@ -1507,6 +1507,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-p#politely-decline": {
+    "due": "2026-06-29T15:10:06.906704+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-p#prevalent": {
     "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
@@ -2029,6 +2035,12 @@
     "due": "2026-05-28T13:13:46.671918+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "personality#confident": {
+    "due": "2026-06-29T15:10:06.906704+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "personality#depressing": {
