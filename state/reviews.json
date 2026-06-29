@@ -1457,6 +1457,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-o#opt-for": {
+    "due": "2026-06-29T11:40:20.521017+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-o#outweighed": {
     "due": "2026-06-16T10:44:37.178Z",
     "ef": 2.65,
@@ -1918,6 +1924,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-13T04:17:54.514Z",
     "reps": 2
+  },
+  "money#budget": {
+    "due": "2026-06-29T11:40:20.521017+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "money#earn": {
     "due": "2026-06-18T15:05:02.556072+00:00",
