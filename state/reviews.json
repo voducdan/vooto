@@ -1143,6 +1143,12 @@
     "last_reviewed": "2026-06-08T09:40:55.918Z",
     "reps": 0
   },
+  "letter-g#glossy": {
+    "due": "2026-06-29T00:42:18.265949+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-g#go-out-of-one-s-way-to-do-something": {
     "due": "2026-06-18T11:30:18.667Z",
     "ef": 2.35,
@@ -1469,6 +1475,12 @@
     "due": "2026-06-21T14:50:29.716860+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-p#provide": {
+    "due": "2026-06-29T00:42:18.265949+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-p#to-possess": {
