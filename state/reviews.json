@@ -405,6 +405,12 @@
     "interval": 0,
     "reps": 0
   },
+  "environment#in-all-weathers": {
+    "due": "2026-06-29T13:28:11.264490+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#rainy-weather": {
     "due": "2026-06-26T11:01:12.980445+00:00",
     "ef": 2.5,
@@ -2109,6 +2115,12 @@
   },
   "time#brand-new": {
     "due": "2026-06-25T05:21:34.502747+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "time#contemporary": {
+    "due": "2026-06-29T13:28:11.264490+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
