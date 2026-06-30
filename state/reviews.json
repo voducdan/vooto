@@ -223,6 +223,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "business#make-it-to-the-top": {
+    "due": "2026-06-30T03:06:56.022098+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#prosperity": {
     "due": "2026-06-21T07:38:28.957564+00:00",
     "ef": 2.5,
@@ -823,6 +829,12 @@
     "due": "2026-05-24T06:04:18.382657+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-a#altruism": {
+    "due": "2026-06-30T03:06:56.022098+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-a#an-inevitable-consequence": {
