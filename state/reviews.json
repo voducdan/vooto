@@ -1937,6 +1937,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "media#episode": {
+    "due": "2026-06-30T11:02:10.770634+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "media#live-broadcast": {
     "due": "2026-06-26T14:54:26.332402+00:00",
     "ef": 2.5,
@@ -2256,6 +2262,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-16T07:57:44.742Z",
     "reps": 1
+  },
+  "towns-and-cities#hitchhike": {
+    "due": "2026-06-30T11:02:10.770634+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
