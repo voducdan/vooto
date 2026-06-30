@@ -171,6 +171,12 @@
     "interval": 0,
     "reps": 0
   },
+  "buildings#international-hotel": {
+    "due": "2026-06-30T14:52:22.323435+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "buildings#pavilion": {
     "due": "2026-05-26T12:59:04.831690+00:00",
     "ef": 2.5,
@@ -439,6 +445,12 @@
     "due": "2026-06-19T07:51:55.812615+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "environment#to-get-back-to-nature": {
+    "due": "2026-06-30T14:52:22.323435+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "environment#to-go-below-zero": {
