@@ -1495,6 +1495,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-p#persistence": {
+    "due": "2026-06-30T00:40:33.288731+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-p#perspective": {
     "due": "2026-06-20T12:36:30.355718+00:00",
     "ef": 2.5,
@@ -1685,6 +1691,12 @@
   },
   "letter-t#thought-provoking": {
     "due": "2026-06-29T07:42:13.657670+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-t#throw-a-party": {
+    "due": "2026-06-30T00:40:33.288731+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
