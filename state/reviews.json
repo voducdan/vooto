@@ -283,6 +283,12 @@
     "interval": 0.0,
     "reps": 0
   },
+  "description#identical-to": {
+    "due": "2026-06-30T12:40:56.732879+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#pretty": {
     "due": "2026-06-28T07:21:28.962006+00:00",
     "ef": 2.5,
@@ -2372,6 +2378,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-12T11:30:11.874Z",
     "reps": 2
+  },
+  "urbanisation#opulent": {
+    "due": "2026-06-30T12:40:56.732879+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "urbanisation#peak-traffic-hours": {
     "due": "2026-06-22T03:09:48.710762+00:00",
