@@ -473,6 +473,12 @@
     "interval": 0,
     "reps": 0
   },
+  "family#be-prone-to": {
+    "due": "2026-07-01T05:33:05.819194+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#carefree": {
     "due": "2026-05-27T14:03:41.266284+00:00",
     "ef": 2.5,
@@ -2385,6 +2391,12 @@
   },
   "travel#self-catering": {
     "due": "2026-06-25T09:06:37.443322+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "travel#tourist": {
+    "due": "2026-07-01T05:33:05.819194+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
