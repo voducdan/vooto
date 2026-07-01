@@ -593,6 +593,12 @@
     "interval": 0,
     "reps": 0
   },
+  "food#stew": {
+    "due": "2026-07-01T12:57:19.777225+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#the-main-meal": {
     "due": "2026-06-27T10:39:47.630544+00:00",
     "ef": 2.5,
@@ -2342,6 +2348,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-06-05T11:12:53.503Z",
     "reps": 2
+  },
+  "towns-and-cities#air-quality": {
+    "due": "2026-07-01T12:57:19.777225+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "towns-and-cities#campsite": {
     "due": "2026-06-12T09:25:05.343215+00:00",
