@@ -1211,6 +1211,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-f#force": {
+    "due": "2026-07-01T11:05:57.840368+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-f#fortunately": {
     "due": "2026-05-29T07:20:27.895452+00:00",
     "ef": 2.5,
@@ -2253,6 +2259,12 @@
     "due": "2026-05-28T07:20:25.723808+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "technology#technology-gadget": {
+    "due": "2026-07-01T11:05:57.840368+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "technology#to-utilize": {
