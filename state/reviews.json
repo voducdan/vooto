@@ -633,6 +633,12 @@
     "last_reviewed": "2026-06-13T04:18:18.062Z",
     "reps": 5
   },
+  "friends#mutual-friend": {
+    "due": "2026-07-01T03:08:00.507874+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#sound-advice": {
     "due": "2026-06-16T07:58:50.912Z",
     "ef": 2.35,
@@ -1519,6 +1525,12 @@
   },
   "letter-o#opt-for": {
     "due": "2026-06-29T11:40:20.521017+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "letter-o#outdated": {
+    "due": "2026-07-01T03:08:00.507874+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
