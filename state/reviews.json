@@ -174,7 +174,7 @@
   "buildings#international-hotel": {
     "due": "2026-06-30T14:52:22.323435+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#pavilion": {
@@ -226,13 +226,13 @@
   "business#enterprises": {
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#make-it-to-the-top": {
     "due": "2026-06-30T03:06:56.022098+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#prosperity": {
@@ -272,10 +272,12 @@
     "reps": 3
   },
   "description#clingy": {
-    "due": "2026-07-01T07:29:58.272151+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-02T08:19:04.565Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-01T08:19:04.565Z",
+    "reps": 1
   },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
@@ -292,19 +294,19 @@
   "description#horrible": {
     "due": "2026-06-29T07:42:13.657670+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#identical-to": {
     "due": "2026-06-30T12:40:56.732879+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#pretty": {
     "due": "2026-06-28T07:21:28.962006+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#unappealing": {
@@ -358,7 +360,7 @@
   "education#gossip": {
     "due": "2026-06-28T03:07:46.782518+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#keep-track-of": {
@@ -392,7 +394,7 @@
   "education#strict": {
     "due": "2026-06-24T09:06:33.487643+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#strive": {
@@ -420,13 +422,13 @@
   "environment#fossil-fuels": {
     "due": "2026-06-30T09:06:58.357537+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "environment#gloomy": {
     "due": "2026-06-28T12:28:35.771655+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "environment#greenhouse-effect": {
@@ -438,13 +440,13 @@
   "environment#in-all-weathers": {
     "due": "2026-06-29T13:28:11.264490+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "environment#rainy-weather": {
     "due": "2026-06-26T11:01:12.980445+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "environment#rubbish": {
@@ -456,7 +458,7 @@
   "environment#to-get-back-to-nature": {
     "due": "2026-06-30T14:52:22.323435+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "environment#to-go-below-zero": {
@@ -482,7 +484,7 @@
   "family#be-prone-to": {
     "due": "2026-07-01T05:33:05.819194+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#carefree": {
@@ -508,7 +510,7 @@
   "family#kind-hearted": {
     "due": "2026-06-28T03:07:46.782518+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#needless-to-say-it-goes-without-saying-that": {
@@ -538,7 +540,7 @@
   "family#to-carry-out": {
     "due": "2026-06-28T00:40:49.293152+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#crunchy": {
@@ -576,13 +578,13 @@
   "food#the-main-meal": {
     "due": "2026-06-27T10:39:47.630544+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#to-be-high-in-fiber": {
     "due": "2026-06-27T12:27:25.937574+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#adventurous": {
@@ -622,7 +624,7 @@
   "free-time#take-an-interest-in": {
     "due": "2026-06-30T07:18:05.433570+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#to-embark-on": {
@@ -648,7 +650,7 @@
   "friends#mutual-friend": {
     "due": "2026-07-01T03:08:00.507874+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#sound-advice": {
@@ -662,7 +664,7 @@
   "friends#to-be-through-thick-and-thin": {
     "due": "2026-06-24T12:44:33.612420+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
@@ -686,7 +688,7 @@
   "health#antioxidant": {
     "due": "2026-06-29T09:37:10.781076+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#awareness": {
@@ -698,7 +700,7 @@
   "health#burn-a-lot-of-calories": {
     "due": "2026-06-28T09:03:25.003192+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#childhood-diseases": {
@@ -734,7 +736,7 @@
   "ielts-writing#consistently": {
     "due": "2026-06-26T14:54:26.332402+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#cut-down": {
@@ -798,7 +800,7 @@
   "ielts-writing#tended-to-increase": {
     "due": "2026-06-28T05:31:04.610817+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#whereas-in-contrast": {
@@ -836,7 +838,7 @@
   "law#disqualified": {
     "due": "2026-06-26T12:42:50.478328+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#enact": {
@@ -864,7 +866,7 @@
   "letter-a#a-sense-of-accomplishment": {
     "due": "2026-06-24T11:01:54.622555+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#acknowledge": {
@@ -882,7 +884,7 @@
   "letter-a#altruism": {
     "due": "2026-06-30T03:06:56.022098+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#an-inevitable-consequence": {
@@ -910,7 +912,7 @@
   "letter-a#attain": {
     "due": "2026-06-25T07:11:43.042779+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#autism": {
@@ -928,7 +930,7 @@
   "letter-b#be-on-one-s-way": {
     "due": "2026-06-27T08:55:41.055466+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-b#be-there-for": {
@@ -942,13 +944,13 @@
   "letter-b#blend-into": {
     "due": "2026-06-30T09:06:58.357537+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-b#body-language": {
     "due": "2026-06-29T03:08:49.948887+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-b#breakthrough": {
@@ -968,7 +970,7 @@
   "letter-b#to-become-over-reliant-on": {
     "due": "2026-06-26T07:18:11.124567+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-c#catch-everything": {
@@ -1018,7 +1020,7 @@
   "letter-c#to-compensate": {
     "due": "2026-06-24T12:44:33.612420+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-c#to-continue-to-thrive": {
@@ -1040,7 +1042,7 @@
   "letter-d#deplete": {
     "due": "2026-06-25T09:06:37.443322+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-d#desirable": {
@@ -1060,7 +1062,7 @@
   "letter-d#discerning": {
     "due": "2026-06-27T03:06:03.765782+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-d#discourage": {
@@ -1074,7 +1076,7 @@
   "letter-d#dispose-of": {
     "due": "2026-06-27T07:04:54.652236+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-d#disregard": {
@@ -1092,7 +1094,7 @@
   "letter-d#due-to": {
     "due": "2026-06-26T07:18:11.124567+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#elaborate-on": {
@@ -1104,13 +1106,13 @@
   "letter-e#emulate": {
     "due": "2026-06-24T03:07:06.538774+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#enlighten": {
     "due": "2026-06-25T07:11:43.042779+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#extraction": {
@@ -1124,7 +1126,7 @@
   "letter-e#to-empower-women": {
     "due": "2026-06-27T05:18:22.222129+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#to-enjoy-something-to-the-fullest": {
@@ -1144,7 +1146,7 @@
   "letter-f#faculty": {
     "due": "2026-06-24T11:01:54.622555+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fake": {
@@ -1196,7 +1198,7 @@
   "letter-f#from-scratch": {
     "due": "2026-06-25T00:41:27.809527+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fully-intend-to": {
@@ -1236,7 +1238,7 @@
   "letter-g#glossy": {
     "due": "2026-06-29T00:42:18.265949+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-g#go-out-of-one-s-way-to-do-something": {
@@ -1312,7 +1314,7 @@
   "letter-h#huge-number-of": {
     "due": "2026-06-27T10:39:47.630544+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-h#humane": {
@@ -1366,7 +1368,7 @@
   "letter-i#inappropriate": {
     "due": "2026-06-25T00:41:27.809527+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#inevitably": {
@@ -1378,19 +1380,19 @@
   "letter-i#initial": {
     "due": "2026-06-25T14:59:43.906352+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#irrespective-of": {
     "due": "2026-06-28T10:44:41.553467+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#it-s-not-an-indication-of-ts-n-t-n-v": {
     "due": "2026-06-29T03:08:49.948887+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-k#known-reasons": {
@@ -1402,7 +1404,7 @@
   "letter-l#leap": {
     "due": "2026-06-25T12:48:06.837904+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#lose-one-s-patience": {
@@ -1422,19 +1424,19 @@
   "letter-l#loyal": {
     "due": "2026-06-27T00:40:03.575208+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#to-lie-in-the-heart-of-sth": {
     "due": "2026-06-27T07:04:54.652236+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#to-lose-track-of-something": {
     "due": "2026-06-30T05:23:29.751872+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#maintenance": {
@@ -1486,7 +1488,7 @@
   "letter-n#neglected": {
     "due": "2026-06-26T09:06:15.407554+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-n#nerve-racking": {
@@ -1520,7 +1522,7 @@
   "letter-o#obstacle": {
     "due": "2026-06-29T05:35:27.657914+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-o#on-purpose": {
@@ -1538,13 +1540,13 @@
   "letter-o#opt-for": {
     "due": "2026-06-29T11:40:20.521017+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-o#outdated": {
     "due": "2026-07-01T03:08:00.507874+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-o#outweighed": {
@@ -1558,13 +1560,13 @@
   "letter-o#overload": {
     "due": "2026-06-28T12:28:35.771655+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-o#to-be-overprotective": {
     "due": "2026-06-24T14:57:27.546736+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#patronage": {
@@ -1576,7 +1578,7 @@
   "letter-p#persistence": {
     "due": "2026-06-30T00:40:33.288731+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#perspective": {
@@ -1594,7 +1596,7 @@
   "letter-p#politely-decline": {
     "due": "2026-06-29T15:10:06.906704+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#prevalent": {
@@ -1612,13 +1614,13 @@
   "letter-p#provide": {
     "due": "2026-06-29T00:42:18.265949+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#put-off": {
     "due": "2026-06-29T09:37:10.781076+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#to-possess": {
@@ -1630,7 +1632,7 @@
   "letter-p#to-push-forward": {
     "due": "2026-06-26T11:01:12.980445+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#rebellious": {
@@ -1642,7 +1644,7 @@
   "letter-r#recount": {
     "due": "2026-06-28T05:31:04.610817+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#rival": {
@@ -1660,7 +1662,7 @@
   "letter-s#secure-in-the-knowledge": {
     "due": "2026-06-24T14:57:27.546736+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#self-explanatory": {
@@ -1672,7 +1674,7 @@
   "letter-s#sensitivity": {
     "due": "2026-06-25T14:59:43.906352+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#set-to": {
@@ -1684,7 +1686,7 @@
   "letter-s#settle": {
     "due": "2026-06-27T03:06:03.765782+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#sex-discrimination": {
@@ -1732,19 +1734,19 @@
   "letter-s#spread-throughout": {
     "due": "2026-06-25T03:06:50.708808+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#substandard": {
     "due": "2026-06-24T03:07:06.538774+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#suit-someone-down-to-the-ground": {
     "due": "2026-06-27T14:32:28.488906+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#the-shore": {
@@ -1770,13 +1772,13 @@
   "letter-t#thought-provoking": {
     "due": "2026-06-29T07:42:13.657670+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#throw-a-party": {
     "due": "2026-06-30T00:40:33.288731+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#to-keep-abreast-of": {
@@ -1788,19 +1790,19 @@
   "letter-t#to-watch-someone-s-back": {
     "due": "2026-06-26T05:26:30.313714+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#turn-down": {
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#turn-to": {
     "due": "2026-06-26T12:42:50.478328+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#ultimately": {
@@ -1956,7 +1958,7 @@
   "media#breaking-news": {
     "due": "2026-06-27T05:18:22.222129+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#classified-ads": {
@@ -1976,25 +1978,25 @@
   "media#entertaining": {
     "due": "2026-06-28T14:34:46.151539+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#episode": {
     "due": "2026-06-30T11:02:10.770634+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#live-broadcast": {
     "due": "2026-06-26T14:54:26.332402+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#online-scams-internet-fraud": {
     "due": "2026-06-30T07:18:05.433570+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#periodical": {
@@ -2042,7 +2044,7 @@
   "money#budget": {
     "due": "2026-06-29T11:40:20.521017+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "money#earn": {
@@ -2070,13 +2072,13 @@
   "money#try-clothes-on": {
     "due": "2026-06-28T07:21:28.962006+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#concert-venue": {
     "due": "2026-06-25T05:21:34.502747+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#hip-hop": {
@@ -2108,7 +2110,7 @@
   "music#soothing": {
     "due": "2026-06-27T08:55:41.055466+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#to-face-the-music": {
@@ -2122,7 +2124,7 @@
   "personality#aggressive": {
     "due": "2026-06-24T07:11:38.638117+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#charming": {
@@ -2142,7 +2144,7 @@
   "personality#confident": {
     "due": "2026-06-29T15:10:06.906704+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#depressing": {
@@ -2190,7 +2192,7 @@
   "personality#officious": {
     "due": "2026-06-30T05:23:29.751872+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#outstanding": {
@@ -2236,13 +2238,13 @@
   "time#brand-new": {
     "due": "2026-06-25T05:21:34.502747+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#contemporary": {
     "due": "2026-06-29T13:28:11.264490+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#in-this-day-and-age": {
@@ -2262,13 +2264,13 @@
   "time#nowadays": {
     "due": "2026-07-01T07:29:58.272151+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#timely": {
@@ -2294,13 +2296,13 @@
   "towns-and-cities#destination": {
     "due": "2026-06-27T12:27:25.937574+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#dynamic": {
     "due": "2026-06-28T14:34:46.151539+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#furnished": {
@@ -2314,7 +2316,7 @@
   "towns-and-cities#hitchhike": {
     "due": "2026-06-30T11:02:10.770634+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#specialty": {
@@ -2326,7 +2328,7 @@
   "towns-and-cities#sunbathe": {
     "due": "2026-06-26T09:06:15.407554+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#a-riot-of-colour": {
@@ -2360,7 +2362,7 @@
   "travel#half-board": {
     "due": "2026-06-26T05:26:30.313714+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#immense": {
@@ -2398,19 +2400,19 @@
   "travel#rays": {
     "due": "2026-06-27T14:32:28.488906+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#self-catering": {
     "due": "2026-06-25T09:06:37.443322+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#tourist": {
     "due": "2026-07-01T05:33:05.819194+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#crowded": {
@@ -2430,7 +2432,7 @@
   "urbanisation#opulent": {
     "due": "2026-06-30T12:40:56.732879+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#peak-traffic-hours": {
@@ -2462,7 +2464,7 @@
   "urbanisation#the-rush-hour": {
     "due": "2026-06-24T09:06:33.487643+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#associate-with": {
@@ -2474,7 +2476,7 @@
   "work#deadline": {
     "due": "2026-06-29T05:35:27.657914+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#paperwork": {
@@ -2488,13 +2490,13 @@
   "work#play-an-essential-part-in-something": {
     "due": "2026-06-24T07:11:38.638117+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#to-recharge-one-s-energy": {
     "due": "2026-06-28T10:44:41.553467+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#unemployed": {
@@ -2508,7 +2510,7 @@
   "work#well-paid": {
     "due": "2026-06-28T09:03:25.003192+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   }
 }
