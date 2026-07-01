@@ -534,7 +534,7 @@
   "family#performance-enhancing": {
     "due": "2026-07-01T09:08:35.809690+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#proficiency": {
@@ -1212,10 +1212,12 @@
     "reps": 0
   },
   "letter-f#force": {
-    "due": "2026-07-01T11:05:57.840368+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-02T18:52:54.537Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-01T11:40:54.537Z",
+    "reps": 1
   },
   "letter-f#fortunately": {
     "due": "2026-05-29T07:20:27.895452+00:00",
@@ -2028,7 +2030,7 @@
   "media#mass-media": {
     "due": "2026-07-01T09:08:35.809690+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#online-scams-internet-fraud": {
@@ -2264,7 +2266,7 @@
   "technology#technology-gadget": {
     "due": "2026-07-01T11:05:57.840368+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#to-utilize": {
