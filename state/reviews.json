@@ -594,10 +594,12 @@
     "reps": 0
   },
   "food#stew": {
-    "due": "2026-07-01T12:57:19.777225+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-02T20:41:12.343Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-01T13:29:12.343Z",
+    "reps": 1
   },
   "food#the-main-meal": {
     "due": "2026-06-27T10:39:47.630544+00:00",
