@@ -2328,10 +2328,12 @@
     "reps": 1
   },
   "towns-and-cities#hitchhike": {
-    "due": "2026-06-30T11:02:10.770634+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-02T08:21:10.033Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-01T08:21:10.033Z",
+    "reps": 1
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
