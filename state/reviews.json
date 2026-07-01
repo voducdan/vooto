@@ -116,12 +116,12 @@
     "reps": 0
   },
   "books-and-films#to-flick-through": {
-    "due": "2026-06-30T15:07:43.701Z",
-    "ef": 2.5,
-    "interval": 19.5,
+    "due": "2026-09-06T12:36:14.333Z",
+    "ef": 2.65,
+    "interval": 67.1775,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-11T03:07:43.701Z",
-    "reps": 3
+    "last_reviewed": "2026-07-01T08:20:38.333Z",
+    "reps": 4
   },
   "books-and-films#to-grasp": {
     "due": "2026-05-24T00:38:29.987428+00:00",
