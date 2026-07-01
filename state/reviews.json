@@ -957,6 +957,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-b#based-on": {
+    "due": "2026-07-01T14:59:44.076932+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-b#be-on-one-s-way": {
     "due": "2026-06-27T08:55:41.055466+00:00",
     "ef": 2.5,
@@ -2392,6 +2398,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-07-01T08:21:10.033Z",
     "reps": 1
+  },
+  "towns-and-cities#homey": {
+    "due": "2026-07-01T14:59:44.076932+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
