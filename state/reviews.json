@@ -632,10 +632,12 @@
     "reps": 0
   },
   "free-time#take-an-interest-in": {
-    "due": "2026-06-30T07:18:05.433570+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-02T08:22:44.045Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-01T08:22:44.045Z",
+    "reps": 1
   },
   "free-time#to-embark-on": {
     "due": "2026-05-26T07:12:38.234446+00:00",
