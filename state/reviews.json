@@ -1994,10 +1994,12 @@
     "reps": 0
   },
   "media#episode": {
-    "due": "2026-06-30T11:02:10.770634+00:00",
+    "due": "2026-07-02T08:22:25.162Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-01T08:22:25.162Z",
+    "reps": 1
   },
   "media#live-broadcast": {
     "due": "2026-06-26T14:54:26.332402+00:00",
