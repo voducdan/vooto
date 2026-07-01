@@ -2014,10 +2014,12 @@
     "reps": 0
   },
   "media#online-scams-internet-fraud": {
-    "due": "2026-06-30T07:18:05.433570+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-02T15:34:46.835Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-01T08:22:46.835Z",
+    "reps": 1
   },
   "media#periodical": {
     "due": "2026-06-19T07:51:55.812615+00:00",
