@@ -650,10 +650,12 @@
     "reps": 5
   },
   "friends#mutual-friend": {
-    "due": "2026-07-01T03:08:00.507874+00:00",
+    "due": "2026-07-02T08:20:29.003Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-01T08:20:29.003Z",
+    "reps": 1
   },
   "friends#sound-advice": {
     "due": "2026-06-16T07:58:50.912Z",
