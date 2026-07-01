@@ -531,6 +531,12 @@
     "last_reviewed": "2026-06-13T04:17:57.167Z",
     "reps": 2
   },
+  "family#performance-enhancing": {
+    "due": "2026-07-01T09:08:35.809690+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#proficiency": {
     "due": "2026-06-16T10:44:55.783Z",
     "ef": 2.65,
@@ -2011,6 +2017,12 @@
     "due": "2026-06-26T14:54:26.332402+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "media#mass-media": {
+    "due": "2026-07-01T09:08:35.809690+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "media#online-scams-internet-fraud": {
