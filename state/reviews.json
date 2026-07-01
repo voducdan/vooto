@@ -300,10 +300,12 @@
     "reps": 0
   },
   "description#identical-to": {
-    "due": "2026-06-30T12:40:56.732879+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-02T15:32:50.548Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-01T08:20:50.548Z",
+    "reps": 1
   },
   "description#pretty": {
     "due": "2026-06-28T07:21:28.962006+00:00",
