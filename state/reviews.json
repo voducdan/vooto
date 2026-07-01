@@ -2262,10 +2262,12 @@
     "reps": 0
   },
   "time#nowadays": {
-    "due": "2026-07-01T07:29:58.272151+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-02T15:31:07.960Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-01T08:19:07.960Z",
+    "reps": 1
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
