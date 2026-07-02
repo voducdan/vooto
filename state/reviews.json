@@ -684,12 +684,12 @@
     "reps": 5
   },
   "friends#mutual-friend": {
-    "due": "2026-07-02T08:20:29.003Z",
+    "due": "2026-07-08T12:38:57.082Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-07-01T08:20:29.003Z",
-    "reps": 1
+    "last_reviewed": "2026-07-02T12:38:57.082Z",
+    "reps": 2
   },
   "friends#sound-advice": {
     "due": "2026-06-16T07:58:50.912Z",
