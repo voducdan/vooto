@@ -996,12 +996,12 @@
     "reps": 2
   },
   "letter-b#blend-into": {
-    "due": "2026-07-02T08:22:40.209Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-07-03T19:41:48.329Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-01T08:22:40.209Z",
-    "reps": 1
+    "last_reviewed": "2026-07-02T14:53:48.329Z",
+    "reps": 2
   },
   "letter-b#body-language": {
     "due": "2026-06-29T03:08:49.948887+00:00",
