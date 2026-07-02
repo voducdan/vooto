@@ -274,12 +274,12 @@
     "reps": 3
   },
   "description#clingy": {
-    "due": "2026-07-02T08:19:04.565Z",
+    "due": "2026-07-08T12:38:28.875Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-01T08:19:04.565Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-02T12:38:28.875Z",
+    "reps": 2
   },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
