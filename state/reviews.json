@@ -2522,10 +2522,12 @@
     "reps": 0
   },
   "urbanisation#diverse": {
-    "due": "2026-07-02T00:40:28.760694+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-03T07:53:18.678Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-02T00:41:18.678Z",
+    "reps": 1
   },
   "urbanisation#get-stuck": {
     "due": "2026-06-20T06:42:11.874Z",
