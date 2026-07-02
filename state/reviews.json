@@ -564,7 +564,7 @@
   "family#unconditional": {
     "due": "2026-07-02T07:07:37.695842+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#crunchy": {
@@ -722,10 +722,12 @@
     "reps": 0
   },
   "health#a-sports-fan": {
-    "due": "2026-07-02T05:19:16.484438+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-03T12:38:09.961Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-02T12:38:09.961Z",
+    "reps": 1
   },
   "health#antioxidant": {
     "due": "2026-06-29T09:37:10.781076+00:00",
@@ -2146,7 +2148,7 @@
   "money#save-up": {
     "due": "2026-07-02T07:07:37.695842+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "money#savings": {
@@ -2410,7 +2412,7 @@
   "towns-and-cities#clean-and-tidy": {
     "due": "2026-07-02T05:19:16.484438+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#destination": {
