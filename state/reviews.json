@@ -2586,12 +2586,12 @@
     "reps": 2
   },
   "urbanisation#opulent": {
-    "due": "2026-07-02T08:20:56.969Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-07-03T17:28:20.143Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-01T08:20:56.969Z",
-    "reps": 1
+    "last_reviewed": "2026-07-02T12:40:20.143Z",
+    "reps": 2
   },
   "urbanisation#peak-traffic-hours": {
     "due": "2026-06-22T03:09:48.710762+00:00",
