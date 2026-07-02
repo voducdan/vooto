@@ -1822,7 +1822,7 @@
   "letter-t#thoroughness": {
     "due": "2026-07-02T03:05:55.487549+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#thought-provoking": {
@@ -2080,10 +2080,12 @@
     "reps": 0
   },
   "media#to-keep-abreast-of-something": {
-    "due": "2026-07-02T03:05:55.487549+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-03T03:06:49.785Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-02T03:06:49.785Z",
+    "reps": 1
   },
   "money#a-bit-pricey": {
     "due": "2026-06-23T07:14:46.098437+00:00",
