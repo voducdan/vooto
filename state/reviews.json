@@ -2148,10 +2148,12 @@
     "reps": 0
   },
   "money#save-up": {
-    "due": "2026-07-02T07:07:37.695842+00:00",
+    "due": "2026-07-03T12:38:21.819Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-02T12:38:21.819Z",
+    "reps": 1
   },
   "money#savings": {
     "due": "2026-06-16T15:11:08.082Z",
