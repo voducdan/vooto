@@ -2410,10 +2410,12 @@
     "reps": 0
   },
   "towns-and-cities#clean-and-tidy": {
-    "due": "2026-07-02T05:19:16.484438+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-03T19:50:14.716Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-02T12:38:14.716Z",
+    "reps": 1
   },
   "towns-and-cities#destination": {
     "due": "2026-06-27T12:27:25.937574+00:00",
