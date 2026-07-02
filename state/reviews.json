@@ -490,12 +490,12 @@
     "reps": 0
   },
   "family#be-prone-to": {
-    "due": "2026-07-02T08:20:23.778Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-01T08:20:23.778Z",
-    "reps": 1
+    "due": "2026-07-10T07:50:50.566Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-02T12:38:50.566Z",
+    "reps": 2
   },
   "family#carefree": {
     "due": "2026-05-27T14:03:41.266284+00:00",
