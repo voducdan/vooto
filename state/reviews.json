@@ -462,12 +462,12 @@
     "reps": 0
   },
   "environment#to-get-back-to-nature": {
-    "due": "2026-07-02T08:20:44.232Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-01T08:20:44.232Z",
-    "reps": 1
+    "due": "2026-07-10T07:51:00.069Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-02T12:39:00.069Z",
+    "reps": 2
   },
   "environment#to-go-below-zero": {
     "due": "2026-06-17T07:58:21.385Z",
