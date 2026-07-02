@@ -2469,6 +2469,12 @@
     "interval": 0,
     "reps": 0
   },
+  "travel#invigorating": {
+    "due": "2026-07-02T00:40:28.760694+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "travel#jump-at-the-chance": {
     "due": "2026-06-18T11:23:32.714315+00:00",
     "ef": 2.5,
@@ -2511,6 +2517,12 @@
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "urbanisation#diverse": {
+    "due": "2026-07-02T00:40:28.760694+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "urbanisation#get-stuck": {
