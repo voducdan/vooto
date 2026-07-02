@@ -1819,6 +1819,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-t#thoroughness": {
+    "due": "2026-07-02T03:05:55.487549+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-t#thought-provoking": {
     "due": "2026-06-29T07:42:13.657670+00:00",
     "ef": 2.5,
@@ -2071,6 +2077,12 @@
     "due": "2026-06-23T05:21:31.707105+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "media#to-keep-abreast-of-something": {
+    "due": "2026-07-02T03:05:55.487549+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "money#a-bit-pricey": {
