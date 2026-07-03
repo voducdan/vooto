@@ -212,12 +212,12 @@
     "reps": 0
   },
   "business#an-entrepreneur": {
-    "due": "2026-07-02T10:55:14.822Z",
-    "ef": 2.2,
-    "interval": 17.3076,
+    "due": "2026-08-24T21:34:27.385Z",
+    "ef": 2.35,
+    "interval": 52.8747,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-15T03:32:20.256Z",
-    "reps": 6
+    "last_reviewed": "2026-07-03T00:34:51.750Z",
+    "reps": 7
   },
   "business#benefits": {
     "due": "2026-06-22T13:53:30.351368+00:00",
