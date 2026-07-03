@@ -172,12 +172,12 @@
     "reps": 0
   },
   "buildings#international-hotel": {
-    "due": "2026-07-02T15:32:47.457Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-11T00:59:59.804Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-01T08:20:47.457Z",
-    "reps": 1
+    "last_reviewed": "2026-07-03T05:47:59.804Z",
+    "reps": 2
   },
   "buildings#pavilion": {
     "due": "2026-05-26T12:59:04.831690+00:00",
