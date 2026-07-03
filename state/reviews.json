@@ -1608,12 +1608,12 @@
     "reps": 0
   },
   "letter-o#outdated": {
-    "due": "2026-07-02T15:32:32.168Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-11T01:00:02.654Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-01T08:20:32.168Z",
-    "reps": 1
+    "last_reviewed": "2026-07-03T05:48:02.654Z",
+    "reps": 2
   },
   "letter-o#outweighed": {
     "due": "2026-06-16T10:44:37.178Z",
