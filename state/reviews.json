@@ -2556,12 +2556,12 @@
     "reps": 0
   },
   "travel#tourist": {
-    "due": "2026-07-02T15:31:10.811Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-10T22:16:38.516Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-01T08:19:10.811Z",
-    "reps": 1
+    "last_reviewed": "2026-07-03T03:04:38.516Z",
+    "reps": 2
   },
   "urbanisation#crowded": {
     "due": "2026-05-25T00:39:49.976011+00:00",
