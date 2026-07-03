@@ -424,12 +424,12 @@
     "reps": 0
   },
   "environment#fossil-fuels": {
-    "due": "2026-07-02T15:34:28.157Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-11T02:17:37.563Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-01T08:22:28.157Z",
-    "reps": 1
+    "last_reviewed": "2026-07-03T07:05:37.563Z",
+    "reps": 2
   },
   "environment#gloomy": {
     "due": "2026-06-28T12:28:35.771655+00:00",
