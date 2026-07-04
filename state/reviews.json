@@ -562,12 +562,12 @@
     "reps": 0
   },
   "family#unconditional": {
-    "due": "2026-07-03T19:50:18.405Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-12T06:03:10.138Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-02T12:38:18.405Z",
-    "reps": 1
+    "last_reviewed": "2026-07-04T10:51:10.138Z",
+    "reps": 2
   },
   "food#crunchy": {
     "due": "2026-05-25T09:21:08.408281+00:00",
