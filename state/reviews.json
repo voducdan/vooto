@@ -503,6 +503,12 @@
     "interval": 0,
     "reps": 0
   },
+  "family#empathize-with": {
+    "due": "2026-07-04T12:24:53.313100+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#fulfill-one-s-dream": {
     "due": "2026-06-20T05:30:22.314567+00:00",
     "ef": 2.5,
