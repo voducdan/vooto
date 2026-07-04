@@ -2442,12 +2442,12 @@
     "reps": 1
   },
   "towns-and-cities#hitchhike": {
-    "due": "2026-07-03T17:28:36.937Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-07-05T20:17:38.401Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-02T12:40:36.937Z",
-    "reps": 2
+    "last_reviewed": "2026-07-04T09:44:02.401Z",
+    "reps": 3
   },
   "towns-and-cities#homey": {
     "due": "2026-07-04T19:39:23.403Z",
