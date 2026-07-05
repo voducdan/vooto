@@ -2498,12 +2498,12 @@
     "reps": 3
   },
   "towns-and-cities#homey": {
-    "due": "2026-07-04T19:39:23.403Z",
+    "due": "2026-07-07T18:28:09.121Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-03T14:51:23.403Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-05T03:06:33.121Z",
+    "reps": 3
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
