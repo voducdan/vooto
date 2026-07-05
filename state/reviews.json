@@ -1934,10 +1934,12 @@
     "reps": 0
   },
   "letter-t#to-tell-off": {
-    "due": "2026-07-05T12:28:46.756611+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-06T12:44:00.747Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-05T12:44:00.747Z",
+    "reps": 1
   },
   "letter-t#to-watch-someone-s-back": {
     "due": "2026-06-26T05:26:30.313714+00:00",
