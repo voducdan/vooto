@@ -331,6 +331,12 @@
     "last_reviewed": "2026-07-03T07:05:40.861Z",
     "reps": 2
   },
+  "description#impressive": {
+    "due": "2026-07-05T05:19:43.890126+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#pretty": {
     "due": "2026-06-28T07:21:28.962006+00:00",
     "ef": 2.5,
