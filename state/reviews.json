@@ -214,10 +214,12 @@
     "reps": 4
   },
   "buildings#tatty": {
-    "due": "2026-07-05T03:05:27.816647+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-06T03:06:14.619Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-05T03:06:14.619Z",
+    "reps": 1
   },
   "business#adjustment": {
     "due": "2026-06-22T15:39:54.611762+00:00",
