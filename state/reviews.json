@@ -2146,12 +2146,12 @@
     "reps": 0
   },
   "media#to-keep-abreast-of-something": {
-    "due": "2026-07-05T05:21:44.882Z",
+    "due": "2026-07-07T22:28:47.231Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-04T00:33:44.882Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-05T07:07:11.231Z",
+    "reps": 3
   },
   "money#a-bit-pricey": {
     "due": "2026-06-23T07:14:46.098437+00:00",
