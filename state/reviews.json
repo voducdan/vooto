@@ -1301,6 +1301,12 @@
     "last_reviewed": "2026-07-03T09:03:55.778Z",
     "reps": 2
   },
+  "letter-f#foremost": {
+    "due": "2026-07-05T09:01:56.588033+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-f#fortunately": {
     "due": "2026-05-29T07:20:27.895452+00:00",
     "ef": 2.5,
@@ -2640,6 +2646,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-12T11:30:11.874Z",
     "reps": 2
+  },
+  "urbanisation#hometown": {
+    "due": "2026-07-05T09:01:56.588033+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "urbanisation#opulent": {
     "due": "2026-07-05T20:17:46.435Z",
