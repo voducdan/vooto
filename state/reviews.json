@@ -1688,7 +1688,7 @@
   "letter-o#overlook": {
     "due": "2026-07-05T10:43:42.249300+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-o#to-be-overprotective": {
@@ -1728,10 +1728,12 @@
     "reps": 0
   },
   "letter-p#preparation": {
-    "due": "2026-07-05T10:43:42.249300+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-06T19:10:16.565Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-05T11:58:16.565Z",
+    "reps": 1
   },
   "letter-p#prevalent": {
     "due": "2026-05-28T13:13:46.671918+00:00",
