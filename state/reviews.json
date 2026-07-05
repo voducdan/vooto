@@ -1491,6 +1491,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-i#individuality": {
+    "due": "2026-07-05T14:31:56.761194+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-i#inevitably": {
     "due": "2026-06-22T15:39:54.611762+00:00",
     "ef": 2.5,
@@ -2343,6 +2349,12 @@
     "due": "2026-06-29T15:10:06.906704+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "personality#convenient": {
+    "due": "2026-07-05T14:31:56.761194+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "personality#depressing": {
