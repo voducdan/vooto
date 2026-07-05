@@ -1936,7 +1936,7 @@
   "letter-t#to-tell-off": {
     "due": "2026-07-05T12:28:46.756611+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#to-watch-someone-s-back": {
@@ -1972,10 +1972,12 @@
     "reps": 1
   },
   "letter-u#universal": {
-    "due": "2026-07-05T12:28:46.756611+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-06T19:55:28.561Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-05T12:43:28.561Z",
+    "reps": 1
   },
   "letter-u#unnecessary": {
     "due": "2026-05-27T07:26:55.918228+00:00",
