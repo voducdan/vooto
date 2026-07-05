@@ -1685,6 +1685,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-o#overlook": {
+    "due": "2026-07-05T10:43:42.249300+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-o#to-be-overprotective": {
     "due": "2026-06-24T14:57:27.546736+00:00",
     "ef": 2.5,
@@ -1719,6 +1725,12 @@
     "due": "2026-06-29T15:10:06.906704+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-p#preparation": {
+    "due": "2026-07-05T10:43:42.249300+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-p#prevalent": {
