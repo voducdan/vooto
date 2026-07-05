@@ -2650,10 +2650,12 @@
     "reps": 2
   },
   "urbanisation#hometown": {
-    "due": "2026-07-05T09:01:56.588033+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-06T16:35:00.684Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-05T09:23:00.684Z",
+    "reps": 1
   },
   "urbanisation#opulent": {
     "due": "2026-07-05T20:17:46.435Z",
