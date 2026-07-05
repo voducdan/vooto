@@ -2224,10 +2224,12 @@
     "reps": 0
   },
   "music#enlighten": {
-    "due": "2026-07-05T00:34:55.040782+00:00",
+    "due": "2026-07-06T03:06:23.865Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-05T03:06:23.865Z",
+    "reps": 1
   },
   "music#hip-hop": {
     "due": "2026-06-20T03:07:14.027434+00:00",
