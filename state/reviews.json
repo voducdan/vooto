@@ -213,6 +213,12 @@
     "last_reviewed": "2026-06-10T03:10:00.854Z",
     "reps": 4
   },
+  "buildings#tatty": {
+    "due": "2026-07-05T03:05:27.816647+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#adjustment": {
     "due": "2026-06-22T15:39:54.611762+00:00",
     "ef": 2.5,
@@ -697,6 +703,12 @@
     "due": "2026-05-24T14:31:19.614187+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "friends#circle-of-virtual-friends": {
+    "due": "2026-07-05T03:05:27.816647+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "friends#compliment": {
