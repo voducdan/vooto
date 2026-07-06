@@ -1581,6 +1581,12 @@
     "last_reviewed": "2026-06-15T03:31:54.340Z",
     "reps": 1
   },
+  "letter-m#match": {
+    "due": "2026-07-06T11:32:11.827188+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-m#mindless": {
     "due": "2026-06-16T10:43:24.463Z",
     "ef": 2.65,
@@ -2435,6 +2441,12 @@
     "due": "2026-06-21T14:49:50.080466+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "technology#digital-camera": {
+    "due": "2026-07-06T11:32:11.827188+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "technology#geek": {
