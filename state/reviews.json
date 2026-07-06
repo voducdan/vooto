@@ -1912,7 +1912,7 @@
   "letter-t#take-special-note-of": {
     "due": "2026-07-06T09:21:50.117308+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#thanks-to": {
@@ -2286,12 +2286,12 @@
     "reps": 0
   },
   "music#enlighten": {
-    "due": "2026-07-06T03:06:23.865Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-05T03:06:23.865Z",
-    "reps": 1
+    "due": "2026-07-14T04:34:01.001Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-06T09:22:01.001Z",
+    "reps": 2
   },
   "music#hip-hop": {
     "due": "2026-06-20T03:07:14.027434+00:00",
