@@ -536,12 +536,12 @@
     "reps": 0
   },
   "family#empathize-with": {
-    "due": "2026-07-05T15:11:12.767Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-04T15:11:12.767Z",
-    "reps": 1
+    "due": "2026-07-13T19:46:54.432Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-06T00:34:54.432Z",
+    "reps": 2
   },
   "family#fulfill-one-s-dream": {
     "due": "2026-06-20T05:30:22.314567+00:00",
