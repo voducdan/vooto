@@ -1910,10 +1910,12 @@
     "reps": 0
   },
   "letter-t#take-special-note-of": {
-    "due": "2026-07-06T09:21:50.117308+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-07T09:22:07.447Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-06T09:22:07.447Z",
+    "reps": 1
   },
   "letter-t#thanks-to": {
     "due": "2026-06-20T05:30:22.314567+00:00",
