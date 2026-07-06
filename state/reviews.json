@@ -716,12 +716,12 @@
     "reps": 0
   },
   "friends#circle-of-virtual-friends": {
-    "due": "2026-07-06T03:05:55.334Z",
+    "due": "2026-07-12T07:32:46.681Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-05T03:05:55.334Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-06T07:32:46.681Z",
+    "reps": 2
   },
   "friends#compliment": {
     "due": "2026-06-25T22:58:02.702Z",
