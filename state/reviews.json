@@ -1966,12 +1966,12 @@
     "reps": 0
   },
   "letter-t#to-tell-off": {
-    "due": "2026-07-06T12:44:00.747Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-07-07T19:53:21.484Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-05T12:44:00.747Z",
-    "reps": 1
+    "last_reviewed": "2026-07-06T15:05:21.484Z",
+    "reps": 2
   },
   "letter-t#to-watch-someone-s-back": {
     "due": "2026-06-26T05:26:30.313714+00:00",
