@@ -1310,12 +1310,12 @@
     "reps": 2
   },
   "letter-f#foremost": {
-    "due": "2026-07-14T19:49:03.784Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-05T22:31:49.901Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-07T00:37:03.784Z",
-    "reps": 2
+    "last_reviewed": "2026-07-07T00:37:06.701Z",
+    "reps": 3
   },
   "letter-f#fortunately": {
     "due": "2026-05-29T07:20:27.895452+00:00",
