@@ -822,12 +822,12 @@
     "reps": 1
   },
   "health#to-be-detrimental-to-health": {
-    "due": "2026-07-06T15:22:10.902Z",
+    "due": "2026-08-26T12:51:01.884Z",
     "ef": 2.35,
-    "interval": 21.4938,
-    "last_rating": "easy",
-    "last_reviewed": "2026-06-15T03:31:10.211Z",
-    "reps": 5
+    "interval": 50.5104,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-07T00:36:00.732Z",
+    "reps": 6
   },
   "health#vulnerable": {
     "due": "2026-06-23T07:14:46.098437+00:00",
