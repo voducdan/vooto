@@ -1687,6 +1687,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-o#out-of-the-question": {
+    "due": "2026-07-07T09:06:48.041051+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-o#outdated": {
     "due": "2026-07-11T01:00:02.654Z",
     "ef": 2.8,
