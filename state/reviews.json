@@ -1664,10 +1664,12 @@
     "reps": 3
   },
   "letter-n#the-needy": {
-    "due": "2026-07-07T11:01:31.426807+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-08T11:02:01.812Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-07T11:02:01.812Z",
+    "reps": 1
   },
   "letter-o#obstacle": {
     "due": "2026-06-29T05:35:27.657914+00:00",
