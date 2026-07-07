@@ -650,12 +650,12 @@
     "reps": 0
   },
   "food#stew": {
-    "due": "2026-07-07T02:15:51.344Z",
+    "due": "2026-07-11T20:01:36.332Z",
     "ef": 2.35,
-    "interval": 1.872,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-05T05:20:10.544Z",
-    "reps": 3
+    "interval": 4.3992,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-07T10:26:45.452Z",
+    "reps": 4
   },
   "food#the-main-meal": {
     "due": "2026-06-27T10:39:47.630544+00:00",
@@ -1690,7 +1690,7 @@
   "letter-o#out-of-the-question": {
     "due": "2026-07-07T09:06:48.041051+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-o#outdated": {
