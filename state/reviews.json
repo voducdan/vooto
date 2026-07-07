@@ -1352,10 +1352,12 @@
     "reps": 0
   },
   "letter-f#to-fuel": {
-    "due": "2026-07-07T15:00:48.722966+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-08T15:30:53.006Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-07T15:30:53.006Z",
+    "reps": 1
   },
   "letter-g#generally-speaking": {
     "due": "2026-06-21T14:50:29.716860+00:00",
@@ -2740,7 +2742,7 @@
   "travel#wildlife-safari": {
     "due": "2026-07-07T15:00:48.722966+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#crowded": {
