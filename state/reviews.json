@@ -1606,12 +1606,12 @@
     "reps": 1
   },
   "letter-m#match": {
-    "due": "2026-07-07T18:47:31.688Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-15T22:15:32.175Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-06T11:35:31.688Z",
-    "reps": 1
+    "last_reviewed": "2026-07-08T03:03:32.175Z",
+    "reps": 2
   },
   "letter-m#mindless": {
     "due": "2026-06-16T10:43:24.463Z",
