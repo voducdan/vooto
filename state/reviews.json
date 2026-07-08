@@ -1672,12 +1672,12 @@
     "reps": 3
   },
   "letter-n#novelist": {
-    "due": "2026-07-08T09:35:10.549Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-11-06T00:02:49.407Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-08T11:40:27.349Z",
-    "reps": 3
+    "last_reviewed": "2026-07-08T10:51:42.111Z",
+    "reps": 4
   },
   "letter-n#the-needy": {
     "due": "2026-07-08T11:02:01.812Z",
