@@ -1712,12 +1712,12 @@
     "reps": 0
   },
   "letter-o#out-of-the-question": {
-    "due": "2026-07-08T10:27:04.674Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-07-09T15:39:47.025Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-07T10:27:04.674Z",
-    "reps": 1
+    "last_reviewed": "2026-07-08T10:51:47.025Z",
+    "reps": 2
   },
   "letter-o#outdated": {
     "due": "2026-07-11T01:00:02.654Z",
