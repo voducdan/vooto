@@ -2527,6 +2527,12 @@
     "interval": 0,
     "reps": 0
   },
+  "time#childhood": {
+    "due": "2026-07-08T12:34:13.029875+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "time#contemporary": {
     "due": "2026-06-29T13:28:11.264490+00:00",
     "ef": 2.5,
