@@ -748,12 +748,12 @@
     "reps": 5
   },
   "friends#mutual-friend": {
-    "due": "2026-07-08T12:38:57.082Z",
-    "ef": 2.5,
-    "interval": 6,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-02T12:38:57.082Z",
-    "reps": 2
+    "due": "2026-07-29T06:53:22.809Z",
+    "ef": 2.65,
+    "interval": 20.67,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-08T14:48:34.809Z",
+    "reps": 3
   },
   "friends#sound-advice": {
     "due": "2026-06-16T07:58:50.912Z",
@@ -2530,7 +2530,7 @@
   "time#childhood": {
     "due": "2026-07-08T12:34:13.029875+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#contemporary": {
