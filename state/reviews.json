@@ -1998,12 +1998,12 @@
     "reps": 0
   },
   "letter-t#to-tell-off": {
-    "due": "2026-07-07T19:53:21.484Z",
+    "due": "2026-07-10T20:25:54.094Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-06T15:05:21.484Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-08T05:04:18.094Z",
+    "reps": 3
   },
   "letter-t#to-watch-someone-s-back": {
     "due": "2026-06-26T05:26:30.313714+00:00",
