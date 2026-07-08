@@ -1012,12 +1012,12 @@
     "reps": 0
   },
   "letter-a#aspiration": {
-    "due": "2026-07-08T04:34:58.317Z",
-    "ef": 2.65,
-    "interval": 26.871,
+    "due": "2026-10-14T04:20:36.963Z",
+    "ef": 2.8,
+    "interval": 97.8104,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-11T07:40:43.917Z",
-    "reps": 3
+    "last_reviewed": "2026-07-08T08:53:34.947Z",
+    "reps": 4
   },
   "letter-a#attain": {
     "due": "2026-06-25T07:11:43.042779+00:00",
