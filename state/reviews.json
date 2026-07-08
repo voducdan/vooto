@@ -298,12 +298,12 @@
     "reps": 2
   },
   "description#awful": {
-    "due": "2026-07-08T05:07:32.638Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-11-05T22:04:39.001Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-08T07:12:49.438Z",
-    "reps": 3
+    "last_reviewed": "2026-07-08T08:53:31.705Z",
+    "reps": 4
   },
   "description#clingy": {
     "due": "2026-07-08T12:38:28.875Z",
