@@ -837,6 +837,12 @@
     "last_reviewed": "2026-07-07T00:37:00.617Z",
     "reps": 7
   },
+  "health#to-build-muscle": {
+    "due": "2026-07-09T09:16:33.457541+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "health#vulnerable": {
     "due": "2026-06-23T07:14:46.098437+00:00",
     "ef": 2.5,
@@ -1178,6 +1184,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-06-05T13:09:12.317Z",
     "reps": 4
+  },
+  "letter-d#disappointment": {
+    "due": "2026-07-09T09:16:33.457541+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-d#discerning": {
     "due": "2026-06-27T03:06:03.765782+00:00",
