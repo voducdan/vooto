@@ -938,12 +938,12 @@
     "reps": 0
   },
   "law#copyright": {
-    "due": "2026-07-09T07:03:38.619Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-11-06T20:23:45.610Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-09T09:08:55.419Z",
-    "reps": 3
+    "last_reviewed": "2026-07-09T07:12:38.314Z",
+    "reps": 4
   },
   "law#disqualified": {
     "due": "2026-06-26T12:42:50.478328+00:00",
