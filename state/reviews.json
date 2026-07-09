@@ -1575,6 +1575,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-l#limbs": {
+    "due": "2026-07-09T11:01:33.282048+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-l#lose-one-s-patience": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
@@ -2313,6 +2319,12 @@
     "due": "2026-06-18T15:05:02.556072+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "money#reasonable": {
+    "due": "2026-07-09T11:01:33.282048+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "money#save-up": {
