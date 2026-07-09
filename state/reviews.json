@@ -381,6 +381,12 @@
     "interval": 0,
     "reps": 0
   },
+  "education#controversy": {
+    "due": "2026-07-09T15:02:15.381701+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#diploma": {
     "due": "2026-05-28T07:20:25.723808+00:00",
     "ef": 2.5,
@@ -689,6 +695,12 @@
     "due": "2026-06-20T10:48:33.021248+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "free-time#every-so-often-from-time-to-time": {
+    "due": "2026-07-09T15:02:15.381701+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "free-time#fast-paced": {
