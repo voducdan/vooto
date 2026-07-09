@@ -840,7 +840,7 @@
   "health#to-build-muscle": {
     "due": "2026-07-09T09:16:33.457541+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#vulnerable": {
@@ -1186,10 +1186,12 @@
     "reps": 4
   },
   "letter-d#disappointment": {
-    "due": "2026-07-09T09:16:33.457541+00:00",
+    "due": "2026-07-10T09:43:39.624Z",
     "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-09T09:43:39.624Z",
+    "reps": 1
   },
   "letter-d#discerning": {
     "due": "2026-06-27T03:06:03.765782+00:00",
