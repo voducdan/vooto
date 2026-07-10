@@ -1651,6 +1651,12 @@
     "last_reviewed": "2026-06-15T03:31:54.340Z",
     "reps": 1
   },
+  "letter-m#mass-produced": {
+    "due": "2026-07-10T03:04:45.585848+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-m#match": {
     "due": "2026-07-15T22:15:32.175Z",
     "ef": 2.8,
@@ -2690,6 +2696,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-07-08T00:29:49.705Z",
     "reps": 4
+  },
+  "towns-and-cities#leisure-centre": {
+    "due": "2026-07-10T03:04:45.585848+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
