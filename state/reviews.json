@@ -1612,10 +1612,12 @@
     "reps": 0
   },
   "letter-l#let-one-s-hair-down": {
-    "due": "2026-07-10T12:45:28.885074+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-11T14:54:59.438Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-10T14:54:59.438Z",
+    "reps": 1
   },
   "letter-l#limbs": {
     "due": "2026-07-09T11:01:33.282048+00:00",
