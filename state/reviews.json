@@ -322,7 +322,7 @@
   "description#disgusting": {
     "due": "2026-07-10T14:54:37.881515+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#grave": {
@@ -1614,7 +1614,7 @@
   "letter-l#let-one-s-hair-down": {
     "due": "2026-07-10T12:45:28.885074+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#limbs": {
@@ -2276,7 +2276,7 @@
   "media#domestic-news": {
     "due": "2026-07-10T14:54:37.881515+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#entertaining": {
@@ -2632,10 +2632,12 @@
     "reps": 0
   },
   "time#currently": {
-    "due": "2026-07-10T12:45:28.885074+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-11T22:06:55.793Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-10T14:54:55.793Z",
+    "reps": 1
   },
   "time#in-this-day-and-age": {
     "due": "2026-05-25T06:09:52.809655+00:00",
