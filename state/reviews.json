@@ -2700,10 +2700,12 @@
     "reps": 4
   },
   "towns-and-cities#leisure-centre": {
-    "due": "2026-07-10T03:04:45.585848+00:00",
+    "due": "2026-07-11T03:19:50.245Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-10T03:19:50.245Z",
+    "reps": 1
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
