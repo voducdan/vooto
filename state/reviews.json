@@ -934,7 +934,7 @@
   "ielts-writing#stable": {
     "due": "2026-07-10T05:19:32.956646+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#steadily": {
@@ -1398,12 +1398,12 @@
     "reps": 0
   },
   "letter-f#to-fuel": {
-    "due": "2026-07-10T06:01:13.009Z",
-    "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-09T01:13:13.009Z",
-    "reps": 2
+    "due": "2026-07-13T23:14:56.676Z",
+    "ef": 2.35,
+    "interval": 3.666,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-10T07:15:54.276Z",
+    "reps": 3
   },
   "letter-g#generally-speaking": {
     "due": "2026-06-21T14:50:29.716860+00:00",
@@ -2568,7 +2568,7 @@
   "technology#online": {
     "due": "2026-07-10T05:19:32.956646+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#technology-gadget": {
