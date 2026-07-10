@@ -468,7 +468,7 @@
   "education#to-recall": {
     "due": "2026-07-10T00:35:10.439610+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#to-take-a-year-out": {
@@ -1756,12 +1756,12 @@
     "reps": 0
   },
   "letter-o#out-of-the-question": {
-    "due": "2026-07-09T15:39:47.025Z",
+    "due": "2026-07-12T16:00:09.225Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-08T10:51:47.025Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-10T00:38:33.225Z",
+    "reps": 3
   },
   "letter-o#outdated": {
     "due": "2026-07-11T01:00:02.654Z",
