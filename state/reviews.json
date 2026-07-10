@@ -466,10 +466,12 @@
     "reps": 5
   },
   "education#to-recall": {
-    "due": "2026-07-10T00:35:10.439610+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-11T07:50:37.589Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-10T00:38:37.589Z",
+    "reps": 1
   },
   "education#to-take-a-year-out": {
     "due": "2026-06-23T09:07:38.657457+00:00",
