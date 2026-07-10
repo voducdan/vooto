@@ -1605,6 +1605,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-l#let-one-s-hair-down": {
+    "due": "2026-07-10T12:45:28.885074+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-l#limbs": {
     "due": "2026-07-09T11:01:33.282048+00:00",
     "ef": 2.5,
@@ -2611,6 +2617,12 @@
     "due": "2026-06-29T13:28:11.264490+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "time#currently": {
+    "due": "2026-07-10T12:45:28.885074+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "time#in-this-day-and-age": {
