@@ -2582,12 +2582,12 @@
     "reps": 2
   },
   "technology#to-utilize": {
-    "due": "2026-07-10T06:15:19.121Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-11-07T20:27:12.369Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-10T08:20:35.921Z",
-    "reps": 3
+    "last_reviewed": "2026-07-10T07:16:05.073Z",
+    "reps": 4
   },
   "time#antique": {
     "due": "2026-06-19T15:03:31.197989+00:00",
