@@ -931,6 +931,12 @@
     "interval": 0,
     "reps": 0
   },
+  "ielts-writing#stable": {
+    "due": "2026-07-10T05:19:32.956646+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#steadily": {
     "due": "2026-06-19T22:44:15.186Z",
     "ef": 2.8,
@@ -2557,6 +2563,12 @@
     "due": "2026-05-28T07:20:25.723808+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "technology#online": {
+    "due": "2026-07-10T05:19:32.956646+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "technology#technology-gadget": {
