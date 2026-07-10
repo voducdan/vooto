@@ -320,12 +320,12 @@
     "reps": 0
   },
   "description#disgusting": {
-    "due": "2026-07-11T22:07:02.565Z",
-    "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-10T14:55:02.565Z",
-    "reps": 1
+    "due": "2026-07-12T04:21:30.082Z",
+    "ef": 2.5,
+    "interval": 1.56,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-10T14:55:06.082Z",
+    "reps": 2
   },
   "description#grave": {
     "due": "2026-05-29T11:06:16.310369+00:00",
