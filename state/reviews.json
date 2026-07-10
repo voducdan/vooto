@@ -319,6 +319,12 @@
     "interval": 0,
     "reps": 0
   },
+  "description#disgusting": {
+    "due": "2026-07-10T14:54:37.881515+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#grave": {
     "due": "2026-05-29T11:06:16.310369+00:00",
     "ef": 2.5,
@@ -2266,6 +2272,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:32:02.900Z",
     "reps": 2
+  },
+  "media#domestic-news": {
+    "due": "2026-07-10T14:54:37.881515+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "media#entertaining": {
     "due": "2026-06-28T14:34:46.151539+00:00",
