@@ -2852,12 +2852,12 @@
     "reps": 0
   },
   "travel#tourist": {
-    "due": "2026-07-10T22:16:38.516Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-10T04:56:48.562Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-03T03:04:38.516Z",
-    "reps": 2
+    "last_reviewed": "2026-07-11T07:02:05.362Z",
+    "reps": 3
   },
   "travel#wildlife-safari": {
     "due": "2026-07-16T22:22:23.777Z",
