@@ -2314,12 +2314,12 @@
     "reps": 3
   },
   "media#online-scams-internet-fraud": {
-    "due": "2026-07-11T04:15:58.713Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-10T12:22:19.462Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-03T09:03:58.713Z",
-    "reps": 2
+    "last_reviewed": "2026-07-11T14:27:36.262Z",
+    "reps": 3
   },
   "media#periodical": {
     "due": "2026-06-19T07:51:55.812615+00:00",
