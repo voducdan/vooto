@@ -1674,12 +1674,12 @@
     "reps": 1
   },
   "letter-m#mass-produced": {
-    "due": "2026-07-11T03:19:41.824Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-10T03:19:41.824Z",
-    "reps": 1
+    "due": "2026-07-19T07:38:42.033Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-11T12:26:42.033Z",
+    "reps": 2
   },
   "letter-m#match": {
     "due": "2026-07-15T22:15:32.175Z",
