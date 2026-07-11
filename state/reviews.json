@@ -870,12 +870,12 @@
     "reps": 7
   },
   "health#to-build-muscle": {
-    "due": "2026-07-10T16:55:42.880Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-18T22:18:13.566Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-09T09:43:42.880Z",
-    "reps": 1
+    "last_reviewed": "2026-07-11T03:06:13.566Z",
+    "reps": 2
   },
   "health#vulnerable": {
     "due": "2026-06-23T07:14:46.098437+00:00",
