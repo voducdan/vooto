@@ -390,12 +390,12 @@
     "reps": 0
   },
   "education#controversy": {
-    "due": "2026-07-10T15:04:55.793Z",
+    "due": "2026-07-17T00:28:18.362Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-09T15:04:55.793Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-11T00:28:18.362Z",
+    "reps": 2
   },
   "education#diploma": {
     "due": "2026-05-28T07:20:25.723808+00:00",
