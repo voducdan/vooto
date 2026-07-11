@@ -2074,12 +2074,12 @@
     "reps": 0
   },
   "letter-t#to-tell-off": {
-    "due": "2026-07-10T20:25:54.094Z",
+    "due": "2026-07-17T00:26:33.589Z",
     "ef": 2.2,
-    "interval": 2.64,
+    "interval": 5.808,
     "last_rating": "good",
-    "last_reviewed": "2026-07-08T05:04:18.094Z",
-    "reps": 3
+    "last_reviewed": "2026-07-11T05:03:02.389Z",
+    "reps": 4
   },
   "letter-t#to-watch-someone-s-back": {
     "due": "2026-06-26T05:26:30.313714+00:00",
