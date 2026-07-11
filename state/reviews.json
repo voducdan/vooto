@@ -716,12 +716,12 @@
     "reps": 0
   },
   "free-time#every-so-often-from-time-to-time": {
-    "due": "2026-07-10T15:05:18.999Z",
+    "due": "2026-07-17T00:28:14.866Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-09T15:05:18.999Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-11T00:28:14.866Z",
+    "reps": 2
   },
   "free-time#fast-paced": {
     "due": "2026-07-15T01:27:30.817Z",
