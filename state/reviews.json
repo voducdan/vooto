@@ -2306,12 +2306,12 @@
     "reps": 0
   },
   "media#mass-media": {
-    "due": "2026-07-11T06:37:24.537Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-10T12:22:16.566Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-03T11:25:24.537Z",
-    "reps": 2
+    "last_reviewed": "2026-07-11T14:27:33.366Z",
+    "reps": 3
   },
   "media#online-scams-internet-fraud": {
     "due": "2026-07-11T04:15:58.713Z",
