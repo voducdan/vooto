@@ -444,12 +444,12 @@
     "reps": 2
   },
   "education#single-sex-schools": {
-    "due": "2026-07-10T17:16:57.073Z",
-    "ef": 2.8,
-    "interval": 28.392,
+    "due": "2026-10-28T00:18:15.706Z",
+    "ef": 2.95,
+    "interval": 108.8833,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-12T07:52:28.273Z",
-    "reps": 3
+    "last_reviewed": "2026-07-11T03:06:16.858Z",
+    "reps": 4
   },
   "education#strict": {
     "due": "2026-06-24T09:06:33.487643+00:00",
