@@ -1796,12 +1796,12 @@
     "reps": 3
   },
   "letter-o#outdated": {
-    "due": "2026-07-11T01:00:02.654Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-10T06:34:02.681Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-03T05:48:02.654Z",
-    "reps": 2
+    "last_reviewed": "2026-07-11T08:39:19.481Z",
+    "reps": 3
   },
   "letter-o#outweighed": {
     "due": "2026-06-16T10:44:37.178Z",
