@@ -604,12 +604,12 @@
     "reps": 2
   },
   "family#performance-enhancing": {
-    "due": "2026-07-11T08:10:42.798Z",
+    "due": "2026-08-02T23:13:56.471Z",
     "ef": 2.8,
-    "interval": 7.8,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-03T12:58:42.798Z",
-    "reps": 2
+    "interval": 21.84,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-12T03:04:20.471Z",
+    "reps": 3
   },
   "family#proficiency": {
     "due": "2026-06-16T10:44:55.783Z",
