@@ -2688,12 +2688,12 @@
     "reps": 2
   },
   "towns-and-cities#air-quality": {
-    "due": "2026-07-11T08:10:45.835Z",
+    "due": "2026-08-02T23:13:59.535Z",
     "ef": 2.8,
-    "interval": 7.8,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-03T12:58:45.835Z",
-    "reps": 2
+    "interval": 21.84,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-12T03:04:23.535Z",
+    "reps": 3
   },
   "towns-and-cities#campsite": {
     "due": "2026-06-12T09:25:05.343215+00:00",
