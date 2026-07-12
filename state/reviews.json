@@ -2048,12 +2048,12 @@
     "reps": 0
   },
   "letter-t#thoroughness": {
-    "due": "2026-07-11T22:25:34.067Z",
-    "ef": 2.5,
-    "interval": 7.8,
+    "due": "2026-08-08T09:13:44.461Z",
+    "ef": 2.65,
+    "interval": 26.871,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-04T03:13:34.067Z",
-    "reps": 2
+    "last_reviewed": "2026-07-12T12:19:30.061Z",
+    "reps": 3
   },
   "letter-t#thought-provoking": {
     "due": "2026-06-29T07:42:13.657670+00:00",
