@@ -2590,12 +2590,12 @@
     "reps": 0
   },
   "technology#online": {
-    "due": "2026-07-11T14:28:01.783Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-20T00:16:52.356Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-10T07:16:01.783Z",
-    "reps": 1
+    "last_reviewed": "2026-07-12T05:04:52.356Z",
+    "reps": 2
   },
   "technology#technology-gadget": {
     "due": "2026-08-10T22:25:17.581Z",
