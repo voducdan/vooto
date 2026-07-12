@@ -2278,12 +2278,12 @@
     "reps": 2
   },
   "media#domestic-news": {
-    "due": "2026-07-11T22:07:09.848Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-20T07:31:36.183Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-10T14:55:09.848Z",
-    "reps": 1
+    "last_reviewed": "2026-07-12T12:19:36.183Z",
+    "reps": 2
   },
   "media#entertaining": {
     "due": "2026-06-28T14:34:46.151539+00:00",
