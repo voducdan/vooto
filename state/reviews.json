@@ -7,6 +7,12 @@
     "last_reviewed": "2026-06-15T03:32:11.808Z",
     "reps": 3
   },
+  "books-and-films#blockbuster": {
+    "due": "2026-07-13T11:02:26.387934+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#broaden-one-s-knowledge": {
     "due": "2026-05-24T05:20:21.328526+00:00",
     "ef": 2.5,
@@ -1417,6 +1423,12 @@
     "due": "2026-06-21T14:50:29.716860+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-g#genuine-leather": {
+    "due": "2026-07-13T11:02:26.387934+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-g#get-through": {
