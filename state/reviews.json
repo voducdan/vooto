@@ -1385,6 +1385,12 @@
     "last_reviewed": "2026-07-07T00:37:06.701Z",
     "reps": 3
   },
+  "letter-f#forget-all-about": {
+    "due": "2026-07-13T12:49:08.335709+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-f#fortunately": {
     "due": "2026-05-29T07:20:27.895452+00:00",
     "ef": 2.5,
