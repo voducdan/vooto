@@ -2440,12 +2440,12 @@
     "reps": 0
   },
   "music#live-music": {
-    "due": "2026-07-13T02:12:43.916Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-11-10T20:28:36.844Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-13T04:18:00.716Z",
-    "reps": 3
+    "last_reviewed": "2026-07-13T07:17:29.548Z",
+    "reps": 4
   },
   "music#opera": {
     "due": "2026-06-21T11:04:07.053789+00:00",
