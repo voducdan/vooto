@@ -2712,10 +2712,12 @@
     "reps": 0
   },
   "time#time-consuming": {
-    "due": "2026-07-13T14:59:01.433055+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-14T22:11:57.682Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-13T14:59:57.682Z",
+    "reps": 1
   },
   "time#timely": {
     "due": "2026-06-18T11:23:32.714315+00:00",
