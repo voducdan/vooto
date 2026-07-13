@@ -2076,7 +2076,7 @@
   "letter-t#to-take-something-into-account": {
     "due": "2026-07-13T09:05:26.202302+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#to-tell-off": {
@@ -2786,12 +2786,12 @@
     "reps": 5
   },
   "travel#endlessly": {
-    "due": "2026-07-13T02:12:47.152Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-11-10T22:18:52.656Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-13T04:18:03.952Z",
-    "reps": 3
+    "last_reviewed": "2026-07-13T09:07:45.360Z",
+    "reps": 4
   },
   "travel#full-moon": {
     "due": "2026-06-21T11:04:07.053789+00:00",
