@@ -1040,10 +1040,12 @@
     "reps": 0
   },
   "letter-a#adopt": {
-    "due": "2026-07-13T14:59:01.433055+00:00",
+    "due": "2026-07-14T14:59:53.209Z",
     "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-13T14:59:53.209Z",
+    "reps": 1
   },
   "letter-a#alarming": {
     "due": "2026-05-24T06:04:18.382657+00:00",
@@ -2712,7 +2714,7 @@
   "time#time-consuming": {
     "due": "2026-07-13T14:59:01.433055+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#timely": {
