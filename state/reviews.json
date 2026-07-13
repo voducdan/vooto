@@ -2074,10 +2074,12 @@
     "reps": 0
   },
   "letter-t#to-take-something-into-account": {
-    "due": "2026-07-13T09:05:26.202302+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-14T09:07:57.449Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-13T09:07:57.449Z",
+    "reps": 1
   },
   "letter-t#to-tell-off": {
     "due": "2026-07-17T00:26:33.589Z",
