@@ -8,10 +8,12 @@
     "reps": 3
   },
   "books-and-films#blockbuster": {
-    "due": "2026-07-13T11:02:26.387934+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-14T13:03:49.128Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-13T13:03:49.128Z",
+    "reps": 1
   },
   "books-and-films#broaden-one-s-knowledge": {
     "due": "2026-05-24T05:20:21.328526+00:00",
@@ -1388,7 +1390,7 @@
   "letter-f#forget-all-about": {
     "due": "2026-07-13T12:49:08.335709+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fortunately": {
@@ -1434,7 +1436,7 @@
   "letter-g#genuine-leather": {
     "due": "2026-07-13T11:02:26.387934+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-g#get-through": {
