@@ -2784,12 +2784,12 @@
     "reps": 5
   },
   "towns-and-cities#homey": {
-    "due": "2026-07-13T19:53:20.905Z",
+    "due": "2026-07-26T22:32:35.133Z",
     "ef": 2.2,
-    "interval": 5.808,
+    "interval": 12.7776,
     "last_rating": "good",
-    "last_reviewed": "2026-07-08T00:29:49.705Z",
-    "reps": 4
+    "last_reviewed": "2026-07-14T03:52:50.493Z",
+    "reps": 5
   },
   "towns-and-cities#leisure-centre": {
     "due": "2026-07-19T07:38:46.903Z",
