@@ -356,12 +356,12 @@
     "reps": 3
   },
   "description#impressive": {
-    "due": "2026-07-14T08:41:35.677Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-13T06:50:28.998Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-06T13:29:35.677Z",
-    "reps": 2
+    "last_reviewed": "2026-07-14T08:55:45.798Z",
+    "reps": 3
   },
   "description#pretty": {
     "due": "2026-06-28T07:21:28.962006+00:00",
