@@ -78,7 +78,7 @@
   "books-and-films#inspirational": {
     "due": "2026-07-14T12:27:34.706302+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#keep-one-s-eyes-glued-to-screens": {
@@ -1028,7 +1028,7 @@
   "law#solid-evidence": {
     "due": "2026-07-14T10:32:46.517425+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#to-enforce-strict-regulations-on": {
@@ -2018,7 +2018,7 @@
   "letter-s#sited": {
     "due": "2026-07-14T12:27:34.706302+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#social-isolation": {
@@ -2122,12 +2122,12 @@
     "reps": 0
   },
   "letter-t#to-take-something-into-account": {
-    "due": "2026-07-14T09:07:57.449Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-13T09:07:57.449Z",
-    "reps": 1
+    "due": "2026-07-22T07:45:29.017Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-14T12:33:29.017Z",
+    "reps": 2
   },
   "letter-t#to-tell-off": {
     "due": "2026-07-17T00:26:33.589Z",
