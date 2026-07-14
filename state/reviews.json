@@ -2018,10 +2018,12 @@
     "reps": 3
   },
   "letter-s#sited": {
-    "due": "2026-07-14T12:27:34.706302+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-15T12:34:00.974Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-14T12:34:00.974Z",
+    "reps": 1
   },
   "letter-s#social-isolation": {
     "due": "2026-06-21T12:39:52.561669+00:00",
