@@ -94,12 +94,12 @@
     "reps": 0
   },
   "books-and-films#poetic": {
-    "due": "2026-07-13T19:46:51.583Z",
-    "ef": 2.5,
-    "interval": 7.8,
+    "due": "2026-08-09T21:21:11.800Z",
+    "ef": 2.65,
+    "interval": 26.871,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-06T00:34:51.583Z",
-    "reps": 2
+    "last_reviewed": "2026-07-14T00:26:57.400Z",
+    "reps": 3
   },
   "books-and-films#sci-fi-science-fiction": {
     "due": "2026-05-23T05:09:37.204445+00:00",
