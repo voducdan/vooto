@@ -1848,12 +1848,12 @@
     "reps": 0
   },
   "letter-o#overlook": {
-    "due": "2026-07-14T08:41:32.367Z",
+    "due": "2026-08-04T01:00:24.945Z",
     "ef": 2.65,
-    "interval": 7.8,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-06T13:29:32.367Z",
-    "reps": 2
+    "interval": 20.67,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-14T08:55:36.945Z",
+    "reps": 3
   },
   "letter-o#to-be-overprotective": {
     "due": "2026-06-24T14:57:27.546736+00:00",
