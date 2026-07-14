@@ -75,6 +75,12 @@
     "interval": 0,
     "reps": 0
   },
+  "books-and-films#inspirational": {
+    "due": "2026-07-14T12:27:34.706302+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#keep-one-s-eyes-glued-to-screens": {
     "due": "2026-05-23T14:32:24.337577+00:00",
     "ef": 2.5,
@@ -2008,6 +2014,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:32:53.081Z",
     "reps": 3
+  },
+  "letter-s#sited": {
+    "due": "2026-07-14T12:27:34.706302+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-s#social-isolation": {
     "due": "2026-06-21T12:39:52.561669+00:00",
