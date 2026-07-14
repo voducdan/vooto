@@ -1412,12 +1412,12 @@
     "reps": 3
   },
   "letter-f#forget-all-about": {
-    "due": "2026-07-14T13:04:06.185Z",
+    "due": "2026-07-20T14:36:32.206Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-13T13:04:06.185Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-14T14:36:32.206Z",
+    "reps": 2
   },
   "letter-f#fortunately": {
     "due": "2026-05-29T07:20:27.895452+00:00",
