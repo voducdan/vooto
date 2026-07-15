@@ -2244,12 +2244,12 @@
     "reps": 0
   },
   "letter-v#vital": {
-    "due": "2026-07-15T01:27:00.470Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-11-12T21:58:20.236Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-06-15T03:32:17.270Z",
-    "reps": 3
+    "last_reviewed": "2026-07-15T08:47:12.940Z",
+    "reps": 4
   },
   "letter-v#vitally-important": {
     "due": "2026-06-27T15:09:28.162Z",
