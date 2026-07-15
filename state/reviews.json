@@ -1908,12 +1908,12 @@
     "reps": 0
   },
   "letter-p#preparation": {
-    "due": "2026-07-15T02:23:43.079Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-14T10:29:58.328Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-07T07:11:43.079Z",
-    "reps": 2
+    "last_reviewed": "2026-07-15T12:35:15.128Z",
+    "reps": 3
   },
   "letter-p#prevalent": {
     "due": "2026-05-28T13:13:46.671918+00:00",
