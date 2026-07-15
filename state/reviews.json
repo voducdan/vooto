@@ -2736,12 +2736,12 @@
     "reps": 0
   },
   "time#time-consuming": {
-    "due": "2026-07-14T22:11:57.682Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-22T22:28:51.051Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-13T14:59:57.682Z",
-    "reps": 1
+    "last_reviewed": "2026-07-15T03:16:51.051Z",
+    "reps": 2
   },
   "time#timely": {
     "due": "2026-06-18T11:23:32.714315+00:00",
