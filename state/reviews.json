@@ -1056,12 +1056,12 @@
     "reps": 0
   },
   "letter-a#adopt": {
-    "due": "2026-07-14T14:59:53.209Z",
+    "due": "2026-07-21T00:31:02.221Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-07-13T14:59:53.209Z",
-    "reps": 1
+    "last_reviewed": "2026-07-15T00:31:02.221Z",
+    "reps": 2
   },
   "letter-a#alarming": {
     "due": "2026-05-24T06:04:18.382657+00:00",
