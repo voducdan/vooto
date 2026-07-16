@@ -1028,12 +1028,12 @@
     "reps": 0
   },
   "law#solid-evidence": {
-    "due": "2026-07-15T12:33:49.833Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-14T12:33:49.833Z",
-    "reps": 1
+    "due": "2026-07-23T22:15:00.524Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-16T03:03:00.524Z",
+    "reps": 2
   },
   "law#to-enforce-strict-regulations-on": {
     "due": "2026-08-25T02:57:18.492Z",
