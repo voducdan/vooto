@@ -112,6 +112,102 @@ async function commitOnce(
   }
 }
 
+// Read a text file at a ref, returning null if it doesn't exist (404).
+async function readTextMaybe(ctx: GhCtx, path: string, ref: string): Promise<string | null> {
+  const url = `${GH}/repos/${ctx.repo}/contents/${encodeURI(path)}?ref=${ref}`;
+  const r = await fetch(url, { headers: ghHeaders(ctx) });
+  if (r.status === 404) return null;
+  if (!r.ok) throw new Error(`GitHub GET ${url} → ${r.status}: ${await r.text()}`);
+  const data = (await r.json()) as ContentObj;
+  return atob(data.content.replace(/\n/g, ""));
+}
+
+// Read a single repo file at branch HEAD, or null if it doesn't exist.
+export async function readRepoFile(
+  token: string,
+  repo: string,
+  branch: string,
+  path: string,
+): Promise<string | null> {
+  const ctx = { token, repo, branch };
+  const ref = await ghJson<RefObj>(ctx, `${GH}/repos/${repo}/git/refs/heads/${branch}`);
+  return readTextMaybe(ctx, path, ref.object.sha);
+}
+
+async function commitFilesOnce(
+  ctx: GhCtx,
+  baseCommitSha: string,
+  files: Record<string, string>,
+  message: string,
+): Promise<void> {
+  const baseCommit = await ghJson<CommitObj>(ctx, `${GH}/repos/${ctx.repo}/git/commits/${baseCommitSha}`);
+  const tree = await ghJson<TreeObj>(ctx, `${GH}/repos/${ctx.repo}/git/trees`, {
+    method: "POST",
+    body: JSON.stringify({
+      base_tree: baseCommit.tree.sha,
+      tree: Object.entries(files).map(([path, content]) => ({
+        path,
+        mode: "100644",
+        type: "blob",
+        content,
+      })),
+    }),
+  });
+  const commit = await ghJson<CreateCommitResp>(ctx, `${GH}/repos/${ctx.repo}/git/commits`, {
+    method: "POST",
+    body: JSON.stringify({ message, tree: tree.sha, parents: [baseCommitSha] }),
+  });
+  const r = await fetch(`${GH}/repos/${ctx.repo}/git/refs/heads/${ctx.branch}`, {
+    method: "PATCH",
+    headers: ghHeaders(ctx),
+    body: JSON.stringify({ sha: commit.sha, force: false }),
+  });
+  if (!r.ok) throw new Error(`ref update ${r.status}: ${await r.text()}`);
+}
+
+// Read the given paths (missing → null), pass them to `mutate`, and commit the
+// returned files atomically. `mutate` returns null to abort with no commit.
+// Retries on non-fast-forward like commitMutation.
+export type FilesMutator = (
+  files: Record<string, string | null>,
+) => Record<string, string> | null;
+
+export async function commitFiles(
+  token: string,
+  repo: string,
+  branch: string,
+  paths: string[],
+  message: string,
+  mutate: FilesMutator,
+  attempts = 4,
+): Promise<boolean> {
+  const ctx = { token, repo, branch };
+  let lastErr: unknown;
+  for (let i = 0; i < attempts; i++) {
+    try {
+      const ref = await ghJson<RefObj>(ctx, `${GH}/repos/${repo}/git/refs/heads/${branch}`);
+      const baseCommitSha = ref.object.sha;
+      const current: Record<string, string | null> = {};
+      await Promise.all(
+        paths.map(async (p) => { current[p] = await readTextMaybe(ctx, p, baseCommitSha); }),
+      );
+      const next = mutate(current);
+      if (next === null) return false;
+      await commitFilesOnce(ctx, baseCommitSha, next, message);
+      return true;
+    } catch (e) {
+      lastErr = e;
+      const msg = String(e);
+      if (msg.includes("422") || msg.includes("409")) {
+        await new Promise((r) => setTimeout(r, 150 * (i + 1)));
+        continue;
+      }
+      throw e;
+    }
+  }
+  throw lastErr ?? new Error("commitFiles: out of retries");
+}
+
 export type Mutator = (s: RepoState) => { reviews: Record<string, unknown>; pending: Record<string, string> };
 
 // Apply `mutate` to current state and commit. Retries up to `attempts` times if

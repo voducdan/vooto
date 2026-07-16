@@ -6,6 +6,7 @@ compatibility_date = "2025-01-01"
 #   TG_BOT_TOKEN      - Telegram bot token
 #   WEBHOOK_SECRET    - shared with setWebhook secret_token; used to verify requests
 #   GITHUB_TOKEN      - fine-grained PAT with contents:read+write on the wiki repo
+#   TG_CHAT_ID        - optional; if set, only /newword from this chat is honored
 #
 # Plain vars below are committed and visible in the dashboard.
 [vars]
