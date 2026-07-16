@@ -1922,10 +1922,12 @@
     "reps": 0
   },
   "letter-p#popularize": {
-    "due": "2026-07-16T10:38:57.341735+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-17T10:39:39.260Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-16T10:39:39.260Z",
+    "reps": 1
   },
   "letter-p#preparation": {
     "due": "2026-08-14T10:29:58.328Z",
