@@ -1016,7 +1016,7 @@
   "law#drug-trafficking": {
     "due": "2026-07-16T08:46:54.271581+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#enact": {
@@ -1116,10 +1116,12 @@
     "reps": 0
   },
   "letter-a#avid-v-d": {
-    "due": "2026-07-16T10:38:57.341735+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-17T10:39:29.872Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-16T10:39:29.872Z",
+    "reps": 1
   },
   "letter-b#barrier": {
     "due": "2026-05-29T11:06:16.310369+00:00",
@@ -1922,7 +1924,7 @@
   "letter-p#popularize": {
     "due": "2026-07-16T10:38:57.341735+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#preparation": {
@@ -2646,7 +2648,7 @@
   "personality#quiet": {
     "due": "2026-07-16T08:46:54.271581+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#computer-buff": {
