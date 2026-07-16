@@ -2800,12 +2800,12 @@
     "reps": 1
   },
   "towns-and-cities#hitchhike": {
-    "due": "2026-07-15T08:26:59.701Z",
-    "ef": 2.05,
-    "interval": 6.0516,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-09T07:12:41.461Z",
-    "reps": 5
+    "due": "2026-08-02T07:50:59.259Z",
+    "ef": 2.2,
+    "interval": 17.3076,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-16T00:28:04.693Z",
+    "reps": 6
   },
   "towns-and-cities#homey": {
     "due": "2026-07-26T22:32:35.133Z",
