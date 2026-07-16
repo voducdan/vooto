@@ -2638,12 +2638,12 @@
     "reps": 0
   },
   "technology#digital-camera": {
-    "due": "2026-07-15T22:15:35.188Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-15T05:13:13.758Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-08T03:03:35.188Z",
-    "reps": 2
+    "last_reviewed": "2026-07-16T07:18:30.558Z",
+    "reps": 3
   },
   "technology#geek": {
     "due": "2026-05-28T07:20:25.723808+00:00",
