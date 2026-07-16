@@ -60,6 +60,7 @@ Then create a fine-grained GitHub PAT scoped to the wiki repo only, with
 npx wrangler secret put TG_BOT_TOKEN     # same token as the Action
 npx wrangler secret put WEBHOOK_SECRET   # any random string
 npx wrangler secret put GITHUB_TOKEN     # the fine-grained PAT
+npx wrangler secret put TG_CHAT_ID       # optional; restricts /newword to your chat
 ```
 
 Edit `worker/wrangler.toml` so `GITHUB_REPO = "<you>/<repo>"`.
@@ -72,10 +73,13 @@ curl "https://api.telegram.org/bot<TG_BOT_TOKEN>/setWebhook" \
   -d '{
     "url": "https://vocab-webhook.<you>.workers.dev",
     "secret_token": "<WEBHOOK_SECRET>",
-    "allowed_updates": ["callback_query"],
+    "allowed_updates": ["callback_query", "message"],
     "drop_pending_updates": true
   }'
 ```
+
+> `message` is required for the `/newword` command below. If you set the webhook
+> before this feature existed, re-run `setWebhook` to add it.
 
 Verify with `getWebhookInfo` — the `url` should be your worker.
 
@@ -90,6 +94,29 @@ Verify with `getWebhookInfo` — the `url` should be your worker.
   2. Worker reads `state/{reviews,pending}.json` from GitHub.
   3. Applies SM-2, edits the message with the rating footer.
   4. Commits the updated state files via the GitHub git tree API.
+
+## Adding words — `/newword`
+
+Send the bot `/newword <word>` (e.g. `/newword meticulous`) to enrich the wiki:
+
+1. Worker looks the word up — **Oxford Learner's Dictionaries** first, falling
+   back to the free `dictionaryapi.dev` JSON if Oxford is unreachable or has no
+   usable entry.
+2. It replies with a preview card (definition, IPA, examples) and **Add /
+   Cancel** buttons. Nothing is written yet.
+3. On **Add**, it commits the entry to `wiki/letter-<x>.md` (by first letter,
+   creating the file if needed), appends to `wiki/log.md`, and — only for a
+   brand-new letter file — adds a line to `wiki/index.md`.
+
+The generated entry uses the exact format `bot/parser.py` expects, so the next
+cron run can schedule it like any other card. A word already present in its
+letter file is rejected before lookup. If `TG_CHAT_ID` is set as a worker
+secret, only messages from that chat are honored.
+
+> **Oxford note:** Oxford uses bot protection. It works from a browser but may
+> return 403 to Cloudflare Workers' datacenter IPs — in that case every lookup
+> silently falls back to `dictionaryapi.dev`. Check the worker logs
+> (`npx wrangler tail`) to see which source served a lookup.
 
 ## Tuning
 
@@ -106,10 +133,12 @@ bot/
   telegram.py  Telegram send wrapper
   run.py       cron entry point (sends only)
 worker/
-  src/index.ts handler + dispatch
+  src/index.ts handler + dispatch (ratings + /newword)
   src/sr.ts    SM-2 (TS port — keep in sync with bot/sr.py)
-  src/telegram.ts  answer + edit
-  src/github.ts    read + atomic commit
+  src/telegram.ts   send + answer + edit
+  src/github.ts     read + atomic commit (state + wiki files)
+  src/dictionary.ts word lookup (Oxford + dictionaryapi.dev fallback)
+  src/wiki.ts       WordEntry → wiki markdown + preview + commit plan
   wrangler.toml
 state/
   reviews.json   per-card SR state (ef, interval, due, reps)

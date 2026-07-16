@@ -26,6 +26,12 @@ export interface CallbackQuery {
 export interface Update {
   update_id: number;
   callback_query?: CallbackQuery;
+  message?: TgMessage;
+}
+
+export interface InlineButton {
+  text: string;
+  callback_data: string;
 }
 
 const API = "https://api.telegram.org";
@@ -79,6 +85,43 @@ export async function editMessageAppendFooter(
     message_id: messageId,
     text: newText,
     entities,
+    disable_web_page_preview: true,
+  });
+}
+
+// Send an HTML message, optionally with an inline keyboard. Returns message_id.
+export async function sendMessage(
+  token: string,
+  chatId: number,
+  text: string,
+  buttons?: InlineButton[][],
+): Promise<number> {
+  const body: Record<string, unknown> = {
+    chat_id: chatId,
+    text,
+    parse_mode: "HTML",
+    disable_web_page_preview: true,
+  };
+  if (buttons) body.reply_markup = { inline_keyboard: buttons };
+  const res = (await call(token, "sendMessage", body)) as { message_id: number };
+  return res.message_id;
+}
+
+// Append a plain-text footer to a message, preserving its formatting entities and
+// dropping the inline keyboard (editMessageText without reply_markup removes it).
+export async function editMessageWithFooter(
+  token: string,
+  chatId: number,
+  messageId: number,
+  originalText: string,
+  originalEntities: MessageEntity[] | undefined,
+  footer: string,
+): Promise<void> {
+  await call(token, "editMessageText", {
+    chat_id: chatId,
+    message_id: messageId,
+    text: originalText + footer,
+    entities: originalEntities ?? [],
     disable_web_page_preview: true,
   });
 }
