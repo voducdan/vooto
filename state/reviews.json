@@ -76,12 +76,12 @@
     "reps": 0
   },
   "books-and-films#inspirational": {
-    "due": "2026-07-15T12:34:05.240Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-14T12:34:05.240Z",
-    "reps": 1
+    "due": "2026-07-24T01:13:01.829Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-16T06:01:01.829Z",
+    "reps": 2
   },
   "books-and-films#keep-one-s-eyes-glued-to-screens": {
     "due": "2026-05-23T14:32:24.337577+00:00",
