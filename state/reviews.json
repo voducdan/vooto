@@ -1728,12 +1728,12 @@
     "reps": 2
   },
   "letter-m#match": {
-    "due": "2026-07-15T22:15:32.175Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-15T05:13:17.169Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-08T03:03:32.175Z",
-    "reps": 2
+    "last_reviewed": "2026-07-16T07:18:33.969Z",
+    "reps": 3
   },
   "letter-m#mindless": {
     "due": "2026-06-16T10:43:24.463Z",
