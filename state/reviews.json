@@ -726,10 +726,12 @@
     "reps": 0
   },
   "food#to-spoil-your-appetite": {
-    "due": "2026-07-16T14:40:17.937822+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-17T14:41:12.352Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-16T14:41:12.352Z",
+    "reps": 1
   },
   "free-time#adventurous": {
     "due": "2026-05-24T06:21:46.137897+00:00",
