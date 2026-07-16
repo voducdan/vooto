@@ -1115,6 +1115,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-a#avid-v-d": {
+    "due": "2026-07-16T10:38:57.341735+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-b#barrier": {
     "due": "2026-05-29T11:06:16.310369+00:00",
     "ef": 2.5,
@@ -1911,6 +1917,12 @@
     "due": "2026-06-29T15:10:06.906704+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-p#popularize": {
+    "due": "2026-07-16T10:38:57.341735+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-p#preparation": {
