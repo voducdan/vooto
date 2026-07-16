@@ -1848,12 +1848,12 @@
     "reps": 0
   },
   "letter-o#out-of-the-question": {
-    "due": "2026-07-16T11:19:32.981Z",
+    "due": "2026-07-23T00:25:05.979Z",
     "ef": 2.05,
-    "interval": 3.168,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-13T07:17:37.781Z",
-    "reps": 4
+    "interval": 6.4944,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-16T12:33:09.819Z",
+    "reps": 5
   },
   "letter-o#outdated": {
     "due": "2026-08-10T06:34:02.681Z",
@@ -2044,7 +2044,7 @@
   "letter-s#sink-in": {
     "due": "2026-07-16T12:32:41.350553+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#sited": {
