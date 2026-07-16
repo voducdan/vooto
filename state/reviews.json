@@ -2042,10 +2042,12 @@
     "reps": 4
   },
   "letter-s#sink-in": {
-    "due": "2026-07-16T12:32:41.350553+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-17T12:33:22.657Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-16T12:33:22.657Z",
+    "reps": 1
   },
   "letter-s#sited": {
     "due": "2026-07-17T07:51:10.485Z",
