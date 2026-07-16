@@ -1013,6 +1013,12 @@
     "interval": 0,
     "reps": 0
   },
+  "law#drug-trafficking": {
+    "due": "2026-07-16T08:46:54.271581+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#enact": {
     "due": "2026-06-20T16:57:10.293Z",
     "ef": 2.35,
@@ -2624,6 +2630,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-13T04:17:51.866Z",
     "reps": 2
+  },
+  "personality#quiet": {
+    "due": "2026-07-16T08:46:54.271581+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "technology#computer-buff": {
     "due": "2026-05-29T07:20:27.895452+00:00",
