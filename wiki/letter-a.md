@@ -2,7 +2,7 @@
 
 **Summary**: Alphabetical vocabulary entries starting with 'A', from the 'Other Vocabularies' section (pages 252-258).
 
-**Sources**: [[source-rachel-mitchell-2018]] â *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
+**Sources**: [[source-rachel-mitchell-2018]] Ã¢ÂÂ *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
 
 **Last updated**: 2026-05-23
 
@@ -21,34 +21,34 @@
 
 ## Entries
 
-### Air *[Verb]* â /eÉ/
+### Air *[Verb]* Ã¢ÂÂ /eÃÂ/
 
 **Definition**: to air means to broadcast a program on TV or radio.
 
 - My favorite TV show airs every weekend on a popular local channel at 6:00 p.m.
 - The Gadget Show airs on six channel each week.
 
-### At a crossroads *[Expression]* *(collocation)* â /ËÃ¦t/ /ËeÉª/ /ËkÉ¹ÉsËÉ¹oÊdz/
+### At a crossroads *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂ¦t/ /ÃÂeÃÂª/ /ÃÂkÃÂ¹ÃÂsÃÂÃÂ¹oÃÂdz/
 
 **Definition**: at an important point in someone's life when he/she has to make a very important decision.
 
 - She was at a crossroads in her career.
 - I was at a crossroads with two choices - whether to join the army or to continue studying at university.
 
-### Aquatic animals *[Noun]* *(collocation)* â /ÉËkwÃ¦tÉªk/ /ËÃ¦nÉmÉÉ«z/
+### Aquatic animals *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂkwÃÂ¦tÃÂªk/ /ÃÂÃÂ¦nÃÂmÃÂÃÂ«z/
 
 **Definition**: animals that live in water.
 
 - Aquatic animals are negatively affected by overfishing, destructive fishing, and climate change.
 
-### Assign *[Verb]* â /ÉËsaÉªn/
+### Assign *[Verb]* Ã¢ÂÂ /ÃÂÃÂsaÃÂªn/
 
 **Definition**: to give a particular task to somebody to do.
 
 - He does almost all the homework assigned every day.
 - Assigned homework helps keep students organized.
 
-### Alleyway *[Noun]* â /ËÃ¦É«iËweÉª/
+### Alleyway *[Noun]* Ã¢ÂÂ /ÃÂÃÂ¦ÃÂ«iÃÂweÃÂª/
 
 **Definition**: a narrow street or passageway.
 
@@ -59,7 +59,7 @@
 - I assume it's not as easy as it sounds.
 - Pursuing our passions and dreams is never as easy as it sounds.
 
-### Acknowledge *[Verb]* â /ÉkËnÉlidÊ¤/
+### Acknowledge *[Verb]* Ã¢ÂÂ /ÃÂkÃÂnÃÂlidÃÂ¤/
 
 **Definition**: accept, understand and admit.
 
@@ -67,112 +67,112 @@
 - He acknowledged his mistake.
 - I acknowledge it to be true.
 
-### As for *[Expression]* *(collocation)* â /ËÃ¦z/ /fÉ:/
+### As for *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂ¦z/ /fÃÂ:/
 
 **Definition**: with regard to.
 
 - He prefers hiking and surfing. As for me, I would rather just stay at home and relax.
 - As for me, they are identical.
 
-### A bit *[Expression]* *(collocation)* â /ËeÉª/ /ËbÉªt/
+### A bit *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂeÃÂª/ /ÃÂbÃÂªt/
 
 **Definition**: a little, a small amount.
 
 - His house is a bit of a mess.
 - It was a bit cold last night.
 
-### Advisable *[Adjective]* â /ÉdËvaÉªzÉbÉÉ«/
+### Advisable *[Adjective]* Ã¢ÂÂ /ÃÂdÃÂvaÃÂªzÃÂbÃÂÃÂ«/
 
 **Definition**: to be suggested or recommended.
 
 - Many doctors say that it is advisable to avoid coffee during pregnancy.
 - It is not advisable to drink too much.
 
-### Abundant *[Adjective]* â /ÉËbÉndÉnt/
+### Abundant *[Adjective]* Ã¢ÂÂ /ÃÂÃÂbÃÂndÃÂnt/
 
 **Definition**: existing in large quantities; more than enough.
 
 - The lake is abundant in fish.
 - Our country is abundant with natural resources.
 
-### Abandon *[Verb]* â /ÉËbÃ¦ndÉn/
+### Abandon *[Verb]* Ã¢ÂÂ /ÃÂÃÂbÃÂ¦ndÃÂn/
 
 **Definition**: to leave something, or someone, usually forever; especially someone you are responsible for.
 
 - The house has looked abandoned since his family moved away 3 years ago.
 - The child was found abandoned but unharmed.
 
-### At heart *[Expression]* *(collocation)* â /ËÃ¦t/ /hÉ:t/
+### At heart *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂ¦t/ /hÃÂ:t/
 
 **Definition**: in someone's real nature.
 
 - He's 80 years old, but he's still young at heart.
 - I still feel like a teenager at heart.
 
-### Alert *[Noun]* â /ÉËÉ«Ét/
+### Alert *[Noun]* Ã¢ÂÂ /ÃÂÃÂÃÂ«ÃÂt/
 
 **Definition**: a warning to people to be prepared to deal with something dangerous that might happen soon.
 
 - The tsunami alert was cancelled.
 - Be alert when you cross a busy street!
 
-### Awestruck *[Adjective]* â /ËÉËstÉ¹Ék/
+### Awestruck *[Adjective]* Ã¢ÂÂ /ÃÂÃÂÃÂstÃÂ¹ÃÂk/
 
 **Definition**: feeling very surprised or impressed by something.
 
 - He was awestruck when the announcer said his name during the awards presentation.
 - When Sarah's husband bought her a brand new house, she was awestruck.
 
-### Appetite *[Noun]* â /ËÃ¦pÉËtaÉªt/
+### Appetite *[Noun]* Ã¢ÂÂ /ÃÂÃÂ¦pÃÂÃÂtaÃÂªt/
 
 **Definition**: a natural desire for food.
 
 - He suffered from a headache and a loss of appetite.
 - My brother does a lot of sports, so he has quite an appetite.
 
-### An inevitable consequence *[Noun]* *(collocation)* â /ËÃ¦n/ /inËevitÉbl/ /kÉnsikwÉns/
+### An inevitable consequence *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂ¦n/ /inÃÂevitÃÂbl/ /kÃÂnsikwÃÂns/
 
 **Definition**: certain to happen and unable to be avoided or prevented.
 
 - It was an inevitable consequence of the decision.
 - Flooding, cyclones, and storms will be an inevitable consequence.
 
-### Appropriate *[Adjective]* â /ÉËpÉ¹oÊpÉ¹iËeÉªt/
+### Appropriate *[Adjective]* Ã¢ÂÂ /ÃÂÃÂpÃÂ¹oÃÂpÃÂ¹iÃÂeÃÂªt/
 
 **Definition**: suitable or proper for a particular purpose or situation.
 
 - His speech on retirement was appropriate for his middle-aged audience.
 - For me, wearing jeans to the office is appropriate.
 
-### A concrete jungle *[Noun]* *(collocation)* â /ËeÉª/ /kÉnkri:t/ /ËdÊÉÅÉ¡ÉÉ«/
+### A concrete jungle *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂeÃÂª/ /kÃÂnkri:t/ /ÃÂdÃÂÃÂÃÂÃÂ¡ÃÂÃÂ«/
 
 **Definition**: a way to describe a city that has many modern buildings and few green spaces, so it is unpleasant to live in.
 
 - We survived in a concrete jungle.
 - This house was surrounded by fields; now it is in the middle of a concrete jungle.
 
-### A social butterfly *[Noun]* *(collocation)* â /ËeÉª/ /souÊl/ /ËbÉtÉËfÉ«aÉª/
+### A social butterfly *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂeÃÂª/ /souÃÂl/ /ÃÂbÃÂtÃÂÃÂfÃÂ«aÃÂª/
 
 **Definition**: refers to an extrovert person who is social or friendly with everyone.
 
 - He is a true social butterfly. He has friends on all of the sports teams.
 - Jane is definitely a social butterfly. She's got friends everywhere.
 
-### A high-flyer *[Noun]* *(collocation)* â /ËeÉª/ /hai/ /ËfÉ«aÉªÉ/
+### A high-flyer *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂeÃÂª/ /hai/ /ÃÂfÃÂ«aÃÂªÃÂ/
 
 **Definition**: someone who has the strong desire to be very successful.
 
 - He's a self-made millionaire at the young age of 22! He's quite a high-flyer!
 - Her dad used to be a corporate high-flyer but after a stroke, he can't.
 
-### Adulation *[Noun]* â /ËÃ¦dÊÉËÉ«eÉªÊÉn/
+### Adulation *[Noun]* Ã¢ÂÂ /ÃÂÃÂ¦dÃÂÃÂÃÂÃÂ«eÃÂªÃÂÃÂn/
 
 **Definition**: excessive admiration or praise.
 
 - The rock star enjoyed the adulation of his fans.
 - Her adulation to him was strong, stronger than she had planned for.
 
-### Avid *[Adjective]* â /ËÃ¦vÉd/
+### Avid *[Adjective]* Ã¢ÂÂ /ÃÂÃÂ¦vÃÂd/
 
 **Definition**: very enthusiastic about something (often a hobby).
 
@@ -180,35 +180,35 @@
 - She is an avid admirer of horror movies.
 - My father took an avid interest in politics.
 
-### A sense of accomplishment *[Expression]* *(collocation)* â /ËeÉª/ /sens/ /Év/ /ÉËkÉmpÉ«ÉªÊmÉnt/
+### A sense of accomplishment *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂeÃÂª/ /sens/ /ÃÂv/ /ÃÂÃÂkÃÂmpÃÂ«ÃÂªÃÂmÃÂnt/
 
 **Definition**: a feeling of success in something or when you achieve something great.
 
 - Having a baby gives them a sense of accomplishment.
 - Hiking up a mountain is hard work, but it provides a sense of accomplishment.
 
-### Attain *[Verb]* â /ÉËteÉªn/
+### Attain *[Verb]* Ã¢ÂÂ /ÃÂÃÂteÃÂªn/
 
 **Definition**: to succeed in achieving something that desires a lot of effort.
 
 - He attained his goal.
 - After working hard for many years, she finally attained success as an author.
 
-### Aquatic life *[Noun]* *(collocation)* â /ÉËkwÃ¦tÉªk/ /laif/
+### Aquatic life *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂkwÃÂ¦tÃÂªk/ /laif/
 
 **Definition**: the creatures and plants that live in the water for most or all of their lifetime.
 
 - The chemicals which the factory put into the river killed all the aquatic life.
 - When you throw trash in the ocean, you endanger many species of aquatic life.
 
-### Altruism *[Noun]* â /ËÃ¦É«tÉ¹uËÉªzÉm/
+### Altruism *[Noun]* Ã¢ÂÂ /ÃÂÃÂ¦ÃÂ«tÃÂ¹uÃÂÃÂªzÃÂm/
 
 **Definition**: the fact of willingness to do things that bring advantages and happiness to others more than your own.
 
 - He was actuated almost entirely by altruism.
 - Social workers must have altruism.
 
-### An integral part of *[Expression]* *(collocation)* â /ËÃ¦n/ /ËÉªnÉÉ¡É¹ÉÉ«/ /pa:t/ /Év/
+### An integral part of *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂ¦n/ /ÃÂÃÂªnÃÂÃÂ¡ÃÂ¹ÃÂÃÂ«/ /pa:t/ /ÃÂv/
 
 **Definition**: play an essential part in something.
 
@@ -216,7 +216,7 @@
 - It goes without saying that grammar plays an integral part in learning English.
 - Having time to play with friends is an integral part of a happy childhood.
 
-### Adopt *[Verb]* â /ÉËdÉpt/
+### Adopt *[Verb]* Ã¢ÂÂ /ÃÂÃÂdÃÂpt/
 
 **Definition**: to take up or start to use or follow a suggestion or a policy.
 
@@ -225,14 +225,14 @@
 - Her parents decided to adopt a child from Russia.
 - He was adopted as an infant.
 
-### Adoption *[Noun]* â /ÉËdÉpÊÉn/
+### Adoption *[Noun]* Ã¢ÂÂ /ÃÂÃÂdÃÂpÃÂÃÂn/
 
 **Definition**: the act of starting to use something new.
 
 - The widespread adoption of Western styles of clothes is a result of our modern way of life.
 - The adoption of a new policy on banning smoking in public places was supported by doctors.
 
-### Availability *[Noun]* â /ÉËveÉªÉ«ÉËbÉªÉ«Éti/
+### Availability *[Noun]* Ã¢ÂÂ /ÃÂÃÂveÃÂªÃÂ«ÃÂÃÂbÃÂªÃÂ«ÃÂti/
 
 **Definition**: the fact that something is suitable or ready for use.
 
@@ -240,42 +240,42 @@
 - Because they lived in a small town with limited resources, there was little availability of exotic fruits or vegetables.
 - More and more people are travelling by air owing to the availability of cheap flights.
 
-### Aspiration *[Noun]* â /ËÃ¦spÉËeÉªÊÉn/
+### Aspiration *[Noun]* Ã¢ÂÂ /ÃÂÃÂ¦spÃÂÃÂeÃÂªÃÂÃÂn/
 
 **Definition**: a strong desire to do or achieve something.
 
 - Peter has a strong aspiration to become rich.
 - From an early age, he has a strong aspiration to understand how a human mind works.
 
-### Autism *[Noun]* â /ËÉËtÉªzÉm/
+### Autism *[Noun]* Ã¢ÂÂ /ÃÂÃÂÃÂtÃÂªzÃÂm/
 
 **Definition**: a mental problem in which a person finds it very difficult to communicate or form relationships with other people.
 
 - Her son has autism. He is 10 and has very limited reading abilities.
 - Their child has autism and does not play with other children or speak to anyone.
 
-### Alarming *[Adjective]* â /ÉËlÉ:miÅ/
+### Alarming *[Adjective]* Ã¢ÂÂ /ÃÂÃÂlÃÂ:miÃÂ/
 
 **Definition**: causing people to feel danger, worried or frightened.
 
 - The population of India is increasing at an alarming rate.
 - There is an alarming rise in the water level of the river.
 
-### (To) address *[Verb]* *(collocation)* â /Ëtu/ /ÉËdres/
+### (To) address *[Verb]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /ÃÂÃÂdres/
 
 **Definition**: to deal with a problem.
 
 - The government should address the environmental issues as soon as possible.
 - You should address the problem, and try to offer a solution to rectify the situation.
 
-### To act one's age *[Expression]* *(collocation)* â /Ëtu/ /Ã¦kt/ /ËwÉnz/ /eidÊ¤/
+### To act one's age *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /ÃÂ¦kt/ /ÃÂwÃÂnz/ /eidÃÂ¤/
 
 **Definition**: to behave in a mature manner.
 
 - He doesn't look or act his age, she has no gray hairs, not even crows feet.
 - She looks and acts her age which is ten.
 
-### Attainment *[Noun]* â /ÉËteÉªnmÉnt/
+### Attainment *[Noun]* Ã¢ÂÂ /ÃÂÃÂteÃÂªnmÃÂnt/
 
 **Definition**: the act of achieving or getting something.
 
@@ -291,9 +291,16 @@
 - [[source-rachel-mitchell-2018]]
 - [[collocations]]
 
-### Alleviate *[Verb]* — /əˈliːvieɪt/
+### Alleviate *[Verb]* â /ÉËliËvieÉªt/
 
 **Definition**: to make something less severe
 
 - to alleviate suffering
 - A number of measures were taken to alleviate the problem.
+
+### Auxiliary *[Adjective]* — /ɔːɡˈzɪliəri/
+
+**Definition**: giving help or support to the main group of workers
+
+- auxiliary nurses/workers/services
+- an auxiliary pump
