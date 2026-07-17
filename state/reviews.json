@@ -2012,7 +2012,7 @@
   "letter-r#removable": {
     "due": "2026-07-17T08:43:44.273558+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#rival": {
@@ -2734,10 +2734,12 @@
     "reps": 3
   },
   "technology#to-boot-up": {
-    "due": "2026-07-17T08:43:44.273558+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-18T08:45:56.765Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-17T08:45:56.765Z",
+    "reps": 1
   },
   "technology#to-utilize": {
     "due": "2026-11-07T20:27:12.369Z",
