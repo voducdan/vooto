@@ -406,12 +406,12 @@
     "reps": 0
   },
   "education#controversy": {
-    "due": "2026-07-17T00:28:18.362Z",
+    "due": "2026-07-31T08:40:24.949Z",
     "ef": 2.35,
-    "interval": 6,
+    "interval": 14.1,
     "last_rating": "good",
-    "last_reviewed": "2026-07-11T00:28:18.362Z",
-    "reps": 2
+    "last_reviewed": "2026-07-17T06:16:24.949Z",
+    "reps": 3
   },
   "education#diploma": {
     "due": "2026-05-28T07:20:25.723808+00:00",
@@ -2924,7 +2924,7 @@
   "travel#holiday-brochure": {
     "due": "2026-07-17T05:02:59.895077+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#immense": {
