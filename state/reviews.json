@@ -915,6 +915,12 @@
     "interval": 0,
     "reps": 0
   },
+  "ielts-writing#come-a-close-second": {
+    "due": "2026-07-17T06:47:24.777527+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#consistently": {
     "due": "2026-06-26T14:54:26.332402+00:00",
     "ef": 2.5,
