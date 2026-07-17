@@ -2259,6 +2259,14 @@
     "last_reviewed": "2026-06-15T03:31:51.638Z",
     "reps": 4
   },
+  "letter-u#unthinkable": {
+    "due": "2026-07-18T10:33:08.692Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-17T10:33:08.692Z",
+    "reps": 1
+  },
   "letter-u#update-up-to-date": {
     "due": "2026-05-27T11:13:01.029340+00:00",
     "ef": 2.5,
