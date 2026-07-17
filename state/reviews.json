@@ -2698,10 +2698,12 @@
     "reps": 0
   },
   "personality#lose-one-s-patience": {
-    "due": "2026-07-17T14:32:41.865522+00:00",
+    "due": "2026-07-18T14:33:23.976Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-17T14:33:23.976Z",
+    "reps": 1
   },
   "personality#officious": {
     "due": "2026-06-30T05:23:29.751872+00:00",
