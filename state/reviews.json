@@ -154,12 +154,12 @@
     "reps": 0
   },
   "books-and-films#to-know-like-a-book": {
-    "due": "2026-07-16T20:25:09.214Z",
-    "ef": 2.65,
-    "interval": 7.8,
+    "due": "2026-08-14T09:54:01.399Z",
+    "ef": 2.8,
+    "interval": 28.392,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-09T01:13:09.214Z",
-    "reps": 2
+    "last_reviewed": "2026-07-17T00:29:32.599Z",
+    "reps": 3
   },
   "books-and-films#to-stick-in-one-s-mind": {
     "due": "2026-05-23T14:32:24.337577+00:00",
