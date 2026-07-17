@@ -1140,12 +1140,12 @@
     "reps": 0
   },
   "letter-a#avid-v-d": {
-    "due": "2026-07-17T10:39:29.872Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-16T10:39:29.872Z",
-    "reps": 1
+    "due": "2026-07-25T08:45:49.878Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-17T13:33:49.878Z",
+    "reps": 2
   },
   "letter-b#barrier": {
     "due": "2026-05-29T11:06:16.310369+00:00",
@@ -1200,7 +1200,7 @@
   "letter-b#to-be-for-the-better": {
     "due": "2026-07-17T12:26:19.577039+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-b#to-be-out-of-one-s-depth": {
