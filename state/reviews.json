@@ -2009,6 +2009,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-r#removable": {
+    "due": "2026-07-17T08:43:44.273558+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-r#rival": {
     "due": "2026-06-20T14:46:26.790133+00:00",
     "ef": 2.5,
@@ -2726,6 +2732,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-12T00:30:34.381Z",
     "reps": 3
+  },
+  "technology#to-boot-up": {
+    "due": "2026-07-17T08:43:44.273558+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "technology#to-utilize": {
     "due": "2026-11-07T20:27:12.369Z",
