@@ -2921,6 +2921,12 @@
     "interval": 0,
     "reps": 0
   },
+  "travel#holiday-brochure": {
+    "due": "2026-07-17T05:02:59.895077+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "travel#immense": {
     "due": "2026-06-16T10:43:59.997Z",
     "ef": 2.65,
