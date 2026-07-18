@@ -2058,12 +2058,12 @@
     "reps": 0
   },
   "letter-r#removable": {
-    "due": "2026-07-18T08:46:04.127Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-17T08:46:04.127Z",
-    "reps": 1
+    "due": "2026-07-26T05:55:42.384Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-18T10:43:42.384Z",
+    "reps": 2
   },
   "letter-r#rival": {
     "due": "2026-06-20T14:46:26.790133+00:00",
