@@ -954,7 +954,7 @@
   "ielts-writing#figure": {
     "due": "2026-07-18T12:18:07.915136+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#fluctuations": {
@@ -2314,12 +2314,12 @@
     "reps": 4
   },
   "letter-u#unthinkable": {
-    "due": "2026-07-18T10:33:08.692Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-07-19T17:06:29.625Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-17T10:33:08.692Z",
-    "reps": 1
+    "last_reviewed": "2026-07-18T12:18:29.625Z",
+    "reps": 2
   },
   "letter-u#update-up-to-date": {
     "due": "2026-05-27T11:13:01.029340+00:00",
