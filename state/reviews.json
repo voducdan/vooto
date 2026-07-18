@@ -1320,12 +1320,12 @@
     "reps": 4
   },
   "letter-d#disappointment": {
-    "due": "2026-07-18T06:54:34.667Z",
-    "ef": 2.65,
-    "interval": 7.8,
+    "due": "2026-08-15T18:03:23.528Z",
+    "ef": 2.8,
+    "interval": 28.392,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-10T11:42:34.667Z",
-    "reps": 2
+    "last_reviewed": "2026-07-18T08:38:54.728Z",
+    "reps": 3
   },
   "letter-d#discerning": {
     "due": "2026-06-27T03:06:03.765782+00:00",
