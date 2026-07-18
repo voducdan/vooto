@@ -2942,7 +2942,7 @@
   "towns-and-cities#get-a-suntan": {
     "due": "2026-07-18T06:39:12.805932+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#hitchhike": {
@@ -3016,12 +3016,12 @@
     "reps": 0
   },
   "travel#holiday-brochure": {
-    "due": "2026-07-18T06:16:35.945Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-07-19T12:29:08.823Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-17T06:16:35.945Z",
-    "reps": 1
+    "last_reviewed": "2026-07-18T07:41:08.823Z",
+    "reps": 2
   },
   "travel#immense": {
     "due": "2026-06-16T10:43:59.997Z",
