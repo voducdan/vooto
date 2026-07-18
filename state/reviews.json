@@ -2939,6 +2939,12 @@
     "last_reviewed": "2026-06-16T07:57:44.742Z",
     "reps": 1
   },
+  "towns-and-cities#get-a-suntan": {
+    "due": "2026-07-18T06:39:12.805932+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "towns-and-cities#hitchhike": {
     "due": "2026-08-02T07:50:59.259Z",
     "ef": 2.2,
