@@ -1606,10 +1606,12 @@
     "reps": 0
   },
   "letter-h#have-yet-to-h-v-j-t-tu": {
-    "due": "2026-07-18T04:57:25.454862+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-19T05:00:02.245Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-18T05:00:02.245Z",
+    "reps": 1
   },
   "letter-h#high-degree-of": {
     "due": "2026-06-19T15:03:31.197989+00:00",
@@ -1840,7 +1842,7 @@
   "letter-m#to-make-the-grade": {
     "due": "2026-07-18T04:57:25.454862+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#to-memorize": {
