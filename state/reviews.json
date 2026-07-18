@@ -392,10 +392,12 @@
     "reps": 0
   },
   "description#varnished": {
-    "due": "2026-07-18T03:02:22.122210+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-19T03:02:36.128Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-18T03:02:36.128Z",
+    "reps": 1
   },
   "education#attendance-record": {
     "due": "2026-06-25T18:19:41.889Z",
@@ -952,7 +954,7 @@
   "ielts-writing#fluctuations": {
     "due": "2026-07-18T03:02:22.122210+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#fuel": {
