@@ -2800,12 +2800,12 @@
     "reps": 3
   },
   "technology#to-boot-up": {
-    "due": "2026-07-18T08:45:56.765Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-07-19T15:31:45.449Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-17T08:45:56.765Z",
-    "reps": 1
+    "last_reviewed": "2026-07-18T10:43:45.449Z",
+    "reps": 2
   },
   "technology#to-utilize": {
     "due": "2026-11-07T20:27:12.369Z",
