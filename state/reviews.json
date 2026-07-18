@@ -1840,10 +1840,12 @@
     "reps": 0
   },
   "letter-m#to-make-the-grade": {
-    "due": "2026-07-18T04:57:25.454862+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-19T05:00:07.488Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-18T05:00:07.488Z",
+    "reps": 1
   },
   "letter-m#to-memorize": {
     "due": "2026-05-25T13:08:37.525282+00:00",
