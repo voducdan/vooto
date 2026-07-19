@@ -784,12 +784,12 @@
     "reps": 0
   },
   "free-time#take-an-interest-in": {
-    "due": "2026-07-19T12:10:17.797Z",
-    "ef": 2.2,
-    "interval": 9.0605,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-10T10:43:12.325Z",
-    "reps": 5
+    "due": "2026-07-30T09:15:20.704Z",
+    "ef": 2.05,
+    "interval": 10.8726,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-19T12:18:48.064Z",
+    "reps": 6
   },
   "free-time#to-embark-on": {
     "due": "2026-05-26T07:12:38.234446+00:00",
@@ -1032,7 +1032,7 @@
   "ielts-writing#while-whereas": {
     "due": "2026-07-19T12:18:13.328880+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#comes-into-play": {
