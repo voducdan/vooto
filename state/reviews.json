@@ -1030,10 +1030,12 @@
     "reps": 0
   },
   "ielts-writing#while-whereas": {
-    "due": "2026-07-19T12:18:13.328880+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-20T19:30:54.432Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-19T12:18:54.432Z",
+    "reps": 1
   },
   "law#comes-into-play": {
     "due": "2026-05-24T05:58:59.231218+00:00",
