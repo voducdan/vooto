@@ -3042,12 +3042,12 @@
     "reps": 0
   },
   "travel#holiday-brochure": {
-    "due": "2026-07-19T12:29:08.823Z",
+    "due": "2026-07-22T05:50:05.758Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-18T07:41:08.823Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-19T14:28:29.758Z",
+    "reps": 3
   },
   "travel#immense": {
     "due": "2026-06-16T10:43:59.997Z",
