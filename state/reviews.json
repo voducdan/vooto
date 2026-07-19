@@ -1532,12 +1532,12 @@
     "reps": 0
   },
   "letter-f#to-fuel": {
-    "due": "2026-07-18T14:38:56.482Z",
-    "ef": 2.2,
-    "interval": 4.3992,
+    "due": "2026-07-24T10:40:47.850Z",
+    "ef": 2.05,
+    "interval": 5.279,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-14T05:04:05.602Z",
-    "reps": 4
+    "last_reviewed": "2026-07-19T03:58:58.794Z",
+    "reps": 5
   },
   "letter-g#generally-speaking": {
     "due": "2026-06-21T14:50:29.716860+00:00",
