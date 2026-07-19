@@ -1100,7 +1100,7 @@
   "law#unregulated": {
     "due": "2026-07-18T14:25:35.449360+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#a-sense-of-accomplishment": {
@@ -1228,12 +1228,12 @@
     "reps": 5
   },
   "letter-b#to-be-for-the-better": {
-    "due": "2026-07-18T13:34:16.237Z",
+    "due": "2026-07-25T00:30:10.881Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-17T13:34:16.237Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-19T00:30:10.881Z",
+    "reps": 2
   },
   "letter-b#to-be-out-of-one-s-depth": {
     "due": "2026-06-22T08:00:16.398391+00:00",
