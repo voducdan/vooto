@@ -1814,12 +1814,12 @@
     "reps": 1
   },
   "letter-m#mass-produced": {
-    "due": "2026-07-19T07:38:42.033Z",
+    "due": "2026-08-09T01:25:59.675Z",
     "ef": 2.65,
-    "interval": 7.8,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-11T12:26:42.033Z",
-    "reps": 2
+    "interval": 20.67,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-19T09:21:11.675Z",
+    "reps": 3
   },
   "letter-m#match": {
     "due": "2026-08-15T05:13:17.169Z",
