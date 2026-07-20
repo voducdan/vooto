@@ -2,7 +2,7 @@
 
 **Summary**: Alphabetical vocabulary entries starting with 'F', from the 'Other Vocabularies' section (pages 277-279).
 
-**Sources**: [[source-rachel-mitchell-2018]] — *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
+**Sources**: [[source-rachel-mitchell-2018]] â *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
 
 **Last updated**: 2026-05-23
 
@@ -22,14 +22,14 @@
 
 ## Entries
 
-### For good *[Expression]* *(collocation)* — /fɔ:/ /gud/
+### For good *[Expression]* *(collocation)* â /fÉ:/ /gud/
 
 **Definition**: forever; permanently.
 
 - He's gone for good.
 - He has left London for good.
 
-### Forget all about *[Expression]* *(collocation)* — /fəˈget/ /ɔ:l/ /əˈbaut/
+### Forget all about *[Expression]* *(collocation)* â /fÉËget/ /É:l/ /ÉËbaut/
 
 **Definition**: to forget completely.
 
@@ -37,98 +37,98 @@
 - I forgot all about paying the bill.
 - She forgot all about her assignment.
 
-### From scratch *[Expression]* *(collocation)* — /frɔm/ /skrætʃ/
+### From scratch *[Expression]* *(collocation)* â /frÉm/ /skrÃ¦tÊ/
 
 **Definition**: to start from the very beginning.
 
 - He built his business from scratch.
 - She came from a very poor family, she started her own career from scratch.
 
-### Fully intend to *[Expression]* *(collocation)* — /ˈfuli/ /inˈtend/ /ˈtu/
+### Fully intend to *[Expression]* *(collocation)* â /Ëfuli/ /inËtend/ /Ëtu/
 
 **Definition**: to have a definite objective or plan to do something.
 
 - She had fully intended to tell him exactly what had happened.
 - He fully intended to pay for the damage.
 
-### Fed up *[Adjective]* *(collocation)* — /ˈfɛd/ /Λp/
+### Fed up *[Adjective]* *(collocation)* â /ËfÉd/ /Îp/
 
 **Definition**: bored, unhappy or disappointed, especially with a situation that has continued for a long time.
 
 - They are fed up with the noise and bustle of the big city.
 - Tom is fed up with his job.
 
-### Faculty *[Noun]* — /ˈfækəɫti/
+### Faculty *[Noun]* â /ËfÃ¦kÉÉ«ti/
 
 **Definition**: a department within a university or college.
 
 - My favorite teacher of the French faculty is Mr. John. He is very nice and friendly with students.
 - My favorite member of the faculty here at school is Miss. White, because she teaches my favorite class.
 
-### Fortunately *[Adverb]* — /ˈfɔɹtʃənətɫi/
+### Fortunately *[Adverb]* â /ËfÉÉ¹tÊÉnÉtÉ«i/
 
 **Definition**: luckily; in a lucky manner.
 
 - Fortunately, the bus was late so he did not miss it.
 - Fortunately, nobody was at home when the bomb exploded.
 
-### Foremost *[Adverb]* — /ˈfɔɹˌmoʊst/
+### Foremost *[Adverb]* â /ËfÉÉ¹ËmoÊst/
 
 **Definition**: the most important (first in place, order).
 
 - This question has been foremost in my mind recently.
 - A parent should be foremost a listener.
 
-### To fall by the wayside *[Expression]* *(collocation)* — /ˈtu/ /fɔl/ /bai/ /ˈðə/ /ˈweɪˌsaɪd/
+### To fall by the wayside *[Expression]* *(collocation)* â /Ëtu/ /fÉl/ /bai/ /ËÃ°É/ /ËweÉªËsaÉªd/
 
 **Definition**: if something falls by the wayside, it fails to continue/ people stop doing it.
 
 - Many clubs fall by the wayside for financial reasons.
 - Luxury items fall by the wayside during a recession.
 
-### Flawless *[Adjective]* — /ˈfɫɔɫəs/
+### Flawless *[Adjective]* â /ËfÉ«ÉÉ«És/
 
 **Definition**: perfect, without defects or faults.
 
 - All the stones are flawless and of the finest quality.
 - He can't help noticing her flawless beauty.
 
-### Force *[Verb]* — /fɔ:s/
+### Force *[Verb]* â /fÉ:s/
 
 **Definition**: to use physical strength, or power to make somebody do something that they do not want to do.
 
 - He was forced to take the exam again, because he failed last month.
 - After seeing the evidence, he was forced to admit his error.
 
-### Far and wide *[Expression]* *(collocation)* — /fɑ:/ /ˈænd/ /waid/
+### Far and wide *[Expression]* *(collocation)* â /fÉ:/ /ËÃ¦nd/ /waid/
 
 **Definition**: over a large area.
 
 - He ranges far and wide in search of inspiration for his paintings.
 - People came from far and wide to see the concert.
 
-### Fierce competition *[Noun]* *(collocation)* — /ˈfɪɹs/ /
+### Fierce competition *[Noun]* *(collocation)* â /ËfÉªÉ¹s/ /
 
 **Definition**: strong competition/ tough competition.
 
 - Graduates face fierce competition in getting jobs.
 - Small grocery stores face very fierce competition from the large supermarket chains.
 
-### Fake *[Adjective]* — /ˈfeɪk/
+### Fake *[Adjective]* â /ËfeÉªk/
 
 **Definition**: not genuine; counterfeit (in order to trick people).
 
 - The child was wearing fake fangs to go with his vampire costume.
 - He bought a fake diamond ring for his girlfriend at the fair for a joke.
 
-### Fool around *[Verb]* *(collocation)* — /ˈfuɫ/ /əˈraund/
+### Fool around *[Verb]* *(collocation)* â /ËfuÉ«/ /ÉËraund/
 
 **Definition**: to behave in a silly way for fun.
 
 - Don't fool around with matches.
 - You shouldn't fool around with dangerous chemicals.
 
-### To fuel *[Verb]* *(collocation)* — /ˈtu/ /ˈfyuəl/
+### To fuel *[Verb]* *(collocation)* â /Ëtu/ /ËfyuÉl/
 
 **Definition**: to make something increase or stronger.
 
@@ -140,3 +140,11 @@
 - [[index]]
 - [[source-rachel-mitchell-2018]]
 - [[collocations]]
+
+### Flatly *[Adverb]* — /ˈflætli/
+
+**Definition**: in a way that is very definite and will not be changed
+
+- to flatly deny/reject/oppose something
+- I flatly refused to spend any more time helping him.
+- ‘Oh, it's you,’ she said flatly.
