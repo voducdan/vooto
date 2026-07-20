@@ -3064,12 +3064,12 @@
     "reps": 0
   },
   "travel#invigorating": {
-    "due": "2026-07-19T16:30:34.734Z",
-    "ef": 1.9,
-    "interval": 5.5261,
+    "due": "2026-07-26T18:40:04.399Z",
+    "ef": 1.75,
+    "interval": 6.6313,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-14T03:52:57.966Z",
-    "reps": 6
+    "last_reviewed": "2026-07-20T03:30:58.351Z",
+    "reps": 7
   },
   "travel#jump-at-the-chance": {
     "due": "2026-06-18T11:23:32.714315+00:00",
