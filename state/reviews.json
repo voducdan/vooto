@@ -1106,12 +1106,12 @@
     "reps": 4
   },
   "law#unregulated": {
-    "due": "2026-07-20T00:30:14.572Z",
+    "due": "2026-07-26T07:06:01.007Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-07-19T00:30:14.572Z",
-    "reps": 1
+    "last_reviewed": "2026-07-20T07:06:01.007Z",
+    "reps": 2
   },
   "letter-a#a-sense-of-accomplishment": {
     "due": "2026-06-24T11:01:54.622555+00:00",
