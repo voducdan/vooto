@@ -2342,10 +2342,12 @@
     "reps": 0
   },
   "letter-u#unexpected": {
-    "due": "2026-07-21T08:54:10.120887+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-22T17:36:00.159Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-21T10:24:00.159Z",
+    "reps": 1
   },
   "letter-u#unfamiliar": {
     "due": "2026-06-16T10:44:39.850Z",
@@ -2700,7 +2702,7 @@
   "music#melodious": {
     "due": "2026-07-21T08:54:10.120887+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#opera": {
