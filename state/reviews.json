@@ -2341,6 +2341,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-u#unexpected": {
+    "due": "2026-07-21T08:54:10.120887+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-u#unfamiliar": {
     "due": "2026-06-16T10:44:39.850Z",
     "ef": 2.65,
@@ -2690,6 +2696,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-13T07:17:29.548Z",
     "reps": 4
+  },
+  "music#melodious": {
+    "due": "2026-07-21T08:54:10.120887+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "music#opera": {
     "due": "2026-06-21T11:04:07.053789+00:00",
