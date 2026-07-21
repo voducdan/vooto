@@ -735,6 +735,12 @@
     "interval": 0,
     "reps": 0
   },
+  "food#to-be-dying-of-hunger": {
+    "due": "2026-07-21T05:03:54.527794+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#to-be-high-in-fiber": {
     "due": "2026-06-27T12:27:25.937574+00:00",
     "ef": 2.5,
@@ -1208,6 +1214,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-12T12:19:33.039Z",
     "reps": 3
+  },
+  "letter-b#be-linked-to": {
+    "due": "2026-07-21T05:03:54.527794+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-b#be-on-one-s-way": {
     "due": "2026-06-27T08:55:41.055466+00:00",
