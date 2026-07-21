@@ -1284,10 +1284,12 @@
     "reps": 0
   },
   "letter-b#to-become-obsolete": {
-    "due": "2026-07-21T06:51:26.387010+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-22T06:53:15.344Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-21T06:53:15.344Z",
+    "reps": 1
   },
   "letter-b#to-become-over-reliant-on": {
     "due": "2026-06-26T07:18:11.124567+00:00",
