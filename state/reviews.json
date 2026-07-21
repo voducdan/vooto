@@ -2396,12 +2396,12 @@
     "reps": 4
   },
   "letter-u#unthinkable": {
-    "due": "2026-07-21T14:04:08.423Z",
-    "ef": 2.05,
-    "interval": 1.44,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-20T03:30:32.423Z",
-    "reps": 3
+    "due": "2026-07-25T17:53:57.154Z",
+    "ef": 2.2,
+    "interval": 4.1184,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-21T15:03:27.394Z",
+    "reps": 4
   },
   "letter-u#update-up-to-date": {
     "due": "2026-05-27T11:13:01.029340+00:00",
