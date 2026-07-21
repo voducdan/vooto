@@ -2341,6 +2341,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-u#understandable": {
+    "due": "2026-07-21T10:42:40.881447+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-u#unexpected": {
     "due": "2026-07-22T17:36:00.159Z",
     "ef": 2.65,
@@ -3074,6 +3080,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-12T07:52:31.492Z",
     "reps": 5
+  },
+  "travel#enchanting": {
+    "due": "2026-07-21T10:42:40.881447+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "travel#endlessly": {
     "due": "2026-11-10T22:18:52.656Z",
