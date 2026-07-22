@@ -1250,12 +1250,12 @@
     "reps": 3
   },
   "letter-b#be-linked-to": {
-    "due": "2026-07-22T06:28:12.650Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-21T06:28:12.650Z",
-    "reps": 1
+    "due": "2026-07-30T04:14:39.105Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-22T09:02:39.105Z",
+    "reps": 2
   },
   "letter-b#be-on-one-s-way": {
     "due": "2026-06-27T08:55:41.055466+00:00",
