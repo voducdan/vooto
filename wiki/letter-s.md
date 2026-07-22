@@ -2,7 +2,7 @@
 
 **Summary**: Alphabetical vocabulary entries starting with 'S', from the 'Other Vocabularies' section (pages 309-316).
 
-**Sources**: [[source-rachel-mitchell-2018]] â *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
+**Sources**: [[source-rachel-mitchell-2018]] Ã¢ÂÂ *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
 
 **Last updated**: 2026-05-23
 
@@ -22,89 +22,89 @@
 
 ## Entries
 
-### Sink in *[Verb]* *(collocation)* â /sÉªÅk/ /ËÉªn/
+### Sink in *[Verb]* *(collocation)* Ã¢ÂÂ /sÃÂªÃÂk/ /ÃÂÃÂªn/
 
 **Definition**: to become completely understood, known or realized.
 
 - It took a moment for the words to sink in.
 - Pauses should be used to give time for ideas to sink in.
 
-### Sparingly *[Adverb]* â /ËspÉÉ¹ÉªÅÉ«i/
+### Sparingly *[Adverb]* Ã¢ÂÂ /ÃÂspÃÂÃÂ¹ÃÂªÃÂÃÂ«i/
 
 **Definition**: in an economical way; in small quantities.
 
 - He knew that his funds were limited so he has spent his money sparingly.
 - Wearing old clothes and buying scantily of food, Sarah spent her money sparingly.
 
-### Sponsor *[Noun]* â /ËspÉnsÉ/
+### Sponsor *[Noun]* Ã¢ÂÂ /ÃÂspÃÂnsÃÂ/
 
 **Definition**: a person or organization that pays for or contributes to the costs of an event.
 
 - The event was sponsored by several local businesses.
 
-### Stuffed bear *[Noun]* *(collocation)* â /ËstÉft/ /beÉ/
+### Stuffed bear *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂstÃÂft/ /beÃÂ/
 
 **Definition**: a stuffed toy in the shape of a bear.
 
 - A stuffed bear with glasses and a tie.
 - I gave my daughter an adorable stuffed bear for her birthday.
 
-### The shore *[Noun]* *(collocation)* â /ËÃ°É/ /ËÊÉÉ¹/
+### The shore *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂÃÂ°ÃÂ/ /ÃÂÃÂÃÂÃÂ¹/
 
 **Definition**: the land along the edge of a sea, lake or river.
 
 - I like to walk along the shore.
 - The shore was littered with rubbish left by the tourists.
 
-### Simplify *[Verb]* â /ËsÉªmpÉ«ÉËfaÉª/
+### Simplify *[Verb]* Ã¢ÂÂ /ÃÂsÃÂªmpÃÂ«ÃÂÃÂfaÃÂª/
 
 **Definition**: make something simple/less complicated and easy to do or understand.
 
 - He tried to simplify your explanation for the children.
 - She simplified her sentences to use words and phrases she was more comfortable with.
 
-### To some degree *[Expression]* *(collocation)* â /Ëtu/ /sÊm/ /dÉªËgri:/
+### To some degree *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /sÃÂm/ /dÃÂªÃÂgri:/
 
 **Definition**: to some extent.
 
 - To some degree, he was right.
 - He can be trusted to some degree.
 
-### Sensitivity *[Noun]* â /ËsÉnsÉªËtÉªvÉªti/
+### Sensitivity *[Noun]* Ã¢ÂÂ /ÃÂsÃÂnsÃÂªÃÂtÃÂªvÃÂªti/
 
 **Definition**: the ability to understand the feelings of others.
 
 - She is not known for her sensitivity in dealing with complaints.
 - Women like him for his sensitivity and charming vulnerability.
 
-### Storytelling *[Noun]* â /ËstÉÉ¹iËtÉÉ«ÉªÅ/
+### Storytelling *[Noun]* Ã¢ÂÂ /ÃÂstÃÂÃÂ¹iÃÂtÃÂÃÂ«ÃÂªÃÂ/
 
 **Definition**: the art of telling stories.
 
 - The student has lost the thread of her storytelling.
 - The teacher has to develop a number of skills to improve her storytelling.
 
-### Setback *[Noun]* â /ËsÉtËbÃ¦k/
+### Setback *[Noun]* Ã¢ÂÂ /ÃÂsÃÂtÃÂbÃÂ¦k/
 
 **Definition**: a difficulty or problem that delays something or makes a situation worse.
 
 - The team suffered a setback when their best player was injured.
 
-### Superb *[Adjective]* â /sÊËpÉb/
+### Superb *[Adjective]* Ã¢ÂÂ /sÃÂÃÂpÃÂb/
 
 **Definition**: excellent; very good.
 
 - The diners complimented the chef on the superb meal.
 - The restaurant has superb food quality, superb service, and superb decor.
 
-### To stem from *[Verb]* *(collocation)* â /Ëtu/ /ËstÉm/ /frÉm/
+### To stem from *[Verb]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /ÃÂstÃÂm/ /frÃÂm/
 
 **Definition**: to be caused by/ as the result of something.
 
 - His problems stem from his difficult childhood.
 - Her headaches stemmed from vision problems.
 
-### (To) surround *[Verb]* *(collocation)* â /Ëtu/ /sÓËraÆ±nd/
+### (To) surround *[Verb]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /sÃÂÃÂraÃÂ±nd/
 
 **Definition**: to be all around someone or something.
 
@@ -112,35 +112,35 @@
 - She is surrounded by her loving family.
 - He is surrounded by police officers.
 
-### To squander a chance/an opportunity *[Expression]* *(collocation)* â /Ëtu/ /ËskwÉndÉ/ /ËeÉª/ /ËtÊÃ¦ns/ /ËÃ¦n/ /ËÉpÉrËtyunÉªti/
+### To squander a chance/an opportunity *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /ÃÂskwÃÂndÃÂ/ /ÃÂeÃÂª/ /ÃÂtÃÂÃÂ¦ns/ /ÃÂÃÂ¦n/ /ÃÂÃÂpÃÂrÃÂtyunÃÂªti/
 
 **Definition**: to waste/fail to use a chance, by not taking advantage of it.
 
 - He squandered a chance by not retaking his CPF test, and he totally regretted it.
 - She squandered a chance to go to university by failing to study for her entrance exam.
 
-### Substandard *[Adjective]* â /sÉbËstÃ¦ndÉd/
+### Substandard *[Adjective]* Ã¢ÂÂ /sÃÂbÃÂstÃÂ¦ndÃÂd/
 
 **Definition**: below the required standard.
 
 - Substandard housing conditions.
 - Too many families are still living in substandard housing.
 
-### To sift information *[Expression]* *(collocation)* â /Ëtu/ /ËsÉªft/ /
+### To sift information *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /ÃÂsÃÂªft/ /
 
 **Definition**: to remove unwanted or less useful information.
 
 - As she sifted information, she reached some alarming conclusions.
 - Our unconscious brain automatically sifts information.
 
-### To strike somebody as *[Expression]* *(collocation)* â /Ëtu/ /straik/ /ËsÉmËbÉdi/ /ËÃ¦z/
+### To strike somebody as *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /straik/ /ÃÂsÃÂmÃÂbÃÂdi/ /ÃÂÃÂ¦z/
 
 **Definition**: to give somebody a particular impression.
 
 - Her reaction struck me as odd.
 - His appearance struck him as strange.
 
-### Self-explanatory *[Adjective]* â /ËsÉÉ«f/ /ÉªksËpÉ«Ã¦nÉËtÉÉ¹i/
+### Self-explanatory *[Adjective]* Ã¢ÂÂ /ÃÂsÃÂÃÂ«f/ /ÃÂªksÃÂpÃÂ«ÃÂ¦nÃÂÃÂtÃÂÃÂ¹i/
 
 **Definition**: easy to understand and needs no more explanation.
 
@@ -148,118 +148,118 @@
 - The email appended below is self-explanatory.
 - The code sample is self-explanatory and it is very clear how the code works now.
 
-### Secure in the knowledge *[Expression]* *(collocation)* â /siËkjuÉ/ /ËÉªn/ /ËÃ°É/ /nÉliÊ¤/
+### Secure in the knowledge *[Expression]* *(collocation)* Ã¢ÂÂ /siÃÂkjuÃÂ/ /ÃÂÃÂªn/ /ÃÂÃÂ°ÃÂ/ /nÃÂliÃÂ¤/
 
 **Definition**: feeling safe or secure because you know something well.
 
 - The babysitter is available to secure in the knowledge that my kids are safe and sound.
 - She went on holiday, secure in the knowledge that she had done well in the exam.
 
-### Spot *[Noun]* â /spÉt/
+### Spot *[Noun]* Ã¢ÂÂ /spÃÂt/
 
 **Definition**: a particular area or place.
 
 - He always sits in the same spot in the library, near the window so that he can look out over the river.
 
-### Second to none *[Expression]* *(collocation)* â /ËsÉkÉnd/ /Ëtu/ /nÊn/
+### Second to none *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂsÃÂkÃÂnd/ /ÃÂtu/ /nÃÂn/
 
 **Definition**: as good as or better than all others of the same kind.
 
 - Her cakes are second to none.
 - The delicious Japanese food in this restaurant is second to none.
 
-### Suit someone down to the ground *[Expression]* *(collocation)* â /su:t/ /ËsÉmËwÉn/ /daun/ /Ëtu/ /ËÃ°É/ /graund/
+### Suit someone down to the ground *[Expression]* *(collocation)* Ã¢ÂÂ /su:t/ /ÃÂsÃÂmÃÂwÃÂn/ /daun/ /ÃÂtu/ /ÃÂÃÂ°ÃÂ/ /graund/
 
 **Definition**: to be completely suitable, convenient or right for someone.
 
 - America suits him down to the ground.
 - This new job suits her down to the ground.
 
-### To seat *[Verb]* *(collocation)* â /Ëtu/ /si:t/
+### To seat *[Verb]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /si:t/
 
 **Definition**: to arrange for someone to sit somewhere.
 
 - The delegates have to be seated according to protocol.
 - The waiter greeted me with a big smile and seated me by the window.
 
-### Souvenir *[Noun]* â /ËsuvÉËnÉªÉ¹/
+### Souvenir *[Noun]* Ã¢ÂÂ /ÃÂsuvÃÂÃÂnÃÂªÃÂ¹/
 
 **Definition**: something you buy or keep as a reminder of a place, an occasion or a holiday/vacation.
 
 - The more my mom looks at her souvenir coffee mug, the more she wants to go back to New York.
 - I bought a model of a red London bus as a souvenir of my trip to London.
 
-### To stand out *[Verb]* *(collocation)* â /Ëtu/ /stÃ¦nd/ /ËaÊt/
+### To stand out *[Verb]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /stÃÂ¦nd/ /ÃÂaÃÂt/
 
 **Definition**: to be prominent or more important than somebody/something.
 
 - Her bright dress always makes her stand out in a crowd.
 - Their old red car stood out from all the rest.
 
-### To stem from *[Verb]* *(collocation)* â /Ëtu/ /ËstÉm/ /frÉm/
+### To stem from *[Verb]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /ÃÂstÃÂm/ /frÃÂm/
 
 **Definition**: to be the result of something.
 
 - The problems stemmed from a power failure at a data center.
 - Her headaches stemmed from vision problems.
 
-### Social isolation *[Noun]* *(collocation)* â /souÊl/ /ËaÉªsÉËÉ«eÉªÊÉn/
+### Social isolation *[Noun]* *(collocation)* Ã¢ÂÂ /souÃÂl/ /ÃÂaÃÂªsÃÂÃÂÃÂ«eÃÂªÃÂÃÂn/
 
 **Definition**: the state of isolating/separating someone from society.
 
 - It is necessary to apply the form of social isolation towards people who are violent or dangerous to others.
 - Social isolation is usually connected with increased mortality.
 
-### Spread throughout *[Verb]* *(collocation)* â /spred/ /Î¸ru:Ëaut/
+### Spread throughout *[Verb]* *(collocation)* Ã¢ÂÂ /spred/ /ÃÂ¸ru:ÃÂaut/
 
 **Definition**: to open, arrange, or place something over a large area.
 
 - The fire spread throughout the house.
 - The news of their marriage spread throughout the village.
 
-### Set to *[Verb]* *(collocation)* â /ËsÉt/ /Ëtu/
+### Set to *[Verb]* *(collocation)* Ã¢ÂÂ /ÃÂsÃÂt/ /ÃÂtu/
 
 **Definition**: likely to.
 
 - We are set to meet in Washington on Thursday.
 - I was happy to know that everything was set to go.
 
-### Sustain *[Verb]* â /sÉËsteÉªn/
+### Sustain *[Verb]* Ã¢ÂÂ /sÃÂÃÂsteÃÂªn/
 
 **Definition**: support something/somebody physically or mentally in order to be able to continue to live.
 
 - The ship appeared not to sustain any damage.
 - In the past, sailors took large supplies of fresh water and food on their ships to sustain them on their long voyages.
 
-### Settle *[Verb]* â /ËsÉtl/
+### Settle *[Verb]* Ã¢ÂÂ /ÃÂsÃÂtl/
 
 **Definition**: to go and live permanently in a particular place.
 
 - After her father died, she decided to settle in Sydney.
 - We are planning to settle in Australia in the near future.
 
-### Sex discrimination *[Noun]* *(collocation)* â /seks/ /dÉªsËkÉ¹ÉªmÉËneÉªÊÉn/
+### Sex discrimination *[Noun]* *(collocation)* Ã¢ÂÂ /seks/ /dÃÂªsÃÂkÃÂ¹ÃÂªmÃÂÃÂneÃÂªÃÂÃÂn/
 
 **Definition**: the practice of treating somebody or a particular group in society unequally because of their gender.
 
 - The new sex discrimination law protects men and women from unfair treatment when they are looking for a job.
 - The law to fight sex discrimination in employment and education.
 
-### Subsidise *[Verb]* â /?/
+### Subsidise *[Verb]* Ã¢ÂÂ /?/
 
 **Definition**: support an organization financially to help to pay for something.
 
 - The food is subsidised, so it's much cheaper than elsewhere.
 - Farming is partly subsidised by the government.
 
-### Sustainable *[Adjective]* â /sÉËsteÉªnÉbÉÉ«/
+### Sustainable *[Adjective]* Ã¢ÂÂ /sÃÂÃÂsteÃÂªnÃÂbÃÂÃÂ«/
 
 **Definition**: involving the use of natural products or energy in a way that causes little or no damage to the environment.
 
 - Hydroelectricity is very sustainable.
 - The ecosystem was sustainable.
 
-### Sparingly *[Adverb]* â /ËspÉÉ¹ÉªÅÉ«i/
+### Sparingly *[Adverb]* Ã¢ÂÂ /ÃÂspÃÂÃÂ¹ÃÂªÃÂÃÂ«i/
 
 **Definition**: using very little of something in an infrequent manner; in small quantities.
 
@@ -268,28 +268,28 @@
 - Stem from = as the result of = to be caused by His idea to give roses to his mom for her birthday stems from her love of flowers.
 - The present crisis in health care stems from the lack of funding by the government.
 
-### Sited *[Verb]* â /ËsaÉªtÉªd/
+### Sited *[Verb]* Ã¢ÂÂ /ÃÂsaÃÂªtÃÂªd/
 
 **Definition**: to be placed or built in a particular place.
 
 - The castle is sited on a hill near the river, originally to protect the town against enemies.
 - The drama hall is sited behind the main school building.
 
-### Speed up *[Verb]* *(collocation)* â /spi:d/ /Îp/
+### Speed up *[Verb]* *(collocation)* Ã¢ÂÂ /spi:d/ /ÃÂp/
 
 **Definition**: make something move or travel faster.
 
 - Modernization is the key to speed up our agricultural development.
 - We'll never get there if he doesn't speed up.
 
-### Suited *[Adjective]* â /Ësu:tid/
+### Suited *[Adjective]* Ã¢ÂÂ /ÃÂsu:tid/
 
 **Definition**: right or appropriate for somebody or something.
 
 - Tom and Mary seem to be suited for each other.
 - This diet is suited to anyone who wants to lose weight.
 
-### Serviceable *[Adjective]* â /ËsÉvÉsÉbÉÉ«/
+### Serviceable *[Adjective]* Ã¢ÂÂ /ÃÂsÃÂvÃÂsÃÂbÃÂÃÂ«/
 
 **Definition**: suitable to be used; helpful, useful.
 
@@ -297,63 +297,63 @@
 - The chairs are old, but still serviceable.
 - The tyres are worn but still serviceable.
 
-### Sound reasons *[Noun]* *(collocation)* â /ËsaÊnd/ /ËÉ¹izÉnz/
+### Sound reasons *[Noun]* *(collocation)* Ã¢ÂÂ /ÃÂsaÃÂnd/ /ÃÂÃÂ¹izÃÂnz/
 
 **Definition**: good and sensible reasons.
 
 - The candidate gave sound reasons for his decision to apply for the job.
 - There are sound reasons for questioning accuracy and fairness in the application of the death penalty.
 
-### Self-interest *[Noun]* â /ËsÉÉ«ËfÉªntÉ¹Ést/
+### Self-interest *[Noun]* Ã¢ÂÂ /ÃÂsÃÂÃÂ«ÃÂfÃÂªntÃÂ¹ÃÂst/
 
 **Definition**: considering only the advantage to one's own advantage and well-being, without caring about others.
 
 - She cannot abandon her husband for the sake of self-interest and personal gain.
 - Self-interest is not only the major driver in human behavior to live a happy life.
 
-### Scrupulously *[Adverb]* â /ËskÉ¹upjÉÉ«ÉsÉ«i/
+### Scrupulously *[Adverb]* Ã¢ÂÂ /ÃÂskÃÂ¹upjÃÂÃÂ«ÃÂsÃÂ«i/
 
 **Definition**: in a very careful and thorough way, with great care and attention to every detail.
 
 - He is always scrupulously honest in his business activities.
 - Teachers have to be scrupulously fair in marking examination papers.
 
-### Sophisticated *[Adjective]* â /sÉËfÉªstÉËkeÉªtÉªd/
+### Sophisticated *[Adjective]* Ã¢ÂÂ /sÃÂÃÂfÃÂªstÃÂÃÂkeÃÂªtÃÂªd/
 
 **Definition**: complicated or complex.
 
 - They're making very sophisticated weapons.
 - The network connection devices employ very sophisticated programming.
 
-### Sweaty *[Adjective]* â /ËswÉti/
+### Sweaty *[Adjective]* Ã¢ÂÂ /ÃÂswÃÂti/
 
 **Definition**: covered in sweat that makes you feel hot and uncomfortable.
 
 - Tom's palms were sweaty and his mouth was dry.
 - After working in the garden all day, his clothes were all sweaty, and covered with dirt.
 
-### Shrink *[Verb]* â /ËÊÉ¹ÉªÅk/
+### Shrink *[Verb]* Ã¢ÂÂ /ÃÂÃÂÃÂ¹ÃÂªÃÂk/
 
 **Definition**: become smaller in size or amount.
 
 - The department has been shrinking year by year because of budget cuts.
 - The Japanese population is shrinking.
 
-### Stressed out *[Adverb]* *(collocation)* â /strest/ /ËaÊt/
+### Stressed out *[Adverb]* *(collocation)* Ã¢ÂÂ /strest/ /ÃÂaÃÂt/
 
 **Definition**: being anxious, worried and nervous.
 
 - She is stressed out about all the work she has at the moment.
 - I've been really stressed out at work recently.
 
-### Sanity *[Noun]* â /ËsÃ¦nÉti/
+### Sanity *[Noun]* Ã¢ÂÂ /ÃÂsÃÂ¦nÃÂti/
 
 **Definition**: the ability to think and behave in a normal manner without being mentally ill.
 
 - People have begun to doubt her sanity.
 - He'd been behaving so strangely that they began to doubt his sanity.
 
-### To strike up (a conversation, a relationship) *[Expression]* *(collocation)* â /Ëtu/ /straik/ /Îp/ /ËeÉª/ / /ËeÉª/ /riËleiÊÓnÊip/
+### To strike up (a conversation, a relationship) *[Expression]* *(collocation)* Ã¢ÂÂ /ÃÂtu/ /straik/ /ÃÂp/ /ÃÂeÃÂª/ / /ÃÂeÃÂª/ /riÃÂleiÃÂÃÂnÃÂip/
 
 **Definition**: to start (to do) something.
 
@@ -366,10 +366,16 @@
 - [[source-rachel-mitchell-2018]]
 - [[collocations]]
 
-### Supreme *[Adjective]* — /suˈpriːm/
+### Supreme *[Adjective]* â /suËpriËm/
 
 **Definition**: highest in rank or position
 
 - the Supreme Commander of the armed forces
 - the supreme champion
 - It is an event in which she reigns supreme.
+
+### Stagger *[Noun]* — /ˈstæɡə(r)/
+
+**Definition**: a weak unsteady way of walking, as if you are about to fall
+
+- to walk with a stagger
