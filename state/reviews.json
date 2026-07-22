@@ -711,6 +711,12 @@
     "last_reviewed": "2026-06-05T07:30:34.252Z",
     "reps": 2
   },
+  "food#in-a-walking-distance-of": {
+    "due": "2026-07-22T00:27:46.797871+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#inadequate": {
     "due": "2026-05-24T10:33:46.330980+00:00",
     "ef": 2.5,
