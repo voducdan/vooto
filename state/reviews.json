@@ -781,6 +781,12 @@
     "last_reviewed": "2026-07-18T00:34:31.293Z",
     "reps": 2
   },
+  "free-time#adopt-the-habit": {
+    "due": "2026-07-22T05:03:36.272590+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#adventurous": {
     "due": "2026-05-24T06:21:46.137897+00:00",
     "ef": 2.5,
@@ -1378,6 +1384,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:32:22.908Z",
     "reps": 1
+  },
+  "letter-d#depend-on": {
+    "due": "2026-07-22T05:03:36.272590+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-d#deplete": {
     "due": "2026-06-25T09:06:37.443322+00:00",
