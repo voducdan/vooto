@@ -3090,10 +3090,12 @@
     "reps": 3
   },
   "towns-and-cities#neighborhood": {
-    "due": "2026-07-22T12:32:56.090183+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-23T19:45:16.719Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-22T12:33:16.719Z",
+    "reps": 1
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
