@@ -506,12 +506,12 @@
     "reps": 5
   },
   "education#to-disrupt-lessons": {
-    "due": "2026-07-22T06:53:03.605Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-21T06:53:03.605Z",
-    "reps": 1
+    "due": "2026-07-30T04:14:42.611Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-22T09:02:42.611Z",
+    "reps": 2
   },
   "education#to-recall": {
     "due": "2026-08-11T01:23:50.549Z",
