@@ -972,12 +972,12 @@
     "reps": 0
   },
   "ielts-writing#come-a-close-second": {
-    "due": "2026-07-23T06:06:41.655Z",
-    "ef": 1.9,
-    "interval": 1.728,
+    "due": "2026-07-25T10:48:11.940Z",
+    "ef": 1.75,
+    "interval": 2.0736,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-21T12:38:22.455Z",
-    "reps": 4
+    "last_reviewed": "2026-07-23T09:02:12.900Z",
+    "reps": 5
   },
   "ielts-writing#consistently": {
     "due": "2026-06-26T14:54:26.332402+00:00",
