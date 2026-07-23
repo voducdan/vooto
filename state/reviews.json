@@ -782,12 +782,12 @@
     "reps": 2
   },
   "free-time#adopt-the-habit": {
-    "due": "2026-07-23T05:30:30.727Z",
+    "due": "2026-07-29T07:17:20.933Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-22T05:30:30.727Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-23T07:17:20.933Z",
+    "reps": 2
   },
   "free-time#adventurous": {
     "due": "2026-05-24T06:21:46.137897+00:00",
