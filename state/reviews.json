@@ -2374,12 +2374,12 @@
     "reps": 0
   },
   "letter-u#understandable": {
-    "due": "2026-07-22T18:29:51.357Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-30T22:15:26.135Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-21T11:17:51.357Z",
-    "reps": 1
+    "last_reviewed": "2026-07-23T03:03:26.135Z",
+    "reps": 2
   },
   "letter-u#unexpected": {
     "due": "2026-07-30T19:42:50.274Z",
