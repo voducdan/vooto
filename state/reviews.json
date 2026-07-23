@@ -2016,12 +2016,12 @@
     "reps": 0
   },
   "letter-o#out-of-the-question": {
-    "due": "2026-07-23T00:25:05.979Z",
+    "due": "2026-08-05T12:39:42.498Z",
     "ef": 2.05,
-    "interval": 6.4944,
+    "interval": 13.3135,
     "last_rating": "good",
-    "last_reviewed": "2026-07-16T12:33:09.819Z",
-    "reps": 5
+    "last_reviewed": "2026-07-23T05:08:14.370Z",
+    "reps": 6
   },
   "letter-o#outdated": {
     "due": "2026-08-10T06:34:02.681Z",
