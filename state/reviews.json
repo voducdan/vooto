@@ -1085,6 +1085,12 @@
     "last_reviewed": "2026-07-21T03:03:52.948Z",
     "reps": 2
   },
+  "law#burglary": {
+    "due": "2026-07-23T10:44:21.534399+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "law#comes-into-play": {
     "due": "2026-05-24T05:58:59.231218+00:00",
     "ef": 2.5,
@@ -1736,6 +1742,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-24T02:22:25.745Z",
     "reps": 1
+  },
+  "letter-h#host-country-houst-k-ntri": {
+    "due": "2026-07-23T10:44:21.534399+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-h#huge-number-of": {
     "due": "2026-06-27T10:39:47.630544+00:00",
