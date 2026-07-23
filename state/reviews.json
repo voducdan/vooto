@@ -1746,10 +1746,12 @@
     "reps": 1
   },
   "letter-h#host-country-houst-k-ntri": {
-    "due": "2026-07-23T10:44:21.534399+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-24T18:02:54.147Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-23T10:50:54.147Z",
+    "reps": 1
   },
   "letter-h#huge-number-of": {
     "due": "2026-06-27T10:39:47.630544+00:00",
