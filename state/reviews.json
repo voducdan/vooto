@@ -1479,6 +1479,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-e#exploit-k-spl-t": {
+    "due": "2026-07-23T08:53:13.586896+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#extraction": {
     "due": "2026-06-17T15:09:59.486Z",
     "ef": 2.65,
