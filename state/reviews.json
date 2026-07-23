@@ -746,12 +746,12 @@
     "reps": 0
   },
   "food#stew": {
-    "due": "2026-07-22T16:53:25.245Z",
-    "ef": 2.35,
-    "interval": 10.3381,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-12T08:46:31.677Z",
-    "reps": 5
+    "due": "2026-08-25T14:53:05.426Z",
+    "ef": 2.5,
+    "interval": 33.5988,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-23T00:30:46.946Z",
+    "reps": 6
   },
   "food#the-main-meal": {
     "due": "2026-06-27T10:39:47.630544+00:00",
