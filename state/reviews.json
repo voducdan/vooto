@@ -2229,6 +2229,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-r#realization": {
+    "due": "2026-07-24T14:34:24.336825+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-r#rebellious": {
     "due": "2026-05-28T03:09:05.889737+00:00",
     "ef": 2.5,
