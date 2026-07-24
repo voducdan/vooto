@@ -314,10 +314,12 @@
     "reps": 2
   },
   "description#attractive": {
-    "due": "2026-07-24T09:23:37.347591+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-25T16:35:58.419Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-24T09:23:58.419Z",
+    "reps": 1
   },
   "description#awful": {
     "due": "2026-11-05T22:04:39.001Z",
@@ -522,7 +524,7 @@
   "education#to-master-a-language": {
     "due": "2026-07-24T09:23:37.347591+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#to-recall": {
