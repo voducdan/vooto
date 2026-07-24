@@ -1748,12 +1748,12 @@
     "reps": 1
   },
   "letter-g#gratitude": {
-    "due": "2026-07-24T13:14:24.826Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-23T13:14:24.826Z",
-    "reps": 1
+    "due": "2026-08-01T09:46:50.596Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-24T14:34:50.596Z",
+    "reps": 2
   },
   "letter-g#grossly": {
     "due": "2026-06-23T15:02:22.920955+00:00",
@@ -2232,7 +2232,7 @@
   "letter-r#realization": {
     "due": "2026-07-24T14:34:24.336825+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#rebellious": {
