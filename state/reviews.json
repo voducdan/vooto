@@ -602,12 +602,12 @@
     "reps": 0
   },
   "family#be-prone-to": {
-    "due": "2026-07-23T14:20:51.434Z",
-    "ef": 2.2,
-    "interval": 11.232,
+    "due": "2026-08-06T11:59:32.745Z",
+    "ef": 2.05,
+    "interval": 13.4784,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-12T08:46:46.634Z",
-    "reps": 4
+    "last_reviewed": "2026-07-24T00:30:38.985Z",
+    "reps": 5
   },
   "family#carefree": {
     "due": "2026-05-27T14:03:41.266284+00:00",
