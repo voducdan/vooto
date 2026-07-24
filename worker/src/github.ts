@@ -27,6 +27,23 @@ async function ghJson<T>(ctx: GhCtx, url: string, init?: RequestInit): Promise<T
   return (await r.json()) as T;
 }
 
+// Trigger a workflow_dispatch run of the given workflow file (e.g. "send.yml")
+// on `branch`. Needs a token with Actions: write. Returns 204 on success.
+export async function dispatchWorkflow(
+  token: string,
+  repo: string,
+  branch: string,
+  workflow: string,
+): Promise<void> {
+  const url = `${GH}/repos/${repo}/actions/workflows/${workflow}/dispatches`;
+  const r = await fetch(url, {
+    method: "POST",
+    headers: ghHeaders({ token, repo, branch }),
+    body: JSON.stringify({ ref: branch }),
+  });
+  if (!r.ok) throw new Error(`workflow dispatch ${r.status}: ${await r.text()}`);
+}
+
 export interface RepoState {
   reviews: Record<string, unknown>;
   pending: Record<string, string>;

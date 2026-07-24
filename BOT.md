@@ -97,7 +97,17 @@ Verify with `getWebhookInfo` — the `url` should be your worker.
 
 ## Adding words — `/newword`
 
-Send the bot `/newword <word>` (e.g. `/newword meticulous`) to enrich the wiki:
+Send the bot `/newword <word>` (e.g. `/newword meticulous`) to enrich the wiki.
+You can add an optional word type and quote a multi-word phrase:
+
+- `/newword entrepreneur` — look up and preview
+- `/newword entrepreneur n` — force the part of speech (`n`, `v`, `adj`, `adv`,
+  or the full word); overrides whatever the dictionary reports
+- `/newword "funny money"` — a phrase; Oxford is queried with the words joined by
+  hyphens (`…/definition/english/funny-money`)
+- `/newword "come a close second" v` — phrase plus type
+
+The flow is the same either way:
 
 1. Worker looks the word up — **Oxford Learner's Dictionaries** first, falling
    back to the free `dictionaryapi.dev` JSON if Oxford is unreachable or has no
@@ -118,6 +128,17 @@ secret, only messages from that chat are honored.
 > silently falls back to `dictionaryapi.dev`. Check the worker logs
 > (`npx wrangler tail`) to see which source served a lookup.
 
+## Triggering a check — `/check`
+
+Send `/check` to run the send workflow immediately instead of waiting for the
+next cron slot. The worker calls GitHub's `workflow_dispatch` API on
+`.github/workflows/send.yml`, so the exact same "send due cards" logic runs —
+cards arrive within a minute. The scheduled cron is unaffected.
+
+The worker's `GITHUB_TOKEN` must have **Actions: write** for this (in addition
+to the Contents: write it already uses to commit state). If it doesn't, `/check`
+replies with an error and the dispatch is logged in `npx wrangler tail`.
+
 ## Tuning
 
 - **Cards per run** — repo variable `BATCH_SIZE` or edit `bot/run.py`.
@@ -133,7 +154,7 @@ bot/
   telegram.py  Telegram send wrapper
   run.py       cron entry point (sends only)
 worker/
-  src/index.ts handler + dispatch (ratings + /newword)
+  src/index.ts handler + dispatch (ratings + /newword + /check)
   src/sr.ts    SM-2 (TS port — keep in sync with bot/sr.py)
   src/telegram.ts   send + answer + edit
   src/github.ts     read + atomic commit (state + wiki files)

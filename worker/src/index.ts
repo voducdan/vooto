@@ -6,7 +6,7 @@ import {
   editMessageWithFooter,
   sendMessage,
 } from "./telegram";
-import { commitFiles, commitMutation, readRepoFile } from "./github";
+import { commitFiles, commitMutation, dispatchWorkflow, readRepoFile } from "./github";
 import type { Card, Rating } from "./sr";
 import { RATINGS, humanizeInterval, newCard, rate } from "./sr";
 import { lookupWord } from "./dictionary";
@@ -87,6 +87,63 @@ async function handleCallback(cb: CallbackQuery, env: Env, _ctx: ExecutionContex
 
 const NEWWORD_RE = /^\/newword(?:@\w+)?(?:\s+(.+))?$/i;
 const WORD_RE = /^[a-zA-Z][a-zA-Z '-]*$/;
+const USAGE =
+  'Usage: <code>/newword &lt;word&gt; [type]</code> or <code>/newword "a phrase" [type]</code>\n' +
+  "Type is optional: n, v, adj, adv.";
+
+// Recognized part-of-speech markers → canonical wiki form. Users may pass either
+// the short form (n, v, adj, adv) or the full word.
+const POS_MAP: Record<string, string> = {
+  n: "noun", noun: "noun",
+  v: "verb", verb: "verb",
+  adj: "adjective", adjective: "adjective",
+  adv: "adverb", adverb: "adverb",
+  prep: "preposition", preposition: "preposition",
+  pron: "pronoun", pronoun: "pronoun",
+  conj: "conjunction", conjunction: "conjunction",
+  phrase: "phrase", idiom: "idiom",
+};
+
+function normalizePos(token: string): string | null {
+  return POS_MAP[token.toLowerCase()] ?? null;
+}
+
+type ParsedNewWord = { word: string; pos: string } | { error: string };
+
+// Parse the argument portion of "/newword ...". Supports an optional trailing
+// part-of-speech token and a "quoted phrase":
+//   entrepreneur            -> word "entrepreneur", no pos
+//   entrepreneur n          -> word "entrepreneur", pos "noun"
+//   "come a close second"   -> phrase, no pos
+//   "come a close second" v -> phrase, pos "verb"
+function parseNewWordArg(arg: string): ParsedNewWord {
+  const trimmed = arg.trim();
+  if (!trimmed) return { error: "" };
+
+  let word: string;
+  let posToken: string;
+  const quoted = /^["“”]([^"“”]+)["“”]\s*(.*)$/.exec(trimmed);
+  if (quoted) {
+    word = quoted[1].trim();
+    posToken = quoted[2].trim();
+  } else {
+    const tokens = trimmed.split(/\s+/);
+    const last = tokens.length > 1 ? tokens[tokens.length - 1] : "";
+    if (last && normalizePos(last)) {
+      posToken = last;
+      word = tokens.slice(0, -1).join(" ");
+    } else {
+      posToken = "";
+      word = trimmed;
+    }
+  }
+
+  if (!word) return { error: "" };
+  if (!posToken) return { word, pos: "" };
+  const pos = normalizePos(posToken);
+  if (!pos) return { error: `“${posToken}” isn't a known word type. Use one of: n, v, adj, adv.` };
+  return { word, pos };
+}
 
 function authorized(env: Env, chatId: number): boolean {
   return !env.TG_CHAT_ID || String(chatId) === env.TG_CHAT_ID;
@@ -98,11 +155,12 @@ async function handleNewWordCommand(msg: TgMessage, env: Env): Promise<void> {
   if (!authorized(env, msg.chat.id)) return;
 
   const m = NEWWORD_RE.exec((msg.text ?? "").trim());
-  const word = (m?.[1] ?? "").trim();
-  if (!word) {
-    await sendMessage(env.TG_BOT_TOKEN, msg.chat.id, "Usage: <code>/newword &lt;word&gt;</code>");
+  const parsed = parseNewWordArg(m?.[1] ?? "");
+  if ("error" in parsed) {
+    await sendMessage(env.TG_BOT_TOKEN, msg.chat.id, parsed.error || USAGE);
     return;
   }
+  const { word, pos } = parsed;
   if (!WORD_RE.test(word)) {
     await sendMessage(env.TG_BOT_TOKEN, msg.chat.id, `“${word}” doesn't look like a word.`);
     return;
@@ -125,10 +183,12 @@ async function handleNewWordCommand(msg: TgMessage, env: Env): Promise<void> {
     return;
   }
 
+  if (pos) entry.pos = pos;
+
   await sendMessage(env.TG_BOT_TOKEN, msg.chat.id, buildHtmlPreview(entry, letterFile), [
     [
-      { text: "✅ Add", callback_data: `nw:add:${word}` },
-      { text: "❌ Cancel", callback_data: `nw:no:${word}` },
+      { text: "✅ Add", callback_data: `nw:add:${pos}:${word}` },
+      { text: "❌ Cancel", callback_data: `nw:no:${pos}:${word}` },
     ],
   ]);
 }
@@ -140,7 +200,8 @@ async function handleNewWordCallback(cb: CallbackQuery, env: Env): Promise<void>
 
   const parts = (cb.data ?? "").split(":");
   const action = parts[1] ?? "";
-  const word = parts.slice(2).join(":");
+  const pos = parts[2] ?? "";
+  const word = parts.slice(3).join(":");
   const msg = cb.message;
   const canEdit = msg && typeof msg.text === "string";
 
@@ -165,6 +226,7 @@ async function handleNewWordCallback(cb: CallbackQuery, env: Env): Promise<void>
     await footer("\n\n⚠️ Lookup failed on confirm — nothing added");
     return;
   }
+  if (pos) entry.pos = pos;
 
   const dateIso = new Date().toISOString().slice(0, 10);
   const plan = planAddWord(entry, dateIso);
@@ -177,6 +239,23 @@ async function handleNewWordCallback(cb: CallbackQuery, env: Env): Promise<void>
     plan.mutate,
   );
   await footer(committed ? `\n\n✅ Added to ${plan.letterFile}` : "\n\n⚠️ Already in wiki");
+}
+
+// The GitHub Actions workflow that sends due review cards; also runs on cron.
+const SEND_WORKFLOW = "send.yml";
+
+// Handle "/check": trigger the send workflow on demand so due cards arrive now
+// instead of at the next scheduled run. The workflow does the actual sending.
+async function handleCheckCommand(msg: TgMessage, env: Env): Promise<void> {
+  if (!authorized(env, msg.chat.id)) return;
+  try {
+    await dispatchWorkflow(env.GITHUB_TOKEN, env.GITHUB_REPO, env.GITHUB_BRANCH, SEND_WORKFLOW);
+  } catch (e) {
+    console.log(`dispatchWorkflow failed: ${(e as Error).message}`);
+    await sendMessage(env.TG_BOT_TOKEN, msg.chat.id, "⚠️ Couldn't trigger a check. Try again shortly.");
+    return;
+  }
+  await sendMessage(env.TG_BOT_TOKEN, msg.chat.id, "⏳ Review check triggered — due cards will arrive in a moment.");
 }
 
 export default {
@@ -207,6 +286,12 @@ export default {
         await handleNewWordCommand(update.message, env);
       } catch (e) {
         console.log(`handleNewWordCommand error: ${(e as Error).message}`);
+      }
+    } else if (update.message?.text?.startsWith("/check")) {
+      try {
+        await handleCheckCommand(update.message, env);
+      } catch (e) {
+        console.log(`handleCheckCommand error: ${(e as Error).message}`);
       }
     }
 

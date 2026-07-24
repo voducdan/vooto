@@ -57,8 +57,14 @@ export function parseOxfordHtml(html: string, word: string): WordEntry | null {
   return { word, pos, ipa, definition, examples, source: "oxford" };
 }
 
+// Oxford's URL slug hyphenates multi-word phrases, e.g. "funny money" ->
+// /definition/english/funny-money. Keep the original spelling for the entry.
+function oxfordSlug(word: string): string {
+  return word.trim().toLowerCase().replace(/\s+/g, "-");
+}
+
 async function lookupOxford(word: string): Promise<WordEntry | null> {
-  const url = `https://www.oxfordlearnersdictionaries.com/definition/english/${encodeURIComponent(word)}`;
+  const url = `https://www.oxfordlearnersdictionaries.com/definition/english/${encodeURIComponent(oxfordSlug(word))}`;
   const r = await fetch(url, {
     headers: { "user-agent": BROWSER_UA, "accept-language": "en" },
   });
