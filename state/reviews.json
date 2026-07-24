@@ -616,10 +616,12 @@
     "reps": 0
   },
   "family#come-up-to-me": {
-    "due": "2026-07-24T09:22:05.146939+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-25T09:22:29.040Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-24T09:22:29.040Z",
+    "reps": 1
   },
   "family#empathize-with": {
     "due": "2026-08-02T12:27:00.291Z",
