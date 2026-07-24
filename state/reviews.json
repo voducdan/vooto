@@ -528,12 +528,12 @@
     "reps": 0
   },
   "environment#endangered-species": {
-    "due": "2026-07-24T00:34:26.127Z",
+    "due": "2026-08-08T06:52:05.687Z",
     "ef": 2.5,
-    "interval": 6,
+    "interval": 15,
     "last_rating": "good",
-    "last_reviewed": "2026-07-18T00:34:26.127Z",
-    "reps": 2
+    "last_reviewed": "2026-07-24T06:52:05.687Z",
+    "reps": 3
   },
   "environment#fossil-fuels": {
     "due": "2026-08-10T06:34:06.380Z",
