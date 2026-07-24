@@ -618,7 +618,7 @@
   "family#come-up-to-me": {
     "due": "2026-07-24T09:22:05.146939+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#empathize-with": {
@@ -3096,10 +3096,12 @@
     "reps": 0
   },
   "towns-and-cities#exercise-machines": {
-    "due": "2026-07-24T09:22:05.146939+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-25T09:22:22.624Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-24T09:22:22.624Z",
+    "reps": 1
   },
   "towns-and-cities#furnished": {
     "due": "2026-06-17T15:09:44.742Z",
