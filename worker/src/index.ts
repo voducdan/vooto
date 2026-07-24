@@ -6,7 +6,7 @@ import {
   editMessageWithFooter,
   sendMessage,
 } from "./telegram";
-import { commitFiles, commitMutation, dispatchWorkflow, readRepoFile } from "./github";
+import { commitFiles, commitMutation, dispatchRepositoryEvent, readRepoFile } from "./github";
 import type { Card, Rating } from "./sr";
 import { RATINGS, humanizeInterval, newCard, rate } from "./sr";
 import { lookupWord } from "./dictionary";
@@ -241,15 +241,15 @@ async function handleNewWordCallback(cb: CallbackQuery, env: Env): Promise<void>
   await footer(committed ? `\n\n✅ Added to ${plan.letterFile}` : "\n\n⚠️ Already in wiki");
 }
 
-// The GitHub Actions workflow that sends due review cards; also runs on cron.
-const SEND_WORKFLOW = "send.yml";
+// repository_dispatch event type the send workflow listens for (see send.yml).
+const CHECK_EVENT = "check";
 
 // Handle "/check": trigger the send workflow on demand so due cards arrive now
 // instead of at the next scheduled run. The workflow does the actual sending.
 async function handleCheckCommand(msg: TgMessage, env: Env): Promise<void> {
   if (!authorized(env, msg.chat.id)) return;
   try {
-    await dispatchWorkflow(env.GITHUB_TOKEN, env.GITHUB_REPO, env.GITHUB_BRANCH, SEND_WORKFLOW);
+    await dispatchRepositoryEvent(env.GITHUB_TOKEN, env.GITHUB_REPO, CHECK_EVENT);
   } catch (e) {
     console.log(`dispatchWorkflow failed: ${(e as Error).message}`);
     await sendMessage(env.TG_BOT_TOKEN, msg.chat.id, "⚠️ Couldn't trigger a check. Try again shortly.");

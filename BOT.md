@@ -131,13 +131,16 @@ secret, only messages from that chat are honored.
 ## Triggering a check — `/check`
 
 Send `/check` to run the send workflow immediately instead of waiting for the
-next cron slot. The worker calls GitHub's `workflow_dispatch` API on
-`.github/workflows/send.yml`, so the exact same "send due cards" logic runs —
-cards arrive within a minute. The scheduled cron is unaffected.
+next cron slot. The worker fires a GitHub `repository_dispatch` event
+(`event_type: check`) that `.github/workflows/send.yml` listens for, so the exact
+same "send due cards" logic runs — cards arrive within a minute. The scheduled
+cron is unaffected.
 
-The worker's `GITHUB_TOKEN` must have **Actions: write** for this (in addition
-to the Contents: write it already uses to commit state). If it doesn't, `/check`
-replies with an error and the dispatch is logged in `npx wrangler tail`.
+`repository_dispatch` needs only **Contents: write** — the same permission the
+worker already uses to commit state — so no extra token scope is required.
+(`workflow_dispatch` would have needed Actions: write, which the token lacks.)
+If a dispatch fails, `/check` replies with an error and the detail is logged in
+`npx wrangler tail`.
 
 ## Tuning
 

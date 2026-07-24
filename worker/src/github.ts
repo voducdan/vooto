@@ -27,21 +27,23 @@ async function ghJson<T>(ctx: GhCtx, url: string, init?: RequestInit): Promise<T
   return (await r.json()) as T;
 }
 
-// Trigger a workflow_dispatch run of the given workflow file (e.g. "send.yml")
-// on `branch`. Needs a token with Actions: write. Returns 204 on success.
-export async function dispatchWorkflow(
+// Fire a repository_dispatch event. Unlike workflow_dispatch (Actions: write),
+// this needs only Contents: write — the same permission used to commit state —
+// so it works with the worker's existing token. A workflow listening on
+// `repository_dispatch: types: [<eventType>]` runs on the default branch.
+// Returns 204 on success.
+export async function dispatchRepositoryEvent(
   token: string,
   repo: string,
-  branch: string,
-  workflow: string,
+  eventType: string,
 ): Promise<void> {
-  const url = `${GH}/repos/${repo}/actions/workflows/${workflow}/dispatches`;
+  const url = `${GH}/repos/${repo}/dispatches`;
   const r = await fetch(url, {
     method: "POST",
-    headers: ghHeaders({ token, repo, branch }),
-    body: JSON.stringify({ ref: branch }),
+    headers: ghHeaders({ token, repo, branch: "" }),
+    body: JSON.stringify({ event_type: eventType }),
   });
-  if (!r.ok) throw new Error(`workflow dispatch ${r.status}: ${await r.text()}`);
+  if (!r.ok) throw new Error(`repository dispatch ${r.status}: ${await r.text()}`);
 }
 
 export interface RepoState {
