@@ -2230,10 +2230,12 @@
     "reps": 0
   },
   "letter-r#realization": {
-    "due": "2026-07-24T14:34:24.336825+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-25T14:35:11.822Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-24T14:35:11.822Z",
+    "reps": 1
   },
   "letter-r#rebellious": {
     "due": "2026-05-28T03:09:05.889737+00:00",
