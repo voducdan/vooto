@@ -615,6 +615,12 @@
     "interval": 0,
     "reps": 0
   },
+  "family#come-up-to-me": {
+    "due": "2026-07-24T09:22:05.146939+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#empathize-with": {
     "due": "2026-08-02T12:27:00.291Z",
     "ef": 2.5,
@@ -3087,6 +3093,12 @@
     "due": "2026-06-28T14:34:46.151539+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "towns-and-cities#exercise-machines": {
+    "due": "2026-07-24T09:22:05.146939+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "towns-and-cities#furnished": {
