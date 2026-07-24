@@ -522,10 +522,12 @@
     "reps": 2
   },
   "education#to-master-a-language": {
-    "due": "2026-07-24T09:23:37.347591+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-25T09:24:01.563Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-24T09:24:01.563Z",
+    "reps": 1
   },
   "education#to-recall": {
     "due": "2026-08-11T01:23:50.549Z",
