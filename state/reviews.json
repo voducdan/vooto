@@ -3006,10 +3006,12 @@
     "reps": 3
   },
   "technology#to-be-stuck-behind-a-computer": {
-    "due": "2026-07-24T10:41:02.801762+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-25T11:04:22.412Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-24T11:04:22.412Z",
+    "reps": 1
   },
   "technology#to-boot-up": {
     "due": "2026-07-19T15:31:45.449Z",
