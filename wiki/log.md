@@ -15,3 +15,7 @@ Added [[letter-s]] entry "stagger" via /newword (source: oxford).
 ## [2026-07-24] newword | vanish
 
 Added [[letter-v]] entry "vanish" via /newword (source: oxford).
+
+## [2026-07-24] newword | nag
+
+Added [[letter-n]] entry "nag" via /newword (source: oxford).
