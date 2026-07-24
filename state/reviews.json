@@ -1011,6 +1011,12 @@
     "interval": 0,
     "reps": 0
   },
+  "ielts-writing#by-contrast-in-contrast": {
+    "due": "2026-07-24T10:41:02.801762+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#come-a-close-second": {
     "due": "2026-07-25T10:48:11.940Z",
     "ef": 1.75,
@@ -2996,6 +3002,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-12T00:30:34.381Z",
     "reps": 3
+  },
+  "technology#to-be-stuck-behind-a-computer": {
+    "due": "2026-07-24T10:41:02.801762+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "technology#to-boot-up": {
     "due": "2026-07-19T15:31:45.449Z",
