@@ -527,6 +527,12 @@
     "interval": 0,
     "reps": 0
   },
+  "environment#drought": {
+    "due": "2026-07-24T09:23:03.295199+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#endangered-species": {
     "due": "2026-08-08T06:52:05.687Z",
     "ef": 2.5,
@@ -1361,6 +1367,12 @@
     "due": "2026-05-24T05:54:12.376226+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-c#chant-t-nt": {
+    "due": "2026-07-24T09:23:03.295199+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-c#complementary": {
