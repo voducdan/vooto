@@ -530,7 +530,7 @@
   "environment#drought": {
     "due": "2026-07-24T09:23:03.295199+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "environment#endangered-species": {
@@ -1370,10 +1370,12 @@
     "reps": 0
   },
   "letter-c#chant-t-nt": {
-    "due": "2026-07-24T09:23:03.295199+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-25T09:23:13.707Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-24T09:23:13.707Z",
+    "reps": 1
   },
   "letter-c#complementary": {
     "due": "2026-05-24T06:21:44.884897+00:00",
