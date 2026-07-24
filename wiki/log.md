@@ -11,3 +11,7 @@ Added [[letter-h]] entry "hinge" via /newword (source: oxford).
 ## [2026-07-22] newword | stagger
 
 Added [[letter-s]] entry "stagger" via /newword (source: oxford).
+
+## [2026-07-24] newword | vanish
+
+Added [[letter-v]] entry "vanish" via /newword (source: oxford).
