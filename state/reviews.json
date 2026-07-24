@@ -3122,12 +3122,12 @@
     "reps": 3
   },
   "towns-and-cities#neighborhood": {
-    "due": "2026-07-23T19:45:16.719Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-07-31T22:20:56.192Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-22T12:33:16.719Z",
-    "reps": 1
+    "last_reviewed": "2026-07-24T03:08:56.192Z",
+    "reps": 2
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
