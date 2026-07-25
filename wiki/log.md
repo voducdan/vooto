@@ -19,3 +19,7 @@ Added [[letter-v]] entry "vanish" via /newword (source: oxford).
 ## [2026-07-24] newword | nag
 
 Added [[letter-n]] entry "nag" via /newword (source: oxford).
+
+## [2026-07-25] newword | distill
+
+Added [[letter-d]] entry "distill" via /newword (source: dictionaryapi).
