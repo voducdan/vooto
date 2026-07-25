@@ -891,6 +891,12 @@
     "interval": 0,
     "reps": 0
   },
+  "friends#care-about": {
+    "due": "2026-07-25T05:02:56.186778+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#circle-of-virtual-friends": {
     "due": "2026-08-01T18:08:35.859Z",
     "ef": 2.5,
@@ -3219,6 +3225,12 @@
     "due": "2026-06-26T09:06:15.407554+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "towns-and-cities#tour-guide": {
+    "due": "2026-07-25T05:02:56.186778+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "travel#a-riot-of-colour": {
