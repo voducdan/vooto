@@ -544,12 +544,12 @@
     "reps": 0
   },
   "environment#drought": {
-    "due": "2026-07-25T09:23:19.842Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-24T09:23:19.842Z",
-    "reps": 1
+    "due": "2026-08-02T09:59:57.156Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-07-25T14:47:57.156Z",
+    "reps": 2
   },
   "environment#endangered-species": {
     "due": "2026-08-08T06:52:05.687Z",
