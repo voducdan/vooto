@@ -1210,10 +1210,12 @@
     "reps": 3
   },
   "law#the-crime-rate": {
-    "due": "2026-07-25T08:40:52.670308+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-26T10:43:18.298Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-25T10:43:18.298Z",
+    "reps": 1
   },
   "law#to-enforce-strict-regulations-on": {
     "due": "2026-08-25T02:57:18.492Z",
@@ -2462,7 +2464,7 @@
   "letter-t#to-tell-off-tu-tel-f": {
     "due": "2026-07-25T08:40:52.670308+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#to-watch-someone-s-back": {
