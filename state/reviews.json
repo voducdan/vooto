@@ -2944,12 +2944,12 @@
     "reps": 0
   },
   "personality#lose-one-s-patience": {
-    "due": "2026-07-25T00:30:25.734Z",
+    "due": "2026-08-09T03:03:51.503Z",
     "ef": 2.5,
-    "interval": 6,
+    "interval": 15,
     "last_rating": "good",
-    "last_reviewed": "2026-07-19T00:30:25.734Z",
-    "reps": 2
+    "last_reviewed": "2026-07-25T03:03:51.503Z",
+    "reps": 3
   },
   "personality#officious": {
     "due": "2026-06-30T05:23:29.751872+00:00",
