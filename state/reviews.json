@@ -2462,10 +2462,12 @@
     "reps": 4
   },
   "letter-t#to-tell-off-tu-tel-f": {
-    "due": "2026-07-25T08:40:52.670308+00:00",
+    "due": "2026-07-26T10:43:28.885Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-25T10:43:28.885Z",
+    "reps": 1
   },
   "letter-t#to-watch-someone-s-back": {
     "due": "2026-06-26T05:26:30.313714+00:00",
