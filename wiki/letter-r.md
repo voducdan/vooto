@@ -2,7 +2,7 @@
 
 **Summary**: Alphabetical vocabulary entries starting with 'R', from the 'Other Vocabularies' section (pages 305-308).
 
-**Sources**: [[source-rachel-mitchell-2018]] — *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
+**Sources**: [[source-rachel-mitchell-2018]] â *IELTS Academic Vocabulary* by Rachel Mitchell (2018)
 
 **Last updated**: 2026-05-23
 
@@ -22,21 +22,21 @@
 
 ## Entries
 
-### Reluctant *[Adjective]* — /ɹiˈɫəktənt/
+### Reluctant *[Adjective]* â /É¹iËÉ«ÉktÉnt/
 
 **Definition**: unwilling and hesitant to do something because you do not want to do it.
 
 - Tom is reluctant to leave.
 - She seems reluctant to admit it.
 
-### Remind of *[Verb]* *(collocation)* — /riˈmaind/ /ɔv/
+### Remind of *[Verb]* *(collocation)* â /riËmaind/ /Év/
 
 **Definition**: to make somebody remember something that happened.
 
 - The picture reminds her of her school days.
 - This house reminds me of my old cottage where I lived 10 years ago.
 
-### Reckon *[Verb]* — /rekən/
+### Reckon *[Verb]* â /rekÉn/
 
 **Definition**: to think or have an opinion about something.
 
@@ -44,55 +44,55 @@
 - I reckon that we'll have to leave early.
 - I reckon it's time to go to the beach.
 
-### Removable *[Adjective]* — /ɹɪˈmuvəbəɫ/
+### Removable *[Adjective]* â /É¹ÉªËmuvÉbÉÉ«/
 
 **Definition**: easily removed; able to be removed.
 
 - Because it's removable, the cable can be used anywhere.
 - It's removable and reusable.
 
-### Recount *[Verb]* — /ˌɹiˈkaʊnt/
+### Recount *[Verb]* â /ËÉ¹iËkaÊnt/
 
 **Definition**: to narrate; to tell someone about something that you experienced.
 
 - My uncle sometimes recounted to me stories of his time as a teenager.
 - My friend recounted to me the tale of his first day at a new job.
 
-### Roughly *[Adverb]* — /rʌfli/
+### Roughly *[Adverb]* â /rÊfli/
 
 **Definition**: approximately.
 
 - In the IELTS writing task 2, I wrote roughly 300 words for my essay.
 
-### Run into difficulties *[Expression]* *(collocation)* — /rʌn/ /intu/ /ˈdɪfəkəɫtiz/
+### Run into difficulties *[Expression]* *(collocation)* â /rÊn/ /intu/ /ËdÉªfÉkÉÉ«tiz/
 
 **Definition**: to experience or get into a difficult situation.
 
 - We've run into difficulties with the new project.
 - Divorced couples might run into difficulties.
 
-### Regret *[Verb]* — /riˈgret/
+### Regret *[Verb]* â /riËgret/
 
 **Definition**: to feel sorry, disappointed, or remorseful about something that has happened or been done.
 
 - She regretted not having attended the university earlier.
 - I regret not speaking to him before he left.
 
-### Rival *[Noun]* — /raivl/
+### Rival *[Noun]* â /raivl/
 
 **Definition**: competitor.
 
 - Jack and Jill are rivals in the sportswear business.
 - The two football clubs are rivals.
 
-### To rest *[Verb]* *(collocation)* — /ˈtu/ /ˈɹɛst/
+### To rest *[Verb]* *(collocation)* â /Ëtu/ /ËÉ¹Ést/
 
 **Definition**: to take a break or relax from some activity.
 
 - We needed to rest after a hard day at work.
 - We had a short rest after lunch.
 
-### Review *[Verb]* — /riˈvju:/
+### Review *[Verb]* â /riËvju:/
 
 **Definition**: to look over, study, or examine again.
 
@@ -100,7 +100,7 @@
 - I need time to review the situation.
 - She attended this course to review her Japanese.
 
-### Rebellious *[Adjective]* — /ɹəˈbɛɫjəs/
+### Rebellious *[Adjective]* â /É¹ÉËbÉÉ«jÉs/
 
 **Definition**: opposing the ideas or rules of authority.
 
@@ -108,62 +108,62 @@
 - Tom is a rebellious boy.
 - This student is so rebellious. He never obeys the school rules. If the teacher tells him to wear his school uniform, he turns up in dirty jeans.
 
-### Resourcefulness *[Noun]* — /ɹiˈsɔɹsfəɫnəs/
+### Resourcefulness *[Noun]* â /É¹iËsÉÉ¹sfÉÉ«nÉs/
 
 **Definition**: the ability to be good at finding quick and clever ways to overcome difficulties.
 
 - Her resourcefulness was the main reason he had hired her.
 - His energy was unbounded, and his resourcefulness overcame every obstacle.
 
-### Reinforce *[Verb]* — /ˌɹiɪnˈfɔɹs/
+### Reinforce *[Verb]* â /ËÉ¹iÉªnËfÉÉ¹s/
 
 **Definition**: to strengthen; to make something stronger.
 
 - The building is covered by a reinforced concrete roof.
 - The walls have been reinforced in an attempt to minimize damage in the event of an earthquake.
 
-### Repetitive *[Adjective]* — /ɹɪˈpɛtɪtɪv/
+### Repetitive *[Adjective]* â /É¹ÉªËpÉtÉªtÉªv/
 
 **Definition**: doing the same thing over and over again, so that it becomes boring.
 
 - From my point of view, it is a repetitive job. All of the tasks repeat regularly.
 
-### Refuge *[Noun]* — /ˈɹɛfjudʒ/
+### Refuge *[Noun]* â /ËÉ¹ÉfjudÊ/
 
 **Definition**: a place that provides safety or protection.
 
 - A police station is a refuge for people who are in trouble.
 - My father's greenhouse is his refuge from our noisy home.
 
-### To read over *[Verb]* *(collocation)* — /ˈtu/ /ri:d/ /ouvə/
+### To read over *[Verb]* *(collocation)* â /Ëtu/ /ri:d/ /ouvÉ/
 
 **Definition**: to read something carefully from beginning to end to look for mistakes or to check details.
 
 - Tom carefully read over the contract before he signed it.
 - I went back and read over the book more thoroughly.
 
-### Respiratory disorder *[Noun]* *(collocation)* — /ˈɹɛspɝəˌtɔɹi/ /dɪˈsɔɹdɝ/
+### Respiratory disorder *[Noun]* *(collocation)* â /ËÉ¹ÉspÉÉËtÉÉ¹i/ /dÉªËsÉÉ¹dÉ/
 
 **Definition**: an illness or problems affecting the respiratory system.
 
 - Smoking is particularly dangerous for people who have respiratory disorders.
 - Pneumonia is a respiratory disorder that causes the sufferer's lungs to become inflamed with.
 
-### Realization *[Noun]* — /ˈɹiɫəˈzeɪʃən/
+### Realization *[Noun]* â /ËÉ¹iÉ«ÉËzeÉªÊÉn/
 
 **Definition**: the process of achieving or fulfilling an aim, desire or ambition.
 
 - I was shocked by the realization of what I had done.
 - When he passed the exam, it was the realization of his dream!
 
-### Rivalry *[Noun]* — /ˈɹaɪvəɫɹi/
+### Rivalry *[Noun]* â /ËÉ¹aÉªvÉÉ«É¹i/
 
 **Definition**: the act of competing for the same thing in the same field.
 
 - In Spain, there is a great rivalry between the football teams of Madrid and Barcelona.
 - Dogs and cats have a notorious history of rivalry.
 
-### Reluctance *[Noun]* — /ɹiˈɫəktəns/
+### Reluctance *[Noun]* â /É¹iËÉ«ÉktÉns/
 
 **Definition**: the feeling of unwillingness to do something (not wanting to do something).
 
@@ -175,3 +175,9 @@
 - [[index]]
 - [[source-rachel-mitchell-2018]]
 - [[collocations]]
+
+### Reimbursement *[Noun]* — /ˌriːɪmˈbɜːsmənt/
+
+**Definition**: the act of paying back money to somebody which they have spent or lost; the amount that is paid back
+
+- You will receive reimbursement for any additional costs incurred.
