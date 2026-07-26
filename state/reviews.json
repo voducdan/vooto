@@ -1218,12 +1218,12 @@
     "reps": 3
   },
   "law#the-crime-rate": {
-    "due": "2026-07-26T10:43:18.298Z",
+    "due": "2026-08-01T12:23:51.111Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-07-25T10:43:18.298Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-26T12:23:51.111Z",
+    "reps": 2
   },
   "law#to-enforce-strict-regulations-on": {
     "due": "2026-08-25T02:57:18.492Z",
