@@ -900,12 +900,12 @@
     "reps": 0
   },
   "friends#care-about": {
-    "due": "2026-07-26T13:33:00.153Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-08-03T10:48:22.129Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-25T06:21:00.153Z",
-    "reps": 1
+    "last_reviewed": "2026-07-26T15:36:22.129Z",
+    "reps": 2
   },
   "friends#circle-of-virtual-friends": {
     "due": "2026-08-01T18:08:35.859Z",
