@@ -743,6 +743,12 @@
     "last_reviewed": "2026-06-05T07:30:34.252Z",
     "reps": 2
   },
+  "food#homemade-food": {
+    "due": "2026-07-26T10:32:41.013985+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#in-a-walking-distance-of": {
     "due": "2026-07-28T02:37:10.518Z",
     "ef": 1.9,
@@ -2272,6 +2278,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-18T10:43:42.384Z",
     "reps": 2
+  },
+  "letter-r#respiratory-disorder-sp-t-i-d-s-d": {
+    "due": "2026-07-26T10:32:41.013985+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-r#rival": {
     "due": "2026-06-20T14:46:26.790133+00:00",
