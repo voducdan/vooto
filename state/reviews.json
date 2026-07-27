@@ -1072,12 +1072,12 @@
     "reps": 2
   },
   "ielts-writing#fluctuations": {
-    "due": "2026-07-27T00:16:03.156Z",
-    "ef": 2.65,
-    "interval": 7.8,
+    "due": "2026-08-24T16:32:14.979Z",
+    "ef": 2.8,
+    "interval": 28.392,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-19T05:04:03.156Z",
-    "reps": 2
+    "last_reviewed": "2026-07-27T07:07:46.179Z",
+    "reps": 3
   },
   "ielts-writing#fuel": {
     "due": "2026-05-29T05:27:44.707832+00:00",
