@@ -344,12 +344,12 @@
     "reps": 0
   },
   "description#disgusting": {
-    "due": "2026-07-27T10:24:01.380Z",
-    "ef": 1.75,
-    "interval": 3.8818,
+    "due": "2026-08-01T03:27:46.568Z",
+    "ef": 1.6,
+    "interval": 4.6582,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-23T13:14:17.316Z",
-    "reps": 7
+    "last_reviewed": "2026-07-27T11:40:01.544Z",
+    "reps": 8
   },
   "description#grave": {
     "due": "2026-05-29T11:06:16.310369+00:00",
