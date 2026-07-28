@@ -2418,7 +2418,7 @@
   "letter-s#suited-su-tid": {
     "due": "2026-07-28T06:52:33.226729+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#the-shore": {
@@ -3166,10 +3166,12 @@
     "reps": 0
   },
   "time#up-to-the-minute": {
-    "due": "2026-07-28T06:52:33.226729+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-29T06:59:51.092Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-28T06:59:51.092Z",
+    "reps": 1
   },
   "towns-and-cities#adjacent": {
     "due": "2026-06-11T11:12:53.503Z",
