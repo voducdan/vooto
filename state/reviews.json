@@ -1836,10 +1836,12 @@
     "reps": 0
   },
   "letter-h#high-degree-of-hai-d-gri-v": {
-    "due": "2026-07-28T08:56:08.579035+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-29T09:07:31.553Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-28T09:07:31.553Z",
+    "reps": 1
   },
   "letter-h#highly-credible": {
     "due": "2026-06-20T09:04:11.982753+00:00",
