@@ -1360,10 +1360,12 @@
     "reps": 2
   },
   "letter-b#bear-in-mind": {
-    "due": "2026-07-28T08:56:08.579035+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-29T09:07:24.343Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-28T09:07:24.343Z",
+    "reps": 1
   },
   "letter-b#blend-into": {
     "due": "2026-07-08T01:42:55.152Z",
@@ -1836,7 +1838,7 @@
   "letter-h#high-degree-of-hai-d-gri-v": {
     "due": "2026-07-28T08:56:08.579035+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-h#highly-credible": {
