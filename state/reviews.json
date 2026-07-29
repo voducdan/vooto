@@ -966,10 +966,12 @@
     "reps": 0
   },
   "friends#to-get-to-know-someone": {
-    "due": "2026-07-29T06:54:12.838013+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-07-30T07:01:58.726Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-29T07:01:58.726Z",
+    "reps": 1
   },
   "friends#to-hit-it-off-with-somebody": {
     "due": "2026-05-26T00:38:35.859551+00:00",
