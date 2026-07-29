@@ -2330,12 +2330,12 @@
     "reps": 2
   },
   "letter-r#respiratory-disorder-sp-t-i-d-s-d": {
-    "due": "2026-07-28T18:18:12.925Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-07-30T11:19:24.355Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-27T13:30:12.925Z",
-    "reps": 2
+    "last_reviewed": "2026-07-29T00:45:48.355Z",
+    "reps": 3
   },
   "letter-r#rival": {
     "due": "2026-06-20T14:46:26.790133+00:00",
