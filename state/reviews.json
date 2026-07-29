@@ -677,6 +677,12 @@
     "last_reviewed": "2026-06-15T07:59:00.625Z",
     "reps": 1
   },
+  "family#harshness": {
+    "due": "2026-07-29T14:46:11.991163+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#kind-hearted": {
     "due": "2026-06-28T03:07:46.782518+00:00",
     "ef": 2.5,
