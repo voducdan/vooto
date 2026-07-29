@@ -31,3 +31,7 @@ Added [[letter-r]] entry "reimbursement" via /newword (source: oxford).
 ## [2026-07-29] newword | plainly
 
 Added [[letter-p]] entry "plainly" via /newword (source: oxford).
+
+## [2026-07-29] newword | conservative
+
+Added [[letter-c]] entry "conservative" via /newword (source: oxford).
