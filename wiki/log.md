@@ -27,3 +27,7 @@ Added [[letter-d]] entry "distill" via /newword (source: dictionaryapi).
 ## [2026-07-25] newword | reimbursement
 
 Added [[letter-r]] entry "reimbursement" via /newword (source: oxford).
+
+## [2026-07-29] newword | plainly
+
+Added [[letter-p]] entry "plainly" via /newword (source: oxford).
