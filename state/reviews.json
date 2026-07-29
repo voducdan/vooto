@@ -1286,7 +1286,7 @@
   "letter-a#alleviate-li-vie-t": {
     "due": "2026-07-29T05:03:52.451245+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#altruism": {
@@ -3108,10 +3108,12 @@
     "reps": 3
   },
   "technology#reliance-on": {
-    "due": "2026-07-29T05:03:52.451245+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-07-30T05:04:09.544Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-29T05:04:09.544Z",
+    "reps": 1
   },
   "technology#technology-gadget": {
     "due": "2026-08-10T22:25:17.581Z",
