@@ -1412,12 +1412,12 @@
     "reps": 0
   },
   "letter-b#to-become-obsolete": {
-    "due": "2026-07-29T01:58:54.290Z",
+    "due": "2026-08-04T04:17:39.841Z",
     "ef": 2.05,
-    "interval": 2.952,
+    "interval": 6.0516,
     "last_rating": "good",
-    "last_reviewed": "2026-07-26T03:08:01.490Z",
-    "reps": 4
+    "last_reviewed": "2026-07-29T03:03:21.601Z",
+    "reps": 5
   },
   "letter-b#to-become-over-reliant-on": {
     "due": "2026-06-26T07:18:11.124567+00:00",
