@@ -648,12 +648,12 @@
     "reps": 0
   },
   "family#come-up-to-me": {
-    "due": "2026-07-30T06:15:20.900Z",
-    "ef": 1.9,
-    "interval": 1.728,
+    "due": "2026-08-01T12:43:24.597Z",
+    "ef": 1.75,
+    "interval": 2.0736,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-28T12:47:01.700Z",
-    "reps": 4
+    "last_reviewed": "2026-07-30T10:57:25.557Z",
+    "reps": 5
   },
   "family#empathize-with": {
     "due": "2026-08-02T12:27:00.291Z",
