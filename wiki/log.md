@@ -35,3 +35,7 @@ Added [[letter-p]] entry "plainly" via /newword (source: oxford).
 ## [2026-07-29] newword | conservative
 
 Added [[letter-c]] entry "conservative" via /newword (source: oxford).
+
+## [2026-07-30] newword | friction
+
+Added [[letter-f]] entry "friction" via /newword (source: oxford).
