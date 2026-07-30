@@ -522,12 +522,12 @@
     "reps": 5
   },
   "education#to-disrupt-lessons": {
-    "due": "2026-07-30T04:14:42.611Z",
+    "due": "2026-08-18T19:07:09.993Z",
     "ef": 2.5,
-    "interval": 7.8,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-22T09:02:42.611Z",
-    "reps": 2
+    "interval": 19.5,
+    "last_rating": "good",
+    "last_reviewed": "2026-07-30T07:07:09.993Z",
+    "reps": 3
   },
   "education#to-master-a-language": {
     "due": "2026-08-02T10:00:00.352Z",
