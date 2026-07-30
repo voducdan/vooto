@@ -1616,12 +1616,12 @@
     "reps": 0
   },
   "letter-e#exploit-k-spl-t": {
-    "due": "2026-08-06T19:35:40.717Z",
-    "ef": 2.2,
-    "interval": 7.2,
+    "due": "2026-08-08T06:09:20.200Z",
+    "ef": 2.05,
+    "interval": 8.64,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-30T14:47:40.717Z",
-    "reps": 3
+    "last_reviewed": "2026-07-30T14:47:44.200Z",
+    "reps": 4
   },
   "letter-e#extraction": {
     "due": "2026-06-17T15:09:59.486Z",
