@@ -2300,12 +2300,12 @@
     "reps": 0
   },
   "letter-p#provide-pr-vaid": {
-    "due": "2026-07-29T18:03:47.094Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-08-06T22:36:28.204Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-28T10:51:47.094Z",
-    "reps": 1
+    "last_reviewed": "2026-07-30T03:24:28.204Z",
+    "reps": 2
   },
   "letter-p#put-off": {
     "due": "2026-06-29T09:37:10.781076+00:00",
