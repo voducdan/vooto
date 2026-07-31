@@ -2590,12 +2590,12 @@
     "reps": 0
   },
   "letter-u#understandable": {
-    "due": "2026-07-30T22:15:26.135Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-08-30T05:07:12.645Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-23T03:03:26.135Z",
-    "reps": 2
+    "last_reviewed": "2026-07-31T07:12:29.445Z",
+    "reps": 3
   },
   "letter-u#unexpected": {
     "due": "2026-08-30T05:07:03.421Z",
