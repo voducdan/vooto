@@ -1730,10 +1730,12 @@
     "reps": 3
   },
   "letter-f#foremost-f-mo-st": {
-    "due": "2026-07-31T12:37:57.856734+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-08-01T13:48:51.068Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-07-31T13:48:51.068Z",
+    "reps": 1
   },
   "letter-f#forget-all-about": {
     "due": "2026-07-20T14:36:32.206Z",
@@ -2728,7 +2730,7 @@
   "letter-v#vivid-v-v-d": {
     "due": "2026-07-31T12:37:57.856734+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-w#weigh-up-the-pros-and-cons": {
