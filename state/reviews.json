@@ -351,6 +351,12 @@
     "last_reviewed": "2026-07-27T11:40:01.544Z",
     "reps": 8
   },
+  "description#generous": {
+    "due": "2026-07-31T10:53:14.635348+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#grave": {
     "due": "2026-05-29T11:06:16.310369+00:00",
     "ef": 2.5,
