@@ -1729,6 +1729,12 @@
     "last_reviewed": "2026-07-07T00:37:06.701Z",
     "reps": 3
   },
+  "letter-f#foremost-f-mo-st": {
+    "due": "2026-07-31T12:37:57.856734+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-f#forget-all-about": {
     "due": "2026-07-20T14:36:32.206Z",
     "ef": 2.35,
@@ -2717,6 +2723,12 @@
     "due": "2026-06-20T03:07:14.027434+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-v#vivid-v-v-d": {
+    "due": "2026-07-31T12:37:57.856734+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-w#weigh-up-the-pros-and-cons": {
