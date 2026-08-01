@@ -1444,12 +1444,12 @@
     "reps": 5
   },
   "letter-b#to-be-for-the-better": {
-    "due": "2026-08-01T05:44:58.505Z",
-    "ef": 2.2,
-    "interval": 7.2,
+    "due": "2026-08-09T23:16:56.267Z",
+    "ef": 2.05,
+    "interval": 8.64,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-25T00:56:58.505Z",
-    "reps": 3
+    "last_reviewed": "2026-08-01T07:55:20.267Z",
+    "reps": 4
   },
   "letter-b#to-be-out-of-one-s-depth": {
     "due": "2026-06-22T08:00:16.398391+00:00",
