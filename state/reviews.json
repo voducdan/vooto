@@ -926,10 +926,12 @@
     "reps": 7
   },
   "free-time#take-up": {
-    "due": "2026-08-01T12:21:06.116826+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-08-02T12:34:36.349Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-01T12:34:36.349Z",
+    "reps": 1
   },
   "free-time#to-embark-on": {
     "due": "2026-05-26T07:12:38.234446+00:00",
@@ -2070,7 +2072,7 @@
   "letter-l#long-term": {
     "due": "2026-08-01T12:21:06.116826+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#lose-one-s-patience": {
