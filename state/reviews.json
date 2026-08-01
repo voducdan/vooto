@@ -1511,6 +1511,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-c#conservative": {
+    "due": "2026-08-01T08:46:05.241763+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#convince": {
     "due": "2026-06-21T14:49:50.080466+00:00",
     "ef": 2.5,
