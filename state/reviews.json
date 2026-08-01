@@ -694,12 +694,12 @@
     "reps": 1
   },
   "family#harshness": {
-    "due": "2026-08-01T06:47:04.339Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-08-02T18:28:53.044Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-31T01:59:04.339Z",
-    "reps": 2
+    "last_reviewed": "2026-08-01T07:55:17.044Z",
+    "reps": 3
   },
   "family#kind-hearted": {
     "due": "2026-06-28T03:07:46.782518+00:00",
@@ -836,7 +836,7 @@
   "food#succulent": {
     "due": "2026-08-01T05:04:37.255937+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#the-main-meal": {
