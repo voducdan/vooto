@@ -1280,12 +1280,12 @@
     "reps": 3
   },
   "law#the-crime-rate": {
-    "due": "2026-08-01T12:23:51.111Z",
+    "due": "2026-08-15T17:17:13.922Z",
     "ef": 2.35,
-    "interval": 6,
+    "interval": 14.1,
     "last_rating": "good",
-    "last_reviewed": "2026-07-26T12:23:51.111Z",
-    "reps": 2
+    "last_reviewed": "2026-08-01T14:53:13.922Z",
+    "reps": 3
   },
   "law#to-enforce-strict-regulations-on": {
     "due": "2026-08-25T02:57:18.492Z",
