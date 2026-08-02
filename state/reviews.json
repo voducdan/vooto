@@ -360,12 +360,12 @@
     "reps": 8
   },
   "description#generous": {
-    "due": "2026-08-01T18:47:38.252Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-08-10T02:05:14.824Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-31T11:35:38.252Z",
-    "reps": 1
+    "last_reviewed": "2026-08-02T06:53:14.824Z",
+    "reps": 2
   },
   "description#grave": {
     "due": "2026-05-29T11:06:16.310369+00:00",
