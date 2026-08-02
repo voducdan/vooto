@@ -1498,12 +1498,12 @@
     "reps": 0
   },
   "letter-c#chant-t-nt": {
-    "due": "2026-08-01T14:38:43.643Z",
-    "ef": 1.75,
-    "interval": 2.0736,
+    "due": "2026-08-04T18:36:42.527Z",
+    "ef": 1.6,
+    "interval": 2.4883,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-30T12:52:44.603Z",
-    "reps": 5
+    "last_reviewed": "2026-08-02T06:53:31.679Z",
+    "reps": 6
   },
   "letter-c#complementary": {
     "due": "2026-05-24T06:21:44.884897+00:00",
