@@ -1520,12 +1520,12 @@
     "reps": 0
   },
   "letter-c#conservative": {
-    "due": "2026-08-02T08:52:05.909Z",
-    "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-08-01T08:52:05.909Z",
-    "reps": 1
+    "due": "2026-08-10T09:43:07.640Z",
+    "ef": 2.5,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-02T14:31:07.640Z",
+    "reps": 2
   },
   "letter-c#convince": {
     "due": "2026-06-21T14:49:50.080466+00:00",
