@@ -2766,12 +2766,12 @@
     "reps": 0
   },
   "letter-v#vivid-v-v-d": {
-    "due": "2026-08-01T13:48:54.862Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-08-03T11:41:47.352Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-31T13:48:54.862Z",
-    "reps": 1
+    "last_reviewed": "2026-08-02T06:53:47.352Z",
+    "reps": 2
   },
   "letter-w#weigh-up-the-pros-and-cons": {
     "due": "2026-05-27T00:39:39.859971+00:00",
