@@ -192,12 +192,12 @@
     "reps": 0
   },
   "buildings#dusty": {
-    "due": "2026-08-02T03:20:37.795Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-08-01T03:20:37.795Z",
-    "reps": 1
+    "due": "2026-08-10T09:04:17.913Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-02T13:52:17.913Z",
+    "reps": 2
   },
   "buildings#historical-monument": {
     "due": "2026-05-26T09:10:03.413561+00:00",
