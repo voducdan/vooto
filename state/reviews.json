@@ -3326,12 +3326,12 @@
     "reps": 2
   },
   "towns-and-cities#air-quality": {
-    "due": "2026-08-02T23:13:59.535Z",
-    "ef": 2.8,
-    "interval": 21.84,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-12T03:04:23.535Z",
-    "reps": 3
+    "due": "2026-10-26T09:11:04.605Z",
+    "ef": 2.95,
+    "interval": 83.7564,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-03T15:01:51.645Z",
+    "reps": 4
   },
   "towns-and-cities#campsite": {
     "due": "2026-06-12T09:25:05.343215+00:00",
