@@ -672,12 +672,12 @@
     "reps": 6
   },
   "family#empathize-with": {
-    "due": "2026-08-02T12:27:00.291Z",
+    "due": "2026-09-20T21:07:19.210Z",
     "ef": 2.5,
-    "interval": 19.5,
+    "interval": 48.75,
     "last_rating": "good",
-    "last_reviewed": "2026-07-14T00:27:00.291Z",
-    "reps": 3
+    "last_reviewed": "2026-08-03T03:07:19.210Z",
+    "reps": 4
   },
   "family#fulfill-one-s-dream": {
     "due": "2026-06-20T05:30:22.314567+00:00",
