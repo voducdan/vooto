@@ -1422,12 +1422,12 @@
     "reps": 2
   },
   "letter-b#bear-in-mind": {
-    "due": "2026-08-02T19:02:51.066Z",
+    "due": "2026-08-09T02:49:24.783Z",
     "ef": 2.2,
-    "interval": 2.64,
+    "interval": 5.808,
     "last_rating": "good",
-    "last_reviewed": "2026-07-31T03:41:15.066Z",
-    "reps": 3
+    "last_reviewed": "2026-08-03T07:25:53.583Z",
+    "reps": 4
   },
   "letter-b#blend-into": {
     "due": "2026-07-08T01:42:55.152Z",
