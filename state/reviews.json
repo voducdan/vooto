@@ -480,12 +480,12 @@
     "reps": 3
   },
   "education#interactive-learning": {
-    "due": "2026-08-02T19:02:47.653Z",
-    "ef": 2.2,
-    "interval": 2.64,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-31T03:41:11.653Z",
-    "reps": 3
+    "due": "2026-08-11T08:59:50.125Z",
+    "ef": 2.35,
+    "interval": 8.0652,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-03T07:25:56.845Z",
+    "reps": 4
   },
   "education#keep-track-of": {
     "due": "2026-05-27T13:43:06.236454+00:00",
