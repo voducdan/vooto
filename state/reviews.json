@@ -2166,12 +2166,12 @@
     "reps": 0
   },
   "letter-m#to-make-the-grade": {
-    "due": "2026-08-02T20:44:55.983Z",
+    "due": "2026-08-15T08:11:55.726Z",
     "ef": 1.9,
-    "interval": 6.2381,
+    "interval": 11.8524,
     "last_rating": "good",
-    "last_reviewed": "2026-07-27T15:02:05.871Z",
-    "reps": 6
+    "last_reviewed": "2026-08-03T11:44:29.230Z",
+    "reps": 7
   },
   "letter-m#to-memorize": {
     "due": "2026-05-25T13:08:37.525282+00:00",
