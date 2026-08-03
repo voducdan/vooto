@@ -694,12 +694,12 @@
     "reps": 1
   },
   "family#harshness": {
-    "due": "2026-08-02T18:28:53.044Z",
-    "ef": 2.05,
-    "interval": 1.44,
+    "due": "2026-08-04T22:55:36.574Z",
+    "ef": 1.9,
+    "interval": 1.728,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-01T07:55:17.044Z",
-    "reps": 3
+    "last_reviewed": "2026-08-03T05:27:17.374Z",
+    "reps": 4
   },
   "family#kind-hearted": {
     "due": "2026-06-28T03:07:46.782518+00:00",
