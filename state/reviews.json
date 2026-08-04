@@ -1378,12 +1378,12 @@
     "reps": 0
   },
   "letter-a#avid-v-d": {
-    "due": "2026-08-03T19:21:59.853Z",
-    "ef": 2.35,
-    "interval": 9.36,
+    "due": "2026-08-15T17:35:05.430Z",
+    "ef": 2.2,
+    "interval": 11.232,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-25T10:43:35.853Z",
-    "reps": 3
+    "last_reviewed": "2026-08-04T12:01:00.630Z",
+    "reps": 4
   },
   "letter-b#barrier": {
     "due": "2026-05-29T11:06:16.310369+00:00",
