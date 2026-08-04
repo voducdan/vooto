@@ -946,12 +946,12 @@
     "reps": 0
   },
   "friends#care-about": {
-    "due": "2026-08-03T10:48:22.129Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-09-03T09:55:53.569Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-26T15:36:22.129Z",
-    "reps": 2
+    "last_reviewed": "2026-08-04T12:01:10.369Z",
+    "reps": 3
   },
   "friends#circle-of-virtual-friends": {
     "due": "2026-10-08T11:08:53.719Z",
