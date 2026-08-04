@@ -3428,12 +3428,12 @@
     "reps": 0
   },
   "towns-and-cities#tour-guide": {
-    "due": "2026-08-03T10:48:18.974Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-09-03T04:13:10.799Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-26T15:36:18.974Z",
-    "reps": 2
+    "last_reviewed": "2026-08-04T06:18:27.599Z",
+    "reps": 3
   },
   "travel#a-riot-of-colour": {
     "due": "2026-05-25T11:23:22.840800+00:00",
