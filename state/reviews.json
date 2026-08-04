@@ -3340,12 +3340,12 @@
     "reps": 0
   },
   "towns-and-cities#clean-and-tidy": {
-    "due": "2026-08-03T23:13:50.775Z",
-    "ef": 2.8,
-    "interval": 21.84,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-13T03:04:14.775Z",
-    "reps": 3
+    "due": "2026-10-27T08:40:13.859Z",
+    "ef": 2.95,
+    "interval": 83.7564,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-04T14:31:00.899Z",
+    "reps": 4
   },
   "towns-and-cities#destination": {
     "due": "2026-06-27T12:27:25.937574+00:00",
