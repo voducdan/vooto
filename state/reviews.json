@@ -2996,12 +2996,12 @@
     "reps": 0
   },
   "music#enlighten": {
-    "due": "2026-08-03T22:55:15.144Z",
-    "ef": 2.65,
-    "interval": 20.67,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-14T06:50:27.144Z",
-    "reps": 3
+    "due": "2026-10-18T20:14:56.486Z",
+    "ef": 2.8,
+    "interval": 75.2388,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-04T14:31:04.166Z",
+    "reps": 4
   },
   "music#hip-hop": {
     "due": "2026-06-20T03:07:14.027434+00:00",
