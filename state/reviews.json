@@ -1330,12 +1330,12 @@
     "reps": 0
   },
   "letter-a#alleviate-li-vie-t": {
-    "due": "2026-08-04T04:21:46.803Z",
-    "ef": 1.9,
-    "interval": 1.728,
+    "due": "2026-08-07T11:58:37.060Z",
+    "ef": 1.75,
+    "interval": 2.0736,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-02T10:53:27.603Z",
-    "reps": 4
+    "last_reviewed": "2026-08-05T10:12:38.020Z",
+    "reps": 5
   },
   "letter-a#altruism": {
     "due": "2026-06-30T03:06:56.022098+00:00",
