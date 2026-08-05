@@ -8,12 +8,12 @@
     "reps": 4
   },
   "books-and-films#blockbuster": {
-    "due": "2026-08-04T02:55:18.454Z",
-    "ef": 2.35,
-    "interval": 14.1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-21T00:31:18.454Z",
-    "reps": 3
+    "due": "2026-08-22T08:17:37.930Z",
+    "ef": 2.2,
+    "interval": 16.92,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-05T10:12:49.930Z",
+    "reps": 4
   },
   "books-and-films#broaden-one-s-knowledge": {
     "due": "2026-05-24T05:20:21.328526+00:00",
