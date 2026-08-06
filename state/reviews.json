@@ -2690,12 +2690,12 @@
     "reps": 4
   },
   "letter-u#unthinkable": {
-    "due": "2026-08-04T08:27:15.332Z",
+    "due": "2026-08-26T01:28:40.891Z",
     "ef": 2.2,
-    "interval": 9.0605,
+    "interval": 19.9331,
     "last_rating": "good",
-    "last_reviewed": "2026-07-26T07:00:09.860Z",
-    "reps": 5
+    "last_reviewed": "2026-08-06T03:05:01.051Z",
+    "reps": 6
   },
   "letter-u#update-up-to-date": {
     "due": "2026-05-27T11:13:01.029340+00:00",
