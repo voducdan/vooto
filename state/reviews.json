@@ -3450,12 +3450,12 @@
     "reps": 5
   },
   "travel#enchanting": {
-    "due": "2026-08-04T17:35:05.373Z",
-    "ef": 2.2,
-    "interval": 7.2,
+    "due": "2026-08-14T18:26:28.050Z",
+    "ef": 2.05,
+    "interval": 8.64,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-28T12:47:05.373Z",
-    "reps": 3
+    "last_reviewed": "2026-08-06T03:04:52.050Z",
+    "reps": 4
   },
   "travel#endlessly": {
     "due": "2026-11-10T22:18:52.656Z",
