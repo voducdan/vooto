@@ -2246,12 +2246,12 @@
     "reps": 0
   },
   "letter-o#out-of-the-question": {
-    "due": "2026-08-05T12:39:42.498Z",
-    "ef": 2.05,
-    "interval": 13.3135,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-23T05:08:14.370Z",
-    "reps": 6
+    "due": "2026-08-22T05:59:35.379Z",
+    "ef": 1.9,
+    "interval": 15.9762,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-06T06:33:51.699Z",
+    "reps": 7
   },
   "letter-o#outdated": {
     "due": "2026-08-10T06:34:02.681Z",
