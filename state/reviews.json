@@ -926,12 +926,12 @@
     "reps": 7
   },
   "free-time#take-up": {
-    "due": "2026-08-04T10:15:20.176Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-08-07T13:38:33.976Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-03T05:27:20.176Z",
-    "reps": 2
+    "last_reviewed": "2026-08-06T03:04:57.976Z",
+    "reps": 3
   },
   "free-time#to-embark-on": {
     "due": "2026-05-26T07:12:38.234446+00:00",
