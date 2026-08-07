@@ -2625,6 +2625,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-t#treasure-t": {
+    "due": "2026-08-07T07:05:48.721494+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-t#turn-down": {
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
@@ -3582,6 +3588,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-07T03:08:05.288Z",
     "reps": 2
+  },
+  "urbanisation#metropolis": {
+    "due": "2026-08-07T07:05:48.721494+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "urbanisation#opulent": {
     "due": "2026-08-15T03:38:35.759Z",
