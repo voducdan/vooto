@@ -51,6 +51,12 @@
     "interval": 0,
     "reps": 0
   },
+  "books-and-films#from-cover-to-cover": {
+    "due": "2026-08-07T14:48:03.021660+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#frustrated": {
     "due": "2026-05-24T00:38:29.987428+00:00",
     "ef": 2.5,
