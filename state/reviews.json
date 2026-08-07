@@ -846,12 +846,12 @@
     "reps": 0
   },
   "food#to-be-dying-of-hunger": {
-    "due": "2026-08-06T07:41:18.055Z",
+    "due": "2026-08-18T21:59:33.456Z",
     "ef": 1.9,
-    "interval": 6.2381,
+    "interval": 11.8524,
     "last_rating": "good",
-    "last_reviewed": "2026-07-31T01:58:27.943Z",
-    "reps": 6
+    "last_reviewed": "2026-08-07T01:32:06.960Z",
+    "reps": 7
   },
   "food#to-be-high-in-fiber": {
     "due": "2026-06-27T12:27:25.937574+00:00",
