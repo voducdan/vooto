@@ -685,6 +685,12 @@
     "interval": 0,
     "reps": 0
   },
+  "family#genuine": {
+    "due": "2026-08-07T08:51:51.098723+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#goodwill": {
     "due": "2026-06-16T07:59:00.625Z",
     "ef": 2.35,
@@ -3420,6 +3426,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-08-01T03:20:40.762Z",
     "reps": 3
+  },
+  "towns-and-cities#package-holiday": {
+    "due": "2026-08-07T08:51:51.098723+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
