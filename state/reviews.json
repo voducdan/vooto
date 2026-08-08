@@ -1755,6 +1755,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-f#for-good-f-gud": {
+    "due": "2026-08-08T03:19:32.475502+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-f#force": {
     "due": "2026-08-10T10:21:37.066Z",
     "ef": 2.95,
@@ -2016,6 +2022,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-08T03:09:30.911Z",
     "reps": 5
+  },
+  "letter-i#in-the-vicinity-of": {
+    "due": "2026-08-08T03:19:32.475502+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-i#inappropriate": {
     "due": "2026-06-25T00:41:27.809527+00:00",
