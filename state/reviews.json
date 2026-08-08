@@ -2433,6 +2433,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-p#to-prey-on-tu-p-e-n": {
+    "due": "2026-08-08T14:26:03.242457+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-p#to-push-forward": {
     "due": "2026-06-26T11:01:12.980445+00:00",
     "ef": 2.5,
@@ -2622,6 +2628,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-12T06:53:55.351Z",
     "reps": 4
+  },
+  "letter-t#take-special-note-of-teik-spe-l-nout-v": {
+    "due": "2026-08-08T14:26:03.242457+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-t#thanks-to": {
     "due": "2026-06-20T05:30:22.314567+00:00",
