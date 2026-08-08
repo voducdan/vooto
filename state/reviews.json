@@ -1165,6 +1165,12 @@
     "interval": 0,
     "reps": 0
   },
+  "ielts-writing#in-terms-of": {
+    "due": "2026-08-08T12:35:31.038094+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#overall-general": {
     "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
