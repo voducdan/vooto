@@ -2061,6 +2061,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-i#irreplaceable": {
+    "due": "2026-08-08T08:32:57.728294+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-i#irrespective-of": {
     "due": "2026-06-28T10:44:41.553467+00:00",
     "ef": 2.5,
