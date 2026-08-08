@@ -1665,6 +1665,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-e#evocative-v-k-t-v": {
+    "due": "2026-08-08T04:50:30.244262+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#exploit-k-spl-t": {
     "due": "2026-08-08T06:09:20.200Z",
     "ef": 2.05,
@@ -2715,6 +2721,12 @@
     "due": "2026-05-27T07:26:55.918228+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-u#unreasonable": {
+    "due": "2026-08-08T04:50:30.244262+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-u#unscrupulous": {
