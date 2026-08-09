@@ -2061,6 +2061,12 @@
     "last_reviewed": "2026-07-16T00:28:01.620Z",
     "reps": 3
   },
+  "letter-i#inequalities": {
+    "due": "2026-08-09T08:34:50.948006+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-i#inevitably": {
     "due": "2026-06-22T15:39:54.611762+00:00",
     "ef": 2.5,
@@ -2659,6 +2665,12 @@
     "due": "2026-06-30T00:40:33.288731+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-t#throw-a-party-rou-e-p-rti": {
+    "due": "2026-08-09T08:34:50.948006+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-t#to-keep-abreast-of": {
