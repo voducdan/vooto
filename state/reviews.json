@@ -981,6 +981,12 @@
     "last_reviewed": "2026-06-13T04:18:18.062Z",
     "reps": 5
   },
+  "friends#console": {
+    "due": "2026-08-09T14:28:30.603049+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#mutual-friend": {
     "due": "2026-10-12T12:45:47.944Z",
     "ef": 2.8,
@@ -3324,6 +3330,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-12T00:30:34.381Z",
     "reps": 3
+  },
+  "technology#to-back-up-files": {
+    "due": "2026-08-09T14:28:30.603049+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "technology#to-be-stuck-behind-a-computer": {
     "due": "2026-07-30T00:45:28.211Z",
