@@ -3276,12 +3276,12 @@
     "reps": 0
   },
   "personality#lose-one-s-patience": {
-    "due": "2026-08-09T03:03:51.503Z",
-    "ef": 2.5,
-    "interval": 15,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-25T03:03:51.503Z",
-    "reps": 3
+    "due": "2026-09-30T19:26:32.379Z",
+    "ef": 2.65,
+    "interval": 51.675,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-10T03:14:32.379Z",
+    "reps": 4
   },
   "personality#officious": {
     "due": "2026-06-30T05:23:29.751872+00:00",
