@@ -3322,12 +3322,12 @@
     "reps": 3
   },
   "technology#reliance-on": {
-    "due": "2026-08-07T11:58:40.314Z",
-    "ef": 1.75,
-    "interval": 2.0736,
+    "due": "2026-08-12T14:52:44.439Z",
+    "ef": 1.6,
+    "interval": 2.4883,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-05T10:12:41.274Z",
-    "reps": 5
+    "last_reviewed": "2026-08-10T03:09:33.591Z",
+    "reps": 6
   },
   "technology#technology-gadget": {
     "due": "2026-08-10T22:25:17.581Z",
