@@ -1242,12 +1242,12 @@
     "reps": 3
   },
   "law#burglary": {
-    "due": "2026-08-08T19:35:04.932Z",
+    "due": "2026-08-21T23:41:40.058Z",
     "ef": 1.9,
-    "interval": 6.2381,
+    "interval": 11.8524,
     "last_rating": "good",
-    "last_reviewed": "2026-08-02T13:52:14.820Z",
-    "reps": 6
+    "last_reviewed": "2026-08-10T03:14:13.562Z",
+    "reps": 7
   },
   "law#comes-into-play": {
     "due": "2026-05-24T05:58:59.231218+00:00",
