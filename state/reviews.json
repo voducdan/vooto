@@ -54,7 +54,7 @@
   "books-and-films#from-cover-to-cover": {
     "due": "2026-08-07T14:48:03.021660+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#frustrated": {
@@ -656,12 +656,12 @@
     "reps": 0
   },
   "family#be-prone-to": {
-    "due": "2026-08-06T11:59:32.745Z",
-    "ef": 2.05,
-    "interval": 13.4784,
+    "due": "2026-08-26T07:16:31.886Z",
+    "ef": 1.9,
+    "interval": 16.1741,
     "last_rating": "hard",
-    "last_reviewed": "2026-07-24T00:30:38.985Z",
-    "reps": 5
+    "last_reviewed": "2026-08-10T03:05:51.374Z",
+    "reps": 6
   },
   "family#carefree": {
     "due": "2026-05-27T14:03:41.266284+00:00",
@@ -694,7 +694,7 @@
   "family#genuine": {
     "due": "2026-08-07T08:51:51.098723+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#goodwill": {
@@ -984,7 +984,7 @@
   "friends#console": {
     "due": "2026-08-09T14:28:30.603049+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#mutual-friend": {
@@ -1174,7 +1174,7 @@
   "ielts-writing#in-terms-of": {
     "due": "2026-08-08T12:35:31.038094+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#overall-general": {
@@ -1330,7 +1330,7 @@
   "letter-a#a-concrete-jungle-e-k-nkri-t-d": {
     "due": "2026-08-08T10:25:36.905980+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#a-sense-of-accomplishment": {
@@ -1686,7 +1686,7 @@
   "letter-e#evocative-v-k-t-v": {
     "due": "2026-08-08T04:50:30.244262+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#exploit-k-spl-t": {
@@ -1782,7 +1782,7 @@
   "letter-f#for-good-f-gud": {
     "due": "2026-08-08T03:19:32.475502+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#force": {
@@ -1832,7 +1832,7 @@
   "letter-f#from-scratch-fr-m-skr-t": {
     "due": "2026-08-09T10:27:20.473900+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fully-intend-to": {
@@ -2056,7 +2056,7 @@
   "letter-i#in-the-vicinity-of": {
     "due": "2026-08-08T03:19:32.475502+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#inappropriate": {
@@ -2076,7 +2076,7 @@
   "letter-i#inequalities": {
     "due": "2026-08-09T08:34:50.948006+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#inevitably": {
@@ -2094,7 +2094,7 @@
   "letter-i#irreplaceable": {
     "due": "2026-08-08T08:32:57.728294+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#irrespective-of": {
@@ -2160,7 +2160,7 @@
   "letter-l#lottery": {
     "due": "2026-08-08T10:25:36.905980+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#loyal": {
@@ -2382,7 +2382,7 @@
   "letter-p#perspective-p-sp-kt-v": {
     "due": "2026-08-08T01:09:49.722477+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#pick-something-up": {
@@ -2454,7 +2454,7 @@
   "letter-p#to-prey-on-tu-p-e-n": {
     "due": "2026-08-08T14:26:03.242457+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#to-push-forward": {
@@ -2650,7 +2650,7 @@
   "letter-t#take-special-note-of-teik-spe-l-nout-v": {
     "due": "2026-08-08T14:26:03.242457+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#thanks-to": {
@@ -2682,7 +2682,7 @@
   "letter-t#throw-a-party-rou-e-p-rti": {
     "due": "2026-08-09T08:34:50.948006+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#to-keep-abreast-of": {
@@ -2724,7 +2724,7 @@
   "letter-t#treasure-t": {
     "due": "2026-08-07T07:05:48.721494+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#turn-down": {
@@ -2786,7 +2786,7 @@
   "letter-u#unreasonable": {
     "due": "2026-08-08T04:50:30.244262+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#unscrupulous": {
@@ -2980,7 +2980,7 @@
   "media#informative": {
     "due": "2026-08-09T10:27:20.473900+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "media#live-broadcast": {
@@ -3120,7 +3120,7 @@
   "music#have-a-rehearsal": {
     "due": "2026-08-07T10:46:49.662079+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#hip-hop": {
@@ -3334,7 +3334,7 @@
   "technology#to-back-up-files": {
     "due": "2026-08-09T14:28:30.603049+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#to-be-stuck-behind-a-computer": {
@@ -3544,7 +3544,7 @@
   "towns-and-cities#package-holiday": {
     "due": "2026-08-07T08:51:51.098723+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#specialty": {
@@ -3660,7 +3660,7 @@
   "travel#overseas": {
     "due": "2026-08-07T10:46:49.662079+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#rays": {
@@ -3724,7 +3724,7 @@
   "urbanisation#metropolis": {
     "due": "2026-08-07T07:05:48.721494+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#opulent": {
