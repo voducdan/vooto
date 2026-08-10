@@ -2976,12 +2976,12 @@
     "reps": 0
   },
   "media#episode": {
-    "due": "2026-08-07T21:06:57.024Z",
-    "ef": 2.8,
-    "interval": 28.392,
+    "due": "2026-11-27T00:21:44.703Z",
+    "ef": 2.95,
+    "interval": 108.8833,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-10T11:42:28.224Z",
-    "reps": 3
+    "last_reviewed": "2026-08-10T03:09:45.855Z",
+    "reps": 4
   },
   "media#informative": {
     "due": "2026-08-09T10:27:20.473900+00:00",
