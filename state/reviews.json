@@ -3546,10 +3546,12 @@
     "reps": 3
   },
   "towns-and-cities#package-holiday": {
-    "due": "2026-08-07T08:51:51.098723+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-11T10:20:02.800Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-10T03:08:02.800Z",
+    "reps": 1
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
