@@ -52,10 +52,12 @@
     "reps": 0
   },
   "books-and-films#from-cover-to-cover": {
-    "due": "2026-08-07T14:48:03.021660+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-11T03:09:42.792Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-10T03:09:42.792Z",
+    "reps": 1
   },
   "books-and-films#frustrated": {
     "due": "2026-05-24T00:38:29.987428+00:00",
