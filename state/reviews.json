@@ -2432,12 +2432,12 @@
     "reps": 0
   },
   "letter-p#provide-pr-vaid": {
-    "due": "2026-08-06T22:36:28.204Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-09-09T01:01:23.939Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-30T03:24:28.204Z",
-    "reps": 2
+    "last_reviewed": "2026-08-10T03:06:40.739Z",
+    "reps": 3
   },
   "letter-p#put-off": {
     "due": "2026-06-29T09:37:10.781076+00:00",
