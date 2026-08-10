@@ -3122,10 +3122,12 @@
     "reps": 4
   },
   "music#have-a-rehearsal": {
-    "due": "2026-08-07T10:46:49.662079+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-11T03:08:12.112Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-10T03:08:12.112Z",
+    "reps": 1
   },
   "music#hip-hop": {
     "due": "2026-06-20T03:07:14.027434+00:00",
