@@ -651,6 +651,12 @@
     "interval": 0,
     "reps": 0
   },
+  "environment#toxic-waste": {
+    "due": "2026-08-15T10:16:34.686027+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#acquaintance": {
     "due": "2026-05-28T05:26:20.568469+00:00",
     "ef": 2.5,
@@ -3289,6 +3295,12 @@
     "due": "2026-05-26T07:12:38.234446+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "personality#frustrating": {
+    "due": "2026-08-15T10:16:34.686027+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "personality#lively": {
