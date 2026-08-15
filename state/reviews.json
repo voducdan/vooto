@@ -227,6 +227,12 @@
     "last_reviewed": "2026-07-11T07:02:09.123Z",
     "reps": 3
   },
+  "buildings#pagoda": {
+    "due": "2026-08-15T12:25:27.269124+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "buildings#pavilion": {
     "due": "2026-05-26T12:59:04.831690+00:00",
     "ef": 2.5,
@@ -306,6 +312,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-14T05:04:08.577Z",
     "reps": 3
+  },
+  "business#to-allocate-somebody-something": {
+    "due": "2026-08-15T12:25:27.269124+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
