@@ -3833,6 +3833,12 @@
     "interval": 0,
     "reps": 0
   },
+  "work#overcome": {
+    "due": "2026-08-15T02:45:58.161625+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "work#paperwork": {
     "due": "2026-06-16T10:43:18.844Z",
     "ef": 2.65,
