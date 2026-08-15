@@ -1053,6 +1053,12 @@
     "last_reviewed": "2026-08-07T01:32:12.973Z",
     "reps": 5
   },
+  "friends#to-have-a-lot-in-common": {
+    "due": "2026-08-15T14:16:06.116086+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#to-hit-it-off-with-somebody": {
     "due": "2026-05-26T00:38:35.859551+00:00",
     "ef": 2.5,
@@ -1754,6 +1760,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-16T07:57:41.641Z",
     "reps": 1
+  },
+  "letter-e#to-extend-tu-iks-tend": {
+    "due": "2026-08-15T14:16:06.116086+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-f#faculty": {
     "due": "2026-06-24T11:01:54.622555+00:00",
