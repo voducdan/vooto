@@ -281,6 +281,12 @@
     "last_reviewed": "2026-07-03T00:34:51.750Z",
     "reps": 7
   },
+  "business#beneficial": {
+    "due": "2026-08-16T14:16:15.579812+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#benefits": {
     "due": "2026-06-22T13:53:30.351368+00:00",
     "ef": 2.5,
@@ -1679,6 +1685,12 @@
     "due": "2026-06-22T03:09:48.710762+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-d#desirable-d-za-b": {
+    "due": "2026-08-16T14:16:15.579812+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-d#deteriorate": {
