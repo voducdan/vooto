@@ -1759,6 +1759,12 @@
     "last_reviewed": "2026-06-16T07:57:59.486Z",
     "reps": 1
   },
+  "letter-e#extravagant-k-st-v-nt": {
+    "due": "2026-08-16T08:21:35.634708+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#to-empower-women": {
     "due": "2026-06-27T05:18:22.222129+00:00",
     "ef": 2.5,
@@ -2212,6 +2218,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-08-03T09:06:06.510Z",
     "reps": 2
+  },
+  "letter-l#lose-faith": {
+    "due": "2026-08-16T08:21:35.634708+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-l#lose-one-s-patience": {
     "due": "2026-05-25T03:08:38.754677+00:00",
