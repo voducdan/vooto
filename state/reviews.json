@@ -559,6 +559,12 @@
     "last_reviewed": "2026-07-11T03:06:16.858Z",
     "reps": 4
   },
+  "education#specialty": {
+    "due": "2026-08-16T12:27:16.865792+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#strict": {
     "due": "2026-06-24T09:06:33.487643+00:00",
     "ef": 2.5,
@@ -2886,6 +2892,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:32:39.850Z",
     "reps": 1
+  },
+  "letter-u#unglamorous": {
+    "due": "2026-08-16T12:27:16.865792+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-u#universal": {
     "due": "2026-08-14T12:35:46.408Z",
