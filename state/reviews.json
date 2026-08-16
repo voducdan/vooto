@@ -299,6 +299,12 @@
     "interval": 0,
     "reps": 0
   },
+  "business#market-leader": {
+    "due": "2026-08-16T06:29:42.950665+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#prosperity": {
     "due": "2026-06-21T07:38:28.957564+00:00",
     "ef": 2.5,
@@ -369,6 +375,12 @@
     "due": "2026-05-24T10:33:46.330980+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "description#dim": {
+    "due": "2026-08-16T06:29:42.950665+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "description#disgusting": {
