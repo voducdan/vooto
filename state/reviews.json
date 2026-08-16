@@ -451,6 +451,12 @@
     "last_reviewed": "2026-06-12T07:52:34.689Z",
     "reps": 4
   },
+  "education#bookworm": {
+    "due": "2026-08-16T04:29:18.031292+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
     "ef": 2.5,
@@ -2944,6 +2950,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-08T03:09:28.162Z",
     "reps": 3
+  },
+  "letter-v#vitally-important-va-t-i-im-p-t-nt": {
+    "due": "2026-08-16T04:29:18.031292+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-v#vivid": {
     "due": "2026-06-20T03:07:14.027434+00:00",
