@@ -3772,12 +3772,12 @@
     "reps": 1
   },
   "towns-and-cities#get-a-suntan": {
-    "due": "2026-08-16T20:46:17.744Z",
+    "due": "2026-09-13T20:40:39.521Z",
     "ef": 2.05,
-    "interval": 13.3135,
+    "interval": 27.2927,
     "last_rating": "good",
-    "last_reviewed": "2026-08-03T13:14:49.616Z",
-    "reps": 6
+    "last_reviewed": "2026-08-17T13:39:12.401Z",
+    "reps": 7
   },
   "towns-and-cities#hitchhike": {
     "due": "2026-09-09T16:21:41.430Z",
