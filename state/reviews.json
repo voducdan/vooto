@@ -196,7 +196,7 @@
   "buildings#construction-site": {
     "due": "2026-08-17T04:35:00.488414+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#cramped": {
@@ -236,7 +236,7 @@
   "buildings#pagoda": {
     "due": "2026-08-15T12:25:27.269124+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#pavilion": {
@@ -290,7 +290,7 @@
   "business#beneficial": {
     "due": "2026-08-16T14:16:15.579812+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#benefits": {
@@ -314,7 +314,7 @@
   "business#market-leader": {
     "due": "2026-08-16T06:29:42.950665+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#prosperity": {
@@ -334,7 +334,7 @@
   "business#to-allocate-somebody-something": {
     "due": "2026-08-15T12:25:27.269124+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#to-be-user-friendly": {
@@ -392,7 +392,7 @@
   "description#dim": {
     "due": "2026-08-16T06:29:42.950665+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#disgusting": {
@@ -442,7 +442,7 @@
   "description#murky": {
     "due": "2026-08-16T10:16:36.888405+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#pretty": {
@@ -484,7 +484,7 @@
   "education#bookworm": {
     "due": "2026-08-16T04:29:18.031292+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#competent": {
@@ -574,7 +574,7 @@
   "education#specialty": {
     "due": "2026-08-16T12:27:16.865792+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#strict": {
@@ -708,7 +708,7 @@
   "environment#toxic-waste": {
     "due": "2026-08-15T10:16:34.686027+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#acquaintance": {
@@ -896,7 +896,7 @@
   "food#roast": {
     "due": "2026-08-16T10:16:36.888405+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#spicy": {
@@ -990,7 +990,7 @@
   "free-time#frequently": {
     "due": "2026-08-17T08:35:49.700738+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#have-a-good-command-of": {
@@ -1110,7 +1110,7 @@
   "friends#to-have-a-lot-in-common": {
     "due": "2026-08-15T14:16:06.116086+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-hit-it-off-with-somebody": {
@@ -1180,7 +1180,7 @@
   "health#to-black-out": {
     "due": "2026-08-17T00:55:07.466378+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#to-build-muscle": {
@@ -1310,7 +1310,7 @@
   "ielts-writing#steady": {
     "due": "2026-08-17T10:25:35.576197+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#tended-to-increase": {
@@ -1714,7 +1714,7 @@
   "letter-d#desirable-d-za-b": {
     "due": "2026-08-16T14:16:15.579812+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-d#deteriorate": {
@@ -1816,7 +1816,7 @@
   "letter-e#extravagant-k-st-v-nt": {
     "due": "2026-08-16T08:21:35.634708+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#to-empower-women": {
@@ -1842,7 +1842,7 @@
   "letter-e#to-extend-tu-iks-tend": {
     "due": "2026-08-15T14:16:06.116086+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#faculty": {
@@ -2202,7 +2202,7 @@
   "letter-i#indulge": {
     "due": "2026-08-17T02:54:25.833423+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#inequalities": {
@@ -2248,7 +2248,7 @@
   "letter-i#to-integrate": {
     "due": "2026-08-17T08:35:49.700738+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-k#known-reasons": {
@@ -2288,7 +2288,7 @@
   "letter-l#lose-faith": {
     "due": "2026-08-16T08:21:35.634708+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-l#lose-one-s-patience": {
@@ -2384,7 +2384,7 @@
   "letter-m#mogul": {
     "due": "2026-08-17T10:25:35.576197+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#muscular-development": {
@@ -2566,7 +2566,7 @@
   "letter-p#popularize-p-pj-a-z": {
     "due": "2026-08-17T06:41:11.314147+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#preparation": {
@@ -2646,7 +2646,7 @@
   "letter-r#rebellious-b-j-s": {
     "due": "2026-08-14T10:53:11.153200+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#recount": {
@@ -2698,7 +2698,7 @@
   "letter-s#self-interest-s-f-nt-st": {
     "due": "2026-08-16T02:54:25.530860+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#sensitivity": {
@@ -2774,7 +2774,7 @@
   "letter-s#sparingly-sp-i": {
     "due": "2026-08-17T02:54:25.833423+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#speed-up": {
@@ -2962,7 +2962,7 @@
   "letter-u#unglamorous": {
     "due": "2026-08-16T12:27:16.865792+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#universal": {
@@ -3068,7 +3068,7 @@
   "letter-v#vitally-important-va-t-i-im-p-t-nt": {
     "due": "2026-08-16T04:29:18.031292+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#vivid": {
@@ -3326,7 +3326,7 @@
   "music#genres-of-music": {
     "due": "2026-08-15T04:23:35.494523+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#have-a-rehearsal": {
@@ -3456,7 +3456,7 @@
   "personality#frustrating": {
     "due": "2026-08-15T10:16:34.686027+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#lively": {
@@ -3698,7 +3698,7 @@
   "towns-and-cities#cosmopolitan": {
     "due": "2026-08-17T04:35:00.488414+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "towns-and-cities#destination": {
@@ -3770,12 +3770,12 @@
     "reps": 3
   },
   "towns-and-cities#package-holiday": {
-    "due": "2026-08-11T10:20:02.800Z",
+    "due": "2026-08-23T13:32:13.002Z",
     "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-10T03:08:02.800Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-08-17T13:32:13.002Z",
+    "reps": 2
   },
   "towns-and-cities#specialty": {
     "due": "2026-05-27T03:07:49.075051+00:00",
@@ -3814,7 +3814,7 @@
   "travel#breathtaking": {
     "due": "2026-08-17T12:31:51.039264+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#enchanting": {
@@ -4022,7 +4022,7 @@
   "work#overcome": {
     "due": "2026-08-15T02:45:58.161625+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#paperwork": {
@@ -4042,7 +4042,7 @@
   "work#to-proceed": {
     "due": "2026-08-17T12:31:51.039264+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#to-recharge-one-s-energy": {
