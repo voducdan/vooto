@@ -2644,10 +2644,12 @@
     "reps": 0
   },
   "letter-r#rebellious-b-j-s": {
-    "due": "2026-08-14T10:53:11.153200+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:35:09.514Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:35:09.514Z",
+    "reps": 1
   },
   "letter-r#recount": {
     "due": "2026-06-28T05:31:04.610817+00:00",
