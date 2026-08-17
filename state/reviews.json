@@ -860,12 +860,12 @@
     "reps": 4
   },
   "food#in-a-walking-distance-of": {
-    "due": "2026-08-13T10:25:04.809Z",
+    "due": "2026-08-27T18:11:07.530Z",
     "ef": 1.6,
-    "interval": 6.3701,
+    "interval": 10.1922,
     "last_rating": "good",
-    "last_reviewed": "2026-08-07T01:32:09.897Z",
-    "reps": 8
+    "last_reviewed": "2026-08-17T13:34:24.906Z",
+    "reps": 9
   },
   "food#inadequate": {
     "due": "2026-05-24T10:33:46.330980+00:00",
