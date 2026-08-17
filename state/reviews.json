@@ -193,6 +193,12 @@
     "interval": 0,
     "reps": 0
   },
+  "buildings#construction-site": {
+    "due": "2026-08-17T04:35:00.488414+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "buildings#cramped": {
     "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
@@ -3658,6 +3664,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-08-04T14:31:00.899Z",
     "reps": 4
+  },
+  "towns-and-cities#cosmopolitan": {
+    "due": "2026-08-17T04:35:00.488414+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "towns-and-cities#destination": {
     "due": "2026-06-27T12:27:25.937574+00:00",
