@@ -1114,10 +1114,12 @@
     "reps": 5
   },
   "friends#to-have-a-lot-in-common": {
-    "due": "2026-08-15T14:16:06.116086+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:37:14.273Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:37:14.273Z",
+    "reps": 1
   },
   "friends#to-hit-it-off-with-somebody": {
     "due": "2026-05-26T00:38:35.859551+00:00",
