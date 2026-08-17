@@ -2354,12 +2354,12 @@
     "reps": 4
   },
   "letter-m#match": {
-    "due": "2026-08-15T05:13:17.169Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-12-16T02:47:37.877Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-16T07:18:33.969Z",
-    "reps": 3
+    "last_reviewed": "2026-08-17T13:36:30.581Z",
+    "reps": 4
   },
   "letter-m#mindless": {
     "due": "2026-06-16T10:43:24.463Z",
