@@ -3412,12 +3412,12 @@
     "reps": 0
   },
   "personality#convenient": {
-    "due": "2026-08-14T12:35:49.687Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-12-16T02:46:38.848Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-15T14:41:06.487Z",
-    "reps": 3
+    "last_reviewed": "2026-08-17T13:35:31.552Z",
+    "reps": 4
   },
   "personality#depressing": {
     "due": "2026-06-16T07:59:05.169Z",
