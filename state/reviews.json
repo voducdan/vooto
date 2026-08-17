@@ -3811,6 +3811,12 @@
     "last_reviewed": "2026-06-12T07:52:31.492Z",
     "reps": 5
   },
+  "travel#breathtaking": {
+    "due": "2026-08-17T12:31:51.039264+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "travel#enchanting": {
     "due": "2026-08-14T18:26:28.050Z",
     "ef": 2.05,
@@ -4031,6 +4037,12 @@
     "due": "2026-06-24T07:11:38.638117+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "work#to-proceed": {
+    "due": "2026-08-17T12:31:51.039264+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "work#to-recharge-one-s-energy": {
