@@ -3716,12 +3716,12 @@
     "reps": 0
   },
   "towns-and-cities#exercise-machines": {
-    "due": "2026-08-14T13:59:42.714Z",
-    "ef": 2.35,
-    "interval": 14.1,
-    "last_rating": "good",
-    "last_reviewed": "2026-07-31T11:35:42.714Z",
-    "reps": 3
+    "due": "2026-10-02T09:23:38.747Z",
+    "ef": 2.5,
+    "interval": 45.825,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-17T13:35:38.747Z",
+    "reps": 4
   },
   "towns-and-cities#furnished": {
     "due": "2026-06-17T15:09:44.742Z",
