@@ -1165,6 +1165,12 @@
     "last_reviewed": "2026-07-07T00:37:00.617Z",
     "reps": 7
   },
+  "health#to-black-out": {
+    "due": "2026-08-17T00:55:07.466378+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "health#to-build-muscle": {
     "due": "2026-11-01T21:59:36.071Z",
     "ef": 2.95,
