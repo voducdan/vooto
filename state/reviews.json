@@ -1200,10 +1200,12 @@
     "reps": 7
   },
   "health#to-black-out": {
-    "due": "2026-08-17T00:55:07.466378+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:39:18.944Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:39:18.944Z",
+    "reps": 1
   },
   "health#to-build-muscle": {
     "due": "2026-11-01T21:59:36.071Z",
