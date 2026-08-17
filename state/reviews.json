@@ -432,12 +432,12 @@
     "reps": 3
   },
   "description#impressive": {
-    "due": "2026-08-13T06:50:28.998Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-12-16T02:45:25.865Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-14T08:55:45.798Z",
-    "reps": 3
+    "last_reviewed": "2026-08-17T13:34:18.569Z",
+    "reps": 4
   },
   "description#murky": {
     "due": "2026-08-16T10:16:36.888405+00:00",
