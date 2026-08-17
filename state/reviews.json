@@ -3082,10 +3082,12 @@
     "reps": 3
   },
   "letter-v#vitally-important-va-t-i-im-p-t-nt": {
-    "due": "2026-08-16T04:29:18.031292+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T20:50:00.696Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-08-17T13:38:00.696Z",
+    "reps": 1
   },
   "letter-v#vivid": {
     "due": "2026-06-20T03:07:14.027434+00:00",
