@@ -234,10 +234,12 @@
     "reps": 3
   },
   "buildings#pagoda": {
-    "due": "2026-08-15T12:25:27.269124+00:00",
+    "due": "2026-08-18T13:37:08.562Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-08-17T13:37:08.562Z",
+    "reps": 1
   },
   "buildings#pavilion": {
     "due": "2026-05-26T12:59:04.831690+00:00",
