@@ -2988,10 +2988,12 @@
     "reps": 1
   },
   "letter-u#unglamorous": {
-    "due": "2026-08-16T12:27:16.865792+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:38:46.919Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:38:46.919Z",
+    "reps": 1
   },
   "letter-u#universal": {
     "due": "2026-11-13T19:25:48.621Z",
