@@ -1828,10 +1828,12 @@
     "reps": 1
   },
   "letter-e#extravagant-k-st-v-nt": {
-    "due": "2026-08-16T08:21:35.634708+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:38:25.453Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:38:25.453Z",
+    "reps": 1
   },
   "letter-e#to-empower-women": {
     "due": "2026-06-27T05:18:22.222129+00:00",
