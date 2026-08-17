@@ -486,10 +486,12 @@
     "reps": 4
   },
   "education#bookworm": {
-    "due": "2026-08-16T04:29:18.031292+00:00",
+    "due": "2026-08-18T13:37:52.571Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-08-17T13:37:52.571Z",
+    "reps": 1
   },
   "education#competent": {
     "due": "2026-05-24T06:11:47.364962+00:00",
