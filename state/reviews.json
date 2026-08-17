@@ -987,6 +987,12 @@
     "last_reviewed": "2026-07-15T11:02:17.256Z",
     "reps": 4
   },
+  "free-time#frequently": {
+    "due": "2026-08-17T08:35:49.700738+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#have-a-good-command-of": {
     "due": "2026-05-26T15:03:38.988167+00:00",
     "ef": 2.5,
@@ -2231,6 +2237,12 @@
     "due": "2026-06-29T03:08:49.948887+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-i#to-integrate": {
+    "due": "2026-08-17T08:35:49.700738+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-k#known-reasons": {
