@@ -2600,10 +2600,12 @@
     "reps": 1
   },
   "letter-p#popularize-p-pj-a-z": {
-    "due": "2026-08-17T06:41:11.314147+00:00",
+    "due": "2026-08-18T13:39:55.795Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-08-17T13:39:55.795Z",
+    "reps": 1
   },
   "letter-p#preparation": {
     "due": "2026-08-14T10:29:58.328Z",
