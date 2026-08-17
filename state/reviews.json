@@ -396,10 +396,12 @@
     "reps": 0
   },
   "description#dim": {
-    "due": "2026-08-16T06:29:42.950665+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:38:13.895Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:38:13.895Z",
+    "reps": 1
   },
   "description#disgusting": {
     "due": "2026-08-01T03:27:46.568Z",
