@@ -2280,10 +2280,12 @@
     "reps": 0
   },
   "letter-i#to-integrate": {
-    "due": "2026-08-17T08:35:49.700738+00:00",
+    "due": "2026-08-18T13:40:01.820Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-08-17T13:40:01.820Z",
+    "reps": 1
   },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
