@@ -3746,10 +3746,12 @@
     "reps": 4
   },
   "towns-and-cities#cosmopolitan": {
-    "due": "2026-08-17T04:35:00.488414+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:39:43.541Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:39:43.541Z",
+    "reps": 1
   },
   "towns-and-cities#destination": {
     "due": "2026-06-27T12:27:25.937574+00:00",
