@@ -3922,12 +3922,12 @@
     "reps": 3
   },
   "travel#wildlife-safari": {
-    "due": "2026-08-12T21:23:50.439Z",
-    "ef": 2.65,
-    "interval": 26.871,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-17T00:29:36.039Z",
-    "reps": 3
+    "due": "2026-09-18T19:27:06.323Z",
+    "ef": 2.5,
+    "interval": 32.2452,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:34:01.043Z",
+    "reps": 4
   },
   "urbanisation#crowded": {
     "due": "2026-05-25T00:39:49.976011+00:00",
