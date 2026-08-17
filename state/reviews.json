@@ -2302,10 +2302,12 @@
     "reps": 2
   },
   "letter-l#lose-faith": {
-    "due": "2026-08-16T08:21:35.634708+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:38:19.790Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:38:19.790Z",
+    "reps": 1
   },
   "letter-l#lose-one-s-patience": {
     "due": "2026-05-25T03:08:38.754677+00:00",
