@@ -2708,10 +2708,12 @@
     "reps": 0
   },
   "letter-s#self-interest-s-f-nt-st": {
-    "due": "2026-08-16T02:54:25.530860+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:37:46.291Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:37:46.291Z",
+    "reps": 1
   },
   "letter-s#sensitivity": {
     "due": "2026-06-25T14:59:43.906352+00:00",
