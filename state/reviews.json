@@ -324,12 +324,12 @@
     "reps": 0
   },
   "business#revenue": {
-    "due": "2026-08-13T02:58:51.777Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2026-12-16T02:45:20.240Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-14T05:04:08.577Z",
-    "reps": 3
+    "last_reviewed": "2026-08-17T13:34:12.944Z",
+    "reps": 4
   },
   "business#to-allocate-somebody-something": {
     "due": "2026-08-15T12:25:27.269124+00:00",
