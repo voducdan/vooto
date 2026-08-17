@@ -194,10 +194,12 @@
     "reps": 0
   },
   "buildings#construction-site": {
-    "due": "2026-08-17T04:35:00.488414+00:00",
+    "due": "2026-08-18T13:39:37.507Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-08-17T13:39:37.507Z",
+    "reps": 1
   },
   "buildings#cramped": {
     "due": "2026-05-25T05:33:12.636410+00:00",
