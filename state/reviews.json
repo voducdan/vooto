@@ -2266,7 +2266,7 @@
   "letter-i#intrigue": {
     "due": "2026-08-17T14:20:49.536595+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-i#irreplaceable": {
@@ -3454,10 +3454,12 @@
     "reps": 0
   },
   "personality#bossy": {
-    "due": "2026-08-17T14:20:49.536595+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-08-18T14:24:00.771Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T14:24:00.771Z",
+    "reps": 1
   },
   "personality#charming": {
     "due": "2026-06-16T03:32:34.299Z",
