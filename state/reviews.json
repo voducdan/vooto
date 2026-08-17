@@ -2810,10 +2810,12 @@
     "reps": 1
   },
   "letter-s#sparingly-sp-i": {
-    "due": "2026-08-17T02:54:25.833423+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-18T13:39:31.469Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-17T13:39:31.469Z",
+    "reps": 1
   },
   "letter-s#speed-up": {
     "due": "2026-05-24T08:52:03.459806+00:00",
