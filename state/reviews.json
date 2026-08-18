@@ -1679,6 +1679,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-c#congenial-k-n-d-inj": {
+    "due": "2026-08-18T04:29:27.030430+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-c#conservative": {
     "due": "2026-08-10T09:43:07.640Z",
     "ef": 2.5,
@@ -2400,6 +2406,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:31:54.340Z",
     "reps": 1
+  },
+  "letter-m#mass": {
+    "due": "2026-08-18T04:29:27.030430+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-m#mass-produced": {
     "due": "2026-10-24T08:58:08.733Z",
