@@ -1791,6 +1791,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-d#disregard-d-s-d": {
+    "due": "2026-08-18T02:50:45.839695+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-d#distinctive": {
     "due": "2026-06-20T00:41:50.507802+00:00",
     "ef": 2.5,
@@ -3893,6 +3899,12 @@
     "due": "2026-08-17T12:31:51.039264+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "travel#coastal": {
+    "due": "2026-08-18T02:50:45.839695+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "travel#enchanting": {
