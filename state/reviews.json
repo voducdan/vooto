@@ -3934,10 +3934,12 @@
     "reps": 0
   },
   "travel#coastal": {
-    "due": "2026-08-18T02:50:45.839695+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-20T00:44:24.056Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-19T00:44:24.056Z",
+    "reps": 1
   },
   "travel#enchanting": {
     "due": "2026-08-27T22:25:47.026Z",
