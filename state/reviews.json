@@ -4036,10 +4036,12 @@
     "reps": 2
   },
   "travel#places-of-interest": {
-    "due": "2026-08-18T12:33:43.206810+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-20T00:46:35.029Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-19T00:46:35.029Z",
+    "reps": 1
   },
   "travel#rays": {
     "due": "2026-06-27T14:32:28.488906+00:00",
