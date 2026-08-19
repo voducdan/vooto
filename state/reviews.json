@@ -596,12 +596,12 @@
     "reps": 4
   },
   "education#specialty": {
-    "due": "2026-08-18T13:38:53.254Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-08-20T15:07:30.876Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-17T13:38:53.254Z",
-    "reps": 1
+    "last_reviewed": "2026-08-19T10:19:30.876Z",
+    "reps": 2
   },
   "education#strict": {
     "due": "2026-06-24T09:06:33.487643+00:00",
