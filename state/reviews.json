@@ -2204,10 +2204,12 @@
     "reps": 0
   },
   "letter-h#to-have-a-head-for-sth-tu-h-v-e-hed-f": {
-    "due": "2026-08-18T12:33:43.206810+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-20T00:46:15.086Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-19T00:46:15.086Z",
+    "reps": 1
   },
   "letter-h#to-have-a-laid-back-attitude": {
     "due": "2026-06-23T09:07:38.657457+00:00",
