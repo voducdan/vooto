@@ -264,7 +264,7 @@
   "buildings#skyrocketing": {
     "due": "2026-08-18T06:32:28.095146+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#skyscraper": {
@@ -856,12 +856,12 @@
     "reps": 4
   },
   "food#bitter": {
-    "due": "2026-08-17T16:37:43.662Z",
-    "ef": 2.65,
-    "interval": 20.67,
+    "due": "2026-11-02T06:27:46.936Z",
+    "ef": 2.8,
+    "interval": 75.2388,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-28T00:32:55.662Z",
-    "reps": 3
+    "last_reviewed": "2026-08-19T00:43:54.616Z",
+    "reps": 4
   },
   "food#crunchy": {
     "due": "2026-05-25T09:21:08.408281+00:00",
@@ -1688,7 +1688,7 @@
   "letter-c#congenial-k-n-d-inj": {
     "due": "2026-08-18T04:29:27.030430+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-c#conservative": {
@@ -1806,7 +1806,7 @@
   "letter-d#disregard-d-s-d": {
     "due": "2026-08-18T02:50:45.839695+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-d#distinctive": {
@@ -1908,7 +1908,7 @@
   "letter-f#faculty-f-k-ti": {
     "due": "2026-08-18T06:32:28.095146+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fake": {
@@ -2198,7 +2198,7 @@
   "letter-h#to-have-a-head-for-sth-tu-h-v-e-hed-f": {
     "due": "2026-08-18T12:33:43.206810+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-h#to-have-a-laid-back-attitude": {
@@ -2428,7 +2428,7 @@
   "letter-m#mass": {
     "due": "2026-08-18T04:29:27.030430+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#mass-produced": {
@@ -3934,7 +3934,7 @@
   "travel#coastal": {
     "due": "2026-08-18T02:50:45.839695+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#enchanting": {
@@ -4024,7 +4024,7 @@
   "travel#places-of-interest": {
     "due": "2026-08-18T12:33:43.206810+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "travel#rays": {
