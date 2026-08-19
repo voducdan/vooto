@@ -1804,10 +1804,12 @@
     "reps": 0
   },
   "letter-d#disregard-d-s-d": {
-    "due": "2026-08-18T02:50:45.839695+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-20T00:44:07.665Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-19T00:44:07.665Z",
+    "reps": 1
   },
   "letter-d#distinctive": {
     "due": "2026-06-20T00:41:50.507802+00:00",
