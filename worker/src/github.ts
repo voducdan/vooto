@@ -56,12 +56,20 @@ interface RefObj { object: { sha: string } }
 interface CommitObj { tree: { sha: string } }
 interface ContentObj { content: string }
 
+// GitHub returns file contents base64-encoded. atob() yields one character per
+// byte (latin-1), so multi-byte UTF-8 — IPA symbols, em dashes — must be decoded
+// explicitly. Skipping this renders as mojibake in Telegram and, worse, writes
+// the mangled text back on the next commit.
+function decodeBase64Utf8(content: string): string {
+  const bin = atob(content.replace(/\n/g, ""));
+  const bytes = Uint8Array.from(bin, (c) => c.charCodeAt(0));
+  return new TextDecoder().decode(bytes);
+}
+
 async function readJsonAt(ctx: GhCtx, path: string, ref: string): Promise<Record<string, unknown>> {
   const url = `${GH}/repos/${ctx.repo}/contents/${path}?ref=${ref}`;
   const data = await ghJson<ContentObj>(ctx, url);
-  // content is base64 with newlines; atob handles standard base64
-  const raw = atob(data.content.replace(/\n/g, ""));
-  return JSON.parse(raw) as Record<string, unknown>;
+  return JSON.parse(decodeBase64Utf8(data.content)) as Record<string, unknown>;
 }
 
 export async function loadState(token: string, repo: string, branch: string): Promise<RepoState> {
@@ -138,7 +146,7 @@ async function readTextMaybe(ctx: GhCtx, path: string, ref: string): Promise<str
   if (r.status === 404) return null;
   if (!r.ok) throw new Error(`GitHub GET ${url} → ${r.status}: ${await r.text()}`);
   const data = (await r.json()) as ContentObj;
-  return atob(data.content.replace(/\n/g, ""));
+  return decodeBase64Utf8(data.content);
 }
 
 // Read a single repo file at branch HEAD, or null if it doesn't exist.
