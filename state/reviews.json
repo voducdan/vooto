@@ -1910,10 +1910,12 @@
     "reps": 0
   },
   "letter-f#faculty-f-k-ti": {
-    "due": "2026-08-18T06:32:28.095146+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-20T00:45:10.751Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-19T00:45:10.751Z",
+    "reps": 1
   },
   "letter-f#fake": {
     "due": "2026-06-22T10:13:40.871743+00:00",
