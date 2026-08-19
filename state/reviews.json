@@ -2276,12 +2276,12 @@
     "reps": 4
   },
   "letter-i#indulge": {
-    "due": "2026-08-18T13:39:26.011Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-08-20T15:10:35.198Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-17T13:39:26.011Z",
-    "reps": 1
+    "last_reviewed": "2026-08-19T10:22:35.198Z",
+    "reps": 2
   },
   "letter-i#inequalities": {
     "due": "2026-08-11T03:14:47.161Z",
