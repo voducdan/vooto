@@ -1686,10 +1686,12 @@
     "reps": 0
   },
   "letter-c#congenial-k-n-d-inj": {
-    "due": "2026-08-18T04:29:27.030430+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-20T00:44:37.854Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-19T00:44:37.854Z",
+    "reps": 1
   },
   "letter-c#conservative": {
     "due": "2026-08-10T09:43:07.640Z",
