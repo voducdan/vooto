@@ -262,10 +262,12 @@
     "reps": 0
   },
   "buildings#skyrocketing": {
-    "due": "2026-08-18T06:32:28.095146+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-08-20T00:45:23.697Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-08-19T00:45:23.697Z",
+    "reps": 1
   },
   "buildings#skyscraper": {
     "due": "2026-06-18T04:43:54.134Z",
