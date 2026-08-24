@@ -1123,6 +1123,12 @@
     "last_reviewed": "2026-07-29T07:01:55.624Z",
     "reps": 4
   },
+  "friends#shoulder-to-cry-on": {
+    "due": "2026-08-24T04:38:21.028590+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#sound-advice": {
     "due": "2026-06-16T07:58:50.912Z",
     "ef": 2.35,
@@ -1204,6 +1210,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-03T15:35:25.202Z",
     "reps": 2
+  },
+  "health#diabetes": {
+    "due": "2026-08-24T04:38:21.028590+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "health#mature": {
     "due": "2026-08-28T12:48:24.823Z",
