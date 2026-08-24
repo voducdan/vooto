@@ -863,6 +863,12 @@
     "last_reviewed": "2026-07-13T06:08:53.378Z",
     "reps": 4
   },
+  "food#a-vegetarian-diet": {
+    "due": "2026-08-24T02:57:21.402281+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#bitter": {
     "due": "2026-11-02T06:27:46.936Z",
     "ef": 2.8,
@@ -3053,6 +3059,12 @@
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-t#turn-into-become-t-n-intu-bi-k-m": {
+    "due": "2026-08-24T02:57:21.402281+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-t#turn-to": {
