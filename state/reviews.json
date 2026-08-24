@@ -1177,6 +1177,12 @@
     "interval": 0,
     "reps": 0
   },
+  "friends#to-lose-touch-with-someone": {
+    "due": "2026-08-24T08:40:26.368740+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "health#a-sports-fan": {
     "due": "2026-11-15T22:39:36.880Z",
     "ef": 2.8,
