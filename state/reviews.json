@@ -1547,6 +1547,12 @@
     "last_reviewed": "2026-08-17T13:33:43.592Z",
     "reps": 7
   },
+  "letter-a#alleyway-i-we": {
+    "due": "2026-08-25T06:36:14.417292+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-a#altruism": {
     "due": "2026-06-30T03:06:56.022098+00:00",
     "ef": 2.5,
@@ -3693,6 +3699,12 @@
     "due": "2026-07-16T08:46:54.271581+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "personality#warm-hearted": {
+    "due": "2026-08-25T06:36:14.417292+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "technology#advances-in-technology": {
