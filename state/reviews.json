@@ -193,6 +193,12 @@
     "interval": 0,
     "reps": 0
   },
+  "buildings#balcony": {
+    "due": "2026-08-26T08:36:00.352320+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "buildings#construction-site": {
     "due": "2026-08-18T13:39:37.507Z",
     "ef": 2.5,
