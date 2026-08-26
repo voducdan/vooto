@@ -2519,6 +2519,12 @@
     "last_reviewed": "2026-08-17T13:36:30.581Z",
     "reps": 4
   },
+  "letter-m#means-a-lot-to-someone": {
+    "due": "2026-08-26T06:37:48.513008+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-m#mindless": {
     "due": "2026-06-16T10:43:24.463Z",
     "ef": 2.65,
@@ -3577,6 +3583,12 @@
   },
   "music#to-ring-a-bell": {
     "due": "2026-08-23T10:17:08.267426+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
+  "music#to-sound-like-a-broken-record": {
+    "due": "2026-08-26T06:37:48.513008+00:00",
     "ef": 2.5,
     "interval": 0.0,
     "reps": 0
