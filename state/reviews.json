@@ -1173,6 +1173,12 @@
     "interval": 0,
     "reps": 0
   },
+  "friends#to-be-well-matched": {
+    "due": "2026-08-27T06:47:02.534940+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
     "due": "2026-05-25T05:33:12.636410+00:00",
     "ef": 2.5,
@@ -2595,6 +2601,12 @@
     "due": "2026-05-25T13:08:37.525282+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-n#needy-nidi": {
+    "due": "2026-08-27T06:47:02.534940+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-n#neglected": {
