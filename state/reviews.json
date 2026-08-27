@@ -3469,6 +3469,12 @@
     "interval": 0,
     "reps": 0
   },
+  "money#a-change-of-clothes": {
+    "due": "2026-08-27T18:44:14.020708+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "money#a-shopaholic": {
     "due": "2026-06-19T02:52:47.186Z",
     "ef": 2.5,
