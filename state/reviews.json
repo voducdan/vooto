@@ -2575,6 +2575,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-m#models": {
+    "due": "2026-08-29T17:28:11.712952+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-m#mogul": {
     "due": "2026-08-18T13:40:20.002Z",
     "ef": 2.35,
@@ -2755,6 +2761,12 @@
     "due": "2026-06-29T15:10:06.906704+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-p#politely-decline-p-la-tli-di-klain": {
+    "due": "2026-08-29T17:28:11.712952+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-p#popularize": {
