@@ -7,6 +7,12 @@
     "last_reviewed": "2026-07-15T06:45:39.924Z",
     "reps": 4
   },
+  "books-and-films#addictive": {
+    "due": "2026-08-31T18:37:35.160608+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#animated-film": {
     "due": "2026-08-26T10:29:11.473309+00:00",
     "ef": 2.5,
@@ -4327,6 +4333,12 @@
     "due": "2026-06-18T13:09:16.757961+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "work#day-off": {
+    "due": "2026-08-31T18:37:35.160608+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "work#deadline": {
