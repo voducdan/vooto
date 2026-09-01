@@ -3924,12 +3924,12 @@
     "reps": 0
   },
   "time#currently": {
-    "due": "2026-08-19T08:56:14.933Z",
-    "ef": 2.95,
-    "interval": 29.913,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-20T11:01:31.733Z",
-    "reps": 3
+    "due": "2026-10-07T08:12:28.201Z",
+    "ef": 2.8,
+    "interval": 35.8956,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-01T10:42:48.361Z",
+    "reps": 4
   },
   "time#in-this-day-and-age": {
     "due": "2026-05-25T06:09:52.809655+00:00",
