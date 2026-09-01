@@ -362,12 +362,12 @@
     "reps": 0
   },
   "business#market-leader": {
-    "due": "2026-08-18T20:50:06.572Z",
-    "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-17T13:38:06.572Z",
-    "reps": 1
+    "due": "2026-09-03T00:08:44.892Z",
+    "ef": 2.5,
+    "interval": 1.56,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-01T10:42:20.892Z",
+    "reps": 2
   },
   "business#prosperity": {
     "due": "2026-06-21T07:38:28.957564+00:00",
