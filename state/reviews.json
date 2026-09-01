@@ -2600,12 +2600,12 @@
     "reps": 0
   },
   "letter-m#mogul": {
-    "due": "2026-08-18T13:40:20.002Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-09-02T15:26:02.847Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-17T13:40:20.002Z",
-    "reps": 1
+    "last_reviewed": "2026-09-01T10:38:02.847Z",
+    "reps": 2
   },
   "letter-m#muscular-development": {
     "due": "2026-06-22T00:45:53.710136+00:00",
