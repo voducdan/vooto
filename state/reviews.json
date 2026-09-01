@@ -1950,12 +1950,12 @@
     "reps": 1
   },
   "letter-e#exploit-k-spl-t": {
-    "due": "2026-08-20T12:01:41.205Z",
-    "ef": 1.9,
-    "interval": 10.368,
+    "due": "2026-09-13T21:19:26.226Z",
+    "ef": 1.75,
+    "interval": 12.4416,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-10T03:11:46.005Z",
-    "reps": 5
+    "last_reviewed": "2026-09-01T10:43:31.986Z",
+    "reps": 6
   },
   "letter-e#extraction": {
     "due": "2026-06-17T15:09:59.486Z",
