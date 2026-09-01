@@ -10,13 +10,13 @@
   "books-and-films#addictive": {
     "due": "2026-08-31T18:37:35.160608+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#animated-film": {
     "due": "2026-08-26T10:29:11.473309+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#blockbuster": {
@@ -150,7 +150,7 @@
   "books-and-films#subtitle": {
     "due": "2026-08-26T14:37:48.439221+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#suitable-for": {
@@ -214,7 +214,7 @@
   "buildings#balcony": {
     "due": "2026-08-26T08:36:00.352320+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#construction-site": {
@@ -242,7 +242,7 @@
   "buildings#high-rise": {
     "due": "2026-08-31T10:22:01.363554+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "buildings#historical-monument": {
@@ -352,7 +352,7 @@
   "business#imbalance": {
     "due": "2026-08-23T10:17:08.267426+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#make-it-to-the-top": {
@@ -512,7 +512,7 @@
   "description#thrilling": {
     "due": "2026-08-26T10:29:11.473309+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "description#unappealing": {
@@ -902,7 +902,7 @@
   "food#a-vegetarian-diet": {
     "due": "2026-08-24T02:57:21.402281+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#bitter": {
@@ -1088,13 +1088,13 @@
   "free-time#pleasurable": {
     "due": "2026-08-24T14:35:40.244307+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#regular": {
     "due": "2026-08-24T00:56:40.168544+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#take-an-interest-in": {
@@ -1168,7 +1168,7 @@
   "friends#shoulder-to-cry-on": {
     "due": "2026-08-24T04:38:21.028590+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#sound-advice": {
@@ -1188,13 +1188,13 @@
   "friends#to-be-well-matched": {
     "due": "2026-08-27T06:47:02.534940+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-create-a-strong-bond": {
     "due": "2026-09-01T03:08:16.902131+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#to-fall-for-someone-to-fall-in-love-with-someone": {
@@ -1234,7 +1234,7 @@
   "friends#to-lose-touch-with-someone": {
     "due": "2026-08-24T08:40:26.368740+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#a-sports-fan": {
@@ -1274,7 +1274,7 @@
   "health#diabetes": {
     "due": "2026-08-24T04:38:21.028590+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#mature": {
@@ -1598,7 +1598,7 @@
   "letter-a#alleyway-i-we": {
     "due": "2026-08-25T06:36:14.417292+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#altruism": {
@@ -2052,7 +2052,7 @@
   "letter-f#flawless-f-s": {
     "due": "2026-08-23T12:27:23.491910+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-f#fool-around": {
@@ -2272,7 +2272,7 @@
   "letter-h#highly-credible-haili-k-d-b": {
     "due": "2026-08-23T12:27:23.491910+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-h#host-country": {
@@ -2570,7 +2570,7 @@
   "letter-m#means-a-lot-to-someone": {
     "due": "2026-08-26T06:37:48.513008+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#mindless": {
@@ -2596,7 +2596,7 @@
   "letter-m#models": {
     "due": "2026-08-29T17:28:11.712952+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#mogul": {
@@ -2630,7 +2630,7 @@
   "letter-n#needy-nidi": {
     "due": "2026-08-27T06:47:02.534940+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-n#neglected": {
@@ -2784,7 +2784,7 @@
   "letter-p#politely-decline-p-la-tli-di-klain": {
     "due": "2026-08-29T17:28:11.712952+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#popularize": {
@@ -2840,7 +2840,7 @@
   "letter-p#purpose-p-p-s": {
     "due": "2026-08-26T14:37:48.439221+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#put-off": {
@@ -3016,12 +3016,12 @@
     "reps": 1
   },
   "letter-s#sparingly-sp-i": {
-    "due": "2026-08-18T13:39:31.469Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-09-02T15:25:38.756Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-17T13:39:31.469Z",
-    "reps": 1
+    "last_reviewed": "2026-09-01T10:37:38.756Z",
+    "reps": 2
   },
   "letter-s#speed-up": {
     "due": "2026-05-24T08:52:03.459806+00:00",
@@ -3128,7 +3128,7 @@
   "letter-t#to-keep-abreast-of-tu-ki-p-b-st-v": {
     "due": "2026-08-31T10:22:01.363554+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#to-take-something-into-account": {
@@ -3164,7 +3164,7 @@
   "letter-t#toddler-t-dl-r": {
     "due": "2026-08-24T10:31:34.192820+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#treasure-t": {
@@ -3184,7 +3184,7 @@
   "letter-t#turn-into-become-t-n-intu-bi-k-m": {
     "due": "2026-08-24T02:57:21.402281+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#turn-to": {
@@ -3508,7 +3508,7 @@
   "money#a-change-of-clothes": {
     "due": "2026-08-27T18:44:14.020708+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "money#a-shopaholic": {
@@ -3636,7 +3636,7 @@
   "music#musical-instrument": {
     "due": "2026-08-24T14:35:40.244307+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#opera": {
@@ -3668,13 +3668,13 @@
   "music#to-ring-a-bell": {
     "due": "2026-08-23T10:17:08.267426+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#to-sound-like-a-broken-record": {
     "due": "2026-08-26T06:37:48.513008+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#aggressive": {
@@ -3738,7 +3738,7 @@
   "personality#embarrassing": {
     "due": "2026-09-01T09:05:04.882257+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#extroverted": {
@@ -3806,7 +3806,7 @@
   "personality#warm-hearted": {
     "due": "2026-08-25T06:36:14.417292+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#advances-in-technology": {
@@ -4350,7 +4350,7 @@
   "work#day-off": {
     "due": "2026-08-31T18:37:35.160608+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#deadline": {
