@@ -2544,12 +2544,12 @@
     "reps": 1
   },
   "letter-m#mass": {
-    "due": "2026-08-20T00:44:29.028Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-08-19T00:44:29.028Z",
-    "reps": 1
+    "due": "2026-09-02T15:31:01.688Z",
+    "ef": 2.35,
+    "interval": 1.2,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-01T10:43:01.688Z",
+    "reps": 2
   },
   "letter-m#mass-produced": {
     "due": "2026-10-24T08:58:08.733Z",
