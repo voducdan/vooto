@@ -774,12 +774,12 @@
     "reps": 0
   },
   "environment#toxic-waste": {
-    "due": "2026-08-18T20:48:56.921Z",
+    "due": "2026-09-07T10:42:07.293Z",
     "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-17T13:36:56.921Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-01T10:42:07.293Z",
+    "reps": 2
   },
   "family#acquaintance": {
     "due": "2026-05-28T05:26:20.568469+00:00",
