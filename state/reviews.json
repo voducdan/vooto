@@ -330,12 +330,12 @@
     "reps": 7
   },
   "business#beneficial": {
-    "due": "2026-08-18T20:51:00.996Z",
-    "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-17T13:39:00.996Z",
-    "reps": 1
+    "due": "2026-09-03T00:08:48.008Z",
+    "ef": 2.5,
+    "interval": 1.56,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-01T10:42:24.008Z",
+    "reps": 2
   },
   "business#benefits": {
     "due": "2026-06-22T13:53:30.351368+00:00",
