@@ -1854,12 +1854,12 @@
     "reps": 0
   },
   "letter-d#desirable-d-za-b": {
-    "due": "2026-08-18T20:51:06.798Z",
-    "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-17T13:39:06.798Z",
-    "reps": 1
+    "due": "2026-09-03T00:08:51.467Z",
+    "ef": 2.5,
+    "interval": 1.56,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-01T10:42:27.467Z",
+    "reps": 2
   },
   "letter-d#deteriorate": {
     "due": "2026-06-08T12:00:05.117Z",
