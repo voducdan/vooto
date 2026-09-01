@@ -384,12 +384,12 @@
     "reps": 4
   },
   "business#to-allocate-somebody-something": {
-    "due": "2026-08-18T20:49:02.864Z",
+    "due": "2026-09-07T10:42:10.521Z",
     "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-17T13:37:02.864Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-01T10:42:10.521Z",
+    "reps": 2
   },
   "business#to-be-user-friendly": {
     "due": "2026-05-25T09:21:08.408281+00:00",
