@@ -4382,12 +4382,12 @@
     "reps": 0
   },
   "work#to-proceed": {
-    "due": "2026-08-18T20:52:32.408Z",
-    "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-17T13:40:32.408Z",
-    "reps": 1
+    "due": "2026-09-03T00:09:02.016Z",
+    "ef": 2.5,
+    "interval": 1.56,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-01T10:42:38.016Z",
+    "reps": 2
   },
   "work#to-recharge-one-s-energy": {
     "due": "2026-06-28T10:44:41.553467+00:00",
