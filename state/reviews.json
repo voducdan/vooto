@@ -3302,10 +3302,12 @@
     "reps": 0
   },
   "letter-v#vast-v-st": {
-    "due": "2026-09-02T02:27:28.159096+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-09-03T09:49:53.400Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-09-02T02:37:53.400Z",
+    "reps": 1
   },
   "letter-v#venerable": {
     "due": "2026-06-23T05:06:07.828Z",
