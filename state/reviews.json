@@ -1158,10 +1158,12 @@
     "reps": 1
   },
   "friends#fair-weather-friend": {
-    "due": "2026-09-02T02:27:28.159096+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-09-03T02:38:05.935Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-02T02:38:05.935Z",
+    "reps": 1
   },
   "friends#mutual-friend": {
     "due": "2026-10-12T12:45:47.944Z",
