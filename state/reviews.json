@@ -1157,6 +1157,12 @@
     "last_reviewed": "2026-08-10T03:15:03.834Z",
     "reps": 1
   },
+  "friends#fair-weather-friend": {
+    "due": "2026-09-02T02:27:28.159096+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "friends#mutual-friend": {
     "due": "2026-10-12T12:45:47.944Z",
     "ef": 2.8,
@@ -3291,6 +3297,12 @@
     "due": "2026-06-20T14:46:26.790133+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-v#vast-v-st": {
+    "due": "2026-09-02T02:27:28.159096+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-v#venerable": {
