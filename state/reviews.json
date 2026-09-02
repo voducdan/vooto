@@ -3239,6 +3239,12 @@
     "last_reviewed": "2026-06-15T03:32:39.850Z",
     "reps": 1
   },
+  "letter-u#unfamiliarity": {
+    "due": "2026-09-02T08:18:46.515027+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-u#unglamorous": {
     "due": "2026-08-20T15:07:25.876Z",
     "ef": 2.2,
