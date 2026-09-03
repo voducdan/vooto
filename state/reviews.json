@@ -978,12 +978,12 @@
     "reps": 2
   },
   "food#spicy": {
-    "due": "2026-09-02T11:09:29.446Z",
-    "ef": 2.95,
-    "interval": 29.913,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-03T13:14:46.246Z",
-    "reps": 3
+    "due": "2026-10-09T05:58:21.032Z",
+    "ef": 2.8,
+    "interval": 35.8956,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-03T08:28:41.192Z",
+    "reps": 4
   },
   "food#stew": {
     "due": "2026-08-25T14:53:05.426Z",
