@@ -3032,12 +3032,12 @@
     "reps": 1
   },
   "letter-s#sparingly-sp-i": {
-    "due": "2026-09-02T15:25:38.756Z",
-    "ef": 2.2,
-    "interval": 1.2,
+    "due": "2026-09-04T19:02:30.123Z",
+    "ef": 2.05,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-01T10:37:38.756Z",
-    "reps": 2
+    "last_reviewed": "2026-09-03T08:28:54.123Z",
+    "reps": 3
   },
   "letter-s#speed-up": {
     "due": "2026-05-24T08:52:03.459806+00:00",
