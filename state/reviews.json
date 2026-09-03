@@ -1098,12 +1098,12 @@
     "reps": 0
   },
   "free-time#take-an-interest-in": {
-    "due": "2026-09-02T05:19:01.041Z",
-    "ef": 1.75,
-    "interval": 15.6565,
+    "due": "2026-09-22T03:22:56.552Z",
+    "ef": 1.6,
+    "interval": 18.7878,
     "last_rating": "hard",
-    "last_reviewed": "2026-08-17T13:33:37.713Z",
-    "reps": 8
+    "last_reviewed": "2026-09-03T08:28:30.632Z",
+    "reps": 9
   },
   "free-time#take-up": {
     "due": "2026-09-03T22:26:02.633Z",
@@ -3242,7 +3242,7 @@
   "letter-u#unfamiliarity": {
     "due": "2026-09-02T08:18:46.515027+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#unglamorous": {
