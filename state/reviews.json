@@ -3240,10 +3240,12 @@
     "reps": 1
   },
   "letter-u#unfamiliarity": {
-    "due": "2026-09-02T08:18:46.515027+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-09-04T08:28:34.409Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-03T08:28:34.409Z",
+    "reps": 1
   },
   "letter-u#unglamorous": {
     "due": "2026-08-20T15:07:25.876Z",
