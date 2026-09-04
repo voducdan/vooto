@@ -2812,12 +2812,12 @@
     "reps": 1
   },
   "letter-p#popularize-p-pj-a-z": {
-    "due": "2026-09-02T15:25:54.249Z",
-    "ef": 2.35,
-    "interval": 1.2,
+    "due": "2026-09-05T11:14:55.319Z",
+    "ef": 2.2,
+    "interval": 1.44,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-01T10:37:54.249Z",
-    "reps": 2
+    "last_reviewed": "2026-09-04T00:41:19.319Z",
+    "reps": 3
   },
   "letter-p#preparation": {
     "due": "2026-08-14T10:29:58.328Z",
