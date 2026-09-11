@@ -3221,6 +3221,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-t#turn-to-t-n-tu": {
+    "due": "2026-09-11T17:40:44.220954+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-u#ultimately": {
     "due": "2026-06-22T05:49:49.864688+00:00",
     "ef": 2.5,
@@ -3597,6 +3603,12 @@
     "due": "2026-06-18T15:05:02.556072+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "money#economize": {
+    "due": "2026-09-11T17:40:44.220954+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "money#reasonable": {
