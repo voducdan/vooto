@@ -1649,6 +1649,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-a#availability-ve-b-ti": {
+    "due": "2026-09-11T13:59:19.801714+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-a#avid-v-d": {
     "due": "2026-08-31T01:06:28.393Z",
     "ef": 2.05,
@@ -3195,6 +3201,12 @@
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-t#turn-down-t-n-daun": {
+    "due": "2026-09-11T13:59:19.801714+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-t#turn-into-become-t-n-intu-bi-k-m": {
