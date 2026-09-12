@@ -1669,6 +1669,12 @@
     "last_reviewed": "2026-08-17T13:37:34.633Z",
     "reps": 5
   },
+  "letter-a#to-address-tu-dres": {
+    "due": "2026-09-12T13:18:11.237670+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-b#barrier": {
     "due": "2026-05-29T11:06:16.310369+00:00",
     "ef": 2.5,
@@ -3596,6 +3602,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-24T02:22:28.771Z",
     "reps": 1
+  },
+  "money#afford": {
+    "due": "2026-09-12T13:18:11.237670+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "money#affordable": {
     "due": "2026-06-20T23:29:54.514Z",
