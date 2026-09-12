@@ -1955,6 +1955,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-e#emulate-mj-e-t": {
+    "due": "2026-09-12T08:17:42.775713+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-e#enlighten": {
     "due": "2026-06-25T07:11:43.042779+00:00",
     "ef": 2.5,
@@ -3696,6 +3702,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-13T07:17:29.548Z",
     "reps": 4
+  },
+  "music#meaningful-lyrics": {
+    "due": "2026-09-12T08:17:42.775713+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "music#melodious": {
     "due": "2026-07-21T08:54:10.120887+00:00",
