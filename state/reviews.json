@@ -781,6 +781,12 @@
     "last_reviewed": "2026-09-01T10:42:07.293Z",
     "reps": 2
   },
+  "environment#windy-weather": {
+    "due": "2026-09-12T02:43:33.239093+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#acquaintance": {
     "due": "2026-05-28T05:26:20.568469+00:00",
     "ef": 2.5,
@@ -3782,6 +3788,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-08-17T13:35:31.552Z",
     "reps": 4
+  },
+  "personality#delighted": {
+    "due": "2026-09-12T02:43:33.239093+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "personality#depressing": {
     "due": "2026-06-16T07:59:05.169Z",
