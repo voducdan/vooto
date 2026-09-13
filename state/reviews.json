@@ -3081,6 +3081,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-s#stagger": {
+    "due": "2026-09-13T02:41:28.587297+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#substandard": {
     "due": "2026-06-24T03:07:06.538774+00:00",
     "ef": 2.5,
@@ -3309,6 +3315,12 @@
     "due": "2026-05-27T07:26:55.918228+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-u#unquestionable": {
+    "due": "2026-09-13T02:41:28.587297+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-u#unreasonable": {
