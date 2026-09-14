@@ -784,7 +784,7 @@
   "environment#windy-weather": {
     "due": "2026-09-12T02:43:33.239093+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#acquaintance": {
@@ -886,7 +886,7 @@
   "family#reach-the-top": {
     "due": "2026-09-13T14:01:03.351361+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "family#satisfying": {
@@ -1346,7 +1346,7 @@
   "ielts-writing#account-for": {
     "due": "2026-09-12T16:41:26.227748+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#by-contrast-in-contrast": {
@@ -1670,7 +1670,7 @@
   "letter-a#availability-ve-b-ti": {
     "due": "2026-09-11T13:59:19.801714+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-a#avid-v-d": {
@@ -1684,7 +1684,7 @@
   "letter-a#to-address-tu-dres": {
     "due": "2026-09-12T13:18:11.237670+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-b#barrier": {
@@ -1976,7 +1976,7 @@
   "letter-e#emulate-mj-e-t": {
     "due": "2026-09-12T08:17:42.775713+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#enlighten": {
@@ -1994,12 +1994,12 @@
     "reps": 1
   },
   "letter-e#exploit-k-spl-t": {
-    "due": "2026-09-13T21:19:26.226Z",
+    "due": "2026-10-05T22:37:58.841Z",
     "ef": 1.75,
-    "interval": 12.4416,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-01T10:43:31.986Z",
-    "reps": 6
+    "interval": 21.7728,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-14T04:05:08.921Z",
+    "reps": 7
   },
   "letter-e#extraction": {
     "due": "2026-06-17T15:09:59.486Z",
@@ -3090,7 +3090,7 @@
   "letter-s#stagger": {
     "due": "2026-09-13T02:41:28.587297+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#substandard": {
@@ -3242,7 +3242,7 @@
   "letter-t#turn-down-t-n-daun": {
     "due": "2026-09-11T13:59:19.801714+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#turn-into-become-t-n-intu-bi-k-m": {
@@ -3260,7 +3260,7 @@
   "letter-t#turn-to-t-n-tu": {
     "due": "2026-09-11T17:40:44.220954+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#ultimately": {
@@ -3326,7 +3326,7 @@
   "letter-u#unquestionable": {
     "due": "2026-09-13T02:41:28.587297+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-u#unreasonable": {
@@ -3410,7 +3410,7 @@
   "letter-v#virtually-v-tju-li": {
     "due": "2026-09-12T16:41:26.227748+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#vital": {
@@ -3636,7 +3636,7 @@
   "money#afford": {
     "due": "2026-09-12T13:18:11.237670+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "money#affordable": {
@@ -3662,7 +3662,7 @@
   "money#economize": {
     "due": "2026-09-11T17:40:44.220954+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "money#reasonable": {
@@ -3748,7 +3748,7 @@
   "music#meaningful-lyrics": {
     "due": "2026-09-12T08:17:42.775713+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#melodious": {
@@ -3846,7 +3846,7 @@
   "personality#delighted": {
     "due": "2026-09-12T02:43:33.239093+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#depressing": {
