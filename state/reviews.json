@@ -629,6 +629,12 @@
     "last_reviewed": "2026-06-15T03:32:44.880Z",
     "reps": 2
   },
+  "education#scholarship": {
+    "due": "2026-09-14T16:06:31.737633+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#single-sex-schools": {
     "due": "2026-10-28T00:18:15.706Z",
     "ef": 2.95,
@@ -4090,6 +4096,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-11T05:03:05.701Z",
     "reps": 3
+  },
+  "time#on-time": {
+    "due": "2026-09-14T16:06:31.737633+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
