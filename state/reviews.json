@@ -632,7 +632,7 @@
   "education#scholarship": {
     "due": "2026-09-14T16:06:31.737633+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#single-sex-schools": {
@@ -1760,12 +1760,12 @@
     "reps": 5
   },
   "letter-b#to-be-for-the-better": {
-    "due": "2026-09-13T21:19:29.562Z",
-    "ef": 1.75,
-    "interval": 12.4416,
+    "due": "2026-09-30T01:18:20.441Z",
+    "ef": 1.6,
+    "interval": 14.9299,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-01T10:43:35.322Z",
-    "reps": 6
+    "last_reviewed": "2026-09-15T02:59:15.353Z",
+    "reps": 7
   },
   "letter-b#to-be-out-of-one-s-depth": {
     "due": "2026-06-22T08:00:16.398391+00:00",
@@ -3710,7 +3710,7 @@
   "music#catchy-tune": {
     "due": "2026-09-14T09:28:36.949276+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#concert-venue": {
@@ -4100,7 +4100,7 @@
   "time#on-time": {
     "due": "2026-09-14T16:06:31.737633+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#the-coming-year": {
@@ -4482,7 +4482,7 @@
   "urbanisation#sumptuous": {
     "due": "2026-09-15T02:58:58.586147+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#the-hectic-pace-of-life": {
