@@ -3373,6 +3373,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-v#various-veri-s": {
+    "due": "2026-09-15T09:07:27.311747+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-v#vast": {
     "due": "2026-06-20T14:46:26.790133+00:00",
     "ef": 2.5,
@@ -3721,6 +3727,12 @@
     "due": "2026-06-25T05:21:34.502747+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "music#contemporary-music": {
+    "due": "2026-09-15T09:07:27.311747+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "music#enlighten": {
