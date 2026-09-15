@@ -1393,6 +1393,12 @@
     "last_reviewed": "2026-06-11T03:08:00.261Z",
     "reps": 2
   },
+  "ielts-writing#expenditure-spending": {
+    "due": "2026-09-15T14:35:28.908818+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "ielts-writing#figure": {
     "due": "2026-08-24T21:04:27.015Z",
     "ef": 2.8,
@@ -3352,6 +3358,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-06-15T03:31:51.638Z",
     "reps": 4
+  },
+  "letter-u#unspecified": {
+    "due": "2026-09-15T14:35:28.908818+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-u#unthinkable": {
     "due": "2026-08-26T01:28:40.891Z",
