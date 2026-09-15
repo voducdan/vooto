@@ -4479,6 +4479,12 @@
     "interval": 0,
     "reps": 0
   },
+  "urbanisation#sumptuous": {
+    "due": "2026-09-15T02:58:58.586147+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "urbanisation#the-hectic-pace-of-life": {
     "due": "2026-05-29T13:04:58.914006+00:00",
     "ef": 2.5,
