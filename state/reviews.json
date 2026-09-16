@@ -1396,7 +1396,7 @@
   "ielts-writing#expenditure-spending": {
     "due": "2026-09-15T14:35:28.908818+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#figure": {
@@ -3360,10 +3360,12 @@
     "reps": 4
   },
   "letter-u#unspecified": {
-    "due": "2026-09-15T14:35:28.908818+00:00",
+    "due": "2026-09-17T02:57:29.832Z",
     "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-16T02:57:29.832Z",
+    "reps": 1
   },
   "letter-u#unthinkable": {
     "due": "2026-08-26T01:28:40.891Z",
@@ -3388,7 +3390,7 @@
   "letter-v#various-veri-s": {
     "due": "2026-09-15T09:07:27.311747+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-v#vast": {
@@ -3744,7 +3746,7 @@
   "music#contemporary-music": {
     "due": "2026-09-15T09:07:27.311747+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#enlighten": {
@@ -4484,7 +4486,7 @@
   "urbanisation#metropolitan": {
     "due": "2026-09-16T02:55:20.003751+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#opulent": {
