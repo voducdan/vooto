@@ -4522,12 +4522,12 @@
     "reps": 0
   },
   "urbanisation#sumptuous": {
-    "due": "2026-09-16T02:59:42.829Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-09-17T19:32:48.120Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-15T02:59:42.829Z",
-    "reps": 1
+    "last_reviewed": "2026-09-16T14:44:48.120Z",
+    "reps": 2
   },
   "urbanisation#the-hectic-pace-of-life": {
     "due": "2026-05-29T13:04:58.914006+00:00",
