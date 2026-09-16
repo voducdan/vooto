@@ -3732,12 +3732,12 @@
     "reps": 0
   },
   "music#catchy-tune": {
-    "due": "2026-09-16T02:59:18.438Z",
+    "due": "2026-09-22T14:44:36.865Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-15T02:59:18.438Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-16T14:44:36.865Z",
+    "reps": 2
   },
   "music#concert-venue": {
     "due": "2026-06-25T05:21:34.502747+00:00",
