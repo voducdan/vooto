@@ -4481,6 +4481,12 @@
     "last_reviewed": "2026-08-10T03:07:06.565Z",
     "reps": 1
   },
+  "urbanisation#metropolitan": {
+    "due": "2026-09-16T02:55:20.003751+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "urbanisation#opulent": {
     "due": "2026-11-02T00:22:12.225Z",
     "ef": 2.35,
