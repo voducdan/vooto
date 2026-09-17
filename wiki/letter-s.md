@@ -379,3 +379,11 @@
 **Definition**: a weak unsteady way of walking, as if you are about to fall
 
 - to walk with a stagger
+
+### Scarce *[Adjective]* — /skeəs/
+
+**Definition**: if something is scarce
+
+- scarce resources
+- Details of the accident are scarce.
+- Food was becoming scarce.

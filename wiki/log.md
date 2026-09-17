@@ -43,3 +43,7 @@ Added [[letter-f]] entry "friction" via /newword (source: oxford).
 ## [2026-09-17] newword | analogy
 
 Added [[letter-a]] entry "analogy" via /newword (source: oxford).
+
+## [2026-09-17] newword | scarce
+
+Added [[letter-s]] entry "scarce" via /newword (source: oxford).
