@@ -2586,10 +2586,12 @@
     "reps": 0
   },
   "letter-l#to-lag-behind": {
-    "due": "2026-09-17T14:35:36.180534+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-09-18T15:08:53.812Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-17T15:08:53.812Z",
+    "reps": 1
   },
   "letter-l#to-lie-in-the-heart-of-sth": {
     "due": "2026-06-27T07:04:54.652236+00:00",
@@ -4092,7 +4094,7 @@
   "time#ancient": {
     "due": "2026-09-17T14:35:36.180534+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#antique": {
