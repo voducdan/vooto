@@ -55,3 +55,7 @@ Added [[letter-a]] entry "absurd" via /newword (source: oxford).
 ## [2026-09-17] newword | squeeze
 
 Added [[letter-s]] entry "squeeze" via /newword (source: oxford).
+
+## [2026-09-17] newword | erode
+
+Added [[letter-e]] entry "erode" via /newword (source: oxford).

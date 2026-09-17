@@ -141,3 +141,11 @@
 - Heat until all the water has evaporated.
 - The sun is constantly evaporating the earth's moisture.
 - Her confidence had now completely evaporated.
+
+### Erode *[Verb]* — /ɪˈrəʊd/
+
+**Definition**: to gradually destroy the surface of something through the action of wind, rain, etc.; to be gradually destroyed in this way
+
+- The cliff face has been steadily eroded by the sea.
+- The rocks have eroded away over time.
+- Her confidence has been slowly eroded by repeated failures.
