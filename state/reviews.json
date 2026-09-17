@@ -3362,12 +3362,12 @@
     "reps": 4
   },
   "letter-u#unspecified": {
-    "due": "2026-09-17T02:57:29.832Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-09-16T02:57:29.832Z",
-    "reps": 1
+    "due": "2026-09-24T22:16:31.996Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-09-17T03:04:31.996Z",
+    "reps": 2
   },
   "letter-u#unthinkable": {
     "due": "2026-08-26T01:28:40.891Z",
