@@ -320,3 +320,11 @@
 - The teacher drew an analogy between the human heart and a pump.
 - There are no analogies with any previous legal cases.
 - learning by analogy
+
+### Absurd *[Adjective]* — /əbˈsɜːd/
+
+**Definition**: extremely silly; not logical and sensible
+
+- That uniform makes the guards look absurd.
+- Of course it's not true, what an absurd idea.
+- He has a good sense of the absurd.

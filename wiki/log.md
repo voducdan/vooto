@@ -47,3 +47,7 @@ Added [[letter-a]] entry "analogy" via /newword (source: oxford).
 ## [2026-09-17] newword | scarce
 
 Added [[letter-s]] entry "scarce" via /newword (source: oxford).
+
+## [2026-09-17] newword | absurd
+
+Added [[letter-a]] entry "absurd" via /newword (source: oxford).
