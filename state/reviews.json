@@ -4092,10 +4092,12 @@
     "reps": 4
   },
   "time#ancient": {
-    "due": "2026-09-17T14:35:36.180534+00:00",
+    "due": "2026-09-18T15:08:57.650Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-17T15:08:57.650Z",
+    "reps": 1
   },
   "time#antique": {
     "due": "2026-06-19T15:03:31.197989+00:00",
