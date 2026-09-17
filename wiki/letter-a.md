@@ -312,3 +312,11 @@
 - Sleep has often been thought of as being in some way analogous to death.
 - The two processes are not analogous.
 - The national debt is analogous with private debt.
+
+### Analogy *[Noun]* — /əˈnælədʒi/
+
+**Definition**: a comparison of one thing with another thing that has similar features; a feature that is similar
+
+- The teacher drew an analogy between the human heart and a pump.
+- There are no analogies with any previous legal cases.
+- learning by analogy

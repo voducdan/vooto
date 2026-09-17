@@ -39,3 +39,7 @@ Added [[letter-c]] entry "conservative" via /newword (source: oxford).
 ## [2026-07-30] newword | friction
 
 Added [[letter-f]] entry "friction" via /newword (source: oxford).
+
+## [2026-09-17] newword | analogy
+
+Added [[letter-a]] entry "analogy" via /newword (source: oxford).
