@@ -387,3 +387,11 @@
 - scarce resources
 - Details of the accident are scarce.
 - Food was becoming scarce.
+
+### Squeeze *[Verb]* — /skwiːz/
+
+**Definition**: to press something, especially with your fingers
+
+- to squeeze a tube of toothpaste
+- to squeeze the trigger of a gun (= to fire it)
+- He squeezed her hand and smiled at her.
