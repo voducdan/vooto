@@ -116,3 +116,11 @@
 - [[index]]
 - [[source-rachel-mitchell-2018]]
 - [[collocations]]
+
+### Brittle *[Adjective]* — /ˈbrɪtl/
+
+**Definition**: hard but easily broken
+
+- brittle bones/nails
+- The paint was brittle with age.
+- She had thin, brittle, permed hair.

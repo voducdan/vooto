@@ -59,3 +59,7 @@ Added [[letter-s]] entry "squeeze" via /newword (source: oxford).
 ## [2026-09-17] newword | erode
 
 Added [[letter-e]] entry "erode" via /newword (source: oxford).
+
+## [2026-09-18] newword | brittle
+
+Added [[letter-b]] entry "brittle" via /newword (source: oxford).
