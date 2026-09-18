@@ -467,6 +467,12 @@
     "last_reviewed": "2026-07-27T11:40:01.544Z",
     "reps": 8
   },
+  "description#figure": {
+    "due": "2026-09-18T08:40:22.203406+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#generous": {
     "due": "2026-08-10T02:05:14.824Z",
     "ef": 2.8,
@@ -3160,6 +3166,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-06-16T07:57:52.114Z",
     "reps": 1
+  },
+  "letter-s#to-seat-tu-si-t": {
+    "due": "2026-09-18T08:40:22.203406+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-s#to-sift-information-tu-s-ft": {
     "due": "2026-05-28T03:09:05.889737+00:00",
