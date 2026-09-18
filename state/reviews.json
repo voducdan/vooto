@@ -964,12 +964,12 @@
     "reps": 2
   },
   "food#healthy-eating-habits": {
-    "due": "2026-09-18T09:09:48.319Z",
+    "due": "2026-09-24T14:02:47.524Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-09-17T09:09:48.319Z",
-    "reps": 1
+    "last_reviewed": "2026-09-18T14:02:47.524Z",
+    "reps": 2
   },
   "food#homemade-food": {
     "due": "2026-09-27T14:40:21.600Z",
@@ -3720,7 +3720,7 @@
   "money#big-money": {
     "due": "2026-09-18T14:02:26.211041+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "money#budget": {
