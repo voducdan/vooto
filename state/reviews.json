@@ -3718,10 +3718,12 @@
     "reps": 2
   },
   "money#big-money": {
-    "due": "2026-09-18T14:02:26.211041+00:00",
+    "due": "2026-09-19T14:02:50.660Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-18T14:02:50.660Z",
+    "reps": 1
   },
   "money#budget": {
     "due": "2026-06-29T11:40:20.521017+00:00",
