@@ -468,10 +468,12 @@
     "reps": 8
   },
   "description#figure": {
-    "due": "2026-09-18T08:40:22.203406+00:00",
+    "due": "2026-09-19T12:30:42.113Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-18T12:30:42.113Z",
+    "reps": 1
   },
   "description#generous": {
     "due": "2026-08-10T02:05:14.824Z",
