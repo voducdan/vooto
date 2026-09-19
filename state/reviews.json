@@ -2602,12 +2602,12 @@
     "reps": 0
   },
   "letter-l#to-lag-behind": {
-    "due": "2026-09-18T15:08:53.812Z",
+    "due": "2026-09-25T02:46:24.789Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-17T15:08:53.812Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-19T02:46:24.789Z",
+    "reps": 2
   },
   "letter-l#to-lie-in-the-heart-of-sth": {
     "due": "2026-06-27T07:04:54.652236+00:00",
