@@ -3170,12 +3170,12 @@
     "reps": 1
   },
   "letter-s#to-seat-tu-si-t": {
-    "due": "2026-09-19T12:30:38.346Z",
+    "due": "2026-09-25T13:45:52.717Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-18T12:30:38.346Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-19T13:45:52.717Z",
+    "reps": 2
   },
   "letter-s#to-sift-information-tu-s-ft": {
     "due": "2026-05-28T03:09:05.889737+00:00",
