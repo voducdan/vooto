@@ -4124,12 +4124,12 @@
     "reps": 4
   },
   "time#ancient": {
-    "due": "2026-09-18T15:08:57.650Z",
+    "due": "2026-09-25T02:46:21.664Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-09-17T15:08:57.650Z",
-    "reps": 1
+    "last_reviewed": "2026-09-19T02:46:21.664Z",
+    "reps": 2
   },
   "time#antique": {
     "due": "2026-06-19T15:03:31.197989+00:00",
