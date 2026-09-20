@@ -757,6 +757,12 @@
     "interval": 0,
     "reps": 0
   },
+  "environment#humid": {
+    "due": "2026-09-20T08:58:40.479275+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "environment#in-all-weathers": {
     "due": "2026-06-29T13:28:11.264490+00:00",
     "ef": 2.5,
@@ -2766,6 +2772,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-07-08T10:51:42.111Z",
     "reps": 4
+  },
+  "letter-n#novelist-n-v-st": {
+    "due": "2026-09-20T08:58:40.479275+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-n#the-needy": {
     "due": "2026-07-08T11:02:01.812Z",
