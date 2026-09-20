@@ -3055,6 +3055,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-s#secure-in-the-knowledge-si-kju-n-n-li": {
+    "due": "2026-09-20T17:14:03.357752+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-s#self-explanatory": {
     "due": "2026-05-29T03:08:07.791260+00:00",
     "ef": 2.5,
@@ -4342,6 +4348,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-08-10T03:14:35.394Z",
     "reps": 4
+  },
+  "towns-and-cities#maid": {
+    "due": "2026-09-20T17:14:03.357752+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "towns-and-cities#neighborhood": {
     "due": "2026-08-31T01:15:23.962Z",
