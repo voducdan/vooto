@@ -328,3 +328,11 @@
 - That uniform makes the guards look absurd.
 - Of course it's not true, what an absurd idea.
 - He has a good sense of the absurd.
+
+### Ambiguity *[Noun]* — /ˌæmbɪˈɡjuːəti/
+
+**Definition**: the state of having more than one possible meaning
+
+- Write clear definitions in order to avoid ambiguity.
+- A lot of humour depends on ambiguity.
+- There were several inconsistencies and ambiguities in her speech.

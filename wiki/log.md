@@ -67,3 +67,7 @@ Added [[letter-b]] entry "brittle" via /newword (source: oxford).
 ## [2026-09-21] newword | glamorous
 
 Added [[letter-g]] entry "glamorous" via /newword (source: oxford).
+
+## [2026-09-21] newword | ambiguity
+
+Added [[letter-a]] entry "ambiguity" via /newword (source: oxford).
