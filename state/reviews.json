@@ -162,7 +162,7 @@
   "books-and-films#tear-jerking": {
     "due": "2026-09-21T09:30:41.687414+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "books-and-films#to-come-highly-recommended": {
@@ -772,12 +772,12 @@
     "reps": 0
   },
   "environment#humid": {
-    "due": "2026-09-21T09:00:06.228Z",
+    "due": "2026-09-27T09:31:16.557Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-20T09:00:06.228Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-21T09:31:16.557Z",
+    "reps": 2
   },
   "environment#in-all-weathers": {
     "due": "2026-06-29T13:28:11.264490+00:00",
