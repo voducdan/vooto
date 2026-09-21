@@ -159,6 +159,12 @@
     "interval": 0,
     "reps": 0
   },
+  "books-and-films#tear-jerking": {
+    "due": "2026-09-21T09:30:41.687414+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#to-come-highly-recommended": {
     "due": "2026-05-23T12:21:06.905414+00:00",
     "ef": 2.5,
