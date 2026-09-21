@@ -4352,10 +4352,12 @@
     "reps": 4
   },
   "towns-and-cities#maid": {
-    "due": "2026-09-20T17:14:03.357752+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-09-22T01:13:19.762Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-21T01:13:19.762Z",
+    "reps": 1
   },
   "towns-and-cities#neighborhood": {
     "due": "2026-08-31T01:15:23.962Z",
