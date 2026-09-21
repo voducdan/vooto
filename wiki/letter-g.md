@@ -110,3 +110,10 @@
 - [[index]]
 - [[source-rachel-mitchell-2018]]
 - [[collocations]]
+
+### Glamorous *[Adjective]* — /ˈɡlæmərəs/
+
+**Definition**: especially attractive and exciting, and different from ordinary things or people
+
+- glamorous movie stars
+- a glamorous job

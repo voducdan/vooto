@@ -63,3 +63,7 @@ Added [[letter-e]] entry "erode" via /newword (source: oxford).
 ## [2026-09-18] newword | brittle
 
 Added [[letter-b]] entry "brittle" via /newword (source: oxford).
+
+## [2026-09-21] newword | glamorous
+
+Added [[letter-g]] entry "glamorous" via /newword (source: oxford).
