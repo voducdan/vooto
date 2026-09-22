@@ -3254,12 +3254,12 @@
     "reps": 3
   },
   "letter-t#thoroughness-o-n-s": {
-    "due": "2026-09-22T02:54:11.450Z",
+    "due": "2026-09-28T09:50:51.295Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-09-21T02:54:11.450Z",
-    "reps": 1
+    "last_reviewed": "2026-09-22T09:50:51.295Z",
+    "reps": 2
   },
   "letter-t#thought-provoking": {
     "due": "2026-06-29T07:42:13.657670+00:00",
