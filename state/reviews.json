@@ -4234,12 +4234,12 @@
     "reps": 3
   },
   "time#on-time": {
-    "due": "2026-09-22T14:44:40.838Z",
+    "due": "2026-10-08T02:57:34.610Z",
     "ef": 2.5,
-    "interval": 6,
+    "interval": 15,
     "last_rating": "good",
-    "last_reviewed": "2026-09-16T14:44:40.838Z",
-    "reps": 2
+    "last_reviewed": "2026-09-23T02:57:34.610Z",
+    "reps": 3
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
