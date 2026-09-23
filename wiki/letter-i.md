@@ -198,3 +198,10 @@
 - [[index]]
 - [[source-rachel-mitchell-2018]]
 - [[collocations]]
+
+### Intact *[Adjective]* — /ɪnˈtækt/
+
+**Definition**: complete and not damaged
+
+- Most of the house remains intact even after two hundred years.
+- He emerged from the trial with his reputation intact.
