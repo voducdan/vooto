@@ -160,12 +160,12 @@
     "reps": 0
   },
   "books-and-films#tear-jerking": {
-    "due": "2026-09-23T19:05:42.871Z",
+    "due": "2026-09-26T18:12:17.024Z",
     "ef": 2.2,
-    "interval": 1.2,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-22T14:17:42.871Z",
-    "reps": 2
+    "interval": 2.64,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-24T02:50:41.024Z",
+    "reps": 3
   },
   "books-and-films#to-come-highly-recommended": {
     "due": "2026-05-23T12:21:06.905414+00:00",
@@ -2386,7 +2386,7 @@
   "letter-h#home-life-ho-m-laif": {
     "due": "2026-09-24T02:45:00.126311+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-h#host-country": {
