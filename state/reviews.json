@@ -1095,6 +1095,12 @@
     "last_reviewed": "2026-07-18T00:34:31.293Z",
     "reps": 2
   },
+  "food#vegan": {
+    "due": "2026-09-24T08:55:53.061306+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#adopt-the-habit": {
     "due": "2026-08-22T02:43:24.148Z",
     "ef": 2.2,
@@ -2017,6 +2023,12 @@
     "due": "2026-06-20T00:41:50.507802+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-d#draw-lots-dro-ts": {
+    "due": "2026-09-24T08:55:53.061306+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-d#due-to": {
