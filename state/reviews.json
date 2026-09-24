@@ -2383,6 +2383,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-h#home-life-ho-m-laif": {
+    "due": "2026-09-24T02:45:00.126311+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-h#host-country": {
     "due": "2026-06-25T09:34:25.745Z",
     "ef": 2.65,
