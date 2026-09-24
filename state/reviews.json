@@ -1098,7 +1098,7 @@
   "food#vegan": {
     "due": "2026-09-24T08:55:53.061306+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#adopt-the-habit": {
@@ -2026,10 +2026,12 @@
     "reps": 0
   },
   "letter-d#draw-lots-dro-ts": {
-    "due": "2026-09-24T08:55:53.061306+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-09-25T09:55:18.816Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-09-24T09:55:18.816Z",
+    "reps": 1
   },
   "letter-d#due-to": {
     "due": "2026-06-26T07:18:11.124567+00:00",
