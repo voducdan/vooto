@@ -988,12 +988,12 @@
     "reps": 2
   },
   "food#healthy-eating-habits": {
-    "due": "2026-09-24T14:02:47.524Z",
-    "ef": 2.5,
-    "interval": 6,
-    "last_rating": "good",
-    "last_reviewed": "2026-09-18T14:02:47.524Z",
-    "reps": 2
+    "due": "2026-10-15T07:02:18.574Z",
+    "ef": 2.65,
+    "interval": 20.67,
+    "last_rating": "easy",
+    "last_reviewed": "2026-09-24T14:57:30.574Z",
+    "reps": 3
   },
   "food#homemade-food": {
     "due": "2026-09-27T14:40:21.600Z",
