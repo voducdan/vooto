@@ -1096,10 +1096,12 @@
     "reps": 2
   },
   "food#vegan": {
-    "due": "2026-09-24T08:55:53.061306+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-09-25T17:07:25.078Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-09-24T09:55:25.078Z",
+    "reps": 1
   },
   "free-time#adopt-the-habit": {
     "due": "2026-08-22T02:43:24.148Z",
