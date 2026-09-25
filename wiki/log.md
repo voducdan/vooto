@@ -75,3 +75,7 @@ Added [[letter-a]] entry "ambiguity" via /newword (source: oxford).
 ## [2026-09-23] newword | intact
 
 Added [[letter-i]] entry "intact" via /newword (source: oxford).
+
+## [2026-09-25] newword | tilt
+
+Added [[letter-t]] entry "tilt" via /newword (source: oxford).

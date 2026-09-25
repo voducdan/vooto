@@ -144,3 +144,11 @@
 
 - a pair of tongs
 - We could hear the neighbours going at it hammer and tongs.
+
+### Tilt *[Verb]* — /tɪlt/
+
+**Definition**: to move, or make something move, into a position with one side or end higher than the other
+
+- Suddenly the boat tilted to one side.
+- The seat tilts forward, when you press this lever.
+- His hat was tilted slightly at an angle.
