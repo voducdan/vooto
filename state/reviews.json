@@ -3790,12 +3790,12 @@
     "reps": 2
   },
   "money#big-money": {
-    "due": "2026-09-25T16:58:49.792Z",
+    "due": "2026-10-11T09:26:40.976Z",
     "ef": 2.5,
-    "interval": 6,
+    "interval": 15,
     "last_rating": "good",
-    "last_reviewed": "2026-09-19T16:58:49.792Z",
-    "reps": 2
+    "last_reviewed": "2026-09-26T09:26:40.976Z",
+    "reps": 3
   },
   "money#budget": {
     "due": "2026-06-29T11:40:20.521017+00:00",
