@@ -4704,12 +4704,12 @@
     "reps": 0
   },
   "work#make-an-honest-living": {
-    "due": "2026-09-26T21:05:45.597Z",
-    "ef": 1.9,
-    "interval": 1.728,
+    "due": "2026-09-29T04:58:14.114Z",
+    "ef": 1.75,
+    "interval": 2.0736,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-25T03:37:26.397Z",
-    "reps": 4
+    "last_reviewed": "2026-09-27T03:12:15.074Z",
+    "reps": 5
   },
   "work#overcome": {
     "due": "2026-09-07T10:41:56.521Z",
