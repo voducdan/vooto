@@ -83,3 +83,7 @@ Added [[letter-t]] entry "tilt" via /newword (source: oxford).
 ## [2026-09-28] newword | swamp
 
 Added [[letter-s]] entry "swamp" via /newword (source: oxford).
+
+## [2026-09-28] newword | justify
+
+Added [[letter-j]] entry "justify" via /newword (source: oxford).

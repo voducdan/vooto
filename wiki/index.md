@@ -54,6 +54,7 @@ From the source's *Other Vocabularies* section — words/phrases that did not fi
 - [[letter-g]] — Letter G (12 entries, pages 280-281)
 - [[letter-h]] — Letter H (14 entries, pages 282-284)
 - [[letter-i]] — Letter I (24 entries, pages 285-288)
+- [[letter-j]] — Letter J (added via /newword)
 - [[letter-k]] — Letter K (1 entries, pages 289-289)
 - [[letter-l]] — Letter L (15 entries, pages 290-292)
 - [[letter-m]] — Letter M (18 entries, pages 293-295)
