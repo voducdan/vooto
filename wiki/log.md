@@ -79,3 +79,7 @@ Added [[letter-i]] entry "intact" via /newword (source: oxford).
 ## [2026-09-25] newword | tilt
 
 Added [[letter-t]] entry "tilt" via /newword (source: oxford).
+
+## [2026-09-28] newword | swamp
+
+Added [[letter-s]] entry "swamp" via /newword (source: oxford).

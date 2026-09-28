@@ -395,3 +395,10 @@
 - to squeeze a tube of toothpaste
 - to squeeze the trigger of a gun (= to fire it)
 - He squeezed her hand and smiled at her.
+
+### Swamp *[Noun]* — /swɒmp/
+
+**Definition**: an area of ground that is very wet or covered with water and in which plants, trees, etc. are growing
+
+- tropical swamps
+- The country contains around 700 square km of swamp.
