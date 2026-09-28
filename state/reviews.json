@@ -484,12 +484,12 @@
     "reps": 8
   },
   "description#figure": {
-    "due": "2026-09-27T08:57:55.751Z",
-    "ef": 2.65,
-    "interval": 7.8,
+    "due": "2026-10-26T12:32:42.816Z",
+    "ef": 2.8,
+    "interval": 28.392,
     "last_rating": "easy",
-    "last_reviewed": "2026-09-19T13:45:55.751Z",
-    "reps": 2
+    "last_reviewed": "2026-09-28T03:08:14.016Z",
+    "reps": 3
   },
   "description#generous": {
     "due": "2026-08-10T02:05:14.824Z",
