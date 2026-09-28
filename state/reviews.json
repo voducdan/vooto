@@ -1004,12 +1004,12 @@
     "reps": 3
   },
   "food#homemade-food": {
-    "due": "2026-09-27T14:40:21.600Z",
-    "ef": 2.65,
-    "interval": 41.0455,
+    "due": "2027-02-24T20:11:54.640Z",
+    "ef": 2.8,
+    "interval": 149.4056,
     "last_rating": "easy",
-    "last_reviewed": "2026-08-17T13:34:54.504Z",
-    "reps": 5
+    "last_reviewed": "2026-09-28T10:27:49.072Z",
+    "reps": 6
   },
   "food#in-a-walking-distance-of": {
     "due": "2026-08-27T18:11:07.530Z",
