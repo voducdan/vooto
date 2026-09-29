@@ -248,12 +248,12 @@
     "reps": 2
   },
   "buildings#elegant": {
-    "due": "2026-09-27T22:20:32.171Z",
+    "due": "2026-10-05T02:22:03.849Z",
     "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-09-26T15:08:32.171Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-29T02:22:03.849Z",
+    "reps": 2
   },
   "buildings#high-rise": {
     "due": "2026-08-31T10:22:01.363554+00:00",
