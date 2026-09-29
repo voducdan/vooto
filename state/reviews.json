@@ -3286,12 +3286,12 @@
     "reps": 3
   },
   "letter-t#thoroughness-o-n-s": {
-    "due": "2026-09-28T09:50:51.295Z",
-    "ef": 2.5,
-    "interval": 6,
-    "last_rating": "good",
-    "last_reviewed": "2026-09-22T09:50:51.295Z",
-    "reps": 2
+    "due": "2026-10-19T19:57:25.819Z",
+    "ef": 2.65,
+    "interval": 20.67,
+    "last_rating": "easy",
+    "last_reviewed": "2026-09-29T03:52:37.819Z",
+    "reps": 3
   },
   "letter-t#thought-provoking": {
     "due": "2026-06-29T07:42:13.657670+00:00",
@@ -4714,7 +4714,7 @@
   "work#make-ends-meet": {
     "due": "2026-09-29T03:46:40.811997+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "work#overcome": {
