@@ -3104,12 +3104,12 @@
     "reps": 0
   },
   "letter-s#secure-in-the-knowledge-si-kju-n-n-li": {
-    "due": "2026-09-29T12:12:26.519Z",
-    "ef": 1.75,
-    "interval": 2.0736,
+    "due": "2026-10-02T15:21:05.685Z",
+    "ef": 1.6,
+    "interval": 2.4883,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-27T10:26:27.479Z",
-    "reps": 5
+    "last_reviewed": "2026-09-30T03:37:54.837Z",
+    "reps": 6
   },
   "letter-s#self-explanatory": {
     "due": "2026-05-29T03:08:07.791260+00:00",
