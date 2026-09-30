@@ -724,12 +724,12 @@
     "reps": 3
   },
   "education#to-meet-a-deadline": {
-    "due": "2026-09-29T11:20:54.250Z",
+    "due": "2026-10-20T19:42:16.128Z",
     "ef": 2.65,
-    "interval": 7.8,
-    "last_rating": "easy",
-    "last_reviewed": "2026-09-21T16:08:54.250Z",
-    "reps": 2
+    "interval": 20.67,
+    "last_rating": "good",
+    "last_reviewed": "2026-09-30T03:37:28.128Z",
+    "reps": 3
   },
   "education#to-recall": {
     "due": "2026-08-11T01:23:50.549Z",
