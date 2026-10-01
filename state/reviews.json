@@ -1482,10 +1482,12 @@
     "reps": 3
   },
   "ielts-writing#forecast": {
-    "due": "2026-09-30T17:26:51.498497+00:00",
+    "due": "2026-10-02T00:11:26.599Z",
     "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-01T00:11:26.599Z",
+    "reps": 1
   },
   "ielts-writing#fuel": {
     "due": "2026-05-29T05:27:44.707832+00:00",
@@ -2090,7 +2092,7 @@
   "letter-e#erode": {
     "due": "2026-09-30T17:26:51.498497+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-e#evocative-v-k-t-v": {
