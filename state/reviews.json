@@ -1184,7 +1184,7 @@
   "free-time#stay-up-late": {
     "due": "2026-10-01T10:39:09.777701+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#take-an-interest-in": {
@@ -4110,12 +4110,12 @@
     "reps": 0
   },
   "personality#lose-one-s-patience": {
-    "due": "2026-09-30T19:26:32.379Z",
+    "due": "2027-02-15T09:15:47.762Z",
     "ef": 2.65,
-    "interval": 51.675,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-10T03:14:32.379Z",
-    "reps": 4
+    "interval": 136.9388,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-01T10:43:59.762Z",
+    "reps": 5
   },
   "personality#officious": {
     "due": "2026-06-30T05:23:29.751872+00:00",
