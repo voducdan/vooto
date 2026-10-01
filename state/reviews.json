@@ -2090,10 +2090,12 @@
     "reps": 0
   },
   "letter-e#erode": {
-    "due": "2026-09-30T17:26:51.498497+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-10-02T00:11:33.049Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-01T00:11:33.049Z",
+    "reps": 1
   },
   "letter-e#evocative-v-k-t-v": {
     "due": "2026-08-11T03:11:19.952Z",
