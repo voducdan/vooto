@@ -1181,6 +1181,12 @@
     "interval": 0,
     "reps": 0
   },
+  "free-time#stay-up-late": {
+    "due": "2026-10-01T10:39:09.777701+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#take-an-interest-in": {
     "due": "2026-10-15T03:22:58.588Z",
     "ef": 1.45,
