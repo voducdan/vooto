@@ -4736,12 +4736,12 @@
     "reps": 0
   },
   "work#make-an-honest-living": {
-    "due": "2026-10-01T22:07:10.301Z",
-    "ef": 1.6,
-    "interval": 2.4883,
+    "due": "2026-10-05T03:27:53.160Z",
+    "ef": 1.45,
+    "interval": 2.986,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-29T10:23:59.453Z",
-    "reps": 6
+    "last_reviewed": "2026-10-02T03:48:06.216Z",
+    "reps": 7
   },
   "work#make-ends-meet": {
     "due": "2026-10-03T10:55:55.024Z",
