@@ -1182,12 +1182,12 @@
     "reps": 0
   },
   "free-time#stay-up-late": {
-    "due": "2026-10-02T17:56:03.705Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-10-10T23:29:08.952Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-01T10:44:03.705Z",
-    "reps": 1
+    "last_reviewed": "2026-10-03T04:17:08.952Z",
+    "reps": 2
   },
   "free-time#take-an-interest-in": {
     "due": "2026-10-15T03:22:58.588Z",
