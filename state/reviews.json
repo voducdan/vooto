@@ -4744,12 +4744,12 @@
     "reps": 7
   },
   "work#make-ends-meet": {
-    "due": "2026-10-03T10:55:55.024Z",
-    "ef": 2.05,
-    "interval": 1.44,
+    "due": "2026-10-05T08:04:55.873Z",
+    "ef": 1.9,
+    "interval": 1.728,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-02T00:22:19.024Z",
-    "reps": 3
+    "last_reviewed": "2026-10-03T14:36:36.673Z",
+    "reps": 4
   },
   "work#overcome": {
     "due": "2026-09-07T10:41:56.521Z",
