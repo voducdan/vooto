@@ -87,3 +87,7 @@ Added [[letter-s]] entry "swamp" via /newword (source: oxford).
 ## [2026-09-28] newword | justify
 
 Added [[letter-j]] entry "justify" via /newword (source: oxford).
+
+## [2026-10-03] newword | irony
+
+Added [[letter-i]] entry "irony" via /newword (source: oxford).

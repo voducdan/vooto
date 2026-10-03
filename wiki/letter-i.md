@@ -205,3 +205,11 @@
 
 - Most of the house remains intact even after two hundred years.
 - He emerged from the trial with his reputation intact.
+
+### Irony *[Noun]* — /ˈaɪrəni/
+
+**Definition**: the funny or strange aspect of a situation that is very different from what you expect; a situation like this
+
+- It was one of life's little ironies.
+- The irony is that when he finally got the job, he discovered he didn't like it.
+- ‘England is famous for its food,’ she said with heavy irony.
