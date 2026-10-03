@@ -454,12 +454,12 @@
     "reps": 4
   },
   "description#clingy": {
-    "due": "2026-10-03T07:18:35.618Z",
-    "ef": 2.65,
-    "interval": 67.1775,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-28T03:02:59.618Z",
-    "reps": 4
+    "due": "2026-12-23T05:19:16.284Z",
+    "ef": 2.5,
+    "interval": 80.613,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-03T14:36:33.084Z",
+    "reps": 5
   },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
