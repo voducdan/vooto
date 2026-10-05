@@ -2006,12 +2006,12 @@
     "reps": 0
   },
   "letter-d#deplete-d-p-it": {
-    "due": "2026-10-05T03:51:50.987Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-10-06T15:56:45.103Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-04T03:51:50.987Z",
-    "reps": 1
+    "last_reviewed": "2026-10-05T11:08:45.103Z",
+    "reps": 2
   },
   "letter-d#desirable": {
     "due": "2026-06-22T03:09:48.710762+00:00",
