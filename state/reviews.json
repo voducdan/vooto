@@ -2630,10 +2630,12 @@
     "reps": 0
   },
   "letter-i#it-s-no-wonder": {
-    "due": "2026-10-04T16:18:38.815289+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-10-06T02:40:39.239Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-05T02:40:39.239Z",
+    "reps": 1
   },
   "letter-i#it-s-not-an-indication-of-ts-n-t-n-v": {
     "due": "2026-06-29T03:08:49.948887+00:00",
