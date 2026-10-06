@@ -91,3 +91,7 @@ Added [[letter-j]] entry "justify" via /newword (source: oxford).
 ## [2026-10-03] newword | irony
 
 Added [[letter-i]] entry "irony" via /newword (source: oxford).
+
+## [2026-10-06] newword | grunt
+
+Added [[letter-g]] entry "grunt" via /newword (source: oxford).

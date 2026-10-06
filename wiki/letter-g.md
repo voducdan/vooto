@@ -117,3 +117,11 @@
 
 - glamorous movie stars
 - a glamorous job
+
+### Grunt *[Verb]* — /ɡrʌnt/
+
+**Definition**: to make a short, low sound in the throat
+
+- He pulled harder on the rope, grunting with the effort.
+- When I told her what had happened she just grunted and turned back to her book.
+- He grunted something about being late and rushed out.
