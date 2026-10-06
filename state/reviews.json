@@ -2138,12 +2138,12 @@
     "reps": 1
   },
   "letter-e#exploit-k-spl-t": {
-    "due": "2026-10-05T22:37:58.841Z",
+    "due": "2026-11-13T06:52:23.884Z",
     "ef": 1.75,
-    "interval": 21.7728,
+    "interval": 38.1024,
     "last_rating": "good",
-    "last_reviewed": "2026-09-14T04:05:08.921Z",
-    "reps": 7
+    "last_reviewed": "2026-10-06T04:24:56.524Z",
+    "reps": 8
   },
   "letter-e#extraction": {
     "due": "2026-06-17T15:09:59.486Z",
