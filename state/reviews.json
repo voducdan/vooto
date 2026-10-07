@@ -4232,12 +4232,12 @@
     "reps": 0
   },
   "technology#online": {
-    "due": "2026-10-07T08:12:24.935Z",
-    "ef": 2.8,
-    "interval": 35.8956,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-01T10:42:45.095Z",
-    "reps": 4
+    "due": "2027-02-22T03:05:33.231Z",
+    "ef": 2.95,
+    "interval": 137.6596,
+    "last_rating": "easy",
+    "last_reviewed": "2026-10-07T11:15:41.545Z",
+    "reps": 5
   },
   "technology#reliance-on": {
     "due": "2026-09-05T00:43:30.529Z",
