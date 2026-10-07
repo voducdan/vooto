@@ -2365,6 +2365,12 @@
     "last_reviewed": "2026-06-08T09:40:55.918Z",
     "reps": 0
   },
+  "letter-g#glamorous": {
+    "due": "2026-10-07T03:51:19.460509+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-g#glossy": {
     "due": "2026-06-29T00:42:18.265949+00:00",
     "ef": 2.5,
@@ -3148,6 +3154,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-08-17T13:34:07.474Z",
     "reps": 8
+  },
+  "letter-r#review-ri-vju": {
+    "due": "2026-10-07T03:51:19.460509+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-r#rival": {
     "due": "2026-06-20T14:46:26.790133+00:00",
