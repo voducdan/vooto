@@ -469,6 +469,12 @@
     "last_reviewed": "2026-10-03T14:36:33.084Z",
     "reps": 5
   },
+  "description#compact": {
+    "due": "2026-10-10T10:22:21.011634+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#courageous": {
     "due": "2026-05-24T10:33:46.330980+00:00",
     "ef": 2.5,
