@@ -8,12 +8,12 @@
     "reps": 4
   },
   "books-and-films#action-packed": {
-    "due": "2026-10-09T14:38:03.129Z",
-    "ef": 2.05,
-    "interval": 1.44,
+    "due": "2026-10-11T21:24:25.409Z",
+    "ef": 1.9,
+    "interval": 1.728,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-08T04:04:27.129Z",
-    "reps": 3
+    "last_reviewed": "2026-10-10T03:56:06.209Z",
+    "reps": 4
   },
   "books-and-films#addictive": {
     "due": "2026-08-31T18:37:35.160608+00:00",
@@ -1186,7 +1186,7 @@
   "free-time#pottery": {
     "due": "2026-10-10T03:54:38.922866+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "free-time#regular": {
@@ -1972,7 +1972,7 @@
   "letter-c#countless-ka-nt-s": {
     "due": "2026-10-09T19:11:38.296016+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-c#current-affairs": {
