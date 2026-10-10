@@ -1514,12 +1514,12 @@
     "reps": 3
   },
   "ielts-writing#forecast": {
-    "due": "2026-10-10T05:33:11.022Z",
+    "due": "2026-10-31T04:44:31.180Z",
     "ef": 2.65,
-    "interval": 7.8,
-    "last_rating": "easy",
-    "last_reviewed": "2026-10-02T10:21:11.022Z",
-    "reps": 2
+    "interval": 20.67,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-10T12:39:43.180Z",
+    "reps": 3
   },
   "ielts-writing#fuel": {
     "due": "2026-05-29T05:27:44.707832+00:00",
