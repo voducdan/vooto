@@ -1417,6 +1417,12 @@
     "last_reviewed": "2026-06-15T03:31:13.288Z",
     "reps": 1
   },
+  "health#sanitation": {
+    "due": "2026-10-10T16:48:17.127690+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "health#to-be-detrimental-to-health": {
     "due": "2026-11-02T17:24:12.233Z",
     "ef": 2.35,
