@@ -8,12 +8,12 @@
     "reps": 4
   },
   "books-and-films#action-packed": {
-    "due": "2026-10-11T21:24:25.409Z",
-    "ef": 1.9,
-    "interval": 1.728,
+    "due": "2026-10-14T13:24:42.313Z",
+    "ef": 1.75,
+    "interval": 2.0736,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-10T03:56:06.209Z",
-    "reps": 4
+    "last_reviewed": "2026-10-12T11:38:43.273Z",
+    "reps": 5
   },
   "books-and-films#addictive": {
     "due": "2026-08-31T18:37:35.160608+00:00",
