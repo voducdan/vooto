@@ -1684,12 +1684,12 @@
     "reps": 0
   },
   "law#solid-evidence": {
-    "due": "2026-10-11T08:11:31.912Z",
+    "due": "2027-03-06T06:56:37.379Z",
     "ef": 2.65,
-    "interval": 54.7755,
+    "interval": 145.1551,
     "last_rating": "good",
-    "last_reviewed": "2026-08-17T13:34:48.712Z",
-    "reps": 4
+    "last_reviewed": "2026-10-12T03:13:18.899Z",
+    "reps": 5
   },
   "law#the-crime-rate": {
     "due": "2027-01-25T15:22:37.948Z",
