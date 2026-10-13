@@ -1282,12 +1282,12 @@
     "reps": 1
   },
   "friends#mutual-friend": {
-    "due": "2026-10-12T12:45:47.944Z",
+    "due": "2027-05-11T16:38:59.979Z",
     "ef": 2.8,
-    "interval": 75.2388,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-29T07:01:55.624Z",
-    "reps": 4
+    "interval": 210.6686,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-13T00:36:09.483Z",
+    "reps": 5
   },
   "friends#shoulder-to-cry-on": {
     "due": "2026-08-24T04:38:21.028590+00:00",
