@@ -1418,12 +1418,12 @@
     "reps": 1
   },
   "health#sanitation": {
-    "due": "2026-10-12T16:07:51.609Z",
-    "ef": 2.5,
-    "interval": 1.56,
-    "last_rating": "hard",
-    "last_reviewed": "2026-10-11T02:41:27.609Z",
-    "reps": 2
+    "due": "2026-10-18T14:16:48.050Z",
+    "ef": 2.65,
+    "interval": 5.3742,
+    "last_rating": "easy",
+    "last_reviewed": "2026-10-13T05:17:57.170Z",
+    "reps": 3
   },
   "health#to-be-detrimental-to-health": {
     "due": "2026-11-02T17:24:12.233Z",
