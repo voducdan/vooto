@@ -798,12 +798,12 @@
     "reps": 0
   },
   "environment#humid": {
-    "due": "2026-10-12T12:51:55.913Z",
-    "ef": 2.35,
-    "interval": 14.1,
-    "last_rating": "good",
-    "last_reviewed": "2026-09-28T10:27:55.913Z",
-    "reps": 3
+    "due": "2026-11-28T01:06:01.044Z",
+    "ef": 2.5,
+    "interval": 45.825,
+    "last_rating": "easy",
+    "last_reviewed": "2026-10-13T05:18:01.044Z",
+    "reps": 4
   },
   "environment#in-all-weathers": {
     "due": "2026-06-29T13:28:11.264490+00:00",
