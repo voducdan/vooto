@@ -2038,12 +2038,12 @@
     "reps": 0
   },
   "letter-d#deplete-d-p-it": {
-    "due": "2026-10-12T03:00:54.068Z",
+    "due": "2026-10-19T01:50:23.920Z",
     "ef": 2.05,
-    "interval": 2.952,
+    "interval": 6.0516,
     "last_rating": "good",
-    "last_reviewed": "2026-10-09T04:10:01.268Z",
-    "reps": 4
+    "last_reviewed": "2026-10-13T00:36:05.680Z",
+    "reps": 5
   },
   "letter-d#desirable": {
     "due": "2026-06-22T03:09:48.710762+00:00",
