@@ -1670,12 +1670,12 @@
     "reps": 3
   },
   "law#obligations": {
-    "due": "2026-10-13T06:20:36.138Z",
-    "ef": 2.65,
-    "interval": 7.8,
+    "due": "2026-11-11T12:59:14.559Z",
+    "ef": 2.8,
+    "interval": 28.392,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-05T11:08:36.138Z",
-    "reps": 2
+    "last_reviewed": "2026-10-14T03:34:45.759Z",
+    "reps": 3
   },
   "law#obligatory": {
     "due": "2026-06-23T03:06:57.261130+00:00",
