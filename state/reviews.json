@@ -1150,12 +1150,12 @@
     "reps": 0
   },
   "free-time#every-so-often-from-time-to-time": {
-    "due": "2026-10-13T02:46:04.619Z",
-    "ef": 2.2,
-    "interval": 39.762,
+    "due": "2026-11-30T18:19:05.149Z",
+    "ef": 2.05,
+    "interval": 47.7144,
     "last_rating": "hard",
-    "last_reviewed": "2026-09-03T08:28:47.819Z",
-    "reps": 5
+    "last_reviewed": "2026-10-14T01:10:20.989Z",
+    "reps": 6
   },
   "free-time#fast-paced": {
     "due": "2026-11-13T00:13:24.552Z",
