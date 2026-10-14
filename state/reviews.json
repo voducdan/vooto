@@ -2754,12 +2754,12 @@
     "reps": 2
   },
   "letter-l#low-priority": {
-    "due": "2026-10-13T21:04:39.725Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-11-13T07:13:06.088Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-06T01:52:39.725Z",
-    "reps": 2
+    "last_reviewed": "2026-10-14T09:18:22.888Z",
+    "reps": 3
   },
   "letter-l#loyal": {
     "due": "2026-06-27T00:40:03.575208+00:00",
