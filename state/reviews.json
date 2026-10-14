@@ -2502,12 +2502,12 @@
     "reps": 0
   },
   "letter-h#home-life-ho-m-laif": {
-    "due": "2026-10-14T01:44:55.721Z",
-    "ef": 2.5,
-    "interval": 11.9145,
+    "due": "2026-11-24T10:23:53.613Z",
+    "ef": 2.65,
+    "interval": 41.0455,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-02T03:48:02.921Z",
-    "reps": 4
+    "last_reviewed": "2026-10-14T09:18:26.517Z",
+    "reps": 5
   },
   "letter-h#host-country": {
     "due": "2026-06-25T09:34:25.745Z",
