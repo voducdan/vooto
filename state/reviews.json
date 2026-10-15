@@ -3669,6 +3669,12 @@
     "last_reviewed": "2026-06-12T03:32:12.449Z",
     "reps": 4
   },
+  "letter-v#versatile-v-s-t": {
+    "due": "2026-10-15T14:36:49.715910+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
     "ef": 2.5,
