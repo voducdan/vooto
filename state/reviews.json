@@ -663,6 +663,12 @@
     "interval": 0,
     "reps": 0
   },
+  "education#postgraduate-school": {
+    "due": "2026-10-15T02:49:05.740492+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "education#public-schools": {
     "due": "2026-06-22T10:13:40.871743+00:00",
     "ef": 2.5,
