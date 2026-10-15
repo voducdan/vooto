@@ -8,12 +8,12 @@
     "reps": 4
   },
   "books-and-films#action-packed": {
-    "due": "2026-10-14T13:24:42.313Z",
+    "due": "2026-10-18T17:54:51.737Z",
     "ef": 1.75,
-    "interval": 2.0736,
-    "last_rating": "hard",
-    "last_reviewed": "2026-10-12T11:38:43.273Z",
-    "reps": 5
+    "interval": 3.6288,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-15T02:49:23.417Z",
+    "reps": 6
   },
   "books-and-films#addictive": {
     "due": "2026-08-31T18:37:35.160608+00:00",
@@ -666,7 +666,7 @@
   "education#postgraduate-school": {
     "due": "2026-10-15T02:49:05.740492+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#public-schools": {
