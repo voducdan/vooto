@@ -1222,12 +1222,12 @@
     "reps": 3
   },
   "free-time#take-an-interest-in": {
-    "due": "2026-10-15T03:22:58.588Z",
-    "ef": 1.45,
-    "interval": 22.5454,
-    "last_rating": "hard",
-    "last_reviewed": "2026-09-22T14:17:39.484Z",
-    "reps": 10
+    "due": "2026-12-01T06:18:20.207Z",
+    "ef": 1.6,
+    "interval": 46.8944,
+    "last_rating": "easy",
+    "last_reviewed": "2026-10-15T08:50:21.283Z",
+    "reps": 11
   },
   "free-time#take-up": {
     "due": "2026-09-03T22:26:02.633Z",
