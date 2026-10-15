@@ -4828,12 +4828,12 @@
     "reps": 10
   },
   "work#make-ends-meet": {
-    "due": "2026-10-14T12:09:35.345Z",
+    "due": "2026-10-19T09:57:28.618Z",
     "ef": 1.45,
-    "interval": 2.986,
-    "last_rating": "hard",
-    "last_reviewed": "2026-10-11T12:29:48.401Z",
-    "reps": 7
+    "interval": 4.3297,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-15T02:02:42.538Z",
+    "reps": 8
   },
   "work#overcome": {
     "due": "2026-09-07T10:41:56.521Z",
