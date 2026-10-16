@@ -1284,7 +1284,7 @@
   "friends#enjoy-each-other-s-company": {
     "due": "2026-10-16T02:45:57.101766+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#fair-weather-friend": {
@@ -3612,12 +3612,12 @@
     "reps": 4
   },
   "letter-u#unspecified": {
-    "due": "2026-10-16T01:22:53.581Z",
-    "ef": 2.65,
-    "interval": 20.67,
-    "last_rating": "good",
-    "last_reviewed": "2026-09-25T09:18:05.581Z",
-    "reps": 3
+    "due": "2026-12-30T09:12:48.656Z",
+    "ef": 2.8,
+    "interval": 75.2388,
+    "last_rating": "easy",
+    "last_reviewed": "2026-10-16T03:28:56.336Z",
+    "reps": 4
   },
   "letter-u#unthinkable": {
     "due": "2026-08-26T01:28:40.891Z",
