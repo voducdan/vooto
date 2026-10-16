@@ -367,6 +367,12 @@
     "interval": 0,
     "reps": 0
   },
+  "business#core-values": {
+    "due": "2026-10-16T14:27:46.715050+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#enterprises": {
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
