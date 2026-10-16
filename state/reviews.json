@@ -370,7 +370,7 @@
   "business#core-values": {
     "due": "2026-10-16T14:27:46.715050+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#enterprises": {
@@ -4350,12 +4350,12 @@
     "reps": 4
   },
   "time#ancient": {
-    "due": "2026-10-16T07:01:03.447Z",
-    "ef": 2.65,
-    "interval": 20.67,
+    "due": "2026-12-30T20:11:59.114Z",
+    "ef": 2.8,
+    "interval": 75.2388,
     "last_rating": "easy",
-    "last_reviewed": "2026-09-25T14:56:15.447Z",
-    "reps": 3
+    "last_reviewed": "2026-10-16T14:28:06.794Z",
+    "reps": 4
   },
   "time#antique": {
     "due": "2026-06-19T15:03:31.197989+00:00",
