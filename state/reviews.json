@@ -3386,10 +3386,12 @@
     "reps": 1
   },
   "letter-s#swamp": {
-    "due": "2026-10-17T08:11:57.279578+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-10-18T13:25:16.216Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-17T13:25:16.216Z",
+    "reps": 1
   },
   "letter-s#the-shore": {
     "due": "2026-06-17T07:57:52.114Z",
