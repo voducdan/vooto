@@ -2478,10 +2478,12 @@
     "reps": 0
   },
   "letter-g#grunt": {
-    "due": "2026-10-17T13:24:36.598709+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-10-18T13:25:19.155Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-17T13:25:19.155Z",
+    "reps": 1
   },
   "letter-g#to-get-access-to": {
     "due": "2027-06-29T11:44:16.174Z",
