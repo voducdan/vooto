@@ -3686,12 +3686,12 @@
     "reps": 4
   },
   "letter-v#versatile-v-s-t": {
-    "due": "2026-10-16T14:55:23.118Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-10-18T08:27:43.895Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-15T14:55:23.118Z",
-    "reps": 1
+    "last_reviewed": "2026-10-17T03:39:43.895Z",
+    "reps": 2
   },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
