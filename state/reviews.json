@@ -2140,10 +2140,12 @@
     "reps": 0
   },
   "letter-d#distract-d-st-kt": {
-    "due": "2026-10-17T13:24:36.598709+00:00",
+    "due": "2026-10-18T13:25:22.426Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-17T13:25:22.426Z",
+    "reps": 1
   },
   "letter-d#draw-lots-dro-ts": {
     "due": "2026-10-24T18:43:34.716Z",
