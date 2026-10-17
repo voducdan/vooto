@@ -1290,12 +1290,12 @@
     "reps": 1
   },
   "friends#enjoy-each-other-s-company": {
-    "due": "2026-10-17T03:29:00.442Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-10-18T18:13:13.018Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-16T03:29:00.442Z",
-    "reps": 1
+    "last_reviewed": "2026-10-17T13:25:13.018Z",
+    "reps": 2
   },
   "friends#fair-weather-friend": {
     "due": "2026-09-03T02:38:05.935Z",
@@ -2142,7 +2142,7 @@
   "letter-d#distract-d-st-kt": {
     "due": "2026-10-17T13:24:36.598709+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-d#draw-lots-dro-ts": {
@@ -2480,7 +2480,7 @@
   "letter-g#grunt": {
     "due": "2026-10-17T13:24:36.598709+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-g#to-get-access-to": {
@@ -3388,7 +3388,7 @@
   "letter-s#swamp": {
     "due": "2026-10-17T08:11:57.279578+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-s#the-shore": {
