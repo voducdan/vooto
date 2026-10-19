@@ -4052,12 +4052,12 @@
     "reps": 0
   },
   "music#enlighten": {
-    "due": "2026-10-18T20:14:56.486Z",
-    "ef": 2.8,
-    "interval": 75.2388,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-04T14:31:04.166Z",
-    "reps": 4
+    "due": "2027-01-17T16:26:34.832Z",
+    "ef": 2.65,
+    "interval": 90.2866,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-19T09:33:56.048Z",
+    "reps": 5
   },
   "music#genres-of-music": {
     "due": "2026-09-07T10:42:00.214Z",
