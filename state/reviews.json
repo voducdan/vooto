@@ -1208,12 +1208,12 @@
     "reps": 0
   },
   "free-time#pottery": {
-    "due": "2026-10-19T07:41:51.704Z",
-    "ef": 2.65,
-    "interval": 7.8,
+    "due": "2026-11-17T11:28:03.468Z",
+    "ef": 2.8,
+    "interval": 28.392,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-11T12:29:51.704Z",
-    "reps": 2
+    "last_reviewed": "2026-10-20T02:03:34.668Z",
+    "reps": 3
   },
   "free-time#regular": {
     "due": "2026-08-24T00:56:40.168544+00:00",
