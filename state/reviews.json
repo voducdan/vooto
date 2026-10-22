@@ -446,10 +446,12 @@
     "reps": 2
   },
   "description#airy": {
-    "due": "2026-10-22T02:55:57.647675+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-10-23T03:02:37.293Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-22T03:02:37.293Z",
+    "reps": 1
   },
   "description#appearance": {
     "due": "2026-06-18T22:19:57.671Z",
