@@ -2376,10 +2376,12 @@
     "reps": 0
   },
   "letter-f#fortunately-f-t-n-t-i": {
-    "due": "2026-10-22T09:05:21.864954+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-10-23T16:17:46.966Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-10-22T09:05:46.966Z",
+    "reps": 1
   },
   "letter-f#from-scratch": {
     "due": "2026-06-25T00:41:27.809527+00:00",
@@ -4084,7 +4086,7 @@
   "music#enrich": {
     "due": "2026-10-22T09:05:21.864954+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#genres-of-music": {
