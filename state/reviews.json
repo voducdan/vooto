@@ -2496,12 +2496,12 @@
     "reps": 0
   },
   "letter-g#grunt": {
-    "due": "2026-10-22T11:00:43.563Z",
+    "due": "2026-10-25T13:58:15.509Z",
     "ef": 2.05,
-    "interval": 1.44,
-    "last_rating": "hard",
-    "last_reviewed": "2026-10-21T00:27:07.563Z",
-    "reps": 3
+    "interval": 2.952,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-22T15:07:22.709Z",
+    "reps": 4
   },
   "letter-g#to-get-access-to": {
     "due": "2027-06-29T11:44:16.174Z",
