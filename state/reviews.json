@@ -445,6 +445,12 @@
     "last_reviewed": "2026-06-16T07:58:53.973Z",
     "reps": 2
   },
+  "description#airy": {
+    "due": "2026-10-22T02:55:57.647675+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "description#appearance": {
     "due": "2026-06-18T22:19:57.671Z",
     "ef": 2.8,
@@ -3700,6 +3706,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-15T03:32:14.548Z",
     "reps": 4
+  },
+  "letter-v#venerable-v-n-b": {
+    "due": "2026-10-22T02:55:57.647675+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "letter-v#versatile": {
     "due": "2026-06-17T22:55:43.649Z",
