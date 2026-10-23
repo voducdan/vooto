@@ -3718,12 +3718,12 @@
     "reps": 4
   },
   "letter-v#venerable-v-n-b": {
-    "due": "2026-10-23T03:02:32.642Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-10-24T13:48:19.914Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-22T03:02:32.642Z",
-    "reps": 1
+    "last_reviewed": "2026-10-23T09:00:19.914Z",
+    "reps": 2
   },
   "letter-v#versatile": {
     "due": "2026-06-17T22:55:43.649Z",
