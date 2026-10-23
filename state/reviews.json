@@ -702,12 +702,12 @@
     "reps": 2
   },
   "education#scholarship": {
-    "due": "2026-10-23T00:21:55.827Z",
-    "ef": 2.8,
-    "interval": 28.392,
+    "due": "2027-02-09T06:12:14.759Z",
+    "ef": 2.95,
+    "interval": 108.8833,
     "last_rating": "easy",
-    "last_reviewed": "2026-09-24T14:57:27.027Z",
-    "reps": 3
+    "last_reviewed": "2026-10-23T09:00:15.911Z",
+    "reps": 4
   },
   "education#single-sex-schools": {
     "due": "2026-10-28T00:18:15.706Z",
