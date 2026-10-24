@@ -2874,12 +2874,12 @@
     "reps": 2
   },
   "letter-m#mass-produced": {
-    "due": "2026-10-24T08:58:08.733Z",
-    "ef": 2.8,
-    "interval": 75.2388,
+    "due": "2027-08-09T06:07:55.214Z",
+    "ef": 2.95,
+    "interval": 288.5408,
     "last_rating": "easy",
-    "last_reviewed": "2026-08-10T03:14:16.413Z",
-    "reps": 4
+    "last_reviewed": "2026-10-24T17:09:10.267Z",
+    "reps": 5
   },
   "letter-m#match": {
     "due": "2026-12-16T02:47:37.877Z",
