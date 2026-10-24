@@ -4596,12 +4596,12 @@
     "reps": 6
   },
   "towns-and-cities#leisure-centre": {
-    "due": "2026-10-24T08:58:27.714Z",
-    "ef": 2.8,
-    "interval": 75.2388,
+    "due": "2027-08-09T06:07:58.660Z",
+    "ef": 2.95,
+    "interval": 288.5408,
     "last_rating": "easy",
-    "last_reviewed": "2026-08-10T03:14:35.394Z",
-    "reps": 4
+    "last_reviewed": "2026-10-24T17:09:13.713Z",
+    "reps": 5
   },
   "towns-and-cities#maid": {
     "due": "2026-11-16T04:24:53.978Z",
