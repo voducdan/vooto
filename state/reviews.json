@@ -1636,7 +1636,7 @@
   "ielts-writing#vanished": {
     "due": "2026-10-25T14:03:13.253118+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#whereas-in-contrast": {
@@ -2502,12 +2502,12 @@
     "reps": 0
   },
   "letter-g#grunt": {
-    "due": "2026-10-25T13:58:15.509Z",
+    "due": "2026-10-31T15:23:24.513Z",
     "ef": 2.05,
-    "interval": 2.952,
+    "interval": 6.0516,
     "last_rating": "good",
-    "last_reviewed": "2026-10-22T15:07:22.709Z",
-    "reps": 4
+    "last_reviewed": "2026-10-25T14:09:06.273Z",
+    "reps": 5
   },
   "letter-g#to-get-access-to": {
     "due": "2027-06-29T11:44:16.174Z",
