@@ -2156,12 +2156,12 @@
     "reps": 2
   },
   "letter-d#draw-lots-dro-ts": {
-    "due": "2026-10-24T18:43:34.716Z",
+    "due": "2026-12-05T19:46:21.920Z",
     "ef": 2.35,
-    "interval": 17.7434,
-    "last_rating": "easy",
-    "last_reviewed": "2026-10-07T00:53:01.500Z",
-    "reps": 5
+    "interval": 41.697,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-25T03:02:41.984Z",
+    "reps": 6
   },
   "letter-d#due-to": {
     "due": "2026-06-26T07:18:11.124567+00:00",
