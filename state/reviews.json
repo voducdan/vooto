@@ -2950,10 +2950,12 @@
     "reps": 0
   },
   "letter-m#to-the-full": {
-    "due": "2026-10-25T08:52:55.585314+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-10-26T09:07:36.834Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-25T09:07:36.834Z",
+    "reps": 1
   },
   "letter-n#needy-nidi": {
     "due": "2026-08-27T06:47:02.534940+00:00",
