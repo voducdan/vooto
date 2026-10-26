@@ -516,12 +516,12 @@
     "reps": 8
   },
   "description#figure": {
-    "due": "2026-10-26T12:32:42.816Z",
+    "due": "2027-01-14T04:21:34.288Z",
     "ef": 2.8,
-    "interval": 28.392,
-    "last_rating": "easy",
-    "last_reviewed": "2026-09-28T03:08:14.016Z",
-    "reps": 3
+    "interval": 79.4976,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-26T16:25:01.648Z",
+    "reps": 4
   },
   "description#generous": {
     "due": "2026-08-10T02:05:14.824Z",
