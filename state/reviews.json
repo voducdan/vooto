@@ -2958,12 +2958,12 @@
     "reps": 0
   },
   "letter-m#to-the-full": {
-    "due": "2026-10-26T09:07:36.834Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-10-27T14:22:57.008Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-10-25T09:07:36.834Z",
-    "reps": 1
+    "last_reviewed": "2026-10-26T09:34:57.008Z",
+    "reps": 2
   },
   "letter-n#needy-nidi": {
     "due": "2026-08-27T06:47:02.534940+00:00",
