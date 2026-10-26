@@ -382,12 +382,12 @@
     "reps": 0
   },
   "business#guarantee": {
-    "due": "2026-10-26T00:48:16.263Z",
+    "due": "2027-01-13T14:54:38.409Z",
     "ef": 2.8,
-    "interval": 28.392,
-    "last_rating": "easy",
-    "last_reviewed": "2026-09-27T15:23:47.463Z",
-    "reps": 3
+    "interval": 79.4976,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-26T02:58:05.769Z",
+    "reps": 4
   },
   "business#imbalance": {
     "due": "2026-08-23T10:17:08.267426+00:00",
