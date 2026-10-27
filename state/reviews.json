@@ -4544,12 +4544,12 @@
     "reps": 0
   },
   "towns-and-cities#clean-and-tidy": {
-    "due": "2026-10-27T08:40:13.859Z",
+    "due": "2027-07-01T17:37:33.744Z",
     "ef": 2.95,
-    "interval": 83.7564,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-04T14:31:00.899Z",
-    "reps": 4
+    "interval": 247.0814,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-27T15:40:22.512Z",
+    "reps": 5
   },
   "towns-and-cities#cosmopolitan": {
     "due": "2026-09-05T11:14:42.198Z",
