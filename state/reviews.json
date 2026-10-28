@@ -3750,12 +3750,12 @@
     "reps": 4
   },
   "letter-v#versatile-v-s-t": {
-    "due": "2026-10-27T19:53:54.040Z",
+    "due": "2026-11-09T22:29:41.817Z",
     "ef": 2.2,
-    "interval": 5.808,
+    "interval": 12.7776,
     "last_rating": "good",
-    "last_reviewed": "2026-10-22T00:30:22.840Z",
-    "reps": 4
+    "last_reviewed": "2026-10-28T03:49:57.177Z",
+    "reps": 5
   },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
