@@ -710,12 +710,12 @@
     "reps": 4
   },
   "education#single-sex-schools": {
-    "due": "2026-10-28T00:18:15.706Z",
-    "ef": 2.95,
-    "interval": 108.8833,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-11T03:06:16.858Z",
-    "reps": 4
+    "due": "2027-03-07T19:40:12.949Z",
+    "ef": 2.8,
+    "interval": 130.66,
+    "last_rating": "hard",
+    "last_reviewed": "2026-10-28T03:49:52.405Z",
+    "reps": 5
   },
   "education#specialty": {
     "due": "2026-08-20T15:07:30.876Z",
