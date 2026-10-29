@@ -3430,12 +3430,12 @@
     "reps": 1
   },
   "letter-s#swamp": {
-    "due": "2026-10-28T23:34:34.732Z",
+    "due": "2026-11-10T22:45:31.457Z",
     "ef": 2.2,
-    "interval": 5.808,
+    "interval": 12.7776,
     "last_rating": "good",
-    "last_reviewed": "2026-10-23T04:11:03.532Z",
-    "reps": 4
+    "last_reviewed": "2026-10-29T04:05:46.817Z",
+    "reps": 5
   },
   "letter-s#the-shore": {
     "due": "2026-06-17T07:57:52.114Z",
