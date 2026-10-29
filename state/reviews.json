@@ -290,10 +290,12 @@
     "reps": 3
   },
   "buildings#messy": {
-    "due": "2026-10-28T17:46:46.248455+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-10-30T09:56:54.925Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-10-29T02:44:54.925Z",
+    "reps": 1
   },
   "buildings#pagoda": {
     "due": "2026-08-25T00:47:01.670Z",
@@ -4202,7 +4204,7 @@
   "music#tuneful": {
     "due": "2026-10-28T17:46:46.248455+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "personality#aggressive": {
