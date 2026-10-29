@@ -2761,6 +2761,12 @@
     "last_reviewed": "2026-09-01T10:37:57.806Z",
     "reps": 2
   },
+  "letter-j#justify": {
+    "due": "2026-10-29T10:44:00.528904+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
     "ef": 2.5,
@@ -4937,6 +4943,12 @@
     "due": "2026-06-29T05:35:27.657914+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "work#job-prospects": {
+    "due": "2026-10-29T10:44:00.528904+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "work#make-an-honest-living": {
