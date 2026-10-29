@@ -1237,6 +1237,12 @@
     "interval": 0,
     "reps": 0
   },
+  "free-time#sedentary": {
+    "due": "2026-10-29T17:54:31.535739+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "free-time#stay-up-late": {
     "due": "2026-11-10T02:39:13.378Z",
     "ef": 2.95,
@@ -1738,6 +1744,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-10-12T03:13:18.899Z",
     "reps": 5
+  },
+  "law#surveillance-cameras": {
+    "due": "2026-10-29T17:54:31.535739+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "law#the-crime-rate": {
     "due": "2027-01-25T15:22:37.948Z",
