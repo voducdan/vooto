@@ -4948,10 +4948,12 @@
     "reps": 0
   },
   "work#job-prospects": {
-    "due": "2026-10-29T10:44:00.528904+00:00",
+    "due": "2026-10-30T12:42:26.751Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-10-29T12:42:26.751Z",
+    "reps": 1
   },
   "work#make-an-honest-living": {
     "due": "2026-11-02T19:54:35.731Z",
