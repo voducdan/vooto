@@ -1650,12 +1650,12 @@
     "reps": 0
   },
   "ielts-writing#vanished": {
-    "due": "2026-10-31T02:40:05.255Z",
+    "due": "2026-11-07T00:08:58.343Z",
     "ef": 2.2,
-    "interval": 2.64,
+    "interval": 5.808,
     "last_rating": "good",
-    "last_reviewed": "2026-10-28T11:18:29.255Z",
-    "reps": 3
+    "last_reviewed": "2026-11-01T04:45:27.143Z",
+    "reps": 4
   },
   "ielts-writing#whereas-in-contrast": {
     "due": "2026-06-19T11:32:55.988059+00:00",
