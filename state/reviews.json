@@ -2778,12 +2778,12 @@
     "reps": 2
   },
   "letter-j#justify": {
-    "due": "2026-10-30T12:42:22.519Z",
+    "due": "2026-11-07T03:17:01.178Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-10-29T12:42:22.519Z",
-    "reps": 1
+    "last_reviewed": "2026-11-01T03:17:01.178Z",
+    "reps": 2
   },
   "letter-k#known-reasons": {
     "due": "2026-05-25T03:08:38.754677+00:00",
