@@ -2990,12 +2990,12 @@
     "reps": 0
   },
   "letter-m#to-the-full": {
-    "due": "2026-10-30T07:02:02.875Z",
+    "due": "2026-11-06T22:40:22.828Z",
     "ef": 2.2,
-    "interval": 2.64,
+    "interval": 5.808,
     "last_rating": "good",
-    "last_reviewed": "2026-10-27T15:40:26.875Z",
-    "reps": 3
+    "last_reviewed": "2026-11-01T03:16:51.628Z",
+    "reps": 4
   },
   "letter-n#needy-nidi": {
     "due": "2026-08-27T06:47:02.534940+00:00",
