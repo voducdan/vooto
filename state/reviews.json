@@ -4964,12 +4964,12 @@
     "reps": 0
   },
   "work#job-prospects": {
-    "due": "2026-10-30T12:42:26.751Z",
+    "due": "2026-11-07T03:17:04.361Z",
     "ef": 2.5,
-    "interval": 1,
+    "interval": 6,
     "last_rating": "good",
-    "last_reviewed": "2026-10-29T12:42:26.751Z",
-    "reps": 1
+    "last_reviewed": "2026-11-01T03:17:04.361Z",
+    "reps": 2
   },
   "work#make-an-honest-living": {
     "due": "2026-11-02T19:54:35.731Z",
