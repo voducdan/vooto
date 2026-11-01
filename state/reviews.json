@@ -290,12 +290,12 @@
     "reps": 3
   },
   "buildings#messy": {
-    "due": "2026-10-30T09:56:54.925Z",
+    "due": "2026-11-07T03:16:57.731Z",
     "ef": 2.65,
-    "interval": 1.3,
-    "last_rating": "easy",
-    "last_reviewed": "2026-10-29T02:44:54.925Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-01T03:16:57.731Z",
+    "reps": 2
   },
   "buildings#pagoda": {
     "due": "2026-08-25T00:47:01.670Z",
