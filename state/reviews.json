@@ -1748,12 +1748,12 @@
     "reps": 5
   },
   "law#surveillance-cameras": {
-    "due": "2026-10-31T00:41:13.035Z",
+    "due": "2026-11-07T03:17:14.554Z",
     "ef": 2.35,
-    "interval": 1,
-    "last_rating": "hard",
-    "last_reviewed": "2026-10-30T00:41:13.035Z",
-    "reps": 1
+    "interval": 6,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-01T03:17:14.554Z",
+    "reps": 2
   },
   "law#the-crime-rate": {
     "due": "2027-01-25T15:22:37.948Z",
