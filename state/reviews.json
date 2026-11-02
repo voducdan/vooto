@@ -1022,12 +1022,12 @@
     "reps": 0
   },
   "food#bitter": {
-    "due": "2026-11-02T06:27:46.936Z",
+    "due": "2027-06-01T04:03:40.290Z",
     "ef": 2.8,
-    "interval": 75.2388,
-    "last_rating": "easy",
-    "last_reviewed": "2026-08-19T00:43:54.616Z",
-    "reps": 4
+    "interval": 210.6686,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-02T12:00:49.794Z",
+    "reps": 5
   },
   "food#crunchy": {
     "due": "2026-05-25T09:21:08.408281+00:00",
