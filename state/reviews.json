@@ -1474,12 +1474,12 @@
     "reps": 5
   },
   "health#to-be-detrimental-to-health": {
-    "due": "2026-11-02T17:24:12.233Z",
+    "due": "2027-08-09T02:36:07.798Z",
     "ef": 2.35,
-    "interval": 118.6994,
+    "interval": 278.9436,
     "last_rating": "good",
-    "last_reviewed": "2026-07-07T00:37:00.617Z",
-    "reps": 7
+    "last_reviewed": "2026-11-03T03:57:21.622Z",
+    "reps": 8
   },
   "health#to-black-out": {
     "due": "2026-08-20T15:10:31.663Z",
