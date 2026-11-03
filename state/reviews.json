@@ -4542,10 +4542,12 @@
     "reps": 4
   },
   "time#punctual": {
-    "due": "2026-11-03T13:28:03.268787+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-11-04T14:11:41.117Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-11-03T14:11:41.117Z",
+    "reps": 1
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
