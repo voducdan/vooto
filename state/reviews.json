@@ -1300,7 +1300,7 @@
   "friends#close-friends": {
     "due": "2026-11-03T04:57:54.648581+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "friends#compliment": {
@@ -4232,12 +4232,12 @@
     "reps": 0
   },
   "music#tuneful": {
-    "due": "2026-11-02T21:38:03.153Z",
-    "ef": 2.05,
-    "interval": 1.44,
+    "due": "2026-11-05T07:39:46.592Z",
+    "ef": 1.9,
+    "interval": 1.728,
     "last_rating": "hard",
-    "last_reviewed": "2026-11-01T11:04:27.153Z",
-    "reps": 3
+    "last_reviewed": "2026-11-03T14:11:27.392Z",
+    "reps": 4
   },
   "personality#aggressive": {
     "due": "2026-06-24T07:11:38.638117+00:00",
@@ -4542,7 +4542,7 @@
   "time#punctual": {
     "due": "2026-11-03T13:28:03.268787+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#the-coming-year": {
