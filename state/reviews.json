@@ -3311,6 +3311,12 @@
     "interval": 0,
     "reps": 0
   },
+  "letter-r#run-into-difficulties-r-n-intu-d-f-k-tiz": {
+    "due": "2026-11-03T20:22:50.053277+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "letter-r#to-read-over": {
     "due": "2026-05-28T09:15:02.191154+00:00",
     "ef": 2.5,
@@ -4548,6 +4554,12 @@
     "last_rating": "hard",
     "last_reviewed": "2026-11-03T14:11:41.117Z",
     "reps": 1
+  },
+  "time#right-after": {
+    "due": "2026-11-03T20:22:50.053277+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
