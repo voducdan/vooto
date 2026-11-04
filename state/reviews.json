@@ -3324,10 +3324,12 @@
     "reps": 0
   },
   "letter-r#run-into-difficulties-r-n-intu-d-f-k-tiz": {
-    "due": "2026-11-03T20:22:50.053277+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-11-05T06:51:35.212Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-11-04T06:51:35.212Z",
+    "reps": 1
   },
   "letter-r#to-read-over": {
     "due": "2026-05-28T09:15:02.191154+00:00",
