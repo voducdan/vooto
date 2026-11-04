@@ -378,7 +378,7 @@
   "business#boundless": {
     "due": "2026-11-04T04:28:52.147232+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#core-values": {
@@ -1562,7 +1562,7 @@
   "ielts-writing#estimate": {
     "due": "2026-11-04T04:28:52.147232+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "ielts-writing#expenditure-spending": {
@@ -3326,7 +3326,7 @@
   "letter-r#run-into-difficulties-r-n-intu-d-f-k-tiz": {
     "due": "2026-11-03T20:22:50.053277+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-r#to-read-over": {
@@ -4568,10 +4568,12 @@
     "reps": 1
   },
   "time#right-after": {
-    "due": "2026-11-03T20:22:50.053277+00:00",
+    "due": "2026-11-05T06:51:31.844Z",
     "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-04T06:51:31.844Z",
+    "reps": 1
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
