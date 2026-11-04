@@ -927,6 +927,12 @@
     "last_reviewed": "2026-08-17T13:35:16.009Z",
     "reps": 9
   },
+  "family#conventionally": {
+    "due": "2026-11-04T13:39:12.534355+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "family#empathize-with": {
     "due": "2027-01-20T23:54:14.678Z",
     "ef": 2.5,
@@ -4502,6 +4508,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-10-16T14:28:06.794Z",
     "reps": 4
+  },
+  "time#annually": {
+    "due": "2026-11-04T13:39:12.534355+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "time#antique": {
     "due": "2026-06-19T15:03:31.197989+00:00",
