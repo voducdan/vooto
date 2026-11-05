@@ -928,10 +928,12 @@
     "reps": 9
   },
   "family#conventionally": {
-    "due": "2026-11-04T13:39:12.534355+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-11-06T09:30:27.263Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-11-05T02:18:27.263Z",
+    "reps": 1
   },
   "family#empathize-with": {
     "due": "2027-01-20T23:54:14.678Z",
