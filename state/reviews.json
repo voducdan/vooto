@@ -1090,12 +1090,12 @@
     "reps": 0
   },
   "food#nutritious": {
-    "due": "2026-11-05T01:31:09.344Z",
+    "due": "2027-06-15T22:14:57.662Z",
     "ef": 2.8,
-    "interval": 79.4976,
+    "interval": 222.5933,
     "last_rating": "good",
-    "last_reviewed": "2026-08-17T13:34:36.704Z",
-    "reps": 4
+    "last_reviewed": "2026-11-05T08:00:38.270Z",
+    "reps": 5
   },
   "food#portion": {
     "due": "2026-05-27T03:07:49.075051+00:00",
