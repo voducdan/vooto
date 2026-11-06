@@ -4590,12 +4590,12 @@
     "reps": 2
   },
   "time#right-after": {
-    "due": "2026-11-05T06:51:31.844Z",
-    "ef": 2.5,
-    "interval": 1,
-    "last_rating": "good",
-    "last_reviewed": "2026-11-04T06:51:31.844Z",
-    "reps": 1
+    "due": "2026-11-13T21:22:46.066Z",
+    "ef": 2.65,
+    "interval": 7.8,
+    "last_rating": "easy",
+    "last_reviewed": "2026-11-06T02:10:46.066Z",
+    "reps": 2
   },
   "time#the-coming-year": {
     "due": "2026-06-25T03:06:50.708808+00:00",
