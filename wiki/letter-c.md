@@ -278,3 +278,11 @@
 - the conservative views of his parents
 - music which is accessible to an audience with extremely conservative tastes
 - The southern state's inhabitants tend to be socially conservative.
+
+### Confront *[Verb]* — /kənˈfrʌnt/
+
+**Definition**: to appear and need to be dealt with by somebody
+
+- What is to be done about the economic problems confronting the country?
+- I was suddenly confronted by the task of rewriting the entire book.
+- The government found itself confronted by massive opposition.

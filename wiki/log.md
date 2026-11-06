@@ -99,3 +99,7 @@ Added [[letter-g]] entry "grunt" via /newword (source: oxford).
 ## [2026-11-06] newword | intensify
 
 Added [[letter-i]] entry "intensify" via /newword (source: oxford).
+
+## [2026-11-06] newword | confront
+
+Added [[letter-c]] entry "confront" via /newword (source: oxford).
