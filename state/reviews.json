@@ -486,12 +486,12 @@
     "reps": 3
   },
   "description#awful": {
-    "due": "2026-11-05T22:04:39.001Z",
-    "ef": 3.1,
-    "interval": 120.5494,
+    "due": "2028-03-29T21:29:10.907Z",
+    "ef": 3.25,
+    "interval": 509.3212,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-08T08:53:31.705Z",
-    "reps": 4
+    "last_reviewed": "2026-11-06T13:46:37.931Z",
+    "reps": 5
   },
   "description#clingy": {
     "due": "2026-12-23T05:19:16.284Z",
