@@ -95,3 +95,7 @@ Added [[letter-i]] entry "irony" via /newword (source: oxford).
 ## [2026-10-06] newword | grunt
 
 Added [[letter-g]] entry "grunt" via /newword (source: oxford).
+
+## [2026-11-06] newword | intensify
+
+Added [[letter-i]] entry "intensify" via /newword (source: oxford).

@@ -213,3 +213,11 @@
 - It was one of life's little ironies.
 - The irony is that when he finally got the job, he discovered he didn't like it.
 - ‘England is famous for its food,’ she said with heavy irony.
+
+### Intensify *[Verb]* — /ɪnˈtensɪfaɪ/
+
+**Definition**: to increase in degree or strength; to make something increase in degree or strength
+
+- Violence intensified during the night.
+- The fighting in the area has intensified sharply.
+- The opposition leader has intensified his attacks on the government.
