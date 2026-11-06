@@ -4266,12 +4266,12 @@
     "reps": 0
   },
   "music#tuneful": {
-    "due": "2026-11-05T07:39:46.592Z",
-    "ef": 1.9,
-    "interval": 1.728,
+    "due": "2026-11-08T03:56:51.816Z",
+    "ef": 1.75,
+    "interval": 2.0736,
     "last_rating": "hard",
-    "last_reviewed": "2026-11-03T14:11:27.392Z",
-    "reps": 4
+    "last_reviewed": "2026-11-06T02:10:52.776Z",
+    "reps": 5
   },
   "personality#aggressive": {
     "due": "2026-06-24T07:11:38.638117+00:00",
