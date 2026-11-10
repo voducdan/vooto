@@ -3822,12 +3822,12 @@
     "reps": 4
   },
   "letter-v#versatile-v-s-t": {
-    "due": "2026-11-09T22:29:41.817Z",
+    "due": "2026-12-08T17:34:10.677Z",
     "ef": 2.2,
-    "interval": 12.7776,
+    "interval": 28.1107,
     "last_rating": "good",
-    "last_reviewed": "2026-10-28T03:49:57.177Z",
-    "reps": 5
+    "last_reviewed": "2026-11-10T14:54:44.469Z",
+    "reps": 6
   },
   "letter-v#viewpoint": {
     "due": "2026-05-25T00:39:49.976011+00:00",
