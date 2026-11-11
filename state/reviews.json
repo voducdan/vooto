@@ -1024,12 +1024,12 @@
     "reps": 0
   },
   "family#unconditional": {
-    "due": "2026-11-10T19:20:00.674Z",
+    "due": "2027-11-19T21:12:17.097Z",
     "ef": 3.1,
-    "interval": 120.5494,
-    "last_rating": "easy",
-    "last_reviewed": "2026-07-13T06:08:53.378Z",
-    "reps": 4
+    "interval": 373.7031,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-11T04:19:45.801Z",
+    "reps": 5
   },
   "food#a-vegetarian-diet": {
     "due": "2026-08-24T02:57:21.402281+00:00",
