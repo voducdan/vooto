@@ -60,10 +60,12 @@
     "reps": 0
   },
   "books-and-films#e-reader": {
-    "due": "2026-11-12T14:29:39.949880+00:00",
+    "due": "2026-11-13T14:38:05.015Z",
     "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-12T14:38:05.015Z",
+    "reps": 1
   },
   "books-and-films#enthralling": {
     "due": "2026-05-24T05:20:21.328526+00:00",
