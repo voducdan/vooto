@@ -1758,12 +1758,12 @@
     "reps": 3
   },
   "law#obligations": {
-    "due": "2026-11-11T12:59:14.559Z",
-    "ef": 2.8,
-    "interval": 28.392,
+    "due": "2027-03-01T04:34:57.848Z",
+    "ef": 2.95,
+    "interval": 108.8833,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-14T03:34:45.759Z",
-    "reps": 3
+    "last_reviewed": "2026-11-12T07:22:59.000Z",
+    "reps": 4
   },
   "law#obligatory": {
     "due": "2026-06-23T03:06:57.261130+00:00",
