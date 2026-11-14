@@ -1018,12 +1018,12 @@
     "reps": 0
   },
   "family#satisfying": {
-    "due": "2026-11-12T21:58:16.567Z",
-    "ef": 3.1,
-    "interval": 120.5494,
+    "due": "2028-04-06T10:49:39.919Z",
+    "ef": 3.25,
+    "interval": 509.3212,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-15T08:47:09.271Z",
-    "reps": 4
+    "last_reviewed": "2026-11-14T03:07:06.943Z",
+    "reps": 5
   },
   "family#to-carry-out": {
     "due": "2026-06-28T00:40:49.293152+00:00",
