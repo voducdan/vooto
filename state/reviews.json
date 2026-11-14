@@ -1214,12 +1214,12 @@
     "reps": 6
   },
   "free-time#fast-paced": {
-    "due": "2026-11-13T00:13:24.552Z",
-    "ef": 3.1,
-    "interval": 120.5494,
+    "due": "2028-04-06T10:49:43.419Z",
+    "ef": 3.25,
+    "interval": 509.3212,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-15T11:02:17.256Z",
-    "reps": 4
+    "last_reviewed": "2026-11-14T03:07:10.443Z",
+    "reps": 5
   },
   "free-time#frequently": {
     "due": "2026-09-03T00:08:55.211Z",
