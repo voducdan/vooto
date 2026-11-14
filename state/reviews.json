@@ -1,11 +1,11 @@
 {
   "books-and-films#action-movie-kung-fu-film": {
-    "due": "2026-11-12T19:56:47.220Z",
-    "ef": 3.1,
-    "interval": 120.5494,
+    "due": "2028-04-06T10:49:32.561Z",
+    "ef": 3.25,
+    "interval": 509.3212,
     "last_rating": "easy",
-    "last_reviewed": "2026-07-15T06:45:39.924Z",
-    "reps": 4
+    "last_reviewed": "2026-11-14T03:06:59.585Z",
+    "reps": 5
   },
   "books-and-films#action-packed": {
     "due": "2026-11-15T15:59:37.595Z",
