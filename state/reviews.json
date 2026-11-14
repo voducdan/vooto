@@ -1322,12 +1322,12 @@
     "reps": 5
   },
   "friends#close-friends": {
-    "due": "2026-11-12T21:30:33.606Z",
-    "ef": 2.65,
-    "interval": 7.8,
+    "due": "2026-12-12T12:31:32.155Z",
+    "ef": 2.8,
+    "interval": 28.392,
     "last_rating": "easy",
-    "last_reviewed": "2026-11-05T02:18:33.606Z",
-    "reps": 2
+    "last_reviewed": "2026-11-14T03:07:03.355Z",
+    "reps": 3
   },
   "friends#compliment": {
     "due": "2026-06-25T22:58:02.702Z",
