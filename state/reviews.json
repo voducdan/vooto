@@ -176,12 +176,12 @@
     "reps": 0
   },
   "books-and-films#tear-jerking": {
-    "due": "2026-11-13T11:29:22.706Z",
+    "due": "2027-01-15T10:31:04.863Z",
     "ef": 2.2,
-    "interval": 28.1107,
+    "interval": 61.8435,
     "last_rating": "good",
-    "last_reviewed": "2026-10-16T08:49:56.498Z",
-    "reps": 6
+    "last_reviewed": "2026-11-14T14:16:23.007Z",
+    "reps": 7
   },
   "books-and-films#to-come-highly-recommended": {
     "due": "2026-05-23T12:21:06.905414+00:00",
