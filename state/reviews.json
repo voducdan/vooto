@@ -2890,12 +2890,12 @@
     "reps": 2
   },
   "letter-l#low-priority": {
-    "due": "2026-11-13T07:13:06.088Z",
-    "ef": 2.95,
-    "interval": 29.913,
+    "due": "2027-03-15T03:27:34.165Z",
+    "ef": 3.1,
+    "interval": 120.5494,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-14T09:18:22.888Z",
-    "reps": 3
+    "last_reviewed": "2026-11-14T14:16:26.869Z",
+    "reps": 4
   },
   "letter-l#loyal": {
     "due": "2026-06-27T00:40:03.575208+00:00",
