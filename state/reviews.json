@@ -384,12 +384,12 @@
     "reps": 0
   },
   "business#boundless": {
-    "due": "2026-11-14T07:45:02.727Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-12-15T11:56:53.737Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-11-06T12:33:02.727Z",
-    "reps": 2
+    "last_reviewed": "2026-11-15T14:02:10.537Z",
+    "reps": 3
   },
   "business#core-values": {
     "due": "2026-11-16T23:07:38.419Z",
