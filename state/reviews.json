@@ -3722,12 +3722,12 @@
     "reps": 2
   },
   "letter-u#universal": {
-    "due": "2026-11-13T19:25:48.621Z",
-    "ef": 2.95,
-    "interval": 88.2434,
-    "last_rating": "good",
-    "last_reviewed": "2026-08-17T13:35:23.181Z",
-    "reps": 4
+    "due": "2027-11-05T19:48:53.428Z",
+    "ef": 3.1,
+    "interval": 355.6209,
+    "last_rating": "easy",
+    "last_reviewed": "2026-11-15T04:54:47.496Z",
+    "reps": 5
   },
   "letter-u#unnecessary": {
     "due": "2026-05-27T07:26:55.918228+00:00",
