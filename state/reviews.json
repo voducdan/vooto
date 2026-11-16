@@ -4520,12 +4520,12 @@
     "reps": 4
   },
   "time#annually": {
-    "due": "2026-11-14T20:29:21.577Z",
-    "ef": 2.8,
-    "interval": 7.8,
+    "due": "2026-12-16T02:17:25.982Z",
+    "ef": 2.95,
+    "interval": 29.913,
     "last_rating": "easy",
-    "last_reviewed": "2026-11-07T01:17:21.577Z",
-    "reps": 2
+    "last_reviewed": "2026-11-16T04:22:42.782Z",
+    "reps": 3
   },
   "time#antique": {
     "due": "2026-06-19T15:03:31.197989+00:00",
