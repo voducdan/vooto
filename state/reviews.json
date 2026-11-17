@@ -1442,12 +1442,12 @@
     "reps": 0
   },
   "health#a-sports-fan": {
-    "due": "2026-11-15T22:39:36.880Z",
-    "ef": 2.8,
-    "interval": 97.8104,
+    "due": "2027-11-27T04:31:28.060Z",
+    "ef": 2.95,
+    "interval": 375.1029,
     "last_rating": "easy",
-    "last_reviewed": "2026-08-10T03:12:34.864Z",
-    "reps": 4
+    "last_reviewed": "2026-11-17T02:03:18.883Z",
+    "reps": 5
   },
   "health#antioxidant": {
     "due": "2026-06-29T09:37:10.781076+00:00",
