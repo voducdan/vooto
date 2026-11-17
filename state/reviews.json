@@ -4732,12 +4732,12 @@
     "reps": 5
   },
   "towns-and-cities#maid": {
-    "due": "2026-11-16T04:24:53.978Z",
-    "ef": 2.35,
-    "interval": 33.135,
-    "last_rating": "good",
-    "last_reviewed": "2026-10-14T01:10:29.978Z",
-    "reps": 4
+    "due": "2027-03-04T22:52:34.918Z",
+    "ef": 2.5,
+    "interval": 107.6888,
+    "last_rating": "easy",
+    "last_reviewed": "2026-11-17T06:20:46.918Z",
+    "reps": 5
   },
   "towns-and-cities#neighborhood": {
     "due": "2026-08-31T01:15:23.962Z",
