@@ -392,12 +392,12 @@
     "reps": 3
   },
   "business#core-values": {
-    "due": "2026-11-16T23:07:38.419Z",
-    "ef": 2.8,
-    "interval": 21.84,
-    "last_rating": "good",
-    "last_reviewed": "2026-10-26T02:58:02.419Z",
-    "reps": 3
+    "due": "2027-02-09T20:10:47.853Z",
+    "ef": 2.95,
+    "interval": 83.7564,
+    "last_rating": "easy",
+    "last_reviewed": "2026-11-18T02:01:34.893Z",
+    "reps": 4
   },
   "business#enterprises": {
     "due": "2026-06-26T03:07:32.775742+00:00",
