@@ -4503,6 +4503,12 @@
     "last_reviewed": "2026-07-18T10:43:45.449Z",
     "reps": 2
   },
+  "technology#to-go-online": {
+    "due": "2026-11-18T05:35:24.647623+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "technology#to-utilize": {
     "due": "2026-11-07T20:27:12.369Z",
     "ef": 3.1,
