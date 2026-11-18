@@ -1248,12 +1248,12 @@
     "reps": 0
   },
   "free-time#pottery": {
-    "due": "2026-11-17T11:28:03.468Z",
-    "ef": 2.8,
-    "interval": 28.392,
+    "due": "2027-03-07T02:55:12.902Z",
+    "ef": 2.95,
+    "interval": 108.8833,
     "last_rating": "easy",
-    "last_reviewed": "2026-10-20T02:03:34.668Z",
-    "reps": 3
+    "last_reviewed": "2026-11-18T05:43:14.054Z",
+    "reps": 4
   },
   "free-time#regular": {
     "due": "2026-08-24T00:56:40.168544+00:00",
@@ -4506,7 +4506,7 @@
   "technology#to-go-online": {
     "due": "2026-11-18T05:35:24.647623+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "technology#to-utilize": {
