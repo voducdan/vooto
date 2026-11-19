@@ -3224,7 +3224,7 @@
   "letter-p#potentially-p-t-n-lli": {
     "due": "2026-11-18T14:57:20.889675+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-p#preparation": {
@@ -4110,10 +4110,12 @@
     "reps": 0
   },
   "money#discount-store": {
-    "due": "2026-11-18T14:57:20.889675+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-11-20T08:30:40.890Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-11-19T01:18:40.890Z",
+    "reps": 1
   },
   "money#earn": {
     "due": "2026-06-18T15:05:02.556072+00:00",
