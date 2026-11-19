@@ -3088,7 +3088,7 @@
   "letter-n#novelty-n-v-ti": {
     "due": "2026-11-19T05:33:35.522501+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-n#the-needy": {
@@ -4104,12 +4104,12 @@
     "reps": 2
   },
   "money#big-money": {
-    "due": "2026-11-18T15:13:22.480Z",
+    "due": "2027-02-21T17:06:30.952Z",
     "ef": 2.5,
-    "interval": 37.5,
+    "interval": 93.75,
     "last_rating": "good",
-    "last_reviewed": "2026-10-12T03:13:22.480Z",
-    "reps": 4
+    "last_reviewed": "2026-11-19T23:06:30.952Z",
+    "reps": 5
   },
   "money#budget": {
     "due": "2026-06-29T11:40:20.521017+00:00",
