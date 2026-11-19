@@ -3086,10 +3086,12 @@
     "reps": 4
   },
   "letter-n#novelty-n-v-ti": {
-    "due": "2026-11-19T05:33:35.522501+00:00",
+    "due": "2026-11-20T23:06:34.787Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-19T23:06:34.787Z",
+    "reps": 1
   },
   "letter-n#the-needy": {
     "due": "2026-07-08T11:02:01.812Z",
