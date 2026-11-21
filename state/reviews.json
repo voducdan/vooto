@@ -4239,6 +4239,12 @@
     "interval": 0,
     "reps": 0
   },
+  "music#live-concert": {
+    "due": "2026-11-21T05:14:41.364076+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "music#live-music": {
     "due": "2026-11-10T20:28:36.844Z",
     "ef": 3.1,
