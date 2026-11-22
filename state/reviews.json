@@ -1053,6 +1053,12 @@
     "last_reviewed": "2026-11-02T12:00:49.794Z",
     "reps": 5
   },
+  "food#catering-food": {
+    "due": "2026-11-22T20:32:40.569485+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "food#crunchy": {
     "due": "2026-05-25T09:21:08.408281+00:00",
     "ef": 2.5,
@@ -2935,6 +2941,12 @@
     "due": "2026-05-29T09:10:23.238992+00:00",
     "ef": 2.5,
     "interval": 0,
+    "reps": 0
+  },
+  "letter-m#majority": {
+    "due": "2026-11-22T20:32:40.569485+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
     "reps": 0
   },
   "letter-m#makes-it-possible": {
