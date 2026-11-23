@@ -1056,7 +1056,7 @@
   "food#catering-food": {
     "due": "2026-11-22T20:32:40.569485+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "food#crunchy": {
@@ -2946,7 +2946,7 @@
   "letter-m#majority": {
     "due": "2026-11-22T20:32:40.569485+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-m#makes-it-possible": {
@@ -3584,7 +3584,7 @@
   "letter-t#thanks-to-ks-tu": {
     "due": "2026-11-21T14:01:06.167832+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "letter-t#thoroughness": {
@@ -4232,7 +4232,7 @@
   "music#folk-music": {
     "due": "2026-11-20T05:21:40.243127+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#genres-of-music": {
@@ -4260,7 +4260,7 @@
   "music#live-concert": {
     "due": "2026-11-21T05:14:41.364076+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "music#live-music": {
@@ -4624,7 +4624,7 @@
   "time#down-the-road": {
     "due": "2026-11-20T05:21:40.243127+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "time#in-this-day-and-age": {
@@ -5024,7 +5024,7 @@
   "urbanisation#inflated": {
     "due": "2026-11-22T04:40:30.477463+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "urbanisation#metropolis": {
@@ -5126,12 +5126,12 @@
     "reps": 14
   },
   "work#make-ends-meet": {
-    "due": "2026-11-22T23:22:43.773Z",
+    "due": "2026-12-08T03:39:39.140Z",
     "ef": 1.3,
-    "interval": 11.4148,
+    "interval": 14.8392,
     "last_rating": "good",
-    "last_reviewed": "2026-11-11T13:25:26.781Z",
-    "reps": 12
+    "last_reviewed": "2026-11-23T07:31:08.804Z",
+    "reps": 13
   },
   "work#overcome": {
     "due": "2026-09-07T10:41:56.521Z",
