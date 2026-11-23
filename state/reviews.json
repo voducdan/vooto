@@ -53,6 +53,12 @@
     "interval": 0,
     "reps": 0
   },
+  "books-and-films#creepy": {
+    "due": "2026-11-23T17:07:39.840755+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "books-and-films#curious": {
     "due": "2026-05-24T03:06:57.128708+00:00",
     "ef": 2.5,
@@ -1534,6 +1540,12 @@
     "last_rating": "good",
     "last_reviewed": "2026-11-02T03:56:18.203Z",
     "reps": 5
+  },
+  "health#to-provide-someone-with-a-healthy-diet": {
+    "due": "2026-11-23T17:07:39.840755+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "health#vulnerable": {
     "due": "2026-06-23T07:14:46.098437+00:00",
