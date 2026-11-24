@@ -405,6 +405,12 @@
     "last_reviewed": "2026-11-18T02:01:34.893Z",
     "reps": 4
   },
+  "business#discount-coupon": {
+    "due": "2026-11-24T07:58:22.981079+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
+  },
   "business#enterprises": {
     "due": "2026-06-26T03:07:32.775742+00:00",
     "ef": 2.5,
@@ -674,6 +680,12 @@
     "last_rating": "easy",
     "last_reviewed": "2026-06-11T03:08:02.986Z",
     "reps": 2
+  },
+  "education#encouraging": {
+    "due": "2026-11-24T07:58:22.981079+00:00",
+    "ef": 2.5,
+    "interval": 0.0,
+    "reps": 0
   },
   "education#extracurricular-activities": {
     "due": "2026-05-28T09:15:02.191154+00:00",
