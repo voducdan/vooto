@@ -684,10 +684,12 @@
     "reps": 2
   },
   "education#encouraging": {
-    "due": "2026-11-24T07:58:22.981079+00:00",
+    "due": "2026-11-26T01:52:03.056Z",
     "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "interval": 1,
+    "last_rating": "good",
+    "last_reviewed": "2026-11-25T01:52:03.056Z",
+    "reps": 1
   },
   "education#extracurricular-activities": {
     "due": "2026-05-28T09:15:02.191154+00:00",
