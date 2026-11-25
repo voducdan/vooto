@@ -1818,10 +1818,12 @@
     "reps": 0
   },
   "law#offenders": {
-    "due": "2026-11-24T19:24:44.510842+00:00",
-    "ef": 2.5,
-    "interval": 0,
-    "reps": 0
+    "due": "2026-11-26T01:52:14.797Z",
+    "ef": 2.35,
+    "interval": 1,
+    "last_rating": "hard",
+    "last_reviewed": "2026-11-25T01:52:14.797Z",
+    "reps": 1
   },
   "law#solid-evidence": {
     "due": "2027-03-06T06:56:37.379Z",
