@@ -54,10 +54,12 @@
     "reps": 0
   },
   "books-and-films#creepy": {
-    "due": "2026-11-23T17:07:39.840755+00:00",
-    "ef": 2.5,
-    "interval": 0.0,
-    "reps": 0
+    "due": "2026-11-26T09:03:54.749Z",
+    "ef": 2.65,
+    "interval": 1.3,
+    "last_rating": "easy",
+    "last_reviewed": "2026-11-25T01:51:54.749Z",
+    "reps": 1
   },
   "books-and-films#curious": {
     "due": "2026-05-24T03:06:57.128708+00:00",
@@ -408,7 +410,7 @@
   "business#discount-coupon": {
     "due": "2026-11-24T07:58:22.981079+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "business#enterprises": {
@@ -684,7 +686,7 @@
   "education#encouraging": {
     "due": "2026-11-24T07:58:22.981079+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "education#extracurricular-activities": {
@@ -1556,7 +1558,7 @@
   "health#to-provide-someone-with-a-healthy-diet": {
     "due": "2026-11-23T17:07:39.840755+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "health#vulnerable": {
@@ -1812,7 +1814,7 @@
   "law#offenders": {
     "due": "2026-11-24T19:24:44.510842+00:00",
     "ef": 2.5,
-    "interval": 0.0,
+    "interval": 0,
     "reps": 0
   },
   "law#solid-evidence": {
