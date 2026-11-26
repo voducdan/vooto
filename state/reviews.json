@@ -4620,12 +4620,12 @@
     "reps": 2
   },
   "technology#to-go-online": {
-    "due": "2026-11-25T23:06:41.237Z",
-    "ef": 2.65,
-    "interval": 6,
-    "last_rating": "good",
-    "last_reviewed": "2026-11-19T23:06:41.237Z",
-    "reps": 2
+    "due": "2026-12-03T12:24:58.610Z",
+    "ef": 2.5,
+    "interval": 7.2,
+    "last_rating": "hard",
+    "last_reviewed": "2026-11-26T07:36:58.610Z",
+    "reps": 3
   },
   "technology#to-utilize": {
     "due": "2026-11-07T20:27:12.369Z",
