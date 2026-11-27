@@ -1560,12 +1560,12 @@
     "reps": 5
   },
   "health#to-provide-someone-with-a-healthy-diet": {
-    "due": "2026-11-26T01:51:59.007Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-11-28T11:10:27.378Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-11-25T01:51:59.007Z",
-    "reps": 1
+    "last_reviewed": "2026-11-27T06:22:27.378Z",
+    "reps": 2
   },
   "health#vulnerable": {
     "due": "2026-06-23T07:14:46.098437+00:00",
