@@ -54,12 +54,12 @@
     "reps": 0
   },
   "books-and-films#creepy": {
-    "due": "2026-11-26T09:03:54.749Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-12-05T01:34:39.422Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-11-25T01:51:54.749Z",
-    "reps": 1
+    "last_reviewed": "2026-11-27T06:22:39.422Z",
+    "reps": 2
   },
   "books-and-films#curious": {
     "due": "2026-05-24T03:06:57.128708+00:00",
