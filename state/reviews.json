@@ -1682,12 +1682,12 @@
     "reps": 0
   },
   "ielts-writing#overtaking": {
-    "due": "2026-11-26T11:11:24.795Z",
-    "ef": 2.35,
-    "interval": 1,
+    "due": "2026-11-29T08:49:01.529Z",
+    "ef": 2.2,
+    "interval": 1.2,
     "last_rating": "hard",
-    "last_reviewed": "2026-11-25T11:11:24.795Z",
-    "reps": 1
+    "last_reviewed": "2026-11-28T04:01:01.529Z",
+    "reps": 2
   },
   "ielts-writing#sharply": {
     "due": "2026-06-22T00:45:53.710136+00:00",
