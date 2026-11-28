@@ -4088,12 +4088,12 @@
     "reps": 0
   },
   "media#episode": {
-    "due": "2026-11-27T00:21:44.703Z",
-    "ef": 2.95,
-    "interval": 108.8833,
+    "due": "2028-02-10T03:35:07.336Z",
+    "ef": 3.1,
+    "interval": 438.7997,
     "last_rating": "easy",
-    "last_reviewed": "2026-08-10T03:09:45.855Z",
-    "reps": 4
+    "last_reviewed": "2026-11-28T08:23:33.343Z",
+    "reps": 5
   },
   "media#informative": {
     "due": "2026-08-25T08:45:00.809Z",
