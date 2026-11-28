@@ -2778,12 +2778,12 @@
     "reps": 5
   },
   "letter-i#impact": {
-    "due": "2026-11-26T18:23:29.249Z",
-    "ef": 2.65,
-    "interval": 1.3,
+    "due": "2026-12-06T03:35:37.130Z",
+    "ef": 2.8,
+    "interval": 7.8,
     "last_rating": "easy",
-    "last_reviewed": "2026-11-25T11:11:29.249Z",
-    "reps": 1
+    "last_reviewed": "2026-11-28T08:23:37.130Z",
+    "reps": 2
   },
   "letter-i#in-jeopardy": {
     "due": "2026-11-29T04:01:14.119Z",
